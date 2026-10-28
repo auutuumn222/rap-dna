@@ -1,0 +1,102 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "马思唯",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/masiwei/1095181798?uo=4",
+      "artistId": 1095181798,
+      "amgArtistId": 3595225,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "周杰倫",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743?uo=4",
+      "artistId": 300117743,
+      "amgArtistId": 761143,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "艾志恒Asen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%89%BE%E5%BF%97%E6%81%92asen/1636240804?uo=4",
+      "artistId": 1636240804,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "陳奕迅",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%99%88%E5%A5%95%E8%BF%85/137938148?uo=4",
+      "artistId": 137938148,
+      "amgArtistId": 320443,
+      "primaryGenreName": "粤语流行",
+      "primaryGenreId": 1251
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Higher Brothers",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/higher-brothers/1149096753?uo=4",
+      "artistId": 1149096753,
+      "amgArtistId": 3446644,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "郑润泽",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%83%91%E6%B6%A6%E6%B3%BD/1551775603?uo=4",
+      "artistId": 1551775603,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jay Park",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%9C%B4%E5%AE%B0%E8%8C%83/384641776?uo=4",
+      "artistId": 384641776,
+      "amgArtistId": 2336813,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KnowKnow",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/knowknow/1435562780?uo=4",
+      "artistId": 1435562780,
+      "amgArtistId": 3595199,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "潘瑋柏",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%BD%98%E7%8E%AE%E6%9F%8F/260955153?uo=4",
+      "artistId": 260955153,
+      "amgArtistId": 1076005,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "单依纯",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8D%95%E4%BE%9D%E7%BA%AF/1546181214?uo=4",
+      "artistId": 1546181214,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

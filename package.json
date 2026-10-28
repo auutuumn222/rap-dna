@@ -5,9 +5,11 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
+    "test:masiwei": "node tests/masiwei-browser.mjs",
+    "catalog:masiwei": "node scripts/build-masiwei.mjs",
     "catalog:build": "node scripts/build-catalog.mjs"
   }
 }

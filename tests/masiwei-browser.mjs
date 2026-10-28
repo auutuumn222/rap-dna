@@ -1,0 +1,42 @@
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+import {server} from '../server.mjs';
+const require=createRequire(import.meta.url),{chromium}=require(process.env.RAP_DNA_PLAYWRIGHT||'playwright');
+await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));let browser;
+try{
+ browser=await chromium.launch({headless:true,...(process.env.RAP_DNA_BROWSER?{executablePath:process.env.RAP_DNA_BROWSER}:{})});
+ const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'}),errors=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ await page.route('https://music.163.com/outchain/player?**',r=>r.fulfill({contentType:'text/html; charset=utf-8',body:'<!doctype html><meta charset="UTF-8"><body>网易云播放器检查</body>'}));
+ const root=`http://127.0.0.1:${server.address().port}`,url=root+'/?artist=masiwei';
+ await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
+ assert.match(await page.title(),/马思唯/);assert.match(await page.locator('.hero h1').innerText(),/马思唯/);assert.equal(await page.locator('#artist-select').inputValue(),'masiwei');
+ assert.equal(await page.locator('.floating-album').count(),5);assert.equal(await page.locator('#hero-dots button').count(),10);assert.equal(await page.locator('.album-card').count(),10);
+ await page.screenshot({path:'qa/asen/masiwei-desktop.png'});
+ await page.locator('.floating-album.center').click();assert.match(await page.locator('#dialog-heading').innerText(),/乐透人生GT/);assert.equal(await page.locator('.detail-track-row').count(),14);await page.locator('.dialog-close').click();
+ await page.locator('[data-scope="group"]').click();assert.equal(await page.locator('.album-card').count(),4);
+ await page.locator('[data-scope="all"]').click();assert.equal(await page.locator('.album-card').count(),152);
+ await page.locator('[data-journey-year="2014"]').click();assert.equal(await page.locator('.album-card').count(),3);
+ await page.locator('[data-journey-year="all"]').click();await page.locator('[data-scope="core"]').click();
+ assert.match(await page.locator('#track-count').innerText(),/322/);
+ await page.locator('#track-search').fill('不存在的曲目abcdefgh');assert.match(await page.locator('#track-rows').innerText(),/还没有找到/);
+ await page.locator('#clear-track-filters').click();await page.locator('#track-year').selectOption('2026');assert.ok(await page.locator('#track-rows .song-button').count()>0);
+ await page.locator('#clear-track-filters').click();await page.locator('#track-search').fill('心太软');assert.match(await page.locator('#track-rows').innerText(),/待核/);await page.locator('#track-rows .song-button').click();assert.match(await page.locator('#dialog-content').innerText(),/日期待核/);assert.ok(new URL(page.url()).searchParams.get('artist')==='masiwei');await page.locator('.dialog-close').click();
+ await page.locator('#network-album').selectOption('n169119649');assert.match(await page.locator('#connection-detail').innerText(),/艾志恒Asen/);assert.match(await page.locator('#connection-detail').innerText(),/13 条作品连接/);
+ await page.locator('#open-selected-person').click();assert.match(await page.locator('#dialog-content').innerText(),/与 马思唯 关联/);await page.locator('.dialog-close').click();
+ await page.locator('[data-mode="credits"]').click();assert.ok(await page.locator('.person-node').count()>0);
+ await page.locator('#network-album').selectOption('all');await page.locator('#connection-search').fill('高宇豪');assert.ok(await page.locator('.person-node').count()>=1);assert.match(await page.locator('#connection-detail').innerText(),/高宇豪/);
+ await page.locator('#open-external').click();assert.equal(await page.locator('.external-release').count(),41);await page.locator('.dialog-close').click();
+ await page.locator('#open-research').click();assert.match(await page.locator('#dialog-content').innerText(),/Higher Brothers/);assert.match(await page.locator('#dialog-content').innerText(),/历史全量尚未证明/);await page.locator('.dialog-close').click();
+ const download=page.waitForEvent('download');await page.locator('.catalog-download').click();assert.match((await download).suggestedFilename(),/MASIWEI-catalog/);
+ await page.locator('#track-search').fill('Lion');await page.locator('#track-rows .song-button').first().click();assert.equal(await page.locator('dialog [data-listen]').count(),0);assert.match(await page.locator('.track-listen-action a').getAttribute('href'),/music.apple.com/);await page.locator('.dialog-close').click();
+ await page.locator('#track-search').fill('维他命D');const loaded=page.waitForResponse(r=>r.url().startsWith('https://music.163.com/outchain/player?'));await page.locator('#track-rows [data-listen]').first().click();await loaded;
+ assert.equal(await page.locator('#listen-body').isVisible(),false);assert.match(await page.locator('#listen-frame iframe').getAttribute('src'),/auto=1/);await page.locator('#listen-toggle').click();assert.equal(await page.locator('#listen-body').isVisible(),true);await page.locator('#listen-close').click();
+ await page.locator('#artist-select').selectOption('asen');await page.locator('.hero h1').filter({hasText:'Asen'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/168/);assert.equal(await page.locator('.album-card').count(),7);
+ await page.locator('#artist-select').selectOption('masiwei');await page.locator('.hero h1').filter({hasText:'马思唯'}).waitFor();
+ await page.setViewportSize({width:390,height:844});await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();await page.screenshot({path:'qa/asen/masiwei-mobile.png'});
+ for(const id of ['journey','archive','network','sources']){await page.locator('#'+id).scrollIntoViewIfNeeded();assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),id+' should fit mobile');}
+ await page.setViewportSize({width:320,height:740});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+ const broken=await page.locator('img').evaluateAll(xs=>xs.filter(x=>x.complete&&x.naturalWidth===0).map(x=>x.src));assert.deepEqual(broken,[]);assert.deepEqual(errors,[]);
+ console.log('Masiwei browser checks passed: 322 records, 10 core projects, 152 release containers, early/group works, real credits, scoped graph, sources, export, one-click playback, archive switching and mobile.');
+}finally{await browser?.close();await new Promise(resolve=>server.close(resolve));}

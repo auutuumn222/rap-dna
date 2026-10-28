@@ -1,10 +1,14 @@
-# RAP DNA · Asen 作品与关系档案
+# RAP DNA · 中文说唱作品与关系档案
 
-第二版聚焦 Asen：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen 和马思唯，可在导航栏切换。两份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
-预览地址：https://auutuumn222.github.io/rap-dna/
+Asen：https://auutuumn222.github.io/rap-dna/
+
+马思唯：https://auutuumn222.github.io/rap-dna/?artist=masiwei
+
+音乐人参数随作品分享链接保留；原有 Asen 链接继续有效。
 
 这个版本使用 GitHub Pages 托管 `dist/`，无需自购域名或服务器。每次向 `main` 推送更新，GitHub Actions 会先核查目录及关系数据，再自动部署网页；发布进度可在仓库的 Actions 标签页查看。网页访客不需要 GitHub 账号。
 
@@ -12,7 +16,7 @@
 
 ## 网易云收听
 
-歌曲目录、专辑曲目、关系作品及歌曲详情均可进入网易云官方外链播放器。只在用户点击后加载一个 iframe，并通过官方 `auto=1` 参数请求播放；首次打开和切歌时默认显示一条紧凑播放条，点击“展开播放器”查看完整组件。展开、收起保留同一播放器，切换歌曲、重新点击播放或关闭面板会移除原 iframe。166 条已有网易云 ID 的记录提供此入口，2 条 Apple 补充记录保留其原平台链接，不猜测匹配关系。
+歌曲目录、专辑曲目、关系作品及歌曲详情均可进入网易云官方外链播放器。只在用户点击后加载一个 iframe，并通过官方 `auto=1` 参数请求播放；首次打开和切歌时默认显示一条紧凑播放条，点击“展开播放器”查看完整组件。展开、收起保留同一播放器，切换歌曲、重新点击播放或关闭面板会移除原 iframe。Asen 的 166 条、马思唯的 318 条网易云记录提供此入口；各自的 Apple 补充记录保留原平台链接，不猜测匹配关系。
 
 实际播放、试听时长及登录/会员/地区限制由网易云决定，浏览器也可能限制自动播放；展开后始终可用官方控件、“去网易云收听”链接及重新加载入口。跨域播放器无法可靠向本页报告播放状态，因此界面不会把“已加载”显示为“正在播放”。网站不获取、代理、缓存或提供歌曲音频下载。
 
@@ -20,7 +24,19 @@
 
 需要 Node.js 20+。Windows 双击 `Start-Demo.cmd`，自动启动并打开浏览器，使用期间保留终端窗口。也可以运行 `npm start`，访问 http://127.0.0.1:4173 。
 
-## 数据范围（2026-10-28 核查）
+## 马思唯数据范围（2026-10-28 核查）
+
+- 网易云艺人 ID 1132392，全部四页返回 318 个不同歌曲 ID，平台报告 318，末页 more=false。
+- Apple Music 中国区 41 项发行交叉对照，补充 4 条美国区歌曲记录；共 322 条平台记录。
+- 10 张核心个人或联合项目当前平台曲单完整：A Few Good Kids、黑马王子、黑马、Humble Swag、Humble Swag GT Mixtape、特别怪人、冠军情歌 EP、狗咬狗、乐透人生、乐透人生GT：即刻入戏。
+- 274 条记录有明确单曲署名字段；共 152 个发行容器，其中 147 个可辨识网易云发行、1 个待核占位及 4 个 Apple 补充发行。
+- 有日期的记录跨度为 2014-01-01 至 2026-10-19；《心太软 (Live)》的平台发行 ID 和日期缺失，保留为待核，不显示成 1970 年。
+- Higher Brothers 作品仅在马思唯有明确逐曲署名时计入；《最高》4 条已收录，未把 Black Cab / Five Stars 等整张团体目录自动归给成员。
+- P.E.I 系列保留当前在架版本的 6 / 3 条记录，尚未证明原始发行曲单完整。Apple《Bu Zhi Dao》版本的时长及署名不同，保留来源，不断言独立作品或跨平台音源对应。
+
+详见 [马思唯完整核查报告](research/MASIWEI-DISCOGRAPHY.md)。
+
+## Asen 数据范围（2026-10-28 核查）
 
 - 网易云艺人 ID 12198387 的全部公开分页：166 个不同歌曲 ID，平台报告 166，末页 more=false。
 - Apple Music：18 项发行对照，另补 2 条歌曲记录；合计 168 条平台歌曲记录。
@@ -39,16 +55,21 @@
 
 `npm run test:browser` 使用 Playwright 检查桌面与移动端交互、深链接、导出和无横向溢出。可通过 `RAP_DNA_PLAYWRIGHT` 指定包路径，通过 `RAP_DNA_BROWSER` 指定浏览器可执行文件。截图输出在 `qa/asen/`。
 
+`npm run test:masiwei` 检查马思唯作品、关系范围、日期缺失、导出、播放器、音乐人切换及手机布局。
+
 `npm run test:player` 检查按需加载、单实例、切歌、收起、关闭、重试与跨平台兜底。该检查隔离第三方网络服务，不代表验证所有歌曲可播。
 
-`npm run catalog:build` 根据已保存的来源快照重新生成档案；不会自动重新联网采集。
+`npm run catalog:build` 与 `npm run catalog:masiwei` 分别从已保存的来源快照重新生成两份档案，不会自动联网采集。
+
+马思唯资料采集：`node scripts/collect-masiwei.mjs` 读取官方目录分页，随后 `node scripts/harvest-masiwei.mjs` 采集署名元数据与封面；返回限制时记录失败，不绕过限制。
 
 ## 文件
 
 - `dist/index.html`、`dist/asen.css`、`dist/asen.js`：页面与交互。
 - `dist/model.js`：作品筛选与有证据支持的关系聚合。
-- `dist/catalog.json`：完整结构化数据、来源、差异与缺口。
-- `research/ASEN-DISCOGRAPHY.md`：可阅读的核查报告及完整歌曲记录表。
+- `dist/catalog.json`、`dist/catalog-masiwei.json`：各自的完整结构化数据、来源、差异与缺口。
+- `dist/artists.js`、`dist/artists.css`：音乐人切换与档案配置。
+- `research/ASEN-DISCOGRAPHY.md`、`research/MASIWEI-DISCOGRAPHY.md`：可阅读的核查报告及完整歌曲记录表。
 - `research/`：来源元数据快照与采集日志；不含歌词或歌曲音频。
 - `scripts/`：可复核的采集、元数据处理与档案生成脚本。
 

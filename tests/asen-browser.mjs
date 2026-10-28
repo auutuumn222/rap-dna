@@ -1,17 +1,19 @@
 import assert from 'node:assert/strict';
-import {createServer} from 'node:http';
-import {readFile,mkdir} from 'node:fs/promises';
+import {mkdir} from 'node:fs/promises';
+import {server} from '../server.mjs';
 import {createRequire} from 'node:module';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 const require=createRequire(import.meta.url),{chromium}=require(process.env.RAP_DNA_PLAYWRIGHT||'playwright');
-const root=fileURLToPath(new URL('../dist/',import.meta.url)),out=fileURLToPath(new URL('../qa/asen/',import.meta.url));await mkdir(out,{recursive:true});
-const server=createServer(async(req,res)=>{try{const p=new URL(req.url,'http://localhost').pathname,file=path.join(root,p==='/'?'index.html':p),data=await readFile(file);const type={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.png':'image/png'}[path.extname(file)]||'application/octet-stream';res.writeHead(200,{'Content-Type':type}).end(data);}catch{res.writeHead(404).end();}});
+const out=fileURLToPath(new URL('../qa/asen/',import.meta.url));await mkdir(out,{recursive:true});
 await new Promise(r=>server.listen(0,'127.0.0.1',r));let browser;
 try{
  browser=await chromium.launch({headless:true,...(process.env.RAP_DNA_BROWSER?{executablePath:process.env.RAP_DNA_BROWSER}:{})});
  const page=await browser.newPage({viewport:{width:1440,height:1000},deviceScaleFactor:1,reducedMotion:'reduce'}),errors=[];
  page.on('pageerror',e=>errors.push(e.message));const url=`http://127.0.0.1:${server.address().port}`;
+ assert.equal((await fetch(url+'/missing-file')).status,404);
+ assert.equal((await fetch(url+'/%2e%2e%2fpackage.json')).status,403);
+ assert.equal((await fetch(url+'/catalog.json')).status,200);
  await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
  await page.screenshot({path:path.join(out,'desktop-hero.png')});
  assert.equal(await page.locator('.floating-album').count(),5);

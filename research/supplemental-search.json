@@ -1,0 +1,5392 @@
+[
+  {
+    "q": "艾志恒 ICED OUT",
+    "code": 200,
+    "total": 300,
+    "hits": [
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 223464,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "慕斯塔法",
+            "alias": [],
+            "id": 32178760,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Passed Out",
+        "alias": [],
+        "id": 1437030925,
+        "mark": 17180139520,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1723046400000,
+          "size": 17,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 7003,
+          "name": "SAINT JUICE",
+          "id": 244462268,
+          "picId": 109951169873482080,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 154225,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7003,
+        "mvid": 0,
+        "name": "THE COLDEST",
+        "alias": [],
+        "id": 2615426361,
+        "mark": 8192,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 171076,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "操作",
+        "alias": [],
+        "id": 1909081614,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1617379200000,
+          "size": 10,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Small Town Legend",
+          "id": 125195422,
+          "picId": 109951165835462610,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 148096,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Bando",
+        "alias": [],
+        "id": 1832630622,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 182026,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "mac ova seas",
+            "alias": [],
+            "id": 30704161,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "成都一夜",
+        "alias": [],
+        "id": 1909081616,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 130343,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Cold Heart",
+        "alias": [],
+        "id": 1437176781,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 195291,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "道不同不相为谋",
+        "alias": [],
+        "id": 1909082618,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1617379200000,
+          "size": 10,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Small Town Legend",
+          "id": 125195422,
+          "picId": 109951165835462610,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 194937,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14278650,
+        "name": "No Patience",
+        "alias": [],
+        "id": 1832630615,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 243555,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14545437,
+        "name": "土黑娃 ft.thomeboydontkill",
+        "alias": [],
+        "id": 1964696171,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1653062400000,
+          "size": 7,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 2709799,
+          "name": "KINGDOM",
+          "id": 145231495,
+          "picId": 109951167441417460,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 184800,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "ICE杨长青",
+            "alias": [],
+            "id": 13145283,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 2709799,
+        "mvid": 0,
+        "name": "Dumb",
+        "alias": [],
+        "id": 1948754195,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1705593600000,
+          "size": 13,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 7002,
+          "name": "太子",
+          "id": 183410097,
+          "picId": 109951169321739100,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 173384,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "KIV",
+            "alias": [],
+            "id": 12529648,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7002,
+        "mvid": 14690699,
+        "name": "Money so long (feat. 艾志恒Asen)",
+        "alias": [],
+        "id": 2118177323,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1617379200000,
+          "size": 10,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Small Town Legend",
+          "id": 125195422,
+          "picId": 109951165835462610,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 121942,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Still Ace",
+        "alias": [],
+        "id": 1832633290,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 151464,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "To The Top",
+        "alias": [],
+        "id": 1437174920,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 164008,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "错意",
+        "alias": [],
+        "id": 1437031801,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1640880000000,
+          "size": 16,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416336,
+          "name": "信徒",
+          "id": 138120263,
+          "picId": 109951170362871820,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 209655,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "谢帝",
+            "alias": [],
+            "id": 847107,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416336,
+        "mvid": 14492819,
+        "name": "嘻哈生意",
+        "alias": [],
+        "id": 1907532649,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 328330,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "小镇的孩子",
+        "alias": [],
+        "id": 2163617298,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 180996,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Caroline堵琳",
+            "alias": [],
+            "id": 53241026,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "刘牧洲",
+            "alias": [],
+            "id": 33202222,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "Going Down ft.刘牧洲",
+        "alias": [],
+        "id": 1995339510,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1689264000000,
+          "size": 13,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 2712519,
+          "name": "狗咬狗",
+          "id": 169119649,
+          "picId": 109951168721928910,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 192637,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "马思唯",
+            "alias": [],
+            "id": 1132392,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "罗言",
+            "alias": [],
+            "id": 33863232,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1400821,
+        "mvid": 0,
+        "name": "Babe",
+        "alias": [],
+        "id": 2061964454,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 233142,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "KIV",
+            "alias": [],
+            "id": 12529648,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "太古里",
+        "alias": [],
+        "id": 1909081618,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 253384,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "死神",
+        "alias": [],
+        "id": 1909081619,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 195179,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 22622377,
+        "name": "Celebrate",
+        "alias": [],
+        "id": 2163619026,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 132122,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34703419,
+        "name": "根",
+        "alias": [],
+        "id": 2754174750,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 262843,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "谢帝",
+            "alias": [],
+            "id": 847107,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "Self Care Freestyle ft.谢帝",
+        "alias": [],
+        "id": 1995339654,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1763740800000,
+          "size": 16,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "都市醉漢",
+          "id": 351117737,
+          "picId": 109951172314748750,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 205066,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Vansdaddy",
+            "alias": [],
+            "id": 35009085,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 34719302,
+        "name": "健康",
+        "alias": [],
+        "id": 3319813693,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 102134,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 14722817,
+        "name": "Intro",
+        "alias": [],
+        "id": 2163619011,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1682438400000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "咋说",
+          "id": 164319768,
+          "picId": 109951168569986370,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 207567,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DAI",
+            "alias": [],
+            "id": 33984254,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "建坤YOUNG",
+            "alias": [],
+            "id": 12037117,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "咋说",
+        "alias": [],
+        "id": 2042350565,
+        "mark": 17716748352,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 209708,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DiESi",
+            "alias": [],
+            "id": 12001195,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "transNames": [
+          "YANZI"
+        ],
+        "mvid": 0,
+        "name": "燕子",
+        "alias": [],
+        "id": 1995339515,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 236086,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "换血",
+        "alias": [],
+        "id": 1909536722,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 120822,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "挣扎Interlude",
+        "alias": [],
+        "id": 2754175475,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 188640,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Maikon Flocka Flame",
+            "alias": [],
+            "id": 12051031,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "你给的恨",
+        "alias": [],
+        "id": 2754174752,
+        "mark": 17717796864,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "q": "艾志恒 天灵灵",
+    "code": 200,
+    "total": 4,
+    "hits": []
+  },
+  {
+    "q": "艾志恒 RUN THIS GAME",
+    "code": 200,
+    "total": 151,
+    "hits": [
+      {
+        "album": {
+          "publishTime": 1701360000000,
+          "size": 19,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Souf Side Boogie",
+          "id": 179884356,
+          "picId": 109951169098757660,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 189459,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Maikon Flocka Flame",
+            "alias": [],
+            "id": 12051031,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Ohh Ayy Ohh",
+        "alias": [],
+        "id": 2104024724,
+        "mark": 17180925952,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "q": "艾志恒 God Gifted",
+    "code": 200,
+    "total": 300,
+    "hits": [
+      {
+        "album": {
+          "publishTime": 1704988800000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 7002,
+          "name": "THE BREAKING NEWS",
+          "id": 182915838,
+          "picId": 109951169253952670,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 132567,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "ATM Hanson",
+            "alias": [],
+            "id": 13911452,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7002,
+        "mvid": 0,
+        "name": "Right Now (feat. 艾志恒)",
+        "alias": [],
+        "id": 2116163466,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 171076,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "操作",
+        "alias": [],
+        "id": 1909081614,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 182026,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "mac ova seas",
+            "alias": [],
+            "id": 30704161,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "成都一夜",
+        "alias": [],
+        "id": 1909081616,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 328330,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "小镇的孩子",
+        "alias": [],
+        "id": 2163617298,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 130343,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Cold Heart",
+        "alias": [],
+        "id": 1437176781,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 253384,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "死神",
+        "alias": [],
+        "id": 1909081619,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 102134,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 14722817,
+        "name": "Intro",
+        "alias": [],
+        "id": 2163619011,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1705593600000,
+          "size": 13,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 7002,
+          "name": "太子",
+          "id": 183410097,
+          "picId": 109951169321739100,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 173384,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "KIV",
+            "alias": [],
+            "id": 12529648,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7002,
+        "mvid": 14690699,
+        "name": "Money so long (feat. 艾志恒Asen)",
+        "alias": [],
+        "id": 2118177323,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1617379200000,
+          "size": 10,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Small Town Legend",
+          "id": 125195422,
+          "picId": 109951165835462610,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 148096,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Bando",
+        "alias": [],
+        "id": 1832630622,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 243555,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14545437,
+        "name": "土黑娃 ft.thomeboydontkill",
+        "alias": [],
+        "id": 1964696171,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 236086,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "换血",
+        "alias": [],
+        "id": 1909536722,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 195291,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "道不同不相为谋",
+        "alias": [],
+        "id": 1909082618,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 151464,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "To The Top",
+        "alias": [],
+        "id": 1437174920,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 153033,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "mac ova seas",
+            "alias": [],
+            "id": 30704161,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "欺负Freestyle",
+        "alias": [],
+        "id": 1909081613,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1641484800000,
+          "size": 18,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "DIGI GHETTO",
+          "id": 138339265,
+          "picId": 109951167626578290,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 233142,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "KIV",
+            "alias": [],
+            "id": 12529648,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "太古里",
+        "alias": [],
+        "id": 1909081618,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 132122,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34703419,
+        "name": "根",
+        "alias": [],
+        "id": 2754174750,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 183066,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "英雄",
+        "alias": [],
+        "id": 2754174746,
+        "mark": 537927680,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1701360000000,
+          "size": 19,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Souf Side Boogie",
+          "id": 179884356,
+          "picId": 109951169098757660,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 189459,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Maikon Flocka Flame",
+            "alias": [],
+            "id": 12051031,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Ohh Ayy Ohh",
+        "alias": [],
+        "id": 2104024724,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 203644,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "止痛片",
+        "alias": [],
+        "id": 2163619023,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1703088000000,
+          "size": 0,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "The Collections（集）",
+          "id": 181549066,
+          "picId": 109951169189342380,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 212571,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14691474,
+        "name": "版图（Hustle And Grind）",
+        "alias": [],
+        "id": 2110398076,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 182857,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "What U Gon Do (你要如何)",
+        "alias": [],
+        "id": 1995339653,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 325820,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "蓝色的梦",
+        "alias": [],
+        "id": 2163619014,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 148111,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "transNames": [
+          " Ghetto Melody"
+        ],
+        "mvid": 14577268,
+        "name": "写不来情歌",
+        "alias": [],
+        "id": 1995339514,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1699027200000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "江浙沪JiangZheHood",
+          "id": 178070010,
+          "picId": 109951169022095580,
+          "alia": [
+            "江浙HOOD"
+          ],
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 168500,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "KIV",
+            "alias": [],
+            "id": 12529648,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 34759745,
+        "name": "江浙沪JiangZheHood",
+        "alias": [
+          "江浙HOOD"
+        ],
+        "id": 2095550186,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1687449600000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "23",
+          "id": 168054417,
+          "picId": 109951168690813300,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 154285,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14636850,
+        "name": "23",
+        "alias": [],
+        "id": 2057539568,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1689264000000,
+          "size": 13,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 2712519,
+          "name": "狗咬狗",
+          "id": 169119649,
+          "picId": 109951168721928910,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 192637,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "马思唯",
+            "alias": [],
+            "id": 1132392,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "罗言",
+            "alias": [],
+            "id": 33863232,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1400821,
+        "mvid": 0,
+        "name": "Babe",
+        "alias": [],
+        "id": 2061964454,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 195179,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 22622377,
+        "name": "Celebrate",
+        "alias": [],
+        "id": 2163619026,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 262843,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "谢帝",
+            "alias": [],
+            "id": 847107,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "Self Care Freestyle ft.谢帝",
+        "alias": [],
+        "id": 1995339654,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1642153603250,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Most Wanted",
+          "id": 138870784,
+          "picId": 109951166930617900,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 177493,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "V.O.B",
+            "alias": [],
+            "id": 13005039,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Green Soldier",
+            "alias": [],
+            "id": 27910761,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DIGI GHETTO",
+            "alias": [],
+            "id": 33693423,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Most Wanted",
+        "alias": [],
+        "id": 1911915837,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 209708,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "付思遥",
+            "alias": [],
+            "id": 51088331,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "DiESi",
+            "alias": [],
+            "id": 12001195,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "transNames": [
+          "YANZI"
+        ],
+        "mvid": 0,
+        "name": "燕子",
+        "alias": [],
+        "id": 1995339515,
+        "mark": 17179877376,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "q": "艾志恒 2016",
+    "code": 200,
+    "total": 300,
+    "hits": [
+      {
+        "album": {
+          "publishTime": 1687449600000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "23",
+          "id": 168054417,
+          "picId": 109951168690813300,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 154285,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14636850,
+        "name": "23",
+        "alias": [],
+        "id": 2057539568,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 234666,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "21个问题",
+        "alias": [],
+        "id": 2754175478,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 132122,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34703419,
+        "name": "根",
+        "alias": [],
+        "id": 2754174750,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1604558155290,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "DAY1",
+          "id": 97783183,
+          "picId": 109951165439123870,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 174375,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14224592,
+        "name": "DAY1",
+        "alias": [],
+        "id": 1492864083,
+        "mark": 8256,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 182857,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "What U Gon Do (你要如何)",
+        "alias": [],
+        "id": 1995339653,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1705593600000,
+          "size": 13,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 7002,
+          "name": "太子",
+          "id": 183410097,
+          "picId": 109951169321739100,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 173384,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "KIV",
+            "alias": [],
+            "id": 12529648,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7002,
+        "mvid": 14690699,
+        "name": "Money so long (feat. 艾志恒Asen)",
+        "alias": [],
+        "id": 2118177323,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 130343,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Cold Heart",
+        "alias": [],
+        "id": 1437176781,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 151464,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "To The Top",
+        "alias": [],
+        "id": 1437174920,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1551528000000,
+          "size": 2,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Wish U Well",
+          "id": 75739669,
+          "picId": 109951163895861650,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 135274,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 10856069,
+        "name": "RAIN",
+        "alias": [],
+        "id": 1349233303,
+        "mark": 17180139584,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1688054400000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 2712519,
+          "name": "P.Y.T",
+          "id": 168447310,
+          "picId": 109951168702638100,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 165400,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "马思唯",
+            "alias": [],
+            "id": 1132392,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1400821,
+        "mvid": 14637017,
+        "name": "P.Y.T",
+        "alias": [],
+        "id": 2059246226,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1617379200000,
+          "size": 10,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Small Town Legend",
+          "id": 125195422,
+          "picId": 109951165835462610,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 174375,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "DAY1",
+        "alias": [],
+        "id": 1832633316,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 245985,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34713543,
+        "name": "在雨后醒来",
+        "alias": [],
+        "id": 2754175477,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 165298,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7002,
+        "mvid": 22786695,
+        "name": "懂不？",
+        "alias": [],
+        "id": 2755030698,
+        "mark": 17716740096,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 195179,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 22622377,
+        "name": "Celebrate",
+        "alias": [],
+        "id": 2163619026,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 134666,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34713559,
+        "name": "Dear Mama",
+        "alias": [],
+        "id": 2754175476,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 245820,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "Like Flowers",
+        "alias": [],
+        "id": 2754174753,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 223255,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "睡不着",
+        "alias": [],
+        "id": 2754175474,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 217711,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34713560,
+        "name": "女孩回来吧",
+        "alias": [],
+        "id": 2754174749,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1665763200000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Money Focused Freestyle",
+          "id": 153212402,
+          "picId": 109951168699161040,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 250140,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "Money Focused Freestyle",
+        "alias": [],
+        "id": 1989402883,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 183066,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "英雄",
+        "alias": [],
+        "id": 2754174746,
+        "mark": 537927680,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 212058,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 14722434,
+        "name": "看不到你",
+        "alias": [],
+        "id": 2163619012,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1617379200000,
+          "size": 10,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Small Town Legend",
+          "id": 125195422,
+          "picId": 109951165835462610,
+          "mark": 0,
+          "status": 0
+        },
+        "fee": 8,
+        "duration": 148096,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Bando",
+        "alias": [],
+        "id": 1832630622,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1689264000000,
+          "size": 13,
+          "artist": {
+            "img1v1Url": "https://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 2712519,
+          "name": "狗咬狗",
+          "id": 169119649,
+          "picId": 109951168721928910,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 1,
+        "duration": 165400,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "马思唯",
+            "alias": [],
+            "id": 1132392,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1400821,
+        "mvid": 0,
+        "name": "P.Y.T",
+        "alias": [],
+        "id": 2061966699,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 243555,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14545437,
+        "name": "土黑娃 ft.thomeboydontkill",
+        "alias": [],
+        "id": 1964696171,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 164008,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "错意",
+        "alias": [],
+        "id": 1437031801,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1679414400000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": -1,
+          "name": "Last King Freestyle",
+          "id": 162198281,
+          "picId": 109951168485923070,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 170769,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14614303,
+        "name": "Last King Freestyle",
+        "alias": [],
+        "id": 2032192601,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1601481600000,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "FALL",
+          "id": 96104112,
+          "picId": 109951165354366300,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 147888,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "FALL",
+        "alias": [],
+        "id": 1483522952,
+        "mark": 17179877440,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 124174,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Pablo",
+        "alias": [],
+        "id": 1437174958,
+        "mark": 17179877376,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 179538,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 22793691,
+        "name": "嘻哈脑壳",
+        "alias": [],
+        "id": 2754174747,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1566982470191,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "ON MY WAY",
+          "id": 81213618,
+          "picId": 109951164328596940,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 173937,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "ON MY WAY",
+        "alias": [],
+        "id": 1387179876,
+        "mark": 17179877440,
+        "status": 0
+      }
+    ]
+  },
+  {
+    "q": "艾志恒 2017",
+    "code": 200,
+    "total": 10,
+    "hits": [
+      {
+        "album": {
+          "publishTime": 1585843200000,
+          "size": 9,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "Small Town Kid",
+          "id": 84600899,
+          "picId": 109951164865285600,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 236040,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "Maikon Flocka Flame",
+            "alias": [],
+            "id": 12051031,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 0,
+        "name": "Butterflies",
+        "alias": [],
+        "id": 1437030961,
+        "mark": 17180139520,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1604558155290,
+          "size": 1,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 0,
+          "name": "DAY1",
+          "id": 97783183,
+          "picId": 109951165439123870,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 174375,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14224592,
+        "name": "DAY1",
+        "alias": [],
+        "id": 1492864083,
+        "mark": 8256,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 165298,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 7002,
+        "mvid": 22786695,
+        "name": "懂不？",
+        "alias": [],
+        "id": 2755030698,
+        "mark": 17716740096,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 243555,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "THOME",
+            "alias": [],
+            "id": 12110173,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 0,
+        "mvid": 14545437,
+        "name": "土黑娃 ft.thomeboydontkill",
+        "alias": [],
+        "id": 1964696171,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 245985,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34713543,
+        "name": "在雨后醒来",
+        "alias": [],
+        "id": 2754175477,
+        "mark": 17717796864,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1667577600000,
+          "size": 11,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "NESA",
+          "id": 154372290,
+          "picId": 109951168028888860,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 182857,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "What U Gon Do (你要如何)",
+        "alias": [],
+        "id": 1995339653,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 133735,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          },
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "MULA SAKEE",
+            "alias": [],
+            "id": 14925064,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "哈格砸Freestyle",
+        "alias": [],
+        "id": 2163617297,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1718726400000,
+          "size": 12,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "Life After Small Town",
+          "id": 198470550,
+          "picId": 109951169700047700,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 195179,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 22622377,
+        "name": "Celebrate",
+        "alias": [],
+        "id": 2163619026,
+        "mark": 17180925952,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 245820,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 0,
+        "name": "Like Flowers",
+        "alias": [],
+        "id": 2754174753,
+        "mark": 17716748288,
+        "status": 0
+      },
+      {
+        "album": {
+          "publishTime": 1760457600000,
+          "size": 15,
+          "artist": {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "",
+            "alias": [],
+            "id": 0,
+            "picId": 0
+          },
+          "copyrightId": 1416618,
+          "name": "在雨后醒来",
+          "id": 287974232,
+          "picId": 109951172135987500,
+          "mark": 0,
+          "status": 1
+        },
+        "fee": 8,
+        "duration": 134666,
+        "rtype": 0,
+        "ftype": 0,
+        "artists": [
+          {
+            "img1v1Url": "https://p2.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+            "musicSize": 0,
+            "albumSize": 0,
+            "img1v1": 0,
+            "name": "艾志恒Asen",
+            "alias": [],
+            "id": 12198387,
+            "picId": 0
+          }
+        ],
+        "copyrightId": 1416618,
+        "mvid": 34713559,
+        "name": "Dear Mama",
+        "alias": [],
+        "id": 2754175476,
+        "mark": 17717796864,
+        "status": 0
+      }
+    ]
+  }
+]

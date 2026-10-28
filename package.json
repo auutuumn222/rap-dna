@@ -1,10 +1,12 @@
 {
   "name": "rap-dna-demo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/catalog.test.mjs",
+    "test:browser": "node tests/asen-browser.mjs",
+    "catalog:build": "node scripts/build-catalog.mjs"
   }
 }

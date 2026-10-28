@@ -1,0 +1,46 @@
+import assert from 'node:assert/strict';
+import {createServer} from 'node:http';
+import {readFile,mkdir} from 'node:fs/promises';
+import {createRequire} from 'node:module';
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+const require=createRequire(import.meta.url),{chromium}=require(process.env.RAP_DNA_PLAYWRIGHT||'playwright');
+const root=fileURLToPath(new URL('../dist/',import.meta.url)),out=fileURLToPath(new URL('../qa/asen/',import.meta.url));await mkdir(out,{recursive:true});
+const server=createServer(async(req,res)=>{try{const p=new URL(req.url,'http://localhost').pathname,file=path.join(root,p==='/'?'index.html':p),data=await readFile(file);const type={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8','.jpg':'image/jpeg','.png':'image/png'}[path.extname(file)]||'application/octet-stream';res.writeHead(200,{'Content-Type':type}).end(data);}catch{res.writeHead(404).end();}});
+await new Promise(r=>server.listen(0,'127.0.0.1',r));let browser;
+try{
+ browser=await chromium.launch({headless:true,...(process.env.RAP_DNA_BROWSER?{executablePath:process.env.RAP_DNA_BROWSER}:{})});
+ const page=await browser.newPage({viewport:{width:1440,height:1000},deviceScaleFactor:1,reducedMotion:'reduce'}),errors=[];
+ page.on('pageerror',e=>errors.push(e.message));const url=`http://127.0.0.1:${server.address().port}`;
+ await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
+ await page.screenshot({path:path.join(out,'desktop-hero.png')});
+ assert.equal(await page.locator('.floating-album').count(),5);
+ await page.locator('.floating-album.center').click();assert.match(await page.locator('#dialog-heading').innerText(),/在雨后醒来/);assert.equal(await page.locator('.detail-track-row').count(),15);await page.locator('.dialog-close').click();
+ await page.locator('#hero-next').click();assert.equal(await page.locator('#hero-album-title').innerText(),'Life After Small Town');
+ await page.locator('[data-scope="group"]').click();assert.equal(await page.locator('.album-card').count(),2);
+ await page.locator('[data-scope="all"]').click();assert.equal(await page.locator('.album-card').count(),82);
+ await page.locator('[data-journey-year="2018"]').click();assert.equal(await page.locator('.album-card').count(),3);
+ await page.locator('[data-journey-year="all"]').click();await page.locator('[data-scope="core"]').click();assert.equal(await page.locator('.album-card').count(),7);
+ await page.locator('#track-search').fill('GRAD SONG');await page.locator('#track-kind').selectOption('instrumental');assert.equal(await page.locator('#track-rows tr').count(),1);assert.match(await page.locator('#track-count').innerText(),/1 条记录/);
+ await page.locator('#track-rows .song-button').click();assert.match(await page.locator('#dialog-heading').innerText(),/伴奏/);await page.locator('.dialog-close').click();
+ await page.locator('#track-search').fill('不存在abcdef');assert.match(await page.locator('#track-rows').innerText(),/还没有找到/);
+ await page.locator('#clear-track-filters').click();assert.match(await page.locator('#track-count').innerText(),/168/);await page.locator('#page-next').click();assert.equal(await page.locator('#page-number').innerText(),'2 / 14');await page.locator('#page-prev').click();
+ await page.locator('#network-album').selectOption('n169119649');assert.match(await page.locator('#connection-detail').innerText(),/马思唯/);assert.match(await page.locator('#connection-detail').innerText(),/13 条作品连接/);
+ await page.locator('#open-selected-person').click();assert.match(await page.locator('#dialog-heading').innerText(),/马思唯/);await page.locator('.dialog-close').click();
+ await page.locator('[data-mode="credits"]').click();assert.ok(await page.locator('.person-node').count()>0);
+ await page.locator('#network-album').selectOption('n287974232');await page.locator('#connection-search').fill('谭玉堂');assert.equal(await page.locator('.person-node').count(),1);
+ await page.locator('.person-node').focus();await page.keyboard.press('Enter');assert.match(await page.locator('#connection-detail').innerText(),/谭玉堂/);
+ await page.locator('#connection-search').fill('不存在abcdef');assert.match(await page.locator('.network-empty').innerText(),/暂时还没有连接/);
+ await page.locator('#connection-search').fill('');await page.locator('#network-album').selectOption('all');await page.locator('[data-mode="artists"]').click();
+ await page.locator('#network').scrollIntoViewIfNeeded();await page.screenshot({path:path.join(out,'desktop-network.png')});
+ await page.locator('#open-external').click();assert.equal(await page.locator('.external-release').count(),18);await page.locator('.dialog-close').click();
+ await page.locator('#open-research').click();assert.match(await page.locator('#dialog-content').innerText(),/历史全量尚未证明/);await page.locator('.dialog-close').click();
+ const downloadPromise=page.waitForEvent('download');await page.locator('.catalog-download').click();const download=await downloadPromise;assert.match(download.suggestedFilename(),/ASEN-catalog/);
+ await page.goto(url+'/#track/n2755030698',{waitUntil:'networkidle'});await page.locator('dialog').waitFor({state:'visible'});assert.match(await page.locator('#dialog-heading').innerText(),/懂不/);assert.match(await page.locator('#dialog-content').innerText(),/JIMI天赐/);await page.locator('.dialog-close').click();
+ await page.setViewportSize({width:390,height:844});await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
+ await page.screenshot({path:path.join(out,'mobile-hero.png')});
+ for(const id of ['journey','archive','network','sources']){await page.locator('#'+id).scrollIntoViewIfNeeded();await page.waitForTimeout(100);assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),id+' should fit mobile width');await page.screenshot({path:path.join(out,'mobile-'+id+'.png')});}
+ const broken=await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>i.complete&&i.naturalWidth===0).map(i=>i.src));assert.deepEqual(broken,[]);assert.deepEqual(errors,[]);
+ console.log('Asen browser checks passed: gallery, all 82 releases, timeline, song search/filter/pagination, real credits, graph scope, keyboard, export, deep links and mobile layouts.');
+ console.log('Screenshots: '+out);
+}finally{await browser?.close();await new Promise(r=>server.close(r));}

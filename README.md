@@ -2,6 +2,14 @@
 
 第二版聚焦 Asen：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
+## 在线预览与更新
+
+预览地址：https://auutuumn222.github.io/rap-dna/
+
+这个版本使用 GitHub Pages 托管 `dist/`，无需自购域名或服务器。每次向 `main` 推送更新，GitHub Actions 会先核查目录及关系数据，再自动部署网页；发布进度可在仓库的 Actions 标签页查看。网页访客不需要 GitHub 账号。
+
+仓库： https://github.com/auutuumn222/rap-dna 。源码与研究资料公开，网页只发布 `dist/` 中的静态资源；页面不提供歌曲音频。
+
 ## 启动
 
 需要 Node.js 20+。Windows 双击 `Start-Demo.cmd`，自动启动并打开浏览器，使用期间保留终端窗口。也可以运行 `npm start`，访问 http://127.0.0.1:4173 。

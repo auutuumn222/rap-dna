@@ -2,7 +2,14 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile,access} from 'node:fs/promises';
 import {connections,filterTracks} from '../dist/model.js';
+import {neteaseSongId} from '../dist/player.js';
 const catalog=JSON.parse(await readFile(new URL('../dist/catalog.json',import.meta.url),'utf8'));
+test('only exact NetEase song source URLs become playback targets',()=>{
+ assert.equal(catalog.tracks.filter(t=>neteaseSongId(t)).length,166);
+ for(const t of catalog.tracks.filter(t=>t.sourceLabel!=='网易云音乐'))assert.equal(neteaseSongId(t),null);
+ for(const source of ['javascript:alert(1)','https://music.163.com.evil.test/song?id=1','https://music.163.com/album?id=1','https://music.163.com/song?id=x','http://music.163.com/song?id=1'])assert.equal(neteaseSongId({source}),null);
+ assert.equal(neteaseSongId({source:'https://music.163.com/song?id=1995339510'}),'1995339510');
+});
 test('snapshot has all 166 distinct NetEase records plus 2 separately identified Apple additions',()=>{
  assert.equal(catalog.tracks.length,168);assert.equal(catalog.tracks.filter(t=>t.sourceLabel==='网易云音乐').length,166);
  assert.equal(new Set(catalog.tracks.map(t=>t.id)).size,168);assert.equal(catalog.coverage.neteaseHasMore,false);assert.equal(catalog.coverage.historicallyComplete,false);

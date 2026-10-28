@@ -6,6 +6,7 @@
   <meta name="description" content="从 Asen 出发，探索历年专辑、歌曲与创作者的真实署名联系。RAP DNA，听见声音的来处。">
   <title>RAP DNA · Asen 作品与关系档案</title>
   <link rel="stylesheet" href="./asen.css">
+  <link rel="stylesheet" href="./player.css">
 </head>
 <body>
   <a class="skip-link" href="#archive">跳至作品目录</a>
@@ -13,6 +14,7 @@
   <main id="app"><div class="loading"><span class="loading-orb"></span><p>正在打开 Asen 的音乐宇宙…</p></div></main>
   <footer class="site-footer"><a class="brand" href="#top">RAP <b>DNA</b></a><p>每一种声音，都有来处。</p><div><span>一个持续生长的音乐档案。</span><a href="#sources">数据与图片来源 ↗</a></div></footer>
   <dialog id="detail-dialog" aria-labelledby="dialog-heading"><button class="dialog-close" aria-label="关闭详情">×</button><div id="dialog-content"></div></dialog>
+  <aside id="listening-panel" class="listening-panel" aria-label="音乐试听" hidden></aside>
   <div id="toast" role="status" aria-live="polite"></div>
   <script type="module" src="./asen.js"></script>
 </body>

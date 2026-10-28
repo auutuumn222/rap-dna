@@ -7,6 +7,7 @@
     "start": "node server.mjs",
     "test": "node --test tests/catalog.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
+    "test:player": "node tests/player-browser.mjs",
     "catalog:build": "node scripts/build-catalog.mjs"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SASIOVERLXRD",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sasioverlxrd/1614374830?uo=4",
+      "artistId": 1614374830,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JinJiBeWater_隼",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jinjibewater-%E9%9A%BC/1625179719?uo=4",
+      "artistId": 1625179719,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "BOBBYNOPEACE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/bobbynopeace/1606883988?uo=4",
+      "artistId": 1606883988,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "连麻",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%BF%9E%E9%BA%BBswimming/1577300746?uo=4",
+      "artistId": 1577300746,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

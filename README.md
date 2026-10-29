@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）和法老，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -126,4 +126,21 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 核查报告：[LIANMA-DISCOGRAPHY.md](research/LIANMA-DISCOGRAPHY.md)。来源快照：`research/lianma/`，页面数据：`dist/catalog-lianma.json`。
 
+
+
+## SASIOVERLXRD 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=sasioverlxrd`，也可从导航切换。
+
+- 网易云艺人 ID 14117457，三页共返回 244 个不同歌曲 ID，末页 more=false；其中 8 条原发行署名 Sasi 的身份待核记录隔离，不进入作品统计和关系网。原始快照及导出中的 excludedRecords 保留这些记录。
+- 收录 236 条网易云记录，另补 Apple Music 的 SHANG-CHI尚气、旁光、萃取，共 239 条平台记录；218 条取得明确单曲署名。
+- 主线 8 个项目：SAMURDER、MUD、冰冷热带鱼、成嶋亮、纳萨力克、那小子真帅、超级孙先生、赫鬼。冰冷热带鱼的 12 条总曲单中仅返回 11 条本人署名，不补算其他人的独立曲目。
+- 早期 OVERLXRD 系列保留 6 / 10 / 10 条本人署名，平台发行总数为 7 / 13 / 12。收录范围为 2018-04-20 至 2026-09-26，不代表历史全量。
+- 共 119 个关联发行容器。Apple 中国 / 美国区 7 / 9 项发行分别保留为 16 项地区对照，成嶋亮与超级孙先生的曲目数差异保留原来源。
+
+完整记录、身份隔离依据及来源见 [SASIOVERLXRD 核查报告](research/SASIOVERLXRD-DISCOGRAPHY.md)。
+
+`node scripts/collect-sasioverlxrd.mjs` 采集目录，`node scripts/harvest-sasioverlxrd.mjs` 采集逐曲署名、发行详情与图片，`node scripts/cache-sasioverlxrd-extras.mjs` 缓存补充封面；失败请求保留在采集日志中，不绕过平台限制。
+
+`npm run catalog:sasioverlxrd` 从快照重建；`npm test` 检查完整分页的收录 / 隔离、关系证据和资源；`npm run test:sasioverlxrd` 检查页面、深链接、播放器、音乐人切换及 390 / 320px 布局，截图在 `qa/sasioverlxrd/`。
 

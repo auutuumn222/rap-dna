@@ -1,0 +1,100 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "杨俊逸",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/psy-p/1373552959?uo=4",
+      "artistId": 1373552959,
+      "amgArtistId": 3600237,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Higher Brothers",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/higher-brothers/1149096753?uo=4",
+      "artistId": 1149096753,
+      "amgArtistId": 3446644,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Psy P",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/psy-p/1459085248?uo=4",
+      "artistId": 1459085248
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "PSY",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/psy/554290495?uo=4",
+      "artistId": 554290495,
+      "amgArtistId": 2463461,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Red Velvet",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/red-velvet/906961899?uo=4",
+      "artistId": 906961899,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Camila Cabello",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/camila-cabello/935727853?uo=4",
+      "artistId": 935727853,
+      "amgArtistId": 3094960,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "BABYMONSTER",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/babymonster/1715981813?uo=4",
+      "artistId": 1715981813,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Daft Punk",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/daft-punk/5468295?uo=4",
+      "artistId": 5468295,
+      "amgArtistId": 168791,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "j-hope",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/j-hope/1354883995?uo=4",
+      "artistId": 1354883995,
+      "amgArtistId": 3261286,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Adam Levine",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/adam-levine/16053191?uo=4",
+      "artistId": 16053191,
+      "amgArtistId": 156196,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -261,3 +261,12 @@ Asen：https://auutuumn222.github.io/rap-dna/
 采集：`node scripts/collect-vansdaddy.mjs`，再 `node scripts/harvest-vansdaddy.mjs`。离线重建：`npm run catalog:vansdaddy`。目录检查已纳入 `npm test`；浏览器检查：`npm run test:vansdaddy`。
 
 核查报告：[VANSDADDY-DISCOGRAPHY.md](research/VANSDADDY-DISCOGRAPHY.md)，数据：`dist/catalog-vansdaddy.json`，来源：`research/vansdaddy/`。
+
+
+## PSY.P 数据范围（2026-10-29 核查）
+
+入口 `?artist=psyp`。网易云账号 29303235，Apple Music 账号 1373552959（杨俊逸 / Psy.P）。完整取得网易云 233 条、补充 Apple《一个清醒的梦》《Why We Follow》2 条，共 235 条、119 个关联发行容器，172 条有明确逐曲署名。8 个个人项目；Higher Brothers 按逐曲署名收录。M.V.P 只有发行容器，当前分页无曲目，不填造曲单；其他表达方式为网易云 9 条、Apple 8 条，保留差异。
+
+有日期记录范围 2017-03-27 至 2026-10-10，不代表历史全量。Apple 共 91 项地区发行分别保留，部分曲单接口及网易云发行详情受限，失败保留日志。无歌词、音频缓存。
+
+报告：[PSYP-DISCOGRAPHY.md](research/PSYP-DISCOGRAPHY.md)。数据 `dist/catalog-psyp.json`，来源 `research/psyp/`。采集 `node scripts/collect-psyp.mjs`、`node scripts/harvest-psyp.mjs`；离线重建 `npm run catalog:psyp`；浏览器检查 `npm run test:psyp`。

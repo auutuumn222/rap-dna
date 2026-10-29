@@ -247,3 +247,17 @@ Asen：https://auutuumn222.github.io/rap-dna/
 [完整核查报告](research/KEYNG-DISCOGRAPHY.md)，目录 `dist/catalog-keyng.json`，来源快照 `research/keyng/`。采集：`node scripts/collect-keyng.mjs` → `node scripts/harvest-keyng.mjs`；离线重建：`npm run catalog:keyng`；浏览器检查：`npm run test:keyng`。支持杨和苏、杨和苏KeyNG、KeyNG 搜索，复用年表、关系网、播放器、分享及导出。
 
 线上入口：https://auutuumn222.github.io/rap-dna/?artist=keyng
+
+## Vansdaddy / VD（2026-10-29 核查）
+
+导航选择 Vansdaddy，或访问 `?artist=vansdaddy`。支持艺人官方别名 VD 搜索，年表、歌曲目录、逐曲署名关系、分享、导出与官方播放器沿用现有页面。
+
+- 网易云 ID 35009085，两页完整返回 157 条，末页 more=false；有日期范围 2020-01-27 至 2026-10-25，不代表历史全量。
+- 7 个核心个人/联合项目：VEN10、200Q、Balloon、牛窝坑之子、牛窝坑秋冬随笔2024、都市醉漢、都市醉漢春日随笔2026，当前本人署名曲单均完整。
+- Candytape2022 / Candytape2 分别保留本人署名 13/16、12/17 条，标记团体项目。共 71 个关联发行容器；147 条有明确单曲署名。不把发行级联合署名自动下放到每首歌。
+- Apple ID 1654111268，中国/美国区分别 4/5 项发行。美国区相同发行和单曲显示硫克男孩Ryukboi，原样保留冲突，不认定两人为别名，不生成额外作品或关系。同名候选 ID 1819308208 未返回发行，另存快照。
+- 部分发行详情返回 -462，保留采集日志，不绕过限制。封面与肖像已本地缓存；仅保留元数据和署名，不保存歌词或音频。
+
+采集：`node scripts/collect-vansdaddy.mjs`，再 `node scripts/harvest-vansdaddy.mjs`。离线重建：`npm run catalog:vansdaddy`。目录检查已纳入 `npm test`；浏览器检查：`npm run test:vansdaddy`。
+
+核查报告：[VANSDADDY-DISCOGRAPHY.md](research/VANSDADDY-DISCOGRAPHY.md)，数据：`dist/catalog-vansdaddy.json`，来源：`research/vansdaddy/`。

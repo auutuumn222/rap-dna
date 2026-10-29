@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
     "test:masiwei": "node tests/masiwei-browser.mjs",
@@ -32,6 +32,8 @@
     "catalog:macovaseas": "node scripts/build-macovaseas.mjs",
     "test:macovaseas": "node tests/macovaseas-browser.mjs",
     "catalog:keyng": "node scripts/build-keyng.mjs",
-    "test:keyng": "node tests/keyng-browser.mjs"
+    "test:keyng": "node tests/keyng-browser.mjs",
+    "catalog:vansdaddy": "node scripts/build-vansdaddy.mjs",
+    "test:vansdaddy": "node tests/vansdaddy-browser.mjs"
   }
 }

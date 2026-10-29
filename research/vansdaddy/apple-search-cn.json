@@ -1,0 +1,39 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Vansdaddy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/vansdaddy/1654111268?uo=4",
+      "artistId": 1654111268,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Vansdaddy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/vansdaddy/1819308208?uo=4",
+      "artistId": 1819308208
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "mac ova seas",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mac-ova-seas/1529239270?uo=4",
+      "artistId": 1529239270,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "硫克男孩Ryukboi",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%A1%AB%E5%85%8B%E7%94%B7%E5%AD%A9ryukboi/1619081054?uo=4",
+      "artistId": 1619081054,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    }
+  ]
+}

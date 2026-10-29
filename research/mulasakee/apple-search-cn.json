@@ -1,0 +1,23 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "MULA SAKEE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mula-sakee/1646417661?uo=4",
+      "artistId": 1646417661,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "艾志恒Asen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%89%BE%E5%BF%97%E6%81%92asen/1636240804?uo=4",
+      "artistId": 1636240804,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -144,3 +144,20 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 `npm run catalog:sasioverlxrd` 从快照重建；`npm test` 检查完整分页的收录 / 隔离、关系证据和资源；`npm run test:sasioverlxrd` 检查页面、深链接、播放器、音乐人切换及 390 / 320px 布局，截图在 `qa/sasioverlxrd/`。
 
+
+
+## MULA SAKEE 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=mulasakee`，或从导航选择 MULA SAKEE。沿用 ASEN、马思唯的作品年表、歌曲搜索、逐曲署名关系网、详情深链接、JSON 导出及网易云官方播放器。
+
+- 网易云主账号 ID 14925064，两页共 148 个不同歌曲 ID，平台报告 148，末页 more=false。同名其他账号不合并。
+- 5 个个人项目：7 7 7 WAR BABII、PROJ3CT D3MON、SSS、SAINT JUICE、永玄大典，分别收录 9 / 9 / 16 / 17 / 20 条。DIGI GHETTO 团体专辑总数 18，本人明确署名 9 条。
+- 共 69 个关联发行容器，138 条歌曲取得明确逐曲署名；日期跨度 2018-06-01 至 2026-08-06，不代表历史全量。
+- Apple Music 中国 / 美国区分别保留 11 / 10 项地区发行对照；美国区歌曲接口返回 32 条、中国区未返回歌曲，不据发行容器猜测缺失曲目。《神机妙算》保留待核条目。已核对的 Apple 歌曲不重复加入目录。
+- 部分网易云发行详情返回 API -462，失败请求保留日志；主账号目录、歌曲字段及封面已取得，部分详情复用已有来源快照。封面及肖像本地缓存。
+
+完整核查：[MULASAKEE-DISCOGRAPHY.md](research/MULASAKEE-DISCOGRAPHY.md)。数据：`dist/catalog-mulasakee.json`；来源：`research/mulasakee/`。
+
+采集：`node scripts/collect-mulasakee.mjs`，随后 `node scripts/harvest-mulasakee.mjs`；离线重建：`npm run catalog:mulasakee`。`npm test` 已纳入目录、曲单参与范围、关系证据及资源校验；`npm run test:mulasakee` 检查页面交互、分享深链接、导出、播放器、音乐人切换及 390 / 320px 布局，截图在 `qa/mulasakee/`。浏览器测试可使用 README 前述的 Playwright 和浏览器路径环境变量。
+
+

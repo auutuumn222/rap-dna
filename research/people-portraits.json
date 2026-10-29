@@ -1,0 +1,720 @@
+{
+  "checkedAt": "2026-10-29",
+  "catalogs": [
+    "catalog.json",
+    "catalog-masiwei.json"
+  ],
+  "matching": "Exact NetEase artist IDs only; no name searches or inferred credit-person matches",
+  "reused": 2,
+  "requested": 141,
+  "verified": 139,
+  "results": [
+    {
+      "id": "n35009085",
+      "name": "Vansdaddy",
+      "status": "verified"
+    },
+    {
+      "id": "n12051031",
+      "name": "Maikon Flocka Flame",
+      "status": "verified"
+    },
+    {
+      "id": "n14116746",
+      "name": "黄格雷",
+      "status": "verified"
+    },
+    {
+      "id": "n13911452",
+      "name": "ATM Hanson",
+      "status": "verified"
+    },
+    {
+      "id": "n13500447",
+      "name": "ØZI",
+      "status": "verified"
+    },
+    {
+      "id": "n13497629",
+      "name": "KANNA BUSH",
+      "status": "verified"
+    },
+    {
+      "id": "n12079219",
+      "name": "李佳隆",
+      "status": "verified"
+    },
+    {
+      "id": "n14925064",
+      "name": "MULA SAKEE",
+      "status": "verified"
+    },
+    {
+      "id": "n847107",
+      "name": "谢帝",
+      "status": "verified"
+    },
+    {
+      "id": "n12730273",
+      "name": "TOYOKI",
+      "status": "verified"
+    },
+    {
+      "id": "n12236125",
+      "name": "王以太",
+      "status": "verified"
+    },
+    {
+      "id": "n12914544",
+      "name": "马伯骞Victor Ma",
+      "status": "verified"
+    },
+    {
+      "id": "n55812413",
+      "name": "Young7rouble",
+      "status": "verified"
+    },
+    {
+      "id": "n30704161",
+      "name": "mac ova seas",
+      "status": "verified"
+    },
+    {
+      "id": "n27868624",
+      "name": "KnowKnow",
+      "status": "verified"
+    },
+    {
+      "id": "n33429194",
+      "name": "火人",
+      "status": "verified"
+    },
+    {
+      "id": "n12529648",
+      "name": "KIV",
+      "status": "verified"
+    },
+    {
+      "id": "n51088331",
+      "name": "付思遥",
+      "status": "verified"
+    },
+    {
+      "id": "n33693423",
+      "name": "DIGI GHETTO",
+      "status": "verified"
+    },
+    {
+      "id": "n12110173",
+      "name": "THOME",
+      "status": "verified"
+    },
+    {
+      "id": "n33016055",
+      "name": "yellowriver",
+      "status": "verified"
+    },
+    {
+      "id": "n33863232",
+      "name": "罗言",
+      "status": "verified"
+    },
+    {
+      "id": "n14080178",
+      "name": "SSB CHAZ",
+      "status": "verified"
+    },
+    {
+      "id": "n1198123",
+      "name": "姜云升",
+      "status": "verified"
+    },
+    {
+      "id": "n12037117",
+      "name": "建坤YOUNG",
+      "status": "verified"
+    },
+    {
+      "id": "n33984254",
+      "name": "DAI",
+      "status": "verified"
+    },
+    {
+      "id": "n50275485",
+      "name": "KKECHO",
+      "status": "verified"
+    },
+    {
+      "id": "n1203015",
+      "name": "Dough-Boy",
+      "status": "verified"
+    },
+    {
+      "id": "n29304235",
+      "name": "Melo",
+      "status": "verified"
+    },
+    {
+      "id": "n12277473",
+      "name": "李大奔BENZO",
+      "status": "verified"
+    },
+    {
+      "id": "n12453904",
+      "name": "11李佳毅",
+      "status": "verified"
+    },
+    {
+      "id": "n12193174",
+      "name": "Capper",
+      "status": "verified"
+    },
+    {
+      "id": "n12127362",
+      "name": "GALI",
+      "status": "verified"
+    },
+    {
+      "id": "n53241026",
+      "name": "Caroline堵琳",
+      "status": "verified"
+    },
+    {
+      "id": "n12064019",
+      "name": "连麻Swimming",
+      "status": "verified"
+    },
+    {
+      "id": "n12538970",
+      "name": "NeeN",
+      "status": "verified"
+    },
+    {
+      "id": "n29303235",
+      "name": "PSY.P",
+      "status": "verified"
+    },
+    {
+      "id": "n33202222",
+      "name": "刘牧洲",
+      "status": "verified"
+    },
+    {
+      "id": "n33937972",
+      "name": "CashTrippy",
+      "status": "verified"
+    },
+    {
+      "id": "n12001195",
+      "name": "DiESi",
+      "status": "verified"
+    },
+    {
+      "id": "n32712412",
+      "name": "斑比Bambii",
+      "status": "verified"
+    },
+    {
+      "id": "n14117457",
+      "name": "SASIOVERLXRD",
+      "status": "verified"
+    },
+    {
+      "id": "n28642672",
+      "name": "kkluv",
+      "status": "verified"
+    },
+    {
+      "id": "n12570417",
+      "name": "那奇沃夫",
+      "status": "verified"
+    },
+    {
+      "id": "n13145283",
+      "name": "ICE杨长青",
+      "status": "verified"
+    },
+    {
+      "id": "n48045511",
+      "name": "APMOZART",
+      "status": "verified"
+    },
+    {
+      "id": "n12119618",
+      "name": "派克特（PACT）",
+      "status": "verified"
+    },
+    {
+      "id": "n27910761",
+      "name": "Green Soldier",
+      "status": "verified"
+    },
+    {
+      "id": "n13005039",
+      "name": "V.O.B",
+      "status": "verified"
+    },
+    {
+      "id": "n13907045",
+      "name": "brokeboiishawty",
+      "status": "verified"
+    },
+    {
+      "id": "n33072729",
+      "name": "Jumpouttamoon",
+      "status": "verified"
+    },
+    {
+      "id": "n13132045",
+      "name": "JIMI天赐",
+      "status": "verified"
+    },
+    {
+      "id": "n29591148",
+      "name": "P.C.G (紫猫帮）",
+      "status": "verified"
+    },
+    {
+      "id": "n13610079",
+      "name": "BUU",
+      "status": "verified"
+    },
+    {
+      "id": "n32125730",
+      "name": "TripleSeven777",
+      "status": "verified"
+    },
+    {
+      "id": "n13146287",
+      "name": "轰隆隆",
+      "status": "verified"
+    },
+    {
+      "id": "n34319827",
+      "name": "Surfosho",
+      "status": "verified"
+    },
+    {
+      "id": "n30956795",
+      "name": "BillyBlaze",
+      "status": "verified"
+    },
+    {
+      "id": "n13029029",
+      "name": "YoungGeez",
+      "status": "verified"
+    },
+    {
+      "id": "n30126914",
+      "name": "XVIBE",
+      "status": "verified"
+    },
+    {
+      "id": "n12491056",
+      "name": "BIG Shivy",
+      "status": "verified"
+    },
+    {
+      "id": "n12358200",
+      "name": "Doooboi",
+      "status": "verified"
+    },
+    {
+      "id": "n12459364",
+      "name": "XZTYWXZYTYXZ",
+      "status": "verified"
+    },
+    {
+      "id": "n12110093",
+      "name": "Kronic",
+      "status": "verified"
+    },
+    {
+      "id": "n35252449",
+      "name": "LEON LEE",
+      "status": "verified"
+    },
+    {
+      "id": "n12072073",
+      "name": "Gosh Music",
+      "status": "verified"
+    },
+    {
+      "id": "n32178760",
+      "name": "慕斯塔法",
+      "status": "verified"
+    },
+    {
+      "id": "n13612076",
+      "name": "stik",
+      "status": "verified"
+    },
+    {
+      "id": "n13860449",
+      "name": "90sBABY",
+      "status": "verified"
+    },
+    {
+      "id": "n12111129",
+      "name": "希介",
+      "status": "verified"
+    },
+    {
+      "id": "n12499279",
+      "name": "王嗣尧TURBO",
+      "status": "verified"
+    },
+    {
+      "id": "n13681627",
+      "name": "Wave Muzik",
+      "status": "verified"
+    },
+    {
+      "id": "n12965215",
+      "name": "邓典果DDG",
+      "status": "verified"
+    },
+    {
+      "id": "n12370200",
+      "name": "王洋EVIS",
+      "status": "verified"
+    },
+    {
+      "id": "n12087155",
+      "name": "J.Mag",
+      "status": "verified"
+    },
+    {
+      "id": "n12083741",
+      "name": "PoloBear",
+      "status": "verified"
+    },
+    {
+      "id": "n12002201",
+      "name": "Higher Brothers",
+      "status": "verified"
+    },
+    {
+      "id": "n124542",
+      "name": "朴宰范",
+      "status": "verified"
+    },
+    {
+      "id": "n1204010",
+      "name": "TizzyT",
+      "status": "verified"
+    },
+    {
+      "id": "n12004034",
+      "name": "MadeinTYO",
+      "status": "verified"
+    },
+    {
+      "id": "n12815280",
+      "name": "Lil Gnar",
+      "status": "verified"
+    },
+    {
+      "id": "n31917276",
+      "name": "Mengzi",
+      "status": "verified"
+    },
+    {
+      "id": "n12039173",
+      "name": "李尔新",
+      "status": "verified"
+    },
+    {
+      "id": "n35784564",
+      "name": "弹壳Danko",
+      "status": "verified"
+    },
+    {
+      "id": "n1086078",
+      "name": "Ty.",
+      "status": "verified"
+    },
+    {
+      "id": "n13796823",
+      "name": "Sleepy Cat",
+      "status": "verified"
+    },
+    {
+      "id": "n187010",
+      "name": "J. Sheon",
+      "status": "verified"
+    },
+    {
+      "id": "n820141",
+      "name": "Awich",
+      "status": "verified"
+    },
+    {
+      "id": "n32444510",
+      "name": "KR$NA",
+      "status": "verified"
+    },
+    {
+      "id": "n11976077",
+      "name": "Matzka玛斯卡",
+      "status": "verified"
+    },
+    {
+      "id": "n35658806",
+      "name": "VannDa",
+      "status": "verified"
+    },
+    {
+      "id": "n12276375",
+      "name": "NINEONE#乃万",
+      "status": "verified"
+    },
+    {
+      "id": "n15022053",
+      "name": "88rising",
+      "status": "verified"
+    },
+    {
+      "id": "n13056442",
+      "name": "范丞丞",
+      "status": "verified"
+    },
+    {
+      "id": "n46321934",
+      "name": "Saeku",
+      "status": "verified"
+    },
+    {
+      "id": "n12345081",
+      "name": "KZoo",
+      "status": "verified"
+    },
+    {
+      "id": "n4723",
+      "name": "潘玮柏",
+      "status": "verified"
+    },
+    {
+      "id": "n58711580",
+      "name": "1999 WRITE THE FUTURE",
+      "status": "verified"
+    },
+    {
+      "id": "n51957057",
+      "name": "ljz329",
+      "status": "verified"
+    },
+    {
+      "id": "n12526488",
+      "name": "Phum Viphurit",
+      "status": "verified"
+    },
+    {
+      "id": "n12202125",
+      "name": "pH-1",
+      "status": "verified"
+    },
+    {
+      "id": "n1124151",
+      "name": "刘柏辛Lexie",
+      "status": "verified"
+    },
+    {
+      "id": "n10473",
+      "name": "袁娅维TIA RAY",
+      "status": "verified"
+    },
+    {
+      "id": "n46903836",
+      "name": "NINGNING",
+      "status": "verified"
+    },
+    {
+      "id": "n8331",
+      "name": "李玟",
+      "status": "verified"
+    },
+    {
+      "id": "n4479",
+      "name": "MC HotDog 热狗",
+      "status": "verified"
+    },
+    {
+      "id": "n12288442",
+      "name": "AnsrJ",
+      "status": "verified"
+    },
+    {
+      "id": "n12118563",
+      "name": "也是福",
+      "status": "verified"
+    },
+    {
+      "id": "n53752256",
+      "name": "Spence Lee",
+      "status": "verified"
+    },
+    {
+      "id": "n31447671",
+      "name": "T3BEATS",
+      "status": "verified"
+    },
+    {
+      "id": "n12268099",
+      "name": "YYKBZ",
+      "status": "verified"
+    },
+    {
+      "id": "n1047049",
+      "name": "Yoken_Official",
+      "status": "verified"
+    },
+    {
+      "id": "n12554857",
+      "name": "Duhu",
+      "status": "verified"
+    },
+    {
+      "id": "n1098154",
+      "name": "JZlee",
+      "status": "verified"
+    },
+    {
+      "id": "n37343079",
+      "name": "YTH Chopie",
+      "status": "verified"
+    },
+    {
+      "id": "n12062134",
+      "name": "21 Savage",
+      "status": "verified"
+    },
+    {
+      "id": "n12024301",
+      "name": "Rich Brian",
+      "status": "verified"
+    },
+    {
+      "id": "n12022040",
+      "name": "FENDIGHEE RICCH",
+      "status": "verified"
+    },
+    {
+      "id": "n46991785",
+      "name": "Warren Hue",
+      "status": "verified"
+    },
+    {
+      "id": "n48165702",
+      "name": "A Few Good Kids Records",
+      "status": "verified"
+    },
+    {
+      "id": "n13110849",
+      "name": "Karencici",
+      "status": "verified"
+    },
+    {
+      "id": "n12333145",
+      "name": "DP龙猪",
+      "status": "verified"
+    },
+    {
+      "id": "n12200029",
+      "name": "HARIKIRI",
+      "status": "verified"
+    },
+    {
+      "id": "n32959015",
+      "name": "阿达娃",
+      "status": "verified"
+    },
+    {
+      "id": "n12275767",
+      "name": "step.jad依加",
+      "status": "verified"
+    },
+    {
+      "id": "n1011016",
+      "name": "刘逸云 Amber Liu",
+      "status": "verified"
+    },
+    {
+      "id": "n13151028",
+      "name": "万乐",
+      "status": "verified"
+    },
+    {
+      "id": "n31880229",
+      "name": "石玺彤",
+      "status": "verified"
+    },
+    {
+      "id": "n12195296",
+      "name": "YOUNG13DBABY",
+      "status": "verified"
+    },
+    {
+      "id": "n12109219",
+      "name": "孙瑄阳Xtina",
+      "status": "verified"
+    },
+    {
+      "id": "n12059049",
+      "name": "Bohan 冷博涵",
+      "status": "verified"
+    },
+    {
+      "id": "n28072811",
+      "name": "地磁卡",
+      "status": "verified"
+    },
+    {
+      "id": "n35005076",
+      "name": "成都集团",
+      "status": "verified"
+    },
+    {
+      "id": "n12633236",
+      "name": "P.O.E",
+      "status": "verified"
+    },
+    {
+      "id": "n12119322",
+      "name": "K9TIONN",
+      "status": "verified"
+    },
+    {
+      "id": "n12084504",
+      "name": "Warz",
+      "status": "verified"
+    },
+    {
+      "id": "n34922654",
+      "name": "VVSGANG",
+      "status": "verified"
+    },
+    {
+      "id": "n12078093",
+      "name": "TSP安琪",
+      "status": "verified"
+    },
+    {
+      "id": "n896694",
+      "name": "Rome Fortune",
+      "status": "verified"
+    }
+  ],
+  "failures": [
+    {
+      "id": "n31699751",
+      "name": "Rainbow",
+      "error": "No verified non-default portrait"
+    },
+    {
+      "id": "n989028",
+      "name": "Avatar Darko",
+      "error": "No verified non-default portrait"
+    }
+  ]
+}

@@ -1,0 +1,1479 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-29",
+  "people": {
+    "n12198387": {
+      "name": "艾志恒 Asen",
+      "image": "./assets/asen-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12198387",
+      "imageSource": "https://p2.music.126.net/alpJxinPEXCuYkeEMnCDWA==/109951172058047957.jpg",
+      "checkedAt": "2026-10-28",
+      "kind": "person",
+      "reused": true
+    },
+    "n1132392": {
+      "name": "马思唯 Masiwei",
+      "image": "./assets/masiwei-portrait.jpg",
+      "source": "https://music.163.com/artist?id=1132392",
+      "imageSource": "https://p2.music.126.net/WDPjjeAunxIC8DVGWjG6Lw==/109951170646736523.jpg",
+      "checkedAt": "2026-10-28",
+      "kind": "person",
+      "reused": true
+    },
+    "n35009085": {
+      "name": "Vansdaddy",
+      "catalogName": "Vansdaddy",
+      "aliases": [
+        "VD"
+      ],
+      "image": "./assets/people/n35009085.jpg",
+      "source": "https://music.163.com/artist?id=35009085",
+      "imageSource": "https://p2.music.126.net/LMx08IlqLlQKlGpgJNG8uA==/109951173999539116.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12051031": {
+      "name": "Maikon Flocka Flame",
+      "catalogName": "Maikon Flocka Flame",
+      "aliases": [],
+      "image": "./assets/people/n12051031.jpg",
+      "source": "https://music.163.com/artist?id=12051031",
+      "imageSource": "https://p1.music.126.net/zzCwuP4o3keI8c10qWd8Dw==/109951170607700392.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n14116746": {
+      "name": "黄格雷",
+      "catalogName": "黄格雷",
+      "aliases": [
+        "GregSeason"
+      ],
+      "image": "./assets/people/n14116746.jpg",
+      "source": "https://music.163.com/artist?id=14116746",
+      "imageSource": "https://p2.music.126.net/BuhPveiHYex_X-92KcRhDg==/109951173813718836.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13911452": {
+      "name": "ATM Hanson",
+      "catalogName": "ATM Hanson",
+      "aliases": [],
+      "image": "./assets/people/n13911452.jpg",
+      "source": "https://music.163.com/artist?id=13911452",
+      "imageSource": "https://p1.music.126.net/G4han0GjhygZruxsll7_Lw==/109951173643567238.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13500447": {
+      "name": "ØZI",
+      "catalogName": "ØZI",
+      "aliases": [],
+      "image": "./assets/people/n13500447.jpg",
+      "source": "https://music.163.com/artist?id=13500447",
+      "imageSource": "https://p2.music.126.net/fN-J2PQXwadCb_U7J_bfVg==/109951174042684402.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13497629": {
+      "name": "KANNA BUSH",
+      "catalogName": "KANNA BUSH",
+      "aliases": [
+        "孟子坤"
+      ],
+      "image": "./assets/people/n13497629.jpg",
+      "source": "https://music.163.com/artist?id=13497629",
+      "imageSource": "https://p2.music.126.net/EIC5eHMbMlwQIQLXlxR5qA==/109951173940094157.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12079219": {
+      "name": "李佳隆",
+      "catalogName": "李佳隆",
+      "aliases": [],
+      "image": "./assets/people/n12079219.jpg",
+      "source": "https://music.163.com/artist?id=12079219",
+      "imageSource": "https://p2.music.126.net/iL3ixGJzdWAHLC-nDFkO-w==/109951173493358674.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n14925064": {
+      "name": "MULA SAKEE",
+      "catalogName": "MULA SAKEE",
+      "aliases": [],
+      "image": "./assets/people/n14925064.jpg",
+      "source": "https://music.163.com/artist?id=14925064",
+      "imageSource": "https://p1.music.126.net/_a8e2BhWCxV7kYaUBU_l2Q==/109951173489955335.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n847107": {
+      "name": "谢帝",
+      "catalogName": "谢帝",
+      "aliases": [
+        "BO$$X"
+      ],
+      "image": "./assets/people/n847107.jpg",
+      "source": "https://music.163.com/artist?id=847107",
+      "imageSource": "https://p2.music.126.net/ETplhG5gXynEQoLQkRhHXg==/109951171813624638.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12730273": {
+      "name": "TOYOKI",
+      "catalogName": "TOYOKI",
+      "aliases": [],
+      "image": "./assets/people/n12730273.jpg",
+      "source": "https://music.163.com/artist?id=12730273",
+      "imageSource": "https://p1.music.126.net/wSEEW8kQ3j-c2N_U1ycfWQ==/109951173850256268.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12236125": {
+      "name": "王以太",
+      "catalogName": "王以太",
+      "aliases": [],
+      "image": "./assets/people/n12236125.jpg",
+      "source": "https://music.163.com/artist?id=12236125",
+      "imageSource": "https://p2.music.126.net/pc3F98VkKXATBlFsq6tFJQ==/109951169748487115.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12914544": {
+      "name": "马伯骞Victor Ma",
+      "catalogName": "马伯骞Victor Ma",
+      "aliases": [],
+      "image": "./assets/people/n12914544.jpg",
+      "source": "https://music.163.com/artist?id=12914544",
+      "imageSource": "https://p1.music.126.net/KZdmt7kfVLMiIgrryl4jSg==/109951168046860653.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n55812413": {
+      "name": "Young7rouble",
+      "catalogName": "Young7rouble",
+      "aliases": [],
+      "image": "./assets/people/n55812413.jpg",
+      "source": "https://music.163.com/artist?id=55812413",
+      "imageSource": "https://p2.music.126.net/mhZDFpnG2QP3ejo_s0IEkw==/109951172018521508.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n30704161": {
+      "name": "mac ova seas",
+      "catalogName": "mac ova seas",
+      "aliases": [],
+      "image": "./assets/people/n30704161.jpg",
+      "source": "https://music.163.com/artist?id=30704161",
+      "imageSource": "https://p1.music.126.net/0VgIdaOVWbyPo_-0i-1hpw==/109951168559129539.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n27868624": {
+      "name": "KnowKnow",
+      "catalogName": "KnowKnow",
+      "aliases": [],
+      "image": "./assets/people/n27868624.jpg",
+      "source": "https://music.163.com/artist?id=27868624",
+      "imageSource": "https://p2.music.126.net/EI-opdeBAR11phjG14fwbg==/109951172883193186.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33429194": {
+      "name": "火人",
+      "catalogName": "火人",
+      "aliases": [
+        "INJOY"
+      ],
+      "image": "./assets/people/n33429194.jpg",
+      "source": "https://music.163.com/artist?id=33429194",
+      "imageSource": "https://p1.music.126.net/HacXjUhYnDZU-S2rl10IzA==/109951173875024471.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12529648": {
+      "name": "KIV",
+      "catalogName": "KIV",
+      "aliases": [],
+      "image": "./assets/people/n12529648.jpg",
+      "source": "https://music.163.com/artist?id=12529648",
+      "imageSource": "https://p2.music.126.net/L2IegKgopP9WLDpepkHQqA==/109951170020234818.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n51088331": {
+      "name": "付思遥",
+      "catalogName": "付思遥",
+      "aliases": [],
+      "image": "./assets/people/n51088331.jpg",
+      "source": "https://music.163.com/artist?id=51088331",
+      "imageSource": "https://p1.music.126.net/DLS2MuixfvgSApgW-apmbQ==/109951170752318587.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33693423": {
+      "name": "DIGI GHETTO",
+      "catalogName": "DIGI GHETTO",
+      "aliases": [],
+      "image": "./assets/people/n33693423.jpg",
+      "source": "https://music.163.com/artist?id=33693423",
+      "imageSource": "https://p1.music.126.net/4e4PZYbNakiSBkuKdOvw7A==/109951166769142486.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n12110173": {
+      "name": "THOME",
+      "catalogName": "THOME",
+      "aliases": [],
+      "image": "./assets/people/n12110173.jpg",
+      "source": "https://music.163.com/artist?id=12110173",
+      "imageSource": "https://p2.music.126.net/rIr78XiLso-Dlz00JjcLxw==/109951170999422334.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33016055": {
+      "name": "yellowriver",
+      "catalogName": "yellowriver",
+      "aliases": [],
+      "image": "./assets/people/n33016055.jpg",
+      "source": "https://music.163.com/artist?id=33016055",
+      "imageSource": "https://p1.music.126.net/-es7iTXmCtlqh6CVQNUP3g==/109951173728996135.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33863232": {
+      "name": "罗言",
+      "catalogName": "罗言",
+      "aliases": [
+        "RollFlash"
+      ],
+      "image": "./assets/people/n33863232.jpg",
+      "source": "https://music.163.com/artist?id=33863232",
+      "imageSource": "https://p1.music.126.net/ZrO8gJjxSmlmadJeRiqOPw==/109951172417958240.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n14080178": {
+      "name": "SSB CHAZ",
+      "catalogName": "SSB CHAZ",
+      "aliases": [],
+      "image": "./assets/people/n14080178.jpg",
+      "source": "https://music.163.com/artist?id=14080178",
+      "imageSource": "https://p2.music.126.net/bkeRmwyBP53y5zfuRxQQ0Q==/109951172233066601.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1198123": {
+      "name": "姜云升",
+      "catalogName": "姜云升",
+      "aliases": [],
+      "image": "./assets/people/n1198123.jpg",
+      "source": "https://music.163.com/artist?id=1198123",
+      "imageSource": "https://p1.music.126.net/VOXA9iqlExh6hruuPamo0Q==/109951166533103808.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12037117": {
+      "name": "建坤YOUNG",
+      "catalogName": "建坤YOUNG",
+      "aliases": [
+        "北门之子"
+      ],
+      "image": "./assets/people/n12037117.jpg",
+      "source": "https://music.163.com/artist?id=12037117",
+      "imageSource": "https://p1.music.126.net/VPx1l33WDisBeejsJSYlGg==/109951172355839879.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33984254": {
+      "name": "DAI",
+      "catalogName": "DAI",
+      "aliases": [],
+      "image": "./assets/people/n33984254.jpg",
+      "source": "https://music.163.com/artist?id=33984254",
+      "imageSource": "https://p1.music.126.net/7CeVfhvR7LRh56wPwQRvnA==/109951168571555137.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n50275485": {
+      "name": "KKECHO",
+      "catalogName": "KKECHO",
+      "aliases": [
+        "KK",
+        "陈欣瑶"
+      ],
+      "image": "./assets/people/n50275485.jpg",
+      "source": "https://music.163.com/artist?id=50275485",
+      "imageSource": "https://p2.music.126.net/pIC1Cp5E1ID1JkQK67QV3w==/109951173832803271.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1203015": {
+      "name": "Dough-Boy",
+      "catalogName": "Dough-Boy",
+      "aliases": [],
+      "image": "./assets/people/n1203015.jpg",
+      "source": "https://music.163.com/artist?id=1203015",
+      "imageSource": "https://p2.music.126.net/LAqRKX-IqBcIPMsIV33juA==/109951170725935352.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n29304235": {
+      "name": "Melo",
+      "catalogName": "Melo",
+      "aliases": [],
+      "image": "./assets/people/n29304235.jpg",
+      "source": "https://music.163.com/artist?id=29304235",
+      "imageSource": "https://p2.music.126.net/XWX1ZKCTVt9y9mkoBwQMhg==/109951173446925721.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12277473": {
+      "name": "李大奔BENZO",
+      "catalogName": "李大奔BENZO",
+      "aliases": [],
+      "image": "./assets/people/n12277473.jpg",
+      "source": "https://music.163.com/artist?id=12277473",
+      "imageSource": "https://p2.music.126.net/U1mSNBdqoM_x9oTDUBwt4Q==/109951173293970640.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12453904": {
+      "name": "11李佳毅",
+      "catalogName": "11李佳毅",
+      "aliases": [],
+      "image": "./assets/people/n12453904.jpg",
+      "source": "https://music.163.com/artist?id=12453904",
+      "imageSource": "https://p2.music.126.net/bpoc8PW9Do0IOoh6Hi44eQ==/109951172646484190.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12193174": {
+      "name": "Capper",
+      "catalogName": "Capper",
+      "aliases": [],
+      "image": "./assets/people/n12193174.jpg",
+      "source": "https://music.163.com/artist?id=12193174",
+      "imageSource": "https://p1.music.126.net/jO2Eb9wSdS6hbc2UQK1Y8w==/109951172402665734.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12127362": {
+      "name": "GALI",
+      "catalogName": "GALI",
+      "aliases": [],
+      "image": "./assets/people/n12127362.jpg",
+      "source": "https://music.163.com/artist?id=12127362",
+      "imageSource": "https://p2.music.126.net/YSda_aNO30ZGCsxoTgch8Q==/109951169463813274.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n53241026": {
+      "name": "Caroline堵琳",
+      "catalogName": "Caroline堵琳",
+      "aliases": [],
+      "image": "./assets/people/n53241026.jpg",
+      "source": "https://music.163.com/artist?id=53241026",
+      "imageSource": "https://p1.music.126.net/vlSx4mZBwvHlLVbdl7plaA==/109951168856137772.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12064019": {
+      "name": "连麻Swimming",
+      "catalogName": "连麻Swimming",
+      "aliases": [],
+      "image": "./assets/people/n12064019.jpg",
+      "source": "https://music.163.com/artist?id=12064019",
+      "imageSource": "https://p2.music.126.net/xZOAVvJ9_8K__iqBI_YJGg==/109951174144762778.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12538970": {
+      "name": "NeeN",
+      "catalogName": "NeeN",
+      "aliases": [],
+      "image": "./assets/people/n12538970.jpg",
+      "source": "https://music.163.com/artist?id=12538970",
+      "imageSource": "https://p2.music.126.net/QcR_i_5-HgcTol4cfFDbYA==/109951165805919429.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n29303235": {
+      "name": "PSY.P",
+      "catalogName": "PSY.P",
+      "aliases": [],
+      "image": "./assets/people/n29303235.jpg",
+      "source": "https://music.163.com/artist?id=29303235",
+      "imageSource": "https://p2.music.126.net/n8mwO118TxzqsXG88ZtiTQ==/109951173712104888.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33202222": {
+      "name": "刘牧洲",
+      "catalogName": "刘牧洲",
+      "aliases": [],
+      "image": "./assets/people/n33202222.jpg",
+      "source": "https://music.163.com/artist?id=33202222",
+      "imageSource": "https://p1.music.126.net/0opg53dyCgSLAxOiR6cO7Q==/109951173778597548.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33937972": {
+      "name": "CashTrippy",
+      "catalogName": "CashTrippy",
+      "aliases": [],
+      "image": "./assets/people/n33937972.jpg",
+      "source": "https://music.163.com/artist?id=33937972",
+      "imageSource": "https://p1.music.126.net/kL7d-0ehorNXgSa8tznQGg==/109951172338582374.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12001195": {
+      "name": "DiESi",
+      "catalogName": "DiESi",
+      "aliases": [],
+      "image": "./assets/people/n12001195.jpg",
+      "source": "https://music.163.com/artist?id=12001195",
+      "imageSource": "https://p2.music.126.net/4y-35v2-QpqrDqX8j71DcQ==/109951163522329706.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n32712412": {
+      "name": "斑比Bambii",
+      "catalogName": "斑比Bambii",
+      "aliases": [],
+      "image": "./assets/people/n32712412.jpg",
+      "source": "https://music.163.com/artist?id=32712412",
+      "imageSource": "https://p2.music.126.net/5eCQUgLw_dgryfkDbUmcYg==/109951174186305991.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n14117457": {
+      "name": "SASIOVERLXRD",
+      "catalogName": "SASIOVERLXRD",
+      "aliases": [],
+      "image": "./assets/people/n14117457.jpg",
+      "source": "https://music.163.com/artist?id=14117457",
+      "imageSource": "https://p2.music.126.net/VSWNU8cLz6arkK6L2Dh3HA==/109951173348504450.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n28642672": {
+      "name": "kkluv",
+      "catalogName": "kkluv",
+      "aliases": [],
+      "image": "./assets/people/n28642672.jpg",
+      "source": "https://music.163.com/artist?id=28642672",
+      "imageSource": "https://p1.music.126.net/krPkb_D4b63eIP5kbj6lqQ==/109951172293193743.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12570417": {
+      "name": "那奇沃夫",
+      "catalogName": "那奇沃夫",
+      "aliases": [],
+      "image": "./assets/people/n12570417.jpg",
+      "source": "https://music.163.com/artist?id=12570417",
+      "imageSource": "https://p2.music.126.net/LN0eotZ7ipuD6SR48oAVEw==/109951173887092682.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13145283": {
+      "name": "ICE杨长青",
+      "catalogName": "ICE杨长青",
+      "aliases": [],
+      "image": "./assets/people/n13145283.jpg",
+      "source": "https://music.163.com/artist?id=13145283",
+      "imageSource": "https://p1.music.126.net/Tx6VGc24U9T_7zF18iM-Tw==/109951173585573440.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n48045511": {
+      "name": "APMOZART",
+      "catalogName": "APMOZART",
+      "aliases": [
+        "Mr.Finest"
+      ],
+      "image": "./assets/people/n48045511.jpg",
+      "source": "https://music.163.com/artist?id=48045511",
+      "imageSource": "https://p1.music.126.net/_CHuFsMoIs71yRFI9OAiWw==/109951174066537676.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12119618": {
+      "name": "派克特（PACT）",
+      "catalogName": "派克特（PACT）",
+      "aliases": [],
+      "image": "./assets/people/n12119618.jpg",
+      "source": "https://music.163.com/artist?id=12119618",
+      "imageSource": "https://p1.music.126.net/SxsbX2OTJ4k5-7LJAdgbjg==/109951168995763263.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n27910761": {
+      "name": "Green Soldier",
+      "catalogName": "Green Soldier",
+      "aliases": [],
+      "image": "./assets/people/n27910761.jpg",
+      "source": "https://music.163.com/artist?id=27910761",
+      "imageSource": "https://p2.music.126.net/9o6IEzbN9eYYR5JvYt5FyA==/109951164967716298.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13005039": {
+      "name": "V.O.B",
+      "catalogName": "V.O.B",
+      "aliases": [],
+      "image": "./assets/people/n13005039.jpg",
+      "source": "https://music.163.com/artist?id=13005039",
+      "imageSource": "https://p2.music.126.net/55oxw3F_yj5U1QP2UVfziA==/109951163094545924.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n13907045": {
+      "name": "brokeboiishawty",
+      "catalogName": "brokeboiishawty",
+      "aliases": [],
+      "image": "./assets/people/n13907045.jpg",
+      "source": "https://music.163.com/artist?id=13907045",
+      "imageSource": "https://p1.music.126.net/gV8Nw1fQ1j22tnJnF8nyjw==/109951166887001514.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n33072729": {
+      "name": "Jumpouttamoon",
+      "catalogName": "Jumpouttamoon",
+      "aliases": [],
+      "image": "./assets/people/n33072729.jpg",
+      "source": "https://music.163.com/artist?id=33072729",
+      "imageSource": "https://p2.music.126.net/FMSvPAQWbrNglozxFjtf3w==/109951167458586603.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13132045": {
+      "name": "JIMI天赐",
+      "catalogName": "JIMI天赐",
+      "aliases": [
+        "JIMMY_TC"
+      ],
+      "image": "./assets/people/n13132045.jpg",
+      "source": "https://music.163.com/artist?id=13132045",
+      "imageSource": "https://p2.music.126.net/mXCI_4datC8yHZ4xPu1NXg==/109951168287113478.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n29591148": {
+      "name": "P.C.G (紫猫帮）",
+      "catalogName": "P.C.G (紫猫帮）",
+      "aliases": [],
+      "image": "./assets/people/n29591148.jpg",
+      "source": "https://music.163.com/artist?id=29591148",
+      "imageSource": "https://p2.music.126.net/kBViu3ZiZoiQR_7XNdE6Yg==/109951163586756587.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n13610079": {
+      "name": "BUU",
+      "catalogName": "BUU",
+      "aliases": [
+        "TABRIS"
+      ],
+      "image": "./assets/people/n13610079.jpg",
+      "source": "https://music.163.com/artist?id=13610079",
+      "imageSource": "https://p2.music.126.net/0YByEuVkuBH6LK5ZyfW3Bg==/109951168853124547.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n32125730": {
+      "name": "TripleSeven777",
+      "catalogName": "TripleSeven777",
+      "aliases": [],
+      "image": "./assets/people/n32125730.jpg",
+      "source": "https://music.163.com/artist?id=32125730",
+      "imageSource": "https://p1.music.126.net/5lvOK7tYSz2kvrF_YroU9g==/109951172164763933.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13146287": {
+      "name": "轰隆隆",
+      "catalogName": "轰隆隆",
+      "aliases": [],
+      "image": "./assets/people/n13146287.jpg",
+      "source": "https://music.163.com/artist?id=13146287",
+      "imageSource": "https://p1.music.126.net/DWrUro5tFbPTpyHAh8omew==/109951164745201168.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n34319827": {
+      "name": "Surfosho",
+      "catalogName": "Surfosho",
+      "aliases": [],
+      "image": "./assets/people/n34319827.jpg",
+      "source": "https://music.163.com/artist?id=34319827",
+      "imageSource": "https://p1.music.126.net/BbQUhowD_7lKgi1gRWjTQQ==/109951172468632222.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n30956795": {
+      "name": "BillyBlaze",
+      "catalogName": "BillyBlaze",
+      "aliases": [],
+      "image": "./assets/people/n30956795.jpg",
+      "source": "https://music.163.com/artist?id=30956795",
+      "imageSource": "https://p1.music.126.net/dMxKZ0GQnlrv01PU6TFHSA==/109951168594587654.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13029029": {
+      "name": "YoungGeez",
+      "catalogName": "YoungGeez",
+      "aliases": [],
+      "image": "./assets/people/n13029029.jpg",
+      "source": "https://music.163.com/artist?id=13029029",
+      "imageSource": "https://p2.music.126.net/0FRSUzjdgowkUHqUm_ETIQ==/109951165693577379.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n30126914": {
+      "name": "XVIBE",
+      "catalogName": "XVIBE",
+      "aliases": [],
+      "image": "./assets/people/n30126914.jpg",
+      "source": "https://music.163.com/artist?id=30126914",
+      "imageSource": "https://p2.music.126.net/5S4YRZR0ouhPNL0GNPCxwA==/109951171092018183.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12491056": {
+      "name": "BIG Shivy",
+      "catalogName": "BIG Shivy",
+      "aliases": [],
+      "image": "./assets/people/n12491056.jpg",
+      "source": "https://music.163.com/artist?id=12491056",
+      "imageSource": "https://p2.music.126.net/0WLutQNqowsX2uZhdWyOcA==/109951170612666207.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12358200": {
+      "name": "Doooboi",
+      "catalogName": "Doooboi",
+      "aliases": [],
+      "image": "./assets/people/n12358200.jpg",
+      "source": "https://music.163.com/artist?id=12358200",
+      "imageSource": "https://p1.music.126.net/beHBLoU7nwfsL_z4Gv_VNw==/109951169818136611.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12459364": {
+      "name": "XZTYWXZYTYXZ",
+      "catalogName": "XZTYWXZYTYXZ",
+      "aliases": [],
+      "image": "./assets/people/n12459364.jpg",
+      "source": "https://music.163.com/artist?id=12459364",
+      "imageSource": "https://p1.music.126.net/Pnz6LRjJroteMXZbhQ6USw==/109951169943970901.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12110093": {
+      "name": "Kronic",
+      "catalogName": "Kronic",
+      "aliases": [],
+      "image": "./assets/people/n12110093.jpg",
+      "source": "https://music.163.com/artist?id=12110093",
+      "imageSource": "https://p2.music.126.net/XkJqMUilXHussPccH5WqSA==/109951162887340077.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n35252449": {
+      "name": "LEON LEE",
+      "catalogName": "LEON LEE",
+      "aliases": [],
+      "image": "./assets/people/n35252449.jpg",
+      "source": "https://music.163.com/artist?id=35252449",
+      "imageSource": "https://p1.music.126.net/_pVf4oHxytR9rm52-1Q8Nw==/109951170956707482.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12072073": {
+      "name": "Gosh Music",
+      "catalogName": "Gosh Music",
+      "aliases": [],
+      "image": "./assets/people/n12072073.jpg",
+      "source": "https://music.163.com/artist?id=12072073",
+      "imageSource": "https://p2.music.126.net/_Mv6nmc8S6O5mPZxnJrRGQ==/109951163104160083.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n32178760": {
+      "name": "慕斯塔法",
+      "catalogName": "慕斯塔法",
+      "aliases": [],
+      "image": "./assets/people/n32178760.jpg",
+      "source": "https://music.163.com/artist?id=32178760",
+      "imageSource": "https://p2.music.126.net/hndi3llcHzUwKkMt_Bngsw==/109951169466739414.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13612076": {
+      "name": "stik",
+      "catalogName": "stik",
+      "aliases": [],
+      "image": "./assets/people/n13612076.jpg",
+      "source": "https://music.163.com/artist?id=13612076",
+      "imageSource": "https://p1.music.126.net/Us7eD6SUvJrKNx8xyacxMQ==/109951167404720773.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13860449": {
+      "name": "90sBABY",
+      "catalogName": "90sBABY",
+      "aliases": [],
+      "image": "./assets/people/n13860449.jpg",
+      "source": "https://music.163.com/artist?id=13860449",
+      "imageSource": "https://p2.music.126.net/qgWPcehEgnbuamwq1Pyh7w==/109951173502664024.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12111129": {
+      "name": "希介",
+      "catalogName": "希介",
+      "aliases": [],
+      "image": "./assets/people/n12111129.jpg",
+      "source": "https://music.163.com/artist?id=12111129",
+      "imageSource": "https://p2.music.126.net/5KSKBUeQvsEH_6l9zCP6Kg==/109951173776740250.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12499279": {
+      "name": "王嗣尧TURBO",
+      "catalogName": "王嗣尧TURBO",
+      "aliases": [],
+      "image": "./assets/people/n12499279.jpg",
+      "source": "https://music.163.com/artist?id=12499279",
+      "imageSource": "https://p2.music.126.net/KSBCC4hnFq0am6Y8x0WXgg==/109951169564693521.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13681627": {
+      "name": "Wave Muzik",
+      "catalogName": "Wave Muzik",
+      "aliases": [],
+      "image": "./assets/people/n13681627.jpg",
+      "source": "https://music.163.com/artist?id=13681627",
+      "imageSource": "https://p1.music.126.net/5ITVYShs3ugKNzvz8YaMPw==/109951166117792039.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n12965215": {
+      "name": "邓典果DDG",
+      "catalogName": "邓典果DDG",
+      "aliases": [],
+      "image": "./assets/people/n12965215.jpg",
+      "source": "https://music.163.com/artist?id=12965215",
+      "imageSource": "https://p1.music.126.net/GLgV_NbKYJ8fLOUr39Cicg==/109951168477255172.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12370200": {
+      "name": "王洋EVIS",
+      "catalogName": "王洋EVIS",
+      "aliases": [],
+      "image": "./assets/people/n12370200.jpg",
+      "source": "https://music.163.com/artist?id=12370200",
+      "imageSource": "https://p1.music.126.net/bLFwqEWUB1vVSVLZnqXGmA==/109951174117462847.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12087155": {
+      "name": "J.Mag",
+      "catalogName": "J.Mag",
+      "aliases": [],
+      "image": "./assets/people/n12087155.jpg",
+      "source": "https://music.163.com/artist?id=12087155",
+      "imageSource": "https://p2.music.126.net/UtkZb0RFmfM6KhSl1TSMbw==/109951172984703108.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12083741": {
+      "name": "PoloBear",
+      "catalogName": "PoloBear",
+      "aliases": [],
+      "image": "./assets/people/n12083741.jpg",
+      "source": "https://music.163.com/artist?id=12083741",
+      "imageSource": "https://p2.music.126.net/bU7cOaeRdDXsdMWbV23KwA==/109951168619726641.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12002201": {
+      "name": "Higher Brothers",
+      "catalogName": "Higher Brothers",
+      "aliases": [
+        "更高兄弟"
+      ],
+      "image": "./assets/people/n12002201.jpg",
+      "source": "https://music.163.com/artist?id=12002201",
+      "imageSource": "https://p1.music.126.net/U9_yVbWosdU9hd2PluL7mQ==/109951164269437732.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n124542": {
+      "name": "朴宰范",
+      "catalogName": "朴宰范",
+      "aliases": [
+        "Jay Park"
+      ],
+      "image": "./assets/people/n124542.jpg",
+      "source": "https://music.163.com/artist?id=124542",
+      "imageSource": "https://p1.music.126.net/blTg8CWVGQdYtC_BKl3D2A==/109951173207202417.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1204010": {
+      "name": "TizzyT",
+      "catalogName": "TizzyT",
+      "aliases": [],
+      "image": "./assets/people/n1204010.jpg",
+      "source": "https://music.163.com/artist?id=1204010",
+      "imageSource": "https://p2.music.126.net/Vbo8K447I5LLvH9VpdTfww==/109951166527176990.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12004034": {
+      "name": "MadeinTYO",
+      "catalogName": "MadeinTYO",
+      "aliases": [],
+      "image": "./assets/people/n12004034.jpg",
+      "source": "https://music.163.com/artist?id=12004034",
+      "imageSource": "https://p1.music.126.net/vghFAohiKgieUZ6HGFGI-A==/18632324046251158.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12815280": {
+      "name": "Lil Gnar",
+      "catalogName": "Lil Gnar",
+      "aliases": [],
+      "image": "./assets/people/n12815280.jpg",
+      "source": "https://music.163.com/artist?id=12815280",
+      "imageSource": "https://p2.music.126.net/V5qWkKmACMvJJ_ceybJCrw==/109951169819082514.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n31917276": {
+      "name": "Mengzi",
+      "catalogName": "Mengzi",
+      "aliases": [],
+      "image": "./assets/people/n31917276.jpg",
+      "source": "https://music.163.com/artist?id=31917276",
+      "imageSource": "https://p1.music.126.net/aaqvlDgKID6Nh1VdeDD5-Q==/109951164054171642.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12039173": {
+      "name": "李尔新",
+      "catalogName": "李尔新",
+      "aliases": [],
+      "image": "./assets/people/n12039173.jpg",
+      "source": "https://music.163.com/artist?id=12039173",
+      "imageSource": "https://p1.music.126.net/ZAsJPxAv4axhbWVkj4UEZA==/109951171722169442.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n35784564": {
+      "name": "弹壳Danko",
+      "catalogName": "弹壳Danko",
+      "aliases": [],
+      "image": "./assets/people/n35784564.jpg",
+      "source": "https://music.163.com/artist?id=35784564",
+      "imageSource": "https://p1.music.126.net/Gc4qmlH3l2olNuPH9xtwHA==/109951173028746722.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1086078": {
+      "name": "Ty.",
+      "catalogName": "Ty.",
+      "aliases": [],
+      "image": "./assets/people/n1086078.jpg",
+      "source": "https://music.163.com/artist?id=1086078",
+      "imageSource": "https://p2.music.126.net/bQkoAJSN2mkUmDZDejF_Tg==/109951167060520225.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13796823": {
+      "name": "Sleepy Cat",
+      "catalogName": "Sleepy Cat",
+      "aliases": [],
+      "image": "./assets/people/n13796823.jpg",
+      "source": "https://music.163.com/artist?id=13796823",
+      "imageSource": "https://p1.music.126.net/QU0Q55iLPtDbeudUJKg34w==/109951166683576260.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n187010": {
+      "name": "J. Sheon",
+      "catalogName": "J. Sheon",
+      "aliases": [],
+      "image": "./assets/people/n187010.jpg",
+      "source": "https://music.163.com/artist?id=187010",
+      "imageSource": "https://p2.music.126.net/KVTGxnhH8PUfsOLxB6mQ8Q==/109951169891917230.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n820141": {
+      "name": "Awich",
+      "catalogName": "Awich",
+      "aliases": [],
+      "image": "./assets/people/n820141.jpg",
+      "source": "https://music.163.com/artist?id=820141",
+      "imageSource": "https://p2.music.126.net/DKDW6NooG456jitaJmsGjQ==/109951169991547404.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n32444510": {
+      "name": "KR$NA",
+      "catalogName": "KR$NA",
+      "aliases": [
+        "Krishna Kaul",
+        "Krishna"
+      ],
+      "image": "./assets/people/n32444510.jpg",
+      "source": "https://music.163.com/artist?id=32444510",
+      "imageSource": "https://p2.music.126.net/Axw73F-We1qNSnv8svYvmQ==/109951167723895906.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n11976077": {
+      "name": "Matzka玛斯卡",
+      "catalogName": "Matzka玛斯卡",
+      "aliases": [],
+      "image": "./assets/people/n11976077.jpg",
+      "source": "https://music.163.com/artist?id=11976077",
+      "imageSource": "https://p2.music.126.net/4CfGM58bzijgs6XwTG0DFw==/109951168616351203.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n35658806": {
+      "name": "VannDa",
+      "catalogName": "VannDa",
+      "aliases": [],
+      "image": "./assets/people/n35658806.jpg",
+      "source": "https://music.163.com/artist?id=35658806",
+      "imageSource": "https://p2.music.126.net/4x9hSrGpw1bM8jAgNOP3RA==/109951170662191078.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12276375": {
+      "name": "NINEONE#乃万",
+      "catalogName": "NINEONE#乃万",
+      "aliases": [
+        "乃万",
+        "赵馨玥",
+        "NINEONE"
+      ],
+      "image": "./assets/people/n12276375.jpg",
+      "source": "https://music.163.com/artist?id=12276375",
+      "imageSource": "https://p2.music.126.net/jaBqPYvEMARlH3PBAbvZsg==/109951173942734030.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n15022053": {
+      "name": "88rising",
+      "catalogName": "88rising",
+      "aliases": [],
+      "image": "./assets/people/n15022053.jpg",
+      "source": "https://music.163.com/artist?id=15022053",
+      "imageSource": "https://p2.music.126.net/S0i3sSN-SboH7hM4HuU3Ww==/109951165992591051.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n13056442": {
+      "name": "范丞丞",
+      "catalogName": "范丞丞",
+      "aliases": [],
+      "image": "./assets/people/n13056442.jpg",
+      "source": "https://music.163.com/artist?id=13056442",
+      "imageSource": "https://p1.music.126.net/843j9wCLDGLjDIIt6Co8Zg==/109951173886344573.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n46321934": {
+      "name": "Saeku",
+      "catalogName": "Saeku",
+      "aliases": [],
+      "image": "./assets/people/n46321934.jpg",
+      "source": "https://music.163.com/artist?id=46321934",
+      "imageSource": "https://p2.music.126.net/1oP_GfrrDvUlb9rFR69Byg==/109951167723778864.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12345081": {
+      "name": "KZoo",
+      "catalogName": "KZoo",
+      "aliases": [],
+      "image": "./assets/people/n12345081.jpg",
+      "source": "https://music.163.com/artist?id=12345081",
+      "imageSource": "https://p2.music.126.net/-8JnxUBAmfQ1W9dB9RYJMA==/109951170230634072.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n4723": {
+      "name": "潘玮柏",
+      "catalogName": "潘玮柏",
+      "aliases": [
+        "Will Pan",
+        "Wilber Pan"
+      ],
+      "image": "./assets/people/n4723.jpg",
+      "source": "https://music.163.com/artist?id=4723",
+      "imageSource": "https://p1.music.126.net/mjERW5hR9eD9d7m8QcEtaw==/109951172209775356.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n58711580": {
+      "name": "1999 WRITE THE FUTURE",
+      "catalogName": "1999 WRITE THE FUTURE",
+      "aliases": [],
+      "image": "./assets/people/n58711580.jpg",
+      "source": "https://music.163.com/artist?id=58711580",
+      "imageSource": "https://p1.music.126.net/FppDPEbOwPJGpiIcvunZiA==/109951168975955137.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n51957057": {
+      "name": "ljz329",
+      "catalogName": "ljz329",
+      "aliases": [],
+      "image": "./assets/people/n51957057.jpg",
+      "source": "https://music.163.com/artist?id=51957057",
+      "imageSource": "https://p1.music.126.net/2HWBehaTrcYUZAByJh-mDg==/109951170681263534.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12526488": {
+      "name": "Phum Viphurit",
+      "catalogName": "Phum Viphurit",
+      "aliases": [],
+      "image": "./assets/people/n12526488.jpg",
+      "source": "https://music.163.com/artist?id=12526488",
+      "imageSource": "https://p1.music.126.net/xCrmSopHecFIJb5-UFFMAw==/109951171478917796.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12202125": {
+      "name": "pH-1",
+      "catalogName": "pH-1",
+      "aliases": [
+        "朴俊元",
+        "酸哥"
+      ],
+      "image": "./assets/people/n12202125.jpg",
+      "source": "https://music.163.com/artist?id=12202125",
+      "imageSource": "https://p1.music.126.net/1OAQ12SwN00GlFk3un5dDQ==/109951170827327146.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1124151": {
+      "name": "刘柏辛Lexie",
+      "catalogName": "刘柏辛Lexie",
+      "aliases": [],
+      "image": "./assets/people/n1124151.jpg",
+      "source": "https://music.163.com/artist?id=1124151",
+      "imageSource": "https://p2.music.126.net/s6ZQIl4z3npV0gagcLbbMA==/109951172155025957.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n10473": {
+      "name": "袁娅维TIA RAY",
+      "catalogName": "袁娅维TIA RAY",
+      "aliases": [
+        "Tia"
+      ],
+      "image": "./assets/people/n10473.jpg",
+      "source": "https://music.163.com/artist?id=10473",
+      "imageSource": "https://p1.music.126.net/am8H5LeHC0-Ex69bETXQQg==/109951172789073256.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n46903836": {
+      "name": "NINGNING",
+      "catalogName": "NINGNING",
+      "aliases": [
+        "宁艺卓"
+      ],
+      "image": "./assets/people/n46903836.jpg",
+      "source": "https://music.163.com/artist?id=46903836",
+      "imageSource": "https://p2.music.126.net/32IBCsBTGnZqXpJfACidmw==/109951170048185436.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n8331": {
+      "name": "李玟",
+      "catalogName": "李玟",
+      "aliases": [
+        "CoCo Lee"
+      ],
+      "image": "./assets/people/n8331.jpg",
+      "source": "https://music.163.com/artist?id=8331",
+      "imageSource": "https://p1.music.126.net/FmnHUn7_z3JQ1lWjwIcZeA==/109951168440005081.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n4479": {
+      "name": "MC HotDog 热狗",
+      "catalogName": "MC HotDog 热狗",
+      "aliases": [
+        "热狗",
+        "姚中仁",
+        "哈狗帮"
+      ],
+      "image": "./assets/people/n4479.jpg",
+      "source": "https://music.163.com/artist?id=4479",
+      "imageSource": "https://p1.music.126.net/5ViEXoj1xti2RzahxIMzZQ==/109951169161434274.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12288442": {
+      "name": "AnsrJ",
+      "catalogName": "AnsrJ",
+      "aliases": [],
+      "image": "./assets/people/n12288442.jpg",
+      "source": "https://music.163.com/artist?id=12288442",
+      "imageSource": "https://p2.music.126.net/CFsa1E0KH2hv5MuQbun08A==/109951173200100403.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12118563": {
+      "name": "也是福",
+      "catalogName": "也是福",
+      "aliases": [],
+      "image": "./assets/people/n12118563.jpg",
+      "source": "https://music.163.com/artist?id=12118563",
+      "imageSource": "https://p1.music.126.net/WjC0AFSbZFeRiE9S0PTwfQ==/109951172264823151.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n53752256": {
+      "name": "Spence Lee",
+      "catalogName": "Spence Lee",
+      "aliases": [],
+      "image": "./assets/people/n53752256.jpg",
+      "source": "https://music.163.com/artist?id=53752256",
+      "imageSource": "https://p1.music.126.net/QNRvPZeML3kuaya4BBTENw==/109951169299482251.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n31447671": {
+      "name": "T3BEATS",
+      "catalogName": "T3BEATS",
+      "aliases": [],
+      "image": "./assets/people/n31447671.jpg",
+      "source": "https://music.163.com/artist?id=31447671",
+      "imageSource": "https://p1.music.126.net/zv8ZkhMEUYo8ZhizbkDJGg==/109951165486004325.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12268099": {
+      "name": "YYKBZ",
+      "catalogName": "YYKBZ",
+      "aliases": [],
+      "image": "./assets/people/n12268099.jpg",
+      "source": "https://music.163.com/artist?id=12268099",
+      "imageSource": "https://p2.music.126.net/88Qjxict_qPJXtbm1gHLNg==/109951170624463244.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1047049": {
+      "name": "Yoken_Official",
+      "catalogName": "Yoken_Official",
+      "aliases": [
+        "YOKEN@YBM"
+      ],
+      "image": "./assets/people/n1047049.jpg",
+      "source": "https://music.163.com/artist?id=1047049",
+      "imageSource": "https://p1.music.126.net/X9Peqwsml-tJ2OidCZLtRA==/109951165844122653.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12554857": {
+      "name": "Duhu",
+      "catalogName": "Duhu",
+      "aliases": [],
+      "image": "./assets/people/n12554857.jpg",
+      "source": "https://music.163.com/artist?id=12554857",
+      "imageSource": "https://p2.music.126.net/qaBqvFZLdPFQ4UkU466b6Q==/109951172811726323.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1098154": {
+      "name": "JZlee",
+      "catalogName": "JZlee",
+      "aliases": [],
+      "image": "./assets/people/n1098154.jpg",
+      "source": "https://music.163.com/artist?id=1098154",
+      "imageSource": "https://p2.music.126.net/m7NmO162frZip3JzSg0Cnw==/109951163992379706.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n37343079": {
+      "name": "YTH Chopie",
+      "catalogName": "YTH Chopie",
+      "aliases": [
+        "Sonam Chophel"
+      ],
+      "image": "./assets/people/n37343079.jpg",
+      "source": "https://music.163.com/artist?id=37343079",
+      "imageSource": "https://p1.music.126.net/gqzpSXcWVv9z2YcdbLRpQQ==/109951170220754669.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12062134": {
+      "name": "21 Savage",
+      "catalogName": "21 Savage",
+      "aliases": [],
+      "image": "./assets/people/n12062134.jpg",
+      "source": "https://music.163.com/artist?id=12062134",
+      "imageSource": "https://p2.music.126.net/kxbgeVr1vbV1-x76NsPCyA==/109951168930763833.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12024301": {
+      "name": "Rich Brian",
+      "catalogName": "Rich Brian",
+      "aliases": [],
+      "image": "./assets/people/n12024301.jpg",
+      "source": "https://music.163.com/artist?id=12024301",
+      "imageSource": "https://p1.music.126.net/qgHd1Fu_ZriRUNTTiZEXHw==/109951170621642784.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12022040": {
+      "name": "FENDIGHEE RICCH",
+      "catalogName": "FENDIGHEE RICCH",
+      "aliases": [
+        "Gheericch4life"
+      ],
+      "image": "./assets/people/n12022040.jpg",
+      "source": "https://music.163.com/artist?id=12022040",
+      "imageSource": "https://p1.music.126.net/dZ4aieOzY-I8ydmFIuEOKA==/109951172673546624.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n46991785": {
+      "name": "Warren Hue",
+      "catalogName": "Warren Hue",
+      "aliases": [],
+      "image": "./assets/people/n46991785.jpg",
+      "source": "https://music.163.com/artist?id=46991785",
+      "imageSource": "https://p2.music.126.net/5R9g7p8g2iQAs_Xj65T6uA==/109951166450365917.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n48165702": {
+      "name": "A Few Good Kids Records",
+      "catalogName": "A Few Good Kids Records",
+      "aliases": [],
+      "image": "./assets/people/n48165702.jpg",
+      "source": "https://music.163.com/artist?id=48165702",
+      "imageSource": "https://p2.music.126.net/IMdPfEmaNdWZCj4aOuDaqw==/109951166027210198.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n13110849": {
+      "name": "Karencici",
+      "catalogName": "Karencici",
+      "aliases": [
+        "Karencici Lam"
+      ],
+      "image": "./assets/people/n13110849.jpg",
+      "source": "https://music.163.com/artist?id=13110849",
+      "imageSource": "https://p2.music.126.net/hS0gBnSkuLkjRPT63sEUrg==/109951173293637809.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12333145": {
+      "name": "DP龙猪",
+      "catalogName": "DP龙猪",
+      "aliases": [
+        "李龙飞"
+      ],
+      "image": "./assets/people/n12333145.jpg",
+      "source": "https://music.163.com/artist?id=12333145",
+      "imageSource": "https://p2.music.126.net/BHOD_lIj1huusJRIenbSjg==/109951172063659601.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12200029": {
+      "name": "HARIKIRI",
+      "catalogName": "HARIKIRI",
+      "aliases": [],
+      "image": "./assets/people/n12200029.jpg",
+      "source": "https://music.163.com/artist?id=12200029",
+      "imageSource": "https://p1.music.126.net/yWw5dvuTn7dRpXbpv50lfw==/109951165776309282.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n32959015": {
+      "name": "阿达娃",
+      "catalogName": "阿达娃",
+      "aliases": [],
+      "image": "./assets/people/n32959015.jpg",
+      "source": "https://music.163.com/artist?id=32959015",
+      "imageSource": "https://p1.music.126.net/QiKQ2vy1NM5JPJJ6ZPY7zg==/109951170151716789.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12275767": {
+      "name": "step.jad依加",
+      "catalogName": "step.jad依加",
+      "aliases": [],
+      "image": "./assets/people/n12275767.jpg",
+      "source": "https://music.163.com/artist?id=12275767",
+      "imageSource": "https://p1.music.126.net/bVrPJCcMnV66bQJm7hD3qw==/109951174082101174.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n1011016": {
+      "name": "刘逸云 Amber Liu",
+      "catalogName": "刘逸云 Amber Liu",
+      "aliases": [],
+      "image": "./assets/people/n1011016.jpg",
+      "source": "https://music.163.com/artist?id=1011016",
+      "imageSource": "https://p2.music.126.net/eyLF7I_hGXLw6PKHGuuL3g==/109951169357762039.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n13151028": {
+      "name": "万乐",
+      "catalogName": "万乐",
+      "aliases": [],
+      "image": "./assets/people/n13151028.jpg",
+      "source": "https://music.163.com/artist?id=13151028",
+      "imageSource": "https://p1.music.126.net/m9KvcB8DNczxzDagdD9NXQ==/109951173361174027.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n31880229": {
+      "name": "石玺彤",
+      "catalogName": "石玺彤",
+      "aliases": [
+        "彤殿",
+        "魔力石公主"
+      ],
+      "image": "./assets/people/n31880229.jpg",
+      "source": "https://music.163.com/artist?id=31880229",
+      "imageSource": "https://p2.music.126.net/GQibM_e32DN9uOMSm0rCHQ==/109951173260019978.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12195296": {
+      "name": "YOUNG13DBABY",
+      "catalogName": "YOUNG13DBABY",
+      "aliases": [],
+      "image": "./assets/people/n12195296.jpg",
+      "source": "https://music.163.com/artist?id=12195296",
+      "imageSource": "https://p1.music.126.net/jq8Q4ANwLZDiFfQWUjG_EQ==/109951169764760151.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12109219": {
+      "name": "孙瑄阳Xtina",
+      "catalogName": "孙瑄阳Xtina",
+      "aliases": [],
+      "image": "./assets/people/n12109219.jpg",
+      "source": "https://music.163.com/artist?id=12109219",
+      "imageSource": "https://p2.music.126.net/C7YIpF-LP9cHgPu2NLTWng==/109951171274437180.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12059049": {
+      "name": "Bohan 冷博涵",
+      "catalogName": "Bohan 冷博涵",
+      "aliases": [],
+      "image": "./assets/people/n12059049.jpg",
+      "source": "https://music.163.com/artist?id=12059049",
+      "imageSource": "https://p1.music.126.net/rNyc0OCu-drjLfw4ncCwNA==/109951170513627798.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n28072811": {
+      "name": "地磁卡",
+      "catalogName": "地磁卡",
+      "aliases": [],
+      "image": "./assets/people/n28072811.jpg",
+      "source": "https://music.163.com/artist?id=28072811",
+      "imageSource": "https://p2.music.126.net/JWK4JL3y_PRmn8ctpeTD9g==/109951171994023443.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n35005076": {
+      "name": "成都集团",
+      "catalogName": "成都集团",
+      "aliases": [],
+      "image": "./assets/people/n35005076.jpg",
+      "source": "https://music.163.com/artist?id=35005076",
+      "imageSource": "https://p2.music.126.net/jLLS_h9IbrQhHt-Pk2VCxA==/109951164947982934.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "collective"
+    },
+    "n12633236": {
+      "name": "P.O.E",
+      "catalogName": "P.O.E",
+      "aliases": [],
+      "image": "./assets/people/n12633236.jpg",
+      "source": "https://music.163.com/artist?id=12633236",
+      "imageSource": "https://p2.music.126.net/H6GoOzigSmpv5ayOiD35IQ==/109951165124470261.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12119322": {
+      "name": "K9TIONN",
+      "catalogName": "K9TIONN",
+      "aliases": [
+        "奈神"
+      ],
+      "image": "./assets/people/n12119322.jpg",
+      "source": "https://music.163.com/artist?id=12119322",
+      "imageSource": "https://p1.music.126.net/ifI5NSVv44_0XKBNy8kR7g==/109951171028376864.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12084504": {
+      "name": "Warz",
+      "catalogName": "Warz",
+      "aliases": [],
+      "image": "./assets/people/n12084504.jpg",
+      "source": "https://music.163.com/artist?id=12084504",
+      "imageSource": "https://p1.music.126.net/gve5xnvCdcpx1dd_rII-Mg==/109951165641990512.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n34922654": {
+      "name": "VVSGANG",
+      "catalogName": "VVSGANG",
+      "aliases": [],
+      "image": "./assets/people/n34922654.jpg",
+      "source": "https://music.163.com/artist?id=34922654",
+      "imageSource": "https://p2.music.126.net/Y6t9FjU__ixQJIYVe4cjXg==/109951164917256596.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n12078093": {
+      "name": "TSP安琪",
+      "catalogName": "TSP安琪",
+      "aliases": [],
+      "image": "./assets/people/n12078093.jpg",
+      "source": "https://music.163.com/artist?id=12078093",
+      "imageSource": "https://p2.music.126.net/IY9b3763lJErFQS1AIOLLQ==/109951169975105172.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    },
+    "n896694": {
+      "name": "Rome Fortune",
+      "catalogName": "Rome Fortune",
+      "aliases": [],
+      "image": "./assets/people/n896694.jpg",
+      "source": "https://music.163.com/artist?id=896694",
+      "imageSource": "https://p2.music.126.net/Bm4LjMDzUu9e4ZiPUyyHSg==/3241360281909673.jpg",
+      "checkedAt": "2026-10-29",
+      "kind": "person"
+    }
+  }
+}

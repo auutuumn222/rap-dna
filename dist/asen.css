@@ -7,3 +7,6 @@
 @media(max-width:800px){.network-body{grid-template-columns:minmax(0,1fr)}.connection-tracks{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.person-node .node-title{font-size:16px}.person-node .node-caption{font-size:10px}.person-node .node-monogram{font-size:19px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
+
+.person-node .node-portrait{pointer-events:none}
+.person-node.has-portrait .node-monogram{visibility:hidden}

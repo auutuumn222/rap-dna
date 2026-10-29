@@ -1,0 +1,100 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81/1449028292?uo=4",
+      "artistId": 1449028292,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81/1441077319?uo=4",
+      "artistId": 1441077319,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老老",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81%E8%80%81/1722577172?uo=4",
+      "artistId": 1722577172,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老师",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81%E5%B8%88/1724128038?uo=4",
+      "artistId": 1724128038,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Pharrell Williams",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/pharrell-williams/1361068?uo=4",
+      "artistId": 1361068,
+      "amgArtistId": 281403,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "LINKIN PARK",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/linkin-park/148662?uo=4",
+      "artistId": 148662,
+      "amgArtistId": 447095,
+      "primaryGenreName": "硬摇滚",
+      "primaryGenreId": 1152
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Miley Cyrus",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/miley-cyrus/137057909?uo=4",
+      "artistId": 137057909,
+      "amgArtistId": 823418,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lady Gaga",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lady-gaga/277293880?uo=4",
+      "artistId": 277293880,
+      "amgArtistId": 1055684,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "周杰倫",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743?uo=4",
+      "artistId": 300117743,
+      "amgArtistId": 761143,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "艾志恒Asen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%89%BE%E5%BF%97%E6%81%92asen/1636240804?uo=4",
+      "artistId": 1636240804,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    }
+  ]
+}

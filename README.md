@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯和张方钊（河南说唱之神），可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）和法老，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -9,6 +9,8 @@ Asen：https://auutuumn222.github.io/rap-dna/
 马思唯：https://auutuumn222.github.io/rap-dna/?artist=masiwei
 
 张方钊：https://auutuumn222.github.io/rap-dna/?artist=zhangfangzhao
+
+法老：https://auutuumn222.github.io/rap-dna/?artist=pharaoh
 
 音乐人参数随作品分享链接保留；原有 Asen 链接继续有效。
 
@@ -93,3 +95,19 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 采集：`node scripts/collect-zhangfangzhao.mjs`，然后 `node scripts/harvest-zhangfangzhao.mjs`。离线重建：`npm run catalog:zhangfangzhao`。目录与署名校验已接入 `npm test`；浏览器检查：`npm run test:zhangfangzhao`，截图在 `qa/zhangfangzhao/`。
 
+
+
+## 法老 Pharaoh（2026-10-29 核查）
+
+入口：`?artist=pharaoh`，或在导航中选择“法老”。复用作品年表、搜索、共同署名与幕后关系网、分享导出和网易云官方播放器。支持法老、Pharaoh、MC法老、孙权搜索。
+
+- 网易云艺人 ID 865007，三页 250 个不同歌曲 ID，平台报告 250，末页 more=false；215 条取得明确逐曲署名。
+- Apple 中国区 23 项发行交叉对照；从经作品核实的 ID 1449028292 补充 In 10 Years, Pt. 1 的 3 条记录，共 253 条平台记录。
+- 7 个核心项目：MC法老的Demo、东海岸、生于未来、上学嗨mixtape、科幻小说、退潮、健将mixtape。联合项目健将mixtape 共 11 条，仅计法老明确署名的 9 条；Apple 版本为 10 条，保留差异。
+- 活死人 Woken Day 计入 2 / 11 条；上海站现场计入 11 / 14 条，不因成员身份或专场标题补齐全曲单。Apple 理想国的发行级 featuring 不自动归入每首歌。
+- 143 个关联发行容器（140 个网易云发行、2 个待核占位、1 个 Apple 补充发行）。家有儿女PLUS (Live)、重返街头的发行与日期为空，保留为待核；有日期记录为 2014-12-01 至 2026-08-25。
+- Apple 另一个同名 ID 1441077319 待逐曲核验，不自动合并。早期、下架与视频作品尚未证明历史全量。
+
+[完整核查报告](research/PHARAOH-DISCOGRAPHY.md)，结构化数据 `dist/catalog-pharaoh.json`，来源快照 `research/pharaoh/`。仅保存公开元数据、署名与识别图片，不保存歌词或音频。
+
+采集：`node scripts/collect-pharaoh.mjs` → `node scripts/harvest-pharaoh.mjs`；离线重建：`npm run catalog:pharaoh`；浏览器检查：`npm run test:pharaoh`。数据检查已接入 `npm test`，截图在 `qa/pharaoh/`。

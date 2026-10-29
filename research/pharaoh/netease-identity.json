@@ -1,0 +1,123 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 51,
+    "hlWords": [
+      "法老"
+    ],
+    "artists": [
+      {
+        "id": 865007,
+        "name": "法老",
+        "picUrl": "https://p2.music.126.net/HTXB834S72ulGPL1oM-RCg==/109951167728753946.jpg",
+        "alias": [],
+        "albumSize": 34,
+        "musicSize": 250,
+        "picId": 109951167728753950,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 5214318,
+        "img1v1Url": "https://p2.music.126.net/mXAWgUNp5pLAzmphYvBrzQ==/109951170711607308.jpg",
+        "accountId": 6966840,
+        "img1v1": 109951170711607310,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 26,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12287129,
+        "name": "小精灵",
+        "picUrl": "https://p2.music.126.net/wHbd0WMCXCAbWSeoPmMNDg==/109951164018725120.jpg",
+        "alias": [],
+        "albumSize": 46,
+        "musicSize": 111,
+        "picId": 109951164018725120,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 545502,
+        "img1v1Url": "https://p2.music.126.net/B3m-yvuVF_fXd9pS7VgUhQ==/109951164018724146.jpg",
+        "accountId": 35158099,
+        "img1v1": 109951164018724140,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 53872013,
+        "name": "Wayi法老",
+        "picUrl": "https://p2.music.126.net/ApIgGbhxanv3-lX2hq-SUQ==/109951166382207396.jpg",
+        "alias": [],
+        "albumSize": 1,
+        "musicSize": 2,
+        "picId": 109951166382207400,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 10172,
+        "img1v1Url": "https://p2.music.126.net/qQGJts4f_4frtBt1eeHx3w==/109951168783976102.jpg",
+        "accountId": 3931800976,
+        "img1v1": 109951168783976100,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 100399787,
+        "name": "法老R X-追梦少年团",
+        "picUrl": "https://p2.music.126.net/2rlcaGXvACHmEeDcQPtGxQ==/109951174148909705.jpg",
+        "alias": [
+          "张智珺"
+        ],
+        "albumSize": 119,
+        "musicSize": 152,
+        "picId": 109951174148909710,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 13,
+        "img1v1Url": "https://p2.music.126.net/_lA0g3HcHf_JpZyuf-825Q==/109951174148896349.jpg",
+        "accountId": 6375303715,
+        "img1v1": 109951174148896350,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "张智珺"
+        ],
+        "trans": null
+      },
+      {
+        "id": 122452325,
+        "name": "我跟法老锤小精灵",
+        "picUrl": "https://p2.music.126.net/VN0gk5eqzjMKodLKa83XNg==/109951166886100573.jpg",
+        "alias": [],
+        "albumSize": 1,
+        "musicSize": 2,
+        "picId": 109951166886100580,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 72,
+        "img1v1Url": "https://p2.music.126.net/UZ_3jhr8_OocKec-uYruqQ==/109951172594860479.jpg",
+        "accountId": 1393372072,
+        "img1v1": 109951172594860480,
+        "identityIconUrl": "https://p6.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/59679338491/3362/90ef/4c32/71b9e36a1febe64a65a701b6f8bf84ab.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

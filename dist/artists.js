@@ -1,5 +1,6 @@
 export const artistProfiles={
  asen:{key:'asen',file:'./catalog.json',archive:'001',english:'ASEN',galleryStart:3,galleryIds:['n84600899','n125195422','n154372290','n287974232','n198470550','n169119649','n78321108'],tagline:'SMALL TOWN. BIG CONNECTIONS.',intro:'Asen 是第一位收录的音乐人。把作品、年份和具体署名放在一起，听见熟悉的歌，也看见那些让声音发生的人。',gapSummary:'2016–2017 年早期作品、已下架歌曲与部分视频发行尚无完整原始清单。'},
  masiwei:{key:'masiwei',file:'./catalog-masiwei.json',archive:'002',english:'MASIWEI',tagline:'FROM P.E.I TO THE WORLD.',intro:'从 P.E.I 的早期录音，到黑马系列与乐透人生。沿着马思唯的作品，认识一起写歌、制作与登台的音乐人。',gapSummary:'早期下架作品与 Higher Brothers 团体作品仍需逐曲核对；成员身份不代替具体参与证据。'},
- zhangfangzhao:{key:'zhangfangzhao',file:'./catalog-zhangfangzhao.json',archive:'003',english:'ZHANG FANGZHAO',tagline:'FROM HENAN. IN HIS OWN NAME.',intro:'张方钊，也曾以河南说唱之神的名字创作。从 NEW WAVE、wasted 系列到钱专与蛋专，沿着作品里的故乡与生活，认识和他一起构建声音的音乐人。',gapSummary:'早期、已下架与视频作品仍待补证；WASTED CLUB 团体作品按逐曲署名收录，Apple 地区版本分别保留。'}
+ zhangfangzhao:{key:'zhangfangzhao',file:'./catalog-zhangfangzhao.json',archive:'003',english:'ZHANG FANGZHAO',tagline:'FROM HENAN. IN HIS OWN NAME.',intro:'张方钊，也曾以河南说唱之神的名字创作。从 NEW WAVE、wasted 系列到钱专与蛋专，沿着作品里的故乡与生活，认识和他一起构建声音的音乐人。',gapSummary:'早期、已下架与视频作品仍待补证；WASTED CLUB 团体作品按逐曲署名收录，Apple 地区版本分别保留。'},
+ pharaoh:{key:'pharaoh',file:'./catalog-pharaoh.json',archive:'005',english:'PHARAOH',tagline:'FROM THE EAST COAST. BEYOND THE TIDE.',intro:'从 MC法老的Demo、东海岸，到生于未来、科幻小说与退潮。沿着法老的作品，听见不同阶段的表达，也认识一起写歌、制作与登台的音乐人。',gapSummary:'早期与下架作品仍待补证；健将mixtape、活死人及现场项目按法老逐曲署名收录，同名 Apple 身份分别核验。'}
 };

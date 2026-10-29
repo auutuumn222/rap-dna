@@ -16,3 +16,7 @@
 .gallery-year{position:absolute;z-index:2;top:12px;left:12px;padding:5px 9px;border-radius:20px;background:#23263d80;border:1px solid #ffffff40;color:#fff;font-size:10px;letter-spacing:.4px;line-height:1;pointer-events:none;backdrop-filter:blur(10px)}
 .floating-album[style*="--offset:1"] .gallery-year,.floating-album[style*="--offset:2"] .gallery-year{left:auto;right:12px}
 @media(max-width:600px){.gallery-year{top:9px;left:9px;font-size:8px;padding:4px 7px}.floating-album[style*="--offset:1"] .gallery-year,.floating-album[style*="--offset:2"] .gallery-year{right:9px}}
+
+.person-badge{position:relative;overflow:hidden}
+.person-badge img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;border-radius:inherit}
+.person-badge.has-portrait .badge-monogram{visibility:hidden}

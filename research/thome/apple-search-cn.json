@@ -1,0 +1,96 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "THOME",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thome/1811532140?uo=4",
+      "artistId": 1811532140,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "THOME",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thome/1564476943?uo=4",
+      "artistId": 1564476943,
+      "primaryGenreName": "House 作品",
+      "primaryGenreId": 1048
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Francis Thome",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/francis-thome/218580789?uo=4",
+      "artistId": 218580789,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gilles Thomé",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gilles-thom%C3%A9/260188286?uo=4",
+      "artistId": 260188286,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Francis Thomé",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/francis-thom%C3%A9/156807527?uo=4",
+      "artistId": 156807527,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Joel Thome",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/joel-thome/95883832?uo=4",
+      "artistId": 95883832,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Diane Thome",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/diane-thome/325387067?uo=4",
+      "artistId": 325387067,
+      "amgArtistId": 511962,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Thomé",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thom%C3%A9/1555469735?uo=4",
+      "artistId": 1555469735,
+      "primaryGenreName": "巴西全域音乐",
+      "primaryGenreId": 1225
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Thom E",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thom-e/1423540748?uo=4",
+      "artistId": 1423540748,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Thomé",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thom%C3%A9/1520308399?uo=4",
+      "artistId": 1520308399,
+      "primaryGenreName": "巴西全域音乐",
+      "primaryGenreId": 1225
+    }
+  ]
+}

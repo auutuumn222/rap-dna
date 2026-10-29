@@ -175,3 +175,18 @@ Asen：https://auutuumn222.github.io/rap-dna/
 核查报告：[CAPPER-DISCOGRAPHY.md](research/CAPPER-DISCOGRAPHY.md)。结构化数据：`dist/catalog-capper.json`；来源快照：`research/capper/`。
 
 采集：`node scripts/collect-capper.mjs`、`node scripts/harvest-capper.mjs`、`node scripts/cache-capper-extras.mjs`。离线重建：`npm run catalog:capper`。`npm test` 校验分页、身份、联合 EP、合作范围和逐曲关系证据；`npm run test:capper` 检查桌面、390 / 320px 布局、搜索、深链接、Apple 外链、导出、网易云播放器及音乐人切换，截图在 `qa/capper/`。
+
+## Thome / thomeboydontkill（2026-10-29 核查）
+
+导航选择 Thome，或访问 `?artist=thome`。新旧艺名均可搜索，沿用年表、目录、逐曲署名关系、分享、导出与网易云官方播放器。
+
+- 网易云 ID 12110173，三页返回全部 203 条，末页 more=false；另一同名账号不合并。
+- 105 个关联发行容器，6 个个人核心项目；玉童子当前为 4/5，其余五个曲单完整。
+- DIGI GHETTO 仅收本人署名 10/18；BEDROOM TAPE 1/5，The Collections（集）1/4。不把艺人页关联发行整张归为个人作品。
+- 191 条取得明确逐曲署名，有日期的范围 2018-03-30 至 2026-08-29；不代表历史全量。
+- Apple 新旧账号共享发行 ID，保留新旧身份快照；新账号中国/美国区 20/21 项发行分别对照。英译与版本差异没有逐项证实时不重复补入。
+- 部分发行详情返回 -462，记录在采集日志；不绕过限制，仅保留元数据、署名及图片，不保存歌词或音频。
+
+采集：`node scripts/collect-thome.mjs`，再 `node scripts/harvest-thome.mjs`。离线重建：`npm run catalog:thome`。目录测试已纳入 `npm test`，浏览器检查 `npm run test:thome`。
+
+完整报告：[THOME-DISCOGRAPHY.md](research/THOME-DISCOGRAPHY.md)，来源：`research/thome/`，数据：`dist/catalog-thome.json`。

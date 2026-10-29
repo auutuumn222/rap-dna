@@ -1,0 +1,60 @@
+{
+  "resultCount": 6,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "THOME",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thome/1811532140?uo=4",
+      "artistId": 1811532140,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "mac ova seas",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mac-ova-seas/1529239270?uo=4",
+      "artistId": 1529239270,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "艾志恒Asen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%89%BE%E5%BF%97%E6%81%92asen/1636240804?uo=4",
+      "artistId": 1636240804,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "thomeboydontkill",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thomeboydontkill/1613535145?uo=4",
+      "artistId": 1613535145,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "thomeboydontkill",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thomeboydontkill/1798416485?uo=4",
+      "artistId": 1798416485,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "马思唯",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/masiwei/1095181798?uo=4",
+      "artistId": 1095181798,
+      "amgArtistId": 3595225,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

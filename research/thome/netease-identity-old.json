@@ -1,0 +1,123 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 5,
+    "hlWords": [
+      "thomeboydontkill"
+    ],
+    "artists": [
+      {
+        "id": 12110173,
+        "name": "THOME",
+        "picUrl": "https://p1.music.126.net/2c7is0sgsgFjK4QN37N3tA==/109951169207382984.jpg",
+        "alias": [],
+        "albumSize": 32,
+        "musicSize": 203,
+        "picId": 109951169207382980,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "演唱: thomeboydontkill",
+        "fansSize": 904666,
+        "img1v1Url": "https://p1.music.126.net/rIr78XiLso-Dlz00JjcLxw==/109951170999422334.jpg",
+        "accountId": 105020003,
+        "img1v1": 109951170999422340,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 17,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 13911452,
+        "name": "ATM Hanson",
+        "picUrl": "https://p1.music.126.net/YXtECHnA1pC2jQBOylqNIw==/109951165637096237.jpg",
+        "alias": [],
+        "albumSize": 13,
+        "musicSize": 173,
+        "picId": 109951165637096240,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "演唱: thomeboydontkill",
+        "fansSize": 90833,
+        "img1v1Url": "https://p1.music.126.net/G4han0GjhygZruxsll7_Lw==/109951173643567238.jpg",
+        "accountId": 1346560012,
+        "img1v1": 109951173643567230,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 9,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 14925064,
+        "name": "MULA SAKEE",
+        "picUrl": "https://p1.music.126.net/nSCLdt4rrsAt_Eyy43jQUQ==/109951168476026415.jpg",
+        "alias": [],
+        "albumSize": 38,
+        "musicSize": 148,
+        "picId": 109951168476026420,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 572778,
+        "img1v1Url": "https://p1.music.126.net/_a8e2BhWCxV7kYaUBU_l2Q==/109951173489955335.jpg",
+        "accountId": 589595662,
+        "img1v1": 109951173489955330,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 19,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12529648,
+        "name": "KIV",
+        "picUrl": "https://p1.music.126.net/bwedTUhDraCQ8Itw1NG99A==/109951170278152880.jpg",
+        "alias": [],
+        "albumSize": 16,
+        "musicSize": 85,
+        "picId": 109951170278152880,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 196768,
+        "img1v1Url": "https://p1.music.126.net/L2IegKgopP9WLDpepkHQqA==/109951170020234818.jpg",
+        "accountId": 322040198,
+        "img1v1": 109951170020234820,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 8,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 14116746,
+        "name": "黄格雷",
+        "picUrl": "https://p1.music.126.net/AmXfXm1Z3iLuc2NnJQdstA==/109951165764121113.jpg",
+        "alias": [
+          "GregSeason"
+        ],
+        "albumSize": 43,
+        "musicSize": 230,
+        "picId": 109951165764121120,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 80021,
+        "img1v1Url": "https://p1.music.126.net/BuhPveiHYex_X-92KcRhDg==/109951173813718836.jpg",
+        "accountId": 1342296856,
+        "img1v1": 109951173813718830,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "GregSeason"
+        ],
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

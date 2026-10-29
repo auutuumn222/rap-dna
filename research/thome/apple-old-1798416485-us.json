@@ -1,0 +1,56 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "thomeboydontkill",
+      "artistLinkUrl": "https://music.apple.com/us/artist/thomeboydontkill/1798416485?uo=4",
+      "artistId": 1798416485,
+      "primaryGenreName": "Mandopop",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1463828929,
+      "collectionId": 1824635312,
+      "artistName": "KIV, thomeboydontkill, Asen & DIGI GHETTO",
+      "collectionName": "江浙沪JiangZheHood - Single",
+      "collectionCensoredName": "江浙沪JiangZheHood - Single",
+      "artistViewUrl": "https://music.apple.com/us/artist/kiv/1463828929?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/%E6%B1%9F%E6%B5%99%E6%B2%AAjiangzhehood-single/1824635312?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/b9/3d/6fb93db1-fdd7-30fb-520d-b7a9eb16a4cf/1699243011802531.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/b9/3d/6fb93db1-fdd7-30fb-520d-b7a9eb16a4cf/1699243011802531.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2023 网易云音乐",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2023-11-04T07:00:00Z",
+      "primaryGenreName": "Mandopop"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1517802715,
+      "collectionId": 1825345221,
+      "artistName": "黃格雷 & thomeboydontkill",
+      "collectionName": "Pluggnsex - Single",
+      "collectionCensoredName": "Pluggnsex - Single",
+      "artistViewUrl": "https://music.apple.com/us/artist/%E9%BB%83%E6%A0%BC%E9%9B%B7/1517802715?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/pluggnsex-single/1825345221?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/9a/94/f39a94ee-4258-f00e-f834-e5f7867eefd8/a1704191722921.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f3/9a/94/f39a94ee-4258-f00e-f834-e5f7867eefd8/a1704191722921.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2023 网易云音乐",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2023-12-17T08:00:00Z",
+      "primaryGenreName": "Mandopop"
+    }
+  ]
+}

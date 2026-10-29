@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -270,3 +270,10 @@ Asen：https://auutuumn222.github.io/rap-dna/
 有日期记录范围 2017-03-27 至 2026-10-10，不代表历史全量。Apple 共 91 项地区发行分别保留，部分曲单接口及网易云发行详情受限，失败保留日志。无歌词、音频缓存。
 
 报告：[PSYP-DISCOGRAPHY.md](research/PSYP-DISCOGRAPHY.md)。数据 `dist/catalog-psyp.json`，来源 `research/psyp/`。采集 `node scripts/collect-psyp.mjs`、`node scripts/harvest-psyp.mjs`；离线重建 `npm run catalog:psyp`；浏览器检查 `npm run test:psyp`。
+
+
+## KnowKnow 数据范围（2026-10-29 核查）
+
+入口 `?artist=knowknow`。网易云账号 27868624，Apple Music 1435562780。四页完整返回 335 条，8 个个人项目，266 条有明确逐曲署名，186 个关联发行容器。Higher Brothers 按逐曲署名收录。52hz remix 一条异常日期保留原平台字段 1994-09-03，显示日期留空待核。Apple 84 项地区发行分别保留；Mr. Enjoy Da Money 网易云 15 / Apple 14，街头贝多芬网易云 18 / Apple 美国区 17。历史全量未证明，受限请求保留日志。
+
+报告：[KNOWKNOW-DISCOGRAPHY.md](research/KNOWKNOW-DISCOGRAPHY.md)。数据 `dist/catalog-knowknow.json`；来源 `research/knowknow/`。采集 `node scripts/collect-knowknow.mjs`、`node scripts/harvest-knowknow.mjs`；离线重建 `npm run catalog:knowknow`；浏览器检查 `npm run test:knowknow`。

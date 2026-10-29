@@ -1,0 +1,35 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KnowKnow",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/knowknow/1435562780?uo=4",
+      "artistId": 1435562780,
+      "amgArtistId": 3595199,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Higher Brothers",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/higher-brothers/1149096753?uo=4",
+      "artistId": 1149096753,
+      "amgArtistId": 3446644,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "马思唯",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/masiwei/1095181798?uo=4",
+      "artistId": 1095181798,
+      "amgArtistId": 3595225,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 export const artistProfiles={
+ knowknow:{key:'knowknow',file:'./catalog-knowknow.json',archive:'016',english:'KNOWKNOW',tagline:'ENJOY THE MONEY. FOLLOW THE MELODY.',intro:'从 Mr. Enjoy Da Money、MEDM，到 LONG TIME KNOW SEE、街头贝多芬与叉烧 GANG。沿着 KnowKnow 的作品及署名，认识共同构建声音的音乐人。',gapSummary:'Higher Brothers 按逐曲署名收录；早期、下架及跨平台版本仍待补证，一条异常平台日期保留待核。'},
  psyp:{key:'psyp',file:'./catalog-psyp.json',archive:'015',english:'PSY.P',tagline:'FROM PSYLIFE TO ELITE.',intro:'从 PSYLIFE.25、Chengdu Hot 到 ULTRA·超、光明离不开黑暗与伊力特。沿着 PSY.P 的作品及逐曲署名，认识共同构建声音的音乐人。',gapSummary:'早期 M.V.P 曲单及下架作品仍待补证；Higher Brothers 按逐曲署名收录，平台版本和曲数差异分别保留。'},
  macovaseas:{key:'macovaseas',file:'./catalog-macovaseas.json',archive:'012',english:'MAC OVA SEAS',tagline:'FROM BORN 2 BE TO REBUILD.',intro:'从 Born 2 Be、MOSLOS 到 >¥ 与 Rebuild。沿着 mac ova seas 的作品与逐曲署名，认识共同创作的音乐人，也看见声音背后的制作、编曲与混音。',gapSummary:'早期、下架与视频作品仍待补证；DIGI GHETTO、The Collections（集）与合作方发行只按本人逐曲署名收录，两条发行与日期待核。'},
 

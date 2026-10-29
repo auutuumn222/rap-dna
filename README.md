@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -160,4 +160,18 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 采集：`node scripts/collect-mulasakee.mjs`，随后 `node scripts/harvest-mulasakee.mjs`；离线重建：`npm run catalog:mulasakee`。`npm test` 已纳入目录、曲单参与范围、关系证据及资源校验；`npm run test:mulasakee` 检查页面交互、分享深链接、导出、播放器、音乐人切换及 390 / 320px 布局，截图在 `qa/mulasakee/`。浏览器测试可使用 README 前述的 Playwright 和浏览器路径环境变量。
 
-
+
+
+## Capper 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=capper`，或从导航选择 Capper。沿用作品年表、歌曲搜索、逐曲署名关系网、歌曲深链接、导出与网易云播放器。
+
+- 网易云主账号 ID 12193174，两页完整返回 200 个不同歌曲 ID，末页 more=false；同名其他账号不合并。
+- 4 张个人专辑：剑，蔷薇、Uniconfication、P.I.G.、槍火天使，分别 22 / 14 / 23 / 20 条；与周震南联合署名的 EP 子弹与花期 7 条，5 个主线项目曲目完整。
+- Apple Music 艺人 ID 1574279636，中国 / 美国区分别 22 / 22 项发行，保留为 44 项地区对照；美国区取得 103 条歌曲，中国区歌曲接口未返回曲目。终章 Final Chapter 及伴奏补充 2 条，共 202 条平台记录、96 个关联发行容器，176 条有明确逐曲署名。
+- 收录日期跨度 2017-09-04 至 2026-10-25，包含单曲、专辑、现场、伴奏及重复发行，不等于历史全量或独立原创总数。Apple《终章》单曲日期 2021-10-18，发行容器日期 2022-06-06，分别保留。
+- 部分发行详情返回 API -462，失败请求保留日志，缺失曲单或制作角色不猜测。封面及肖像本地缓存。
+
+核查报告：[CAPPER-DISCOGRAPHY.md](research/CAPPER-DISCOGRAPHY.md)。结构化数据：`dist/catalog-capper.json`；来源快照：`research/capper/`。
+
+采集：`node scripts/collect-capper.mjs`、`node scripts/harvest-capper.mjs`、`node scripts/cache-capper-extras.mjs`。离线重建：`npm run catalog:capper`。`npm test` 校验分页、身份、联合 EP、合作范围和逐曲关系证据；`npm run test:capper` 检查桌面、390 / 320px 布局、搜索、深链接、Apple 外链、导出、网易云播放器及音乐人切换，截图在 `qa/capper/`。

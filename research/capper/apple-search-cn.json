@@ -1,0 +1,96 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Capper",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/capper/1574279636?uo=4",
+      "artistId": 1574279636,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Cäpper",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/capper/1458762351?uo=4",
+      "artistId": 1458762351,
+      "primaryGenreName": "电子音乐",
+      "primaryGenreId": 7
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "CAPPER MAINICHI",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/capper-mainichi/1560099682?uo=4",
+      "artistId": 1560099682,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Eugene Capper",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/eugene-capper/1182485809?uo=4",
+      "artistId": 1182485809,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "18CapperLilNate",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/18capperlilnate/1808580519?uo=4",
+      "artistId": 1808580519,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "No Capper",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/no-capper/1715631568?uo=4",
+      "artistId": 1715631568,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Walk off the Earth",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/walk-off-the-earth/271356617?uo=4",
+      "artistId": 271356617,
+      "amgArtistId": 1559099,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Morray",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/morray/1536974517?uo=4",
+      "artistId": 1536974517,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Hunxho",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/hunxho/1266800437?uo=4",
+      "artistId": 1266800437,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Imani Imani",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/imani-imani/1671911720?uo=4",
+      "artistId": 1671911720,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    }
+  ]
+}

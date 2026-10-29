@@ -1,0 +1,103 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "mac ova seas",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mac-ova-seas/1529239270?uo=4",
+      "artistId": 1529239270,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Hiroyuki Sawano",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%BD%E9%87%8E%E5%BC%98%E4%B9%8B/156620523?uo=4",
+      "artistId": 156620523,
+      "amgArtistId": 2890927,
+      "primaryGenreName": "原声音乐",
+      "primaryGenreId": 16
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Ava Max",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/ava-max/1265164818?uo=4",
+      "artistId": 1265164818,
+      "amgArtistId": 3355650,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Chappell Roan",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/chappell-roan/1264818718?uo=4",
+      "artistId": 1264818718,
+      "amgArtistId": 3354704,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "2 Chainz",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/2-chainz/435300447?uo=4",
+      "artistId": 435300447,
+      "amgArtistId": 2450987,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Shenseea",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/shenseea/1132311326?uo=4",
+      "artistId": 1132311326,
+      "amgArtistId": 3291578,
+      "primaryGenreName": "雷鬼",
+      "primaryGenreId": 24
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "TOYOKI",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/toyoki/1673878321?uo=4",
+      "artistId": 1673878321,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Police",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/the-police/93818?uo=4",
+      "artistId": 93818,
+      "amgArtistId": 5163,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Chief Keef",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/chief-keef/516663045?uo=4",
+      "artistId": 516663045,
+      "amgArtistId": 2639885,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jeezy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jeezy/276972832?uo=4",
+      "artistId": 276972832,
+      "amgArtistId": 640485,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

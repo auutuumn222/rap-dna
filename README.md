@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -220,3 +220,19 @@ Asen：https://auutuumn222.github.io/rap-dna/
 采集：`node scripts/collect-jinji.mjs`，随后 `node scripts/harvest-jinji.mjs`。离线重建：`npm run catalog:jinji`。目录检查接入 `npm test`，浏览器检查 `npm run test:jinji`。
 
 核查报告：[JINJI-DISCOGRAPHY.md](research/JINJI-DISCOGRAPHY.md)，数据：`dist/catalog-jinji.json`，来源快照：`research/jinji/`。
+
+
+## mac ova seas 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=macovaseas`，或从导航选择 mac ova seas。沿用作品年表、歌曲搜索、逐曲署名关系网、深链接、导出与网易云官方播放器。
+
+- 网易云主账号 ID 30704161，两页共 156 个不同歌曲 ID，报告总数 156，末页 more=false；36 个艺人页发行条目、86 个已知关联发行容器及 2 条发行待核记录。
+- 4 个个人项目：Born 2 Be、MOSLOS、>¥、Rebuild，分别收录 15 / 16 / 7 / 15 条。DIGI GHETTO 共 18 首，本人署名 6 首；The Collections（集）共 4 首，只收有 mac 署名的莫来头 1 首；KenRobb 的 Retro Vol.1 共 9 首，其中本人署名 7 首。
+- 142 条取得明确逐曲署名；有日期记录跨度 2018-05-29 至 2026-05-31。七里香 (Remix)、巧克力自由缺失发行 ID 与日期，保留待核，不填为 1970 年；占位图使用艺人肖像。
+- Apple Music 艺人 ID 1529239270，中国 / 美国区分别 18 / 17 项发行，保留为 35 项地区对照；歌曲接口返回美国区 30 条、中国区 0 条。已取得的歌曲均在当前网易云目录找到对应曲目，没有重复补入歌曲。
+- Born 2 Be 的网易云版本有 15 首，包含 Party&BullShit Remix；Amazon Music 版本有 14 首，差异及来源保留在报告中。平台标题、日期与艺人栏按各自来源保留，不自动合并英文别名或推断制作角色。
+- 当前公开分页完整，不代表历史全量；部分发行详情返回 API -462，失败请求保留日志。封面及肖像本地缓存。
+
+核查报告：[MACOVASEAS-DISCOGRAPHY.md](research/MACOVASEAS-DISCOGRAPHY.md)。数据：`dist/catalog-macovaseas.json`；来源：`research/macovaseas/`。
+
+采集：`node scripts/collect-macovaseas.mjs`、`node scripts/harvest-macovaseas.mjs`；离线重建：`npm run catalog:macovaseas`。`npm test` 校验完整分页、个人项目、合作范围、日期缺口、关系证据及资源；`npm run test:macovaseas` 检查页面、搜索、深链接、导出、播放器、音乐人切换及 390 / 320px 布局。截图在 `qa/macovaseas/`。

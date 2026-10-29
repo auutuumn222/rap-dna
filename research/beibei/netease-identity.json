@@ -1,0 +1,123 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 5,
+    "hlWords": [
+      "ljz329"
+    ],
+    "artists": [
+      {
+        "id": 51957057,
+        "name": "ljz329",
+        "picUrl": "https://p1.music.126.net/qxQ2Rw_3WTAEJxVCRSQetg==/109951167186510288.jpg",
+        "alias": [],
+        "albumSize": 15,
+        "musicSize": 32,
+        "picId": 109951167186510290,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1401527,
+        "img1v1Url": "https://p1.music.126.net/2HWBehaTrcYUZAByJh-mDg==/109951170681263534.jpg",
+        "accountId": 6397142681,
+        "img1v1": 109951170681263540,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 30003804,
+        "name": "404 RAPPER",
+        "picUrl": "https://p1.music.126.net/DSxqV8ieZhUWS9jXAopliA==/109951164076914478.jpg",
+        "alias": [],
+        "albumSize": 21,
+        "musicSize": 36,
+        "picId": 109951164076914480,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 781372,
+        "img1v1Url": "https://p1.music.126.net/-OPbbZN4XTKpvg-jvwttfw==/109951164076924582.jpg",
+        "accountId": 122616376,
+        "img1v1": 109951164076924580,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 124137622,
+        "name": "BB The Chosen",
+        "picUrl": "https://p1.music.126.net/GgG0EsEcGXH11IHWd8pMWw==/109951173103215082.jpg",
+        "alias": [
+          "选召之人"
+        ],
+        "albumSize": 0,
+        "musicSize": 1,
+        "picId": 109951173103215090,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 16,
+        "img1v1Url": "https://p1.music.126.net/fl7wrDMXMPLY_lpEbBQNQg==/109951173103562743.jpg",
+        "accountId": 17284642912,
+        "img1v1": 109951173103562740,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "选召之人"
+        ],
+        "trans": null
+      },
+      {
+        "id": 13145283,
+        "name": "ICE杨长青",
+        "picUrl": "https://p1.music.126.net/b_9PNPhdxFNP993BLC27yg==/109951164866587872.jpg",
+        "alias": [],
+        "albumSize": 60,
+        "musicSize": 312,
+        "picId": 109951164866587870,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 727940,
+        "img1v1Url": "https://p1.music.126.net/Tx6VGc24U9T_7zF18iM-Tw==/109951173585573440.jpg",
+        "accountId": 1354452676,
+        "img1v1": 109951173585573440,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 33,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 29304235,
+        "name": "Melo",
+        "picUrl": "https://p1.music.126.net/42nYhxy_kf4fds-2pP27Vw==/109951164925417227.jpg",
+        "alias": [],
+        "albumSize": 24,
+        "musicSize": 173,
+        "picId": 109951164925417230,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 320794,
+        "img1v1Url": "https://p1.music.126.net/XWX1ZKCTVt9y9mkoBwQMhg==/109951173446925721.jpg",
+        "accountId": 318353398,
+        "img1v1": 109951173446925730,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 28,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

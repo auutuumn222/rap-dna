@@ -8,3 +8,5 @@ body[data-artist="sasioverlxrd"] .artist-headline{font-size:clamp(23px,6.1vw,76p
 @media(max-width:600px){body[data-artist="mulasakee"] .hero h1{font-size:clamp(32px,8.8vw,46px)}body[data-artist="mulasakee"] .artist-headline{font-size:clamp(23px,6.1vw,34px);white-space:nowrap}}
 
 @media(max-width:600px){body[data-artist="capper"] .hero h1{font-size:clamp(32px,8.8vw,46px)}body[data-artist="capper"] .artist-headline{font-size:clamp(28px,7.6vw,42px);white-space:nowrap}}
+
+@media(max-width:600px){body[data-artist="beibei"] .hero h1{font-size:clamp(32px,8.8vw,46px)}}

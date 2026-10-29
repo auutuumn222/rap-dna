@@ -1,0 +1,3810 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-10-29",
+  "artist": {
+    "id": "n51957057",
+    "name": "贝贝（ljz329）",
+    "short": "贝贝",
+    "aliases": [
+      "贝贝",
+      "ljz329",
+      "lij329"
+    ],
+    "portrait": "./assets/beibei-portrait.jpg",
+    "portraitSource": "https://p2.music.126.net/2HWBehaTrcYUZAByJh-mDg==/109951170681263534.jpg",
+    "links": [
+      {
+        "label": "网易云音乐 · ljz329",
+        "url": "https://music.163.com/artist?id=51957057"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 32,
+    "neteaseCollected": 32,
+    "neteaseIncluded": 32,
+    "neteaseExcluded": 0,
+    "neteaseHasMore": false,
+    "listedReleases": 20,
+    "associatedNeteaseReleases": 30,
+    "unknownReleaseRecords": 2,
+    "appleComparedReleases": 0,
+    "appleExtraTracks": 0,
+    "coreAlbums": 0,
+    "from": "2019-12-11",
+    "through": "2026-07-29",
+    "historicallyComplete": false,
+    "description": "网易云 ljz329 主账号完整返回 32 条歌曲记录，末页 more=false；20 个艺人页单曲条目、30 个已知关联发行容器，另有 2 条发行与日期待核记录。没有已核实的个人专辑；404 RAPPER 的 Apple 相关搜索结果隔离，不并入作品和关系。"
+  },
+  "people": [
+    {
+      "id": "n13145283",
+      "name": "ICE杨长青",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13145283"
+    },
+    {
+      "id": "n51957057",
+      "name": "ljz329",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51957057"
+    },
+    {
+      "id": "n5350",
+      "name": "吴克群",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=5350"
+    },
+    {
+      "id": "n34206413",
+      "name": "Drunker",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34206413"
+    },
+    {
+      "id": "n35946228",
+      "name": "AZ啊之",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35946228"
+    },
+    {
+      "id": "n12156162",
+      "name": "饺子",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12156162"
+    },
+    {
+      "id": "n27907744",
+      "name": "YuGo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=27907744"
+    },
+    {
+      "id": "n1132392",
+      "name": "马思唯",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1132392"
+    },
+    {
+      "id": "n12430082",
+      "name": "FZ.方丈",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12430082"
+    },
+    {
+      "id": "n12789892",
+      "name": "GoldenBoomBoom",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12789892"
+    },
+    {
+      "id": "n12037117",
+      "name": "建坤YOUNG",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12037117"
+    },
+    {
+      "id": "n847107",
+      "name": "谢帝",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=847107"
+    },
+    {
+      "id": "n51929682",
+      "name": "SSr",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51929682"
+    },
+    {
+      "id": "n29304235",
+      "name": "Melo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29304235"
+    },
+    {
+      "id": "n32712412",
+      "name": "斑比Bambii",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32712412"
+    },
+    {
+      "id": "n12570417",
+      "name": "那奇沃夫",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12570417"
+    },
+    {
+      "id": "n12236265",
+      "name": "Dobi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12236265"
+    },
+    {
+      "id": "n34965709",
+      "name": "InnerSa",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34965709"
+    },
+    {
+      "id": "n12236269",
+      "name": "高天佐",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12236269"
+    },
+    {
+      "id": "n30003804",
+      "name": "404 RAPPER",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30003804"
+    },
+    {
+      "id": "n12002184",
+      "name": "AR刘夫阳",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12002184"
+    },
+    {
+      "id": "c5a2Z5qyh6YOO",
+      "name": "孙次郎",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5YWD5Y2a",
+      "name": "王元博",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cd2hpdGUgZmFuZ-eZveeJmQ",
+      "name": "WHITE FANG白牙",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbWFp",
+      "name": "Mai",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2O5Lqs5rO9",
+      "name": "李京泽",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW9rZW5fb2ZmaWNpYWw",
+      "name": "Yoken_Official",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca3l4eHg",
+      "name": "KYXXX",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6YeR6JK46JK4",
+      "name": "金蒸蒸",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c57uq5Li5",
+      "name": "绪丹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW9rZW4",
+      "name": "YOKEN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5aWl5pav5Y2hb3NjYXIgd3U",
+      "name": "奥斯卡Oscar Wu",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccm9vdOWAquWuh-ajrg",
+      "name": "Root倪宇森",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5aWl5pav5Y2hIG9zY2FyIHd1",
+      "name": "奥斯卡 Oscar Wu",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc3VjaGFkb2c",
+      "name": "SuchaDog",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5YWo55u45b2m",
+      "name": "全相彦",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ams5LmfXyBjcmFiYml0",
+      "name": "马也_ Crabbit",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGV4dGFo",
+      "name": "Dextah",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceWfljaLlh6_mlq8",
+      "name": "YG卢凯斯",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5YaJ5ZCv5Y2H",
+      "name": "冉启升",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5Y2i5Yev5pavbHVjeA",
+      "name": "卢凯斯LucX",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbW9r",
+      "name": "mok",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5ZOl5pav5ouJIGdvZHppbGxh",
+      "name": "哥斯拉 GODZILLA",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2O5b2m5rO9",
+      "name": "李彦泽",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceGc",
+      "name": "Xg",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceS0gYg",
+      "name": "Y- B",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5omI5paH6Iiq",
+      "name": "扈文航",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccmFuZHkgbWVycmlsbA",
+      "name": "Randy Merrill",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ZWc5Y2D",
+      "name": "镜千",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5b6Q5oCd54G1",
+      "name": "徐思灵",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY3VsdHhyZQ",
+      "name": "Cultxre",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvdm9rZQ",
+      "name": "Provoke",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6buE5L-K",
+      "name": "黄俊",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccnlhYm92IHNlcmdleSwgaWdvciBmYXRpbg",
+      "name": "Ryabov Sergey, Igor Fatin",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceml0dG8",
+      "name": "Zitto",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+      "name": "Mai ＂No Label Crew＂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caXNhdG9ycmVzYmVhdHM",
+      "name": "Isatorresbeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbm9iYWRpbm8gIm5vIGxhYmVsIGNyZXci",
+      "name": "NOBADINO ＂No Label Crew＂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ2NiZWF0cw",
+      "name": "gcbeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c54uX5ZOl",
+      "name": "狗哥",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGllc2k",
+      "name": "DiESi",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2lyaWxsIGFmb255dXNoa2lu",
+      "name": "Kirill Afonyushkin",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cam8gZ3JlYXM",
+      "name": "Jo Greas",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caG9vZGll",
+      "name": "hoodie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p6X5paH",
+      "name": "林文",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ZmI5LiA",
+      "name": "陈一",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hyZWRkZWQ",
+      "name": "SHREDDED",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6I2o6bq755a5",
+      "name": "荨麻疹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc291bGZyZXNoYmVhdHM",
+      "name": "SOULFRESHBEATS",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LCi5bidfGxqejMyOXxhcg",
+      "name": "谢帝｜ljz329｜AR",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cNDA0cmFwcGVy",
+      "name": "404RAPPER",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXI",
+      "name": "AR",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caHlwZXIgbXVzaWM",
+      "name": "HYPER MUSIC",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2ltd2FpdHQ",
+      "name": "KIMWAITT",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb2Nk",
+      "name": "Ocd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5rKI5a2Q5oGC",
+      "name": "沈子恂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5Y2i5Yev5pavIGx1Y3g",
+      "name": "卢凯斯 LucX",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n383211818",
+      "title": "长青 (Deluxe)",
+      "date": "2026-07-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 20,
+      "artistNames": [
+        "ICE杨长青"
+      ],
+      "label": "种梦音乐",
+      "artwork": "./assets/album-383211818.jpg",
+      "artworkSource": "https://p1.music.126.net/2PdA8Q8YKtgDK1u5HPL8Sw==/109951173650298667.jpg",
+      "source": "https://music.163.com/album?id=383211818",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3397054564"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n372785065",
+      "title": "Born 4The Game",
+      "date": "2026-04-27",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": "索尼音乐",
+      "artwork": "./assets/album-372785065.jpg",
+      "artworkSource": "https://p2.music.126.net/h7SJdBN1xsBQqmVIm1CzfQ==/109951173202522043.jpg",
+      "source": "https://music.163.com/album?id=372785065",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3374171881"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n284085051",
+      "title": "3977",
+      "date": "2025-09-07",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-284085051.jpg",
+      "artworkSource": "https://p2.music.126.net/YzBlZonrJeOBCvMiPHSjbA==/109951173483570191.jpg",
+      "source": "https://music.163.com/album?id=284085051",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2743505559"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n282114330",
+      "title": "分手排行榜",
+      "date": "2025-08-22",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "吴克群",
+        "ljz329"
+      ],
+      "label": null,
+      "artwork": "./assets/album-282114330.jpg",
+      "artworkSource": "https://p2.music.126.net/jXOnVJFbt5iprCYiGBbMDw==/109951171896995649.jpg",
+      "source": "https://music.163.com/album?id=282114330",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2737837632"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n276974192",
+      "title": "First Song",
+      "date": "2025-07-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": null,
+      "artwork": "./assets/album-276974192.jpg",
+      "artworkSource": "https://p2.music.126.net/0gUagCZBf1_RVlShrvgD2A==/109951171390712179.jpg",
+      "source": "https://music.163.com/album?id=276974192",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2721540678"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n264107706",
+      "title": "20 Minutes Freestyle",
+      "date": "2025-03-15",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "Drunker"
+      ],
+      "label": "网易·云上",
+      "artwork": "./assets/album-264107706.jpg",
+      "artworkSource": "https://p2.music.126.net/l3HQwXMKxbG61szzV--8bQ==/109951170607864746.jpg",
+      "source": "https://music.163.com/album?id=264107706",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2680765046"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n239710843",
+      "title": "Coverage",
+      "date": "2024-11-08",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "AZ啊之"
+      ],
+      "label": "网易音乐人",
+      "artwork": "./assets/album-239710843.jpg",
+      "artworkSource": "https://p2.music.126.net/0iloRwpNRCqsL5ayretMaw==/109951170127193539.jpg",
+      "source": "https://music.163.com/album?id=239710843",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2600227363"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n195984500",
+      "title": "Fall!n",
+      "date": "2024-05-17",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "AZ啊之"
+      ],
+      "label": null,
+      "artwork": "./assets/album-195984500.jpg",
+      "artworkSource": "https://p1.music.126.net/P-AC4J2VoN-NQW2gAUCuLw==/109951169595356156.jpg",
+      "source": "https://music.163.com/album?id=195984500",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2156222788"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n192057028",
+      "title": "东京下雨夜",
+      "date": "2024-04-13",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "AZ啊之"
+      ],
+      "label": "SN music",
+      "artwork": "./assets/album-192057028.jpg",
+      "artworkSource": "https://p1.music.126.net/dx7AtJGWdiDhISbkSH4UCw==/109951169490610379.jpg",
+      "source": "https://music.163.com/album?id=192057028",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2145153250"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n188018791",
+      "title": "被动人格",
+      "date": "2024-03-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "饺子",
+        "YuGo"
+      ],
+      "label": null,
+      "artwork": "./assets/album-188018791.jpg",
+      "artworkSource": "https://p2.music.126.net/UTcRj8bTl4jOV_R6LOq8Uw==/109951169392683498.jpg",
+      "source": "https://music.163.com/album?id=188018791",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2132747446"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n183494872",
+      "title": "Do That",
+      "date": "2024-01-20",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "马思唯"
+      ],
+      "label": null,
+      "artwork": "./assets/album-183494872.jpg",
+      "artworkSource": "https://p1.music.126.net/Q3p_jBF64PDmBZz6oSnVpg==/109951169268410736.jpg",
+      "source": "https://music.163.com/album?id=183494872",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2118458192"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n181907625",
+      "title": "筹码",
+      "date": "2023-12-29",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": "网易云上",
+      "artwork": "./assets/album-181907625.jpg",
+      "artworkSource": "https://p2.music.126.net/f3M_LA3RP9xpXacW7rNeBg==/109951169217153597.jpg",
+      "source": "https://music.163.com/album?id=181907625",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2112024185"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n172048291",
+      "title": "交兄弟不止拿钱",
+      "date": "2023-08-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "FZ.方丈",
+        "ljz329",
+        "GoldenBoomBoom"
+      ],
+      "label": null,
+      "artwork": "./assets/album-172048291.jpg",
+      "artworkSource": "https://p2.music.126.net/2ibPc-5oMpF7fmNy3j2D6g==/109951168835321675.jpg",
+      "source": "https://music.163.com/album?id=172048291",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2072248695"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n168318557",
+      "title": "Reverse",
+      "date": "2023-06-27",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "建坤YOUNG",
+        "谢帝"
+      ],
+      "label": null,
+      "artwork": "./assets/album-168318557.jpg",
+      "artworkSource": "https://p2.music.126.net/yq-Ozj8O5sGaodR2f1JfWw==/109951168700345333.jpg",
+      "source": "https://music.163.com/album?id=168318557",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2058735448"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n160692327",
+      "title": "Last Day",
+      "date": "2023-02-26",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "YuGo"
+      ],
+      "label": "网易云上",
+      "artwork": "./assets/album-160692327.jpg",
+      "artworkSource": "https://p2.music.126.net/J2qS96qOpFGZS0GQ5VZZgA==/109951168423540897.jpg",
+      "source": "https://music.163.com/album?id=160692327",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2025185099"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n160632026",
+      "title": "Not Too Late",
+      "date": "2023-02-24",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "SSr"
+      ],
+      "label": "索尼音乐",
+      "artwork": "./assets/album-160632026.jpg",
+      "artworkSource": "https://p2.music.126.net/6J3Fu03L_Jf22IA3gUfCBA==/109951168530965621.jpg",
+      "source": "https://music.163.com/album?id=160632026",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2024913097"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n156971340",
+      "title": "太平洋沙漠",
+      "date": "2022-12-23",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "饺子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-156971340.jpg",
+      "artworkSource": "https://p2.music.126.net/ynIWD02anJ7pn7N4MIiieA==/109951168165784749.jpg",
+      "source": "https://music.163.com/album?id=156971340",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2008506250"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n155709699",
+      "title": "123",
+      "date": "2022-12-08",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "SSr",
+        "ljz329"
+      ],
+      "label": "网易云上",
+      "artwork": "./assets/album-155709699.jpg",
+      "artworkSource": "https://p2.music.126.net/XUFQo8UBFdYsUoNPcYoe7w==/109951168102899762.jpg",
+      "source": "https://music.163.com/album?id=155709699",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2002753297"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n151719469",
+      "title": "我与世界 Me Against The World",
+      "date": "2022-09-20",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "Melo"
+      ],
+      "label": "88rising Records",
+      "artwork": "./assets/album-151719469.jpg",
+      "artworkSource": "https://p2.music.126.net/oaJhtTaiggO07gG8ctTClw==/109951170289924589.jpg",
+      "source": "https://music.163.com/album?id=151719469",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1981933754"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n146287049",
+      "title": "降维打击",
+      "date": "2022-06-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "斑比Bambii"
+      ],
+      "label": null,
+      "artwork": "./assets/album-146287049.jpg",
+      "artworkSource": "https://p1.music.126.net/vrE_LzKvOucqDZbicWMgZQ==/109951167533316186.jpg",
+      "source": "https://music.163.com/album?id=146287049",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1954809122"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n145464894",
+      "title": "碎碎念",
+      "date": "2022-05-25",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": "造乐文化",
+      "artwork": "./assets/album-145464894.jpg",
+      "artworkSource": "https://p1.music.126.net/Irz7kl40R2_daO3aolklvA==/109951167471178580.jpg",
+      "source": "https://music.163.com/album?id=145464894",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1950306317"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n145231495",
+      "title": "KINGDOM",
+      "date": "2022-05-21",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "ICE杨长青"
+      ],
+      "label": "成都冰封未来文化传播有限公司",
+      "artwork": "./assets/album-145231495.jpg",
+      "artworkSource": "https://p1.music.126.net/GgvcPgK4DP7XdvbEPTbkIQ==/109951167441417455.jpg",
+      "source": "https://music.163.com/album?id=145231495",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1948756996"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n144207429",
+      "title": "桃花劫",
+      "date": "2022-04-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "SSr",
+        "Dobi",
+        "饺子",
+        "ljz329"
+      ],
+      "label": null,
+      "artwork": "./assets/album-144207429.jpg",
+      "artworkSource": "https://p2.music.126.net/p1hvZFmbqO2Ud7WWcHEPvA==/109951167355468163.jpg",
+      "source": "https://music.163.com/album?id=144207429",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1942756623"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n143924089",
+      "title": "就现在",
+      "date": "2022-04-25",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ljz329",
+        "InnerSa",
+        "SSr"
+      ],
+      "label": null,
+      "artwork": "./assets/album-143924089.jpg",
+      "artworkSource": "https://p2.music.126.net/my4R96A8dfJLaa_if8n7RQ==/109951167335278811.jpg",
+      "source": "https://music.163.com/album?id=143924089",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1941062013"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n143413531",
+      "title": "倒垃圾",
+      "date": "2022-04-14",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "AZ啊之",
+        "高天佐"
+      ],
+      "label": null,
+      "artwork": "./assets/album-143413531.jpg",
+      "artworkSource": "https://p1.music.126.net/hVaVIvYQa8rRVpjv14x86g==/109951167286755321.jpg",
+      "source": "https://music.163.com/album?id=143413531",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1937763074"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n143196649",
+      "title": "我不想取名freestyle",
+      "date": "2022-04-08",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "SSr",
+        "ljz329",
+        "AZ啊之",
+        "饺子",
+        "Dobi"
+      ],
+      "label": null,
+      "artwork": "./assets/album-143196649.jpg",
+      "artworkSource": "https://p2.music.126.net/470ZO0P2QqGXvPMi5salqw==/109951167262619148.jpg",
+      "source": "https://music.163.com/album?id=143196649",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1936282940"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n142768986",
+      "title": "SSr咬百客freestyle",
+      "date": "2022-04-01",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "SSr"
+      ],
+      "label": null,
+      "artwork": "./assets/album-142768986.jpg",
+      "artworkSource": "https://p1.music.126.net/bk9qXIoAH7I3sHMYjnQx0g==/109951167222518663.jpg",
+      "source": "https://music.163.com/album?id=142768986",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1933594438"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n127807464",
+      "title": "backbone",
+      "date": "2021-05-23",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "404 RAPPER"
+      ],
+      "label": null,
+      "artwork": "./assets/album-127807464.jpg",
+      "artworkSource": "https://p2.music.126.net/g-pH4e8w4JxvzVXEmdJ9Pw==/109951166002263221.jpg",
+      "source": "https://music.163.com/album?id=127807464",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "早期合作",
+      "trackIds": [
+        "n1847059460"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n124269518",
+      "title": "Couple Hunnid Mixtape Vol.2",
+      "date": "2021-03-15",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "谢帝"
+      ],
+      "label": "第四音乐",
+      "artwork": "./assets/album-124269518.jpg",
+      "artworkSource": "https://p2.music.126.net/y0wPwFKM6GXmXkaEzWIpag==/109951169775160203.jpg",
+      "source": "https://music.163.com/album?id=124269518",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "早期合作",
+      "trackIds": [
+        "n1827059566"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n84028625",
+      "title": "POUR IT UP",
+      "date": "2019-12-11",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "404 RAPPER"
+      ],
+      "label": null,
+      "artwork": "./assets/album-84028625.jpg",
+      "artworkSource": "https://p1.music.126.net/hekoIOEoR9coQ3ueM4SUIw==/109951164542549039.jpg",
+      "source": "https://music.163.com/album?id=84028625",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "早期合作",
+      "trackIds": [
+        "n1408930588"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "unknown-n2744377651",
+      "title": "发行资料待核",
+      "date": "",
+      "type": "待核发行",
+      "edition": null,
+      "totalTracks": null,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": null,
+      "artwork": "./assets/beibei-portrait.jpg",
+      "artworkSource": null,
+      "source": "https://music.163.com/song?id=2744377651",
+      "sourceLabel": "网易云音乐（单曲页）",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "待核发行",
+      "trackIds": [
+        "n2744377651"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "unknown-n2139367135",
+      "title": "发行资料待核",
+      "date": "",
+      "type": "待核发行",
+      "edition": null,
+      "totalTracks": null,
+      "artistNames": [
+        "ljz329"
+      ],
+      "label": null,
+      "artwork": "./assets/beibei-portrait.jpg",
+      "artworkSource": null,
+      "source": "https://music.163.com/song?id=2139367135",
+      "sourceLabel": "网易云音乐（单曲页）",
+      "checkedAt": "2026-10-29",
+      "core": false,
+      "chapter": "待核发行",
+      "trackIds": [
+        "n2139367135"
+      ],
+      "listedOnArtist": false
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3397054564",
+      "platformId": 3397054564,
+      "title": "老本行",
+      "aliases": [],
+      "albumId": "n383211818",
+      "date": "2026-07-29",
+      "trackNumber": 8,
+      "duration": 192000,
+      "artistIds": [
+        "n13145283",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "c5a2Z5qyh6YOO",
+          "role": "制作人",
+          "raw": "制作人 : 孙次郎/王元博/WHITE FANG白牙",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5YWD5Y2a",
+          "role": "制作人",
+          "raw": "制作人 : 孙次郎/王元博/WHITE FANG白牙",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "cd2hpdGUgZmFuZ-eZveeJmQ",
+          "role": "制作人",
+          "raw": "制作人 : 孙次郎/王元博/WHITE FANG白牙",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "n13145283",
+          "role": "作词",
+          "raw": "作词 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "n13145283",
+          "role": "作曲",
+          "raw": "作曲 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "c5a2Z5qyh6YOO",
+          "role": "混音",
+          "raw": "混音/母带 : 孙次郎",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        },
+        {
+          "personId": "c5a2Z5qyh6YOO",
+          "role": "母带",
+          "raw": "混音/母带 : 孙次郎",
+          "source": "https://music.163.com/song?id=3397054564",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "制作人 : 孙次郎/王元博/WHITE FANG白牙",
+        "作词 : ICE杨长青/ljz329",
+        "作曲 : ICE杨长青/ljz329",
+        "混音/母带 : 孙次郎"
+      ],
+      "source": "https://music.163.com/song?id=3397054564",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3374171881",
+      "platformId": 3374171881,
+      "title": "Born 4The Game",
+      "aliases": [],
+      "albumId": "n372785065",
+      "date": "2026-04-27",
+      "trackNumber": 1,
+      "duration": 162000,
+      "artistIds": [
+        "n51957057"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3374171881",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2743505559",
+      "platformId": 2743505559,
+      "title": "3977",
+      "aliases": [
+        "三条A"
+      ],
+      "albumId": "n284085051",
+      "date": "2025-09-07",
+      "trackNumber": 1,
+      "duration": 141200,
+      "artistIds": [
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "c5p2O5Lqs5rO9",
+          "role": "作词",
+          "raw": "作词 : 李京泽",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O5Lqs5rO9",
+          "role": "作曲",
+          "raw": "作曲 : 李京泽",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "制作人",
+          "raw": "制作人 : Mai/Yoken_Official",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "ceW9rZW5fb2ZmaWNpYWw",
+          "role": "制作人",
+          "raw": "制作人 : Mai/Yoken_Official",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "ca3l4eHg",
+          "role": "编曲",
+          "raw": "编曲 : KYXXX",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "混音",
+          "raw": "混音工程师 : Mai/Yoken_Official",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "ceW9rZW5fb2ZmaWNpYWw",
+          "role": "混音",
+          "raw": "混音工程师 : Mai/Yoken_Official",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "ceW9rZW5fb2ZmaWNpYWw",
+          "role": "母带",
+          "raw": "母带处理 : Yoken_Official",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "c6YeR6JK46JK4",
+          "role": "监制",
+          "raw": "监制： 金蒸蒸/绪丹@金臂童音乐",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "c57uq5Li5",
+          "role": "监制",
+          "raw": "监制： 金蒸蒸/绪丹@金臂童音乐",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "ceW9rZW4",
+          "role": "母带",
+          "raw": "母带工程师 : YOKEN",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "混音",
+          "raw": "混音师 : Mai",
+          "source": "https://music.163.com/song?id=2743505559",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 李京泽",
+        "作曲 : 李京泽",
+        "制作人 : Mai/Yoken_Official",
+        "编曲 : KYXXX",
+        "混音工程师 : Mai/Yoken_Official",
+        "母带处理 : Yoken_Official",
+        "监制： 金蒸蒸/绪丹@金臂童音乐",
+        "母带工程师 : YOKEN",
+        "混音师 : Mai"
+      ],
+      "source": "https://music.163.com/song?id=2743505559",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2737837632",
+      "platformId": 2737837632,
+      "title": "分手排行榜",
+      "aliases": [],
+      "albumId": "n282114330",
+      "date": "2025-08-22",
+      "trackNumber": 1,
+      "duration": 168040,
+      "artistIds": [
+        "n5350",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n5350",
+          "role": "作词",
+          "raw": "作词 : 吴克群/ljz329",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : 吴克群/ljz329",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "n5350",
+          "role": "作曲",
+          "raw": "作曲 : 吴克群/ljz329",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : 吴克群/ljz329",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "n5350",
+          "role": "制作人",
+          "raw": "制作人 : 吴克群/ljz329/奥斯卡Oscar Wu",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "制作人",
+          "raw": "制作人 : 吴克群/ljz329/奥斯卡Oscar Wu",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "c5aWl5pav5Y2hb3NjYXIgd3U",
+          "role": "制作人",
+          "raw": "制作人 : 吴克群/ljz329/奥斯卡Oscar Wu",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "c5aWl5pav5Y2hb3NjYXIgd3U",
+          "role": "编曲",
+          "raw": "编曲 : 奥斯卡Oscar Wu",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "n5350",
+          "role": "和声",
+          "raw": "和声 : 吴克群",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "c5aWl5pav5Y2hb3NjYXIgd3U",
+          "role": "混音",
+          "raw": "混音 : 奥斯卡Oscar Wu",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "ccm9vdOWAquWuh-ajrg",
+          "role": "录音师",
+          "raw": "录音师 : Root倪宇森",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "c5aWl5pav5Y2hIG9zY2FyIHd1",
+          "role": "母带",
+          "raw": "母带 : 奥斯卡 Oscar Wu@米果音乐工作室",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        },
+        {
+          "personId": "cc3VjaGFkb2c",
+          "role": "监制",
+          "raw": "监制 : SuchaDog",
+          "source": "https://music.163.com/song?id=2737837632",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 吴克群/ljz329",
+        "作曲 : 吴克群/ljz329",
+        "制作人 : 吴克群/ljz329/奥斯卡Oscar Wu",
+        "编曲 : 奥斯卡Oscar Wu",
+        "和声 : 吴克群",
+        "混音 : 奥斯卡Oscar Wu",
+        "录音师 : Root倪宇森",
+        "母带 : 奥斯卡 Oscar Wu@米果音乐工作室",
+        "监制 : SuchaDog"
+      ],
+      "source": "https://music.163.com/song?id=2737837632",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2721540678",
+      "platformId": 2721540678,
+      "title": "First Song",
+      "aliases": [],
+      "albumId": "n276974192",
+      "date": "2025-07-09",
+      "trackNumber": 1,
+      "duration": 153109,
+      "artistIds": [
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "编曲",
+          "raw": "编曲 : Mai",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "制作人",
+          "raw": "制作人 : Mai",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "混音",
+          "raw": "混音工程师： Mai",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        },
+        {
+          "personId": "c5YWo55u45b2m",
+          "role": "母带",
+          "raw": "母带工程师：全相彦@ OKmastering Studio/刘韧",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        },
+        {
+          "personId": "c6ams5LmfXyBjcmFiYml0",
+          "role": "监制",
+          "raw": "监制：马也_ Crabbit",
+          "source": "https://music.163.com/song?id=2721540678",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329",
+        "作曲 : ljz329",
+        "编曲 : Mai",
+        "制作人 : Mai",
+        "混音工程师： Mai",
+        "母带工程师：全相彦@ OKmastering Studio/刘韧",
+        "监制：马也_ Crabbit"
+      ],
+      "source": "https://music.163.com/song?id=2721540678",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2680765046",
+      "platformId": 2680765046,
+      "title": "20 Minutes Freestyle",
+      "aliases": [
+        "2022"
+      ],
+      "albumId": "n264107706",
+      "date": "2025-03-15",
+      "trackNumber": 1,
+      "duration": 154736,
+      "artistIds": [
+        "n51957057",
+        "n34206413"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/Drunker",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "n34206413",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/Drunker",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/Drunker",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "n34206413",
+          "role": "作词",
+          "raw": "作词 : ljz329/Drunker",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "cZGV4dGFo",
+          "role": "编曲",
+          "raw": "编曲 : Dextah/Mai",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "编曲",
+          "raw": "编曲 : Dextah/Mai",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "制作人",
+          "raw": "制作人 : Mai",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "混音",
+          "raw": "混音工程师 : Mai/YG卢凯斯",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "ceWfljaLlh6_mlq8",
+          "role": "混音",
+          "raw": "混音工程师 : Mai/YG卢凯斯",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "母带",
+          "raw": "母带工程师 : Mai",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        },
+        {
+          "personId": "c5YaJ5ZCv5Y2H",
+          "role": "监制",
+          "raw": "监制 : 冉启升",
+          "source": "https://music.163.com/song?id=2680765046",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作曲 : ljz329/Drunker",
+        "作词 : ljz329/Drunker",
+        "编曲 : Dextah/Mai",
+        "制作人 : Mai",
+        "混音工程师 : Mai/YG卢凯斯",
+        "母带工程师 : Mai",
+        "监制 : 冉启升"
+      ],
+      "source": "https://music.163.com/song?id=2680765046",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2600227363",
+      "platformId": 2600227363,
+      "title": "Coverage",
+      "aliases": [],
+      "albumId": "n239710843",
+      "date": "2024-11-08",
+      "trackNumber": 1,
+      "duration": 162000,
+      "artistIds": [
+        "n51957057",
+        "n35946228"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2600227363",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作词",
+          "raw": "作词 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2600227363",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2600227363",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2600227363",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2i5Yev5pavbHVjeA",
+          "role": "混音",
+          "raw": "混音 : 卢凯斯LucX",
+          "source": "https://music.163.com/song?id=2600227363",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2i5Yev5pavbHVjeA",
+          "role": "母带",
+          "raw": "母带 : 卢凯斯LucX",
+          "source": "https://music.163.com/song?id=2600227363",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/AZ啊之",
+        "作曲 : ljz329/AZ啊之",
+        "混音 : 卢凯斯LucX",
+        "母带 : 卢凯斯LucX"
+      ],
+      "source": "https://music.163.com/song?id=2600227363",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2156222788",
+      "platformId": 2156222788,
+      "title": "Fall!n",
+      "aliases": [
+        "孤独且浪漫"
+      ],
+      "albumId": "n195984500",
+      "date": "2024-05-17",
+      "trackNumber": 1,
+      "duration": 144000,
+      "artistIds": [
+        "n51957057",
+        "n35946228"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作词",
+          "raw": "作词 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2i5Yev5pavbHVjeA",
+          "role": "混音",
+          "raw": "混音 : 卢凯斯LucX",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2i5Yev5pavbHVjeA",
+          "role": "母带",
+          "raw": "母带 : 卢凯斯LucX",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        },
+        {
+          "personId": "cc3VjaGFkb2c",
+          "role": "监制",
+          "raw": "监制：SuchaDog",
+          "source": "https://music.163.com/song?id=2156222788",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/AZ啊之",
+        "作曲 : ljz329/AZ啊之",
+        "混音 : 卢凯斯LucX",
+        "母带 : 卢凯斯LucX",
+        "监制：SuchaDog"
+      ],
+      "source": "https://music.163.com/song?id=2156222788",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2145153250",
+      "platformId": 2145153250,
+      "title": "东京下雨夜",
+      "aliases": [],
+      "albumId": "n192057028",
+      "date": "2024-04-13",
+      "trackNumber": 1,
+      "duration": 169142,
+      "artistIds": [
+        "n51957057",
+        "n35946228"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2145153250",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作词",
+          "raw": "作词 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2145153250",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2145153250",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/AZ啊之",
+          "source": "https://music.163.com/song?id=2145153250",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/AZ啊之",
+        "作曲 : ljz329/AZ啊之"
+      ],
+      "source": "https://music.163.com/song?id=2145153250",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2132747446",
+      "platformId": 2132747446,
+      "title": "被动人格",
+      "aliases": [],
+      "albumId": "n188018791",
+      "date": "2024-03-09",
+      "trackNumber": 1,
+      "duration": 208000,
+      "artistIds": [
+        "n51957057",
+        "n12156162",
+        "n27907744"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词：ljz329/饺子/ mok/哥斯拉 GODZILLA",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "n12156162",
+          "role": "作词",
+          "raw": "作词：ljz329/饺子/ mok/哥斯拉 GODZILLA",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "cbW9r",
+          "role": "作词",
+          "raw": "作词：ljz329/饺子/ mok/哥斯拉 GODZILLA",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "c5ZOl5pav5ouJIGdvZHppbGxh",
+          "role": "作词",
+          "raw": "作词：ljz329/饺子/ mok/哥斯拉 GODZILLA",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲：ljz329/饺子/ mok",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "n12156162",
+          "role": "作曲",
+          "raw": "作曲：ljz329/饺子/ mok",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "cbW9r",
+          "role": "作曲",
+          "raw": "作曲：ljz329/饺子/ mok",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O5b2m5rO9",
+          "role": "制作人",
+          "raw": "制作人：李彦泽",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O5b2m5rO9",
+          "role": "编曲",
+          "raw": "编曲：李彦泽/ Xg/ Y- B",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "ceGc",
+          "role": "编曲",
+          "raw": "编曲：李彦泽/ Xg/ Y- B",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "ceS0gYg",
+          "role": "编曲",
+          "raw": "编曲：李彦泽/ Xg/ Y- B",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "cbW9r",
+          "role": "和声",
+          "raw": "和声：mok",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "c5omI5paH6Iiq",
+          "role": "混音",
+          "raw": "混音工程师：扈文航@ XING StudioSG",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "ccmFuZHkgbWVycmlsbA",
+          "role": "母带",
+          "raw": "母带工程师： Randy Merrill@ Sterling SoundNew York, US",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "c6ZWc5Y2D",
+          "role": "监制",
+          "raw": "监制：镜千/徐思灵",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        },
+        {
+          "personId": "c5b6Q5oCd54G1",
+          "role": "监制",
+          "raw": "监制：镜千/徐思灵",
+          "source": "https://music.163.com/song?id=2132747446",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词：ljz329/饺子/ mok/哥斯拉 GODZILLA",
+        "作曲：ljz329/饺子/ mok",
+        "制作人：李彦泽",
+        "编曲：李彦泽/ Xg/ Y- B",
+        "和声：mok",
+        "混音工程师：扈文航@ XING StudioSG",
+        "母带工程师： Randy Merrill@ Sterling SoundNew York, US",
+        "监制：镜千/徐思灵"
+      ],
+      "source": "https://music.163.com/song?id=2132747446",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2118458192",
+      "platformId": 2118458192,
+      "title": "Do That",
+      "aliases": [],
+      "albumId": "n183494872",
+      "date": "2024-01-20",
+      "trackNumber": 1,
+      "duration": 184421,
+      "artistIds": [
+        "n51957057",
+        "n1132392"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/马思唯",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        },
+        {
+          "personId": "n1132392",
+          "role": "作词",
+          "raw": "作词 : ljz329/马思唯",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/马思唯",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        },
+        {
+          "personId": "n1132392",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/马思唯",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        },
+        {
+          "personId": "cY3VsdHhyZQ",
+          "role": "编曲",
+          "raw": "编曲 : Cultxre",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "制作人",
+          "raw": "制作人 : Mai",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        },
+        {
+          "personId": "cc3VjaGFkb2c",
+          "role": "监制",
+          "raw": "监制：SuchaDog",
+          "source": "https://music.163.com/song?id=2118458192",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/马思唯",
+        "作曲 : ljz329/马思唯",
+        "编曲 : Cultxre",
+        "制作人 : Mai",
+        "监制：SuchaDog"
+      ],
+      "source": "https://music.163.com/song?id=2118458192",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2112024185",
+      "platformId": 2112024185,
+      "title": "筹码",
+      "aliases": [],
+      "albumId": "n181907625",
+      "date": "2023-12-29",
+      "trackNumber": 1,
+      "duration": 143076,
+      "artistIds": [
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329",
+          "source": "https://music.163.com/song?id=2112024185",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329",
+          "source": "https://music.163.com/song?id=2112024185",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=2112024185",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "母带",
+          "raw": "母带 : Provoke",
+          "source": "https://music.163.com/song?id=2112024185",
+          "level": "track"
+        },
+        {
+          "personId": "c6buE5L-K",
+          "role": "监制",
+          "raw": "监制 : 黄俊",
+          "source": "https://music.163.com/song?id=2112024185",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329",
+        "作曲 : ljz329",
+        "混音 : Provoke",
+        "母带 : Provoke",
+        "监制 : 黄俊"
+      ],
+      "source": "https://music.163.com/song?id=2112024185",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2072248695",
+      "platformId": 2072248695,
+      "title": "交兄弟不止拿钱",
+      "aliases": [],
+      "albumId": "n172048291",
+      "date": "2023-08-19",
+      "trackNumber": 1,
+      "duration": 134400,
+      "artistIds": [
+        "n12430082",
+        "n51957057",
+        "n12789892"
+      ],
+      "credits": [
+        {
+          "personId": "n12430082",
+          "role": "作词",
+          "raw": "作词 : FZ.方丈/ljz329/GoldenBoomBoom",
+          "source": "https://music.163.com/song?id=2072248695",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : FZ.方丈/ljz329/GoldenBoomBoom",
+          "source": "https://music.163.com/song?id=2072248695",
+          "level": "track"
+        },
+        {
+          "personId": "n12789892",
+          "role": "作词",
+          "raw": "作词 : FZ.方丈/ljz329/GoldenBoomBoom",
+          "source": "https://music.163.com/song?id=2072248695",
+          "level": "track"
+        },
+        {
+          "personId": "n12430082",
+          "role": "作曲",
+          "raw": "作曲 : FZ.方丈/ljz329/GoldenBoomBoom",
+          "source": "https://music.163.com/song?id=2072248695",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : FZ.方丈/ljz329/GoldenBoomBoom",
+          "source": "https://music.163.com/song?id=2072248695",
+          "level": "track"
+        },
+        {
+          "personId": "n12789892",
+          "role": "作曲",
+          "raw": "作曲 : FZ.方丈/ljz329/GoldenBoomBoom",
+          "source": "https://music.163.com/song?id=2072248695",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : FZ.方丈/ljz329/GoldenBoomBoom",
+        "作曲 : FZ.方丈/ljz329/GoldenBoomBoom"
+      ],
+      "source": "https://music.163.com/song?id=2072248695",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2058735448",
+      "platformId": 2058735448,
+      "title": "Reverse",
+      "aliases": [],
+      "albumId": "n168318557",
+      "date": "2023-06-27",
+      "trackNumber": 1,
+      "duration": 188737,
+      "artistIds": [
+        "n51957057",
+        "n12037117",
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/建坤YOUNG/谢帝",
+          "source": "https://music.163.com/song?id=2058735448",
+          "level": "track"
+        },
+        {
+          "personId": "n12037117",
+          "role": "作词",
+          "raw": "作词 : ljz329/建坤YOUNG/谢帝",
+          "source": "https://music.163.com/song?id=2058735448",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : ljz329/建坤YOUNG/谢帝",
+          "source": "https://music.163.com/song?id=2058735448",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/建坤YOUNG/谢帝",
+          "source": "https://music.163.com/song?id=2058735448",
+          "level": "track"
+        },
+        {
+          "personId": "n12037117",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/建坤YOUNG/谢帝",
+          "source": "https://music.163.com/song?id=2058735448",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/建坤YOUNG/谢帝",
+          "source": "https://music.163.com/song?id=2058735448",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/建坤YOUNG/谢帝",
+        "作曲 : ljz329/建坤YOUNG/谢帝"
+      ],
+      "source": "https://music.163.com/song?id=2058735448",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2025185099",
+      "platformId": 2025185099,
+      "title": "Last Day",
+      "aliases": [],
+      "albumId": "n160692327",
+      "date": "2023-02-26",
+      "trackNumber": 1,
+      "duration": 158399,
+      "artistIds": [
+        "n51957057",
+        "n27907744"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/YuGo",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "n27907744",
+          "role": "作词",
+          "raw": "作词 : ljz329/YuGo",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/YuGo",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "n27907744",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/YuGo",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "ccnlhYm92IHNlcmdleSwgaWdvciBmYXRpbg",
+          "role": "编曲",
+          "raw": "编曲 : Ryabov Sergey, Igor Fatin",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke/Zitto",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "ceml0dG8",
+          "role": "混音",
+          "raw": "混音 : Provoke/Zitto",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+          "role": "母带",
+          "raw": "母带 : Mai ＂No Label Crew＂",
+          "source": "https://music.163.com/song?id=2025185099",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/YuGo",
+        "作曲 : ljz329/YuGo",
+        "编曲 : Ryabov Sergey, Igor Fatin",
+        "混音 : Provoke/Zitto",
+        "母带 : Mai ＂No Label Crew＂"
+      ],
+      "source": "https://music.163.com/song?id=2025185099",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2024913097",
+      "platformId": 2024913097,
+      "title": "Not Too Late",
+      "aliases": [],
+      "albumId": "n160632026",
+      "date": "2023-02-24",
+      "trackNumber": 1,
+      "duration": 187428,
+      "artistIds": [
+        "n51957057",
+        "n51929682"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/SSr",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        },
+        {
+          "personId": "n51929682",
+          "role": "作词",
+          "raw": "作词 : ljz329/SSr",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/SSr",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        },
+        {
+          "personId": "n51929682",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/SSr",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        },
+        {
+          "personId": "caXNhdG9ycmVzYmVhdHM",
+          "role": "编曲",
+          "raw": "编曲 : Isatorresbeats",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        },
+        {
+          "personId": "cbm9iYWRpbm8gIm5vIGxhYmVsIGNyZXci",
+          "role": "混音",
+          "raw": "混音工程师 : NOBADINO ＂No Label Crew＂",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        },
+        {
+          "personId": "cbm9iYWRpbm8gIm5vIGxhYmVsIGNyZXci",
+          "role": "母带",
+          "raw": "母带工程师 : NOBADINO ＂No Label Crew＂",
+          "source": "https://music.163.com/song?id=2024913097",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/SSr",
+        "作曲 : ljz329/SSr",
+        "编曲 : Isatorresbeats",
+        "混音工程师 : NOBADINO ＂No Label Crew＂",
+        "母带工程师 : NOBADINO ＂No Label Crew＂"
+      ],
+      "source": "https://music.163.com/song?id=2024913097",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2008506250",
+      "platformId": 2008506250,
+      "title": "太平洋沙漠",
+      "aliases": [],
+      "albumId": "n156971340",
+      "date": "2022-12-23",
+      "trackNumber": 1,
+      "duration": 182272,
+      "artistIds": [
+        "n51957057",
+        "n12156162"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/饺子",
+          "source": "https://music.163.com/song?id=2008506250",
+          "level": "track"
+        },
+        {
+          "personId": "n12156162",
+          "role": "作词",
+          "raw": "作词 : ljz329/饺子",
+          "source": "https://music.163.com/song?id=2008506250",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/饺子",
+          "source": "https://music.163.com/song?id=2008506250",
+          "level": "track"
+        },
+        {
+          "personId": "n12156162",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/饺子",
+          "source": "https://music.163.com/song?id=2008506250",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2NiZWF0cw",
+          "role": "编曲",
+          "raw": "编曲 : gcbeats",
+          "source": "https://music.163.com/song?id=2008506250",
+          "level": "track"
+        },
+        {
+          "personId": "c54uX5ZOl",
+          "role": "制作人",
+          "raw": "制作人：狗哥@ INF Music",
+          "source": "https://music.163.com/song?id=2008506250",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/饺子",
+        "作曲 : ljz329/饺子",
+        "编曲 : gcbeats",
+        "制作人：狗哥@ INF Music"
+      ],
+      "source": "https://music.163.com/song?id=2008506250",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2002753297",
+      "platformId": 2002753297,
+      "title": "123",
+      "aliases": [],
+      "albumId": "n155709699",
+      "date": "2022-12-08",
+      "trackNumber": 1,
+      "duration": 183934,
+      "artistIds": [
+        "n51929682",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51929682",
+          "role": "作词",
+          "raw": "作词 : SSr/ljz329",
+          "source": "https://music.163.com/song?id=2002753297",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : SSr/ljz329",
+          "source": "https://music.163.com/song?id=2002753297",
+          "level": "track"
+        },
+        {
+          "personId": "n51929682",
+          "role": "作曲",
+          "raw": "作曲 : SSr/ljz329",
+          "source": "https://music.163.com/song?id=2002753297",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : SSr/ljz329",
+          "source": "https://music.163.com/song?id=2002753297",
+          "level": "track"
+        },
+        {
+          "personId": "cZGllc2k",
+          "role": "编曲",
+          "raw": "编曲 : DiESi",
+          "source": "https://music.163.com/song?id=2002753297",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SSr/ljz329",
+        "作曲 : SSr/ljz329",
+        "编曲 : DiESi"
+      ],
+      "source": "https://music.163.com/song?id=2002753297",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1981933754",
+      "platformId": 1981933754,
+      "title": "超 Groovy (feat. ljz329)",
+      "aliases": [],
+      "albumId": "n151719469",
+      "date": "2022-09-20",
+      "trackNumber": 10,
+      "duration": 236315,
+      "artistIds": [
+        "n29304235",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n29304235",
+          "role": "作词",
+          "raw": "作词 : Melo/ljz329",
+          "source": "https://music.163.com/song?id=1981933754",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : Melo/ljz329",
+          "source": "https://music.163.com/song?id=1981933754",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/Kirill Afonyushkin/Melo",
+          "source": "https://music.163.com/song?id=1981933754",
+          "level": "track"
+        },
+        {
+          "personId": "ca2lyaWxsIGFmb255dXNoa2lu",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/Kirill Afonyushkin/Melo",
+          "source": "https://music.163.com/song?id=1981933754",
+          "level": "track"
+        },
+        {
+          "personId": "n29304235",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/Kirill Afonyushkin/Melo",
+          "source": "https://music.163.com/song?id=1981933754",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Melo/ljz329",
+        "作曲 : ljz329/Kirill Afonyushkin/Melo"
+      ],
+      "source": "https://music.163.com/song?id=1981933754",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1954809122",
+      "platformId": 1954809122,
+      "title": "降维打击",
+      "aliases": [],
+      "albumId": "n146287049",
+      "date": "2022-06-09",
+      "trackNumber": 1,
+      "duration": 167111,
+      "artistIds": [
+        "n32712412",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n32712412",
+          "role": "作词",
+          "raw": "作词 : 斑比Bambii/ljz329",
+          "source": "https://music.163.com/song?id=1954809122",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : 斑比Bambii/ljz329",
+          "source": "https://music.163.com/song?id=1954809122",
+          "level": "track"
+        },
+        {
+          "personId": "n32712412",
+          "role": "作曲",
+          "raw": "作曲 : 斑比Bambii/ljz329",
+          "source": "https://music.163.com/song?id=1954809122",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : 斑比Bambii/ljz329",
+          "source": "https://music.163.com/song?id=1954809122",
+          "level": "track"
+        },
+        {
+          "personId": "cam8gZ3JlYXM",
+          "role": "混音",
+          "raw": "混音： Jo Greas",
+          "source": "https://music.163.com/song?id=1954809122",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 斑比Bambii/ljz329",
+        "作曲 : 斑比Bambii/ljz329",
+        "混音： Jo Greas"
+      ],
+      "source": "https://music.163.com/song?id=1954809122",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1950306317",
+      "platformId": 1950306317,
+      "title": "碎碎念",
+      "aliases": [],
+      "albumId": "n145464894",
+      "date": "2022-05-25",
+      "trackNumber": 1,
+      "duration": 194241,
+      "artistIds": [
+        "n12570417",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/那奇沃夫",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "n12570417",
+          "role": "作词",
+          "raw": "作词 : ljz329/那奇沃夫",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/那奇沃夫",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "n12570417",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/那奇沃夫",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "混音/母带:hoodie",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "母带",
+          "raw": "混音/母带:hoodie",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "c5p6X5paH",
+          "role": "监制",
+          "raw": "监制:林文/陈一",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        },
+        {
+          "personId": "c6ZmI5LiA",
+          "role": "监制",
+          "raw": "监制:林文/陈一",
+          "source": "https://music.163.com/song?id=1950306317",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/那奇沃夫",
+        "作曲 : ljz329/那奇沃夫",
+        "混音/母带:hoodie",
+        "监制:林文/陈一"
+      ],
+      "source": "https://music.163.com/song?id=1950306317",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1948756996",
+      "platformId": 1948756996,
+      "title": "Rapping freestyle",
+      "aliases": [],
+      "albumId": "n145231495",
+      "date": "2022-05-21",
+      "trackNumber": 4,
+      "duration": 184533,
+      "artistIds": [
+        "n13145283",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n13145283",
+          "role": "作词",
+          "raw": "作词 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        },
+        {
+          "personId": "n13145283",
+          "role": "作曲",
+          "raw": "作曲 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ICE杨长青/ljz329",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hyZWRkZWQ",
+          "role": "制作人",
+          "raw": "制作 : SHREDDED",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "Mixed and Mastered by:荨麻疹",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "母带",
+          "raw": "Mixed and Mastered by:荨麻疹",
+          "source": "https://music.163.com/song?id=1948756996",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ICE杨长青/ljz329",
+        "作曲 : ICE杨长青/ljz329",
+        "制作 : SHREDDED",
+        "Mixed and Mastered by:荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=1948756996",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1942756623",
+      "platformId": 1942756623,
+      "title": "桃花劫",
+      "aliases": [],
+      "albumId": "n144207429",
+      "date": "2022-04-30",
+      "trackNumber": 0,
+      "duration": 173858,
+      "artistIds": [
+        "n51929682",
+        "n12236265",
+        "n12156162",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n12236265",
+          "role": "作词",
+          "raw": "作词 : Dobi/饺子/ljz329",
+          "source": "https://music.163.com/song?id=1942756623",
+          "level": "track"
+        },
+        {
+          "personId": "n12156162",
+          "role": "作词",
+          "raw": "作词 : Dobi/饺子/ljz329",
+          "source": "https://music.163.com/song?id=1942756623",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : Dobi/饺子/ljz329",
+          "source": "https://music.163.com/song?id=1942756623",
+          "level": "track"
+        },
+        {
+          "personId": "n12236265",
+          "role": "作曲",
+          "raw": "作曲 : Dobi/饺子/ljz329",
+          "source": "https://music.163.com/song?id=1942756623",
+          "level": "track"
+        },
+        {
+          "personId": "n12156162",
+          "role": "作曲",
+          "raw": "作曲 : Dobi/饺子/ljz329",
+          "source": "https://music.163.com/song?id=1942756623",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : Dobi/饺子/ljz329",
+          "source": "https://music.163.com/song?id=1942756623",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Dobi/饺子/ljz329",
+        "作曲 : Dobi/饺子/ljz329"
+      ],
+      "source": "https://music.163.com/song?id=1942756623",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1941062013",
+      "platformId": 1941062013,
+      "title": "就现在",
+      "aliases": [],
+      "albumId": "n143924089",
+      "date": "2022-04-25",
+      "trackNumber": 0,
+      "duration": 196000,
+      "artistIds": [
+        "n51957057",
+        "n34965709",
+        "n51929682"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329/InnerSa",
+          "source": "https://music.163.com/song?id=1941062013",
+          "level": "track"
+        },
+        {
+          "personId": "n34965709",
+          "role": "作词",
+          "raw": "作词 : ljz329/InnerSa",
+          "source": "https://music.163.com/song?id=1941062013",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/InnerSa",
+          "source": "https://music.163.com/song?id=1941062013",
+          "level": "track"
+        },
+        {
+          "personId": "n34965709",
+          "role": "作曲",
+          "raw": "作曲 : ljz329/InnerSa",
+          "source": "https://music.163.com/song?id=1941062013",
+          "level": "track"
+        },
+        {
+          "personId": "cc291bGZyZXNoYmVhdHM",
+          "role": "编曲",
+          "raw": "编曲 : SOULFRESHBEATS",
+          "source": "https://music.163.com/song?id=1941062013",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329/InnerSa",
+        "作曲 : ljz329/InnerSa",
+        "编曲 : SOULFRESHBEATS"
+      ],
+      "source": "https://music.163.com/song?id=1941062013",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1937763074",
+      "platformId": 1937763074,
+      "title": "倒垃圾",
+      "aliases": [],
+      "albumId": "n143413531",
+      "date": "2022-04-14",
+      "trackNumber": 1,
+      "duration": 161571,
+      "artistIds": [
+        "n35946228",
+        "n12236269",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n35946228",
+          "role": "作词",
+          "raw": "作词 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n12236269",
+          "role": "作词",
+          "raw": "作词 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作曲",
+          "raw": "作曲 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n12236269",
+          "role": "作曲",
+          "raw": "作曲 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "编曲",
+          "raw": "编曲 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n12236269",
+          "role": "编曲",
+          "raw": "编曲 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "编曲",
+          "raw": "编曲 : AZ啊之/高天佐/ljz329",
+          "source": "https://music.163.com/song?id=1937763074",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : AZ啊之/高天佐/ljz329",
+        "作曲 : AZ啊之/高天佐/ljz329",
+        "编曲 : AZ啊之/高天佐/ljz329"
+      ],
+      "source": "https://music.163.com/song?id=1937763074",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1936282940",
+      "platformId": 1936282940,
+      "title": "我不想取名freestyle",
+      "aliases": [],
+      "albumId": "n143196649",
+      "date": "2022-04-08",
+      "trackNumber": 1,
+      "duration": 211200,
+      "artistIds": [
+        "n51929682",
+        "n51957057",
+        "n35946228",
+        "n12156162",
+        "n12236265"
+      ],
+      "credits": [
+        {
+          "personId": "n51929682",
+          "role": "作词",
+          "raw": "作词 : SSr/AZ啊之/Dobi",
+          "source": "https://music.163.com/song?id=1936282940",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作词",
+          "raw": "作词 : SSr/AZ啊之/Dobi",
+          "source": "https://music.163.com/song?id=1936282940",
+          "level": "track"
+        },
+        {
+          "personId": "n12236265",
+          "role": "作词",
+          "raw": "作词 : SSr/AZ啊之/Dobi",
+          "source": "https://music.163.com/song?id=1936282940",
+          "level": "track"
+        },
+        {
+          "personId": "n51929682",
+          "role": "作曲",
+          "raw": "作曲 : SSr/AZ啊之/Dobi",
+          "source": "https://music.163.com/song?id=1936282940",
+          "level": "track"
+        },
+        {
+          "personId": "n35946228",
+          "role": "作曲",
+          "raw": "作曲 : SSr/AZ啊之/Dobi",
+          "source": "https://music.163.com/song?id=1936282940",
+          "level": "track"
+        },
+        {
+          "personId": "n12236265",
+          "role": "作曲",
+          "raw": "作曲 : SSr/AZ啊之/Dobi",
+          "source": "https://music.163.com/song?id=1936282940",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SSr/AZ啊之/Dobi",
+        "作曲 : SSr/AZ啊之/Dobi"
+      ],
+      "source": "https://music.163.com/song?id=1936282940",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1933594438",
+      "platformId": 1933594438,
+      "title": "埃塞俄比亚摇摆客",
+      "aliases": [],
+      "albumId": "n142768986",
+      "date": "2022-04-01",
+      "trackNumber": 1,
+      "duration": 96270,
+      "artistIds": [
+        "n51929682",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329",
+          "source": "https://music.163.com/song?id=1933594438",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329",
+          "source": "https://music.163.com/song?id=1933594438",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329",
+        "作曲 : ljz329"
+      ],
+      "source": "https://music.163.com/song?id=1933594438",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1847059460",
+      "platformId": 1847059460,
+      "title": "backbone",
+      "aliases": [],
+      "albumId": "n127807464",
+      "date": "2021-05-23",
+      "trackNumber": 1,
+      "duration": 137142,
+      "artistIds": [
+        "n30003804",
+        "n29304235",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n30003804",
+          "role": "作词",
+          "raw": "作词 : 404 RAPPER/ljz329/Melo",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : 404 RAPPER/ljz329/Melo",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        },
+        {
+          "personId": "n29304235",
+          "role": "作词",
+          "raw": "作词 : 404 RAPPER/ljz329/Melo",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        },
+        {
+          "personId": "n30003804",
+          "role": "作曲",
+          "raw": "作曲 : 404 RAPPER/ljz329/Melo",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : 404 RAPPER/ljz329/Melo",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        },
+        {
+          "personId": "n29304235",
+          "role": "作曲",
+          "raw": "作曲 : 404 RAPPER/ljz329/Melo",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        },
+        {
+          "personId": "n30003804",
+          "role": "编曲",
+          "raw": "编曲 : 404 RAPPER",
+          "source": "https://music.163.com/song?id=1847059460",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 404 RAPPER/ljz329/Melo",
+        "作曲 : 404 RAPPER/ljz329/Melo",
+        "编曲 : 404 RAPPER"
+      ],
+      "source": "https://music.163.com/song?id=1847059460",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1827059566",
+      "platformId": 1827059566,
+      "title": "空壳",
+      "aliases": [],
+      "albumId": "n124269518",
+      "date": "2021-03-15",
+      "trackNumber": 6,
+      "duration": 387999,
+      "artistIds": [
+        "n847107",
+        "n51957057",
+        "n12002184"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/ljz329/AR刘夫阳",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : 谢帝/ljz329/AR刘夫阳",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "n12002184",
+          "role": "作词",
+          "raw": "作词 : 谢帝/ljz329/AR刘夫阳",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCi5bidfGxqejMyOXxhcg",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝｜ljz329｜AR",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "编曲",
+          "raw": "编曲 : 谢帝、404RAPPER、 AR",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "cNDA0cmFwcGVy",
+          "role": "编曲",
+          "raw": "编曲 : 谢帝、404RAPPER、 AR",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "cYXI",
+          "role": "编曲",
+          "raw": "编曲 : 谢帝、404RAPPER、 AR",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/ljz329/AR刘夫阳",
+        "作曲 : 谢帝｜ljz329｜AR",
+        "编曲 : 谢帝、404RAPPER、 AR"
+      ],
+      "source": "https://music.163.com/song?id=1827059566",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1408930588",
+      "platformId": 1408930588,
+      "title": "POUR IT UP",
+      "aliases": [],
+      "albumId": "n84028625",
+      "date": "2019-12-11",
+      "trackNumber": 1,
+      "duration": 203424,
+      "artistIds": [
+        "n30003804",
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n30003804",
+          "role": "作词",
+          "raw": "作词 : 404 RAPPER/ljz329",
+          "source": "https://music.163.com/song?id=1408930588",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : 404 RAPPER/ljz329",
+          "source": "https://music.163.com/song?id=1408930588",
+          "level": "track"
+        },
+        {
+          "personId": "n30003804",
+          "role": "作曲",
+          "raw": "作曲 : 404 RAPPER/ljz329",
+          "source": "https://music.163.com/song?id=1408930588",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : 404 RAPPER/ljz329",
+          "source": "https://music.163.com/song?id=1408930588",
+          "level": "track"
+        },
+        {
+          "personId": "n30003804",
+          "role": "编曲",
+          "raw": "编曲 : 404 RAPPER",
+          "source": "https://music.163.com/song?id=1408930588",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 404 RAPPER/ljz329",
+        "作曲 : 404 RAPPER/ljz329",
+        "编曲 : 404 RAPPER"
+      ],
+      "source": "https://music.163.com/song?id=1408930588",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2744377651",
+      "platformId": 2744377651,
+      "title": "TALKING SH*T FREESTYLE（2017）",
+      "aliases": [],
+      "albumId": "unknown-n2744377651",
+      "date": "",
+      "trackNumber": 1,
+      "duration": 143142,
+      "artistIds": [
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329",
+          "source": "https://music.163.com/song?id=2744377651",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329",
+          "source": "https://music.163.com/song?id=2744377651",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "制作人",
+          "raw": "制作人 : Mai",
+          "source": "https://music.163.com/song?id=2744377651",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "编曲",
+          "raw": "编曲 : Mai",
+          "source": "https://music.163.com/song?id=2744377651",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329",
+        "作曲 : ljz329",
+        "制作人 : Mai",
+        "编曲 : Mai"
+      ],
+      "source": "https://music.163.com/song?id=2744377651",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform",
+      "note": "平台返回的发行 ID 和发布日期为空，保留单曲记录；不把零时间戳解释为 1970 年发行。"
+    },
+    {
+      "id": "n2139367135",
+      "platformId": 2139367135,
+      "title": "How You Feel",
+      "aliases": [],
+      "albumId": "unknown-n2139367135",
+      "date": "",
+      "trackNumber": 1,
+      "duration": 130178,
+      "artistIds": [
+        "n51957057"
+      ],
+      "credits": [
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词 : ljz329",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : ljz329",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作词",
+          "raw": "作词：ljz329",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲：ljz329",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "caHlwZXIgbXVzaWM",
+          "role": "编曲",
+          "raw": "编曲： HYPER MUSIC",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "ca2ltd2FpdHQ",
+          "role": "制作人",
+          "raw": "制作人： KIMWAITT/马也_ Crabbit@聚声匠",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "c6ams5LmfXyBjcmFiYml0",
+          "role": "制作人",
+          "raw": "制作人： KIMWAITT/马也_ Crabbit@聚声匠",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制： Ocd/沈子恂",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "c5rKI5a2Q5oGC",
+          "role": "监制",
+          "raw": "监制： Ocd/沈子恂",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2i5Yev5pavIGx1Y3g",
+          "role": "混音",
+          "raw": "混音工程师：卢凯斯 LucX",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2i5Yev5pavIGx1Y3g",
+          "role": "母带",
+          "raw": "母带工程师：卢凯斯 LucX",
+          "source": "https://music.163.com/song?id=2139367135",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ljz329",
+        "作曲 : ljz329",
+        "作词：ljz329",
+        "作曲：ljz329",
+        "编曲： HYPER MUSIC",
+        "制作人： KIMWAITT/马也_ Crabbit@聚声匠",
+        "监制： Ocd/沈子恂",
+        "混音工程师：卢凯斯 LucX",
+        "母带工程师：卢凯斯 LucX"
+      ],
+      "source": "https://music.163.com/song?id=2139367135",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-29",
+      "kind": "recording",
+      "status": "platform",
+      "note": "平台返回的发行 ID 和发布日期为空，保留单曲记录；不把零时间戳解释为 1970 年发行。"
+    }
+  ],
+  "externalReleases": [],
+  "excludedRecords": [],
+  "excludedIdentities": [
+    {
+      "platform": "Apple Music",
+      "id": 1581921427,
+      "name": "404 RAPPER",
+      "source": "https://music.apple.com/cn/artist/404-rapper/1581921427?uo=4",
+      "reason": "搜索相关性不等于身份一致。网易云单曲同时列出 404 RAPPER（30003804）和 ljz329（51957057），且作词、作曲字段分别署名；不将前者曲库并入后者。",
+      "evidence": [
+        "https://music.163.com/song?id=1847059460",
+        "https://music.163.com/song?id=1408930588"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期与下架作品",
+      "status": "历史全量未证明",
+      "detail": "当前 ljz329 账号公开分页返回 32 条，不代表贝贝早期作品已全部收录。旧发行、视频、演出与未正式发行曲目仍需原始署名和账号关联证据；同名贝贝、贝贝ljz等账号不自动合并。",
+      "sources": [
+        {
+          "title": "网易云主账号",
+          "url": "https://music.163.com/artist?id=51957057"
+        }
+      ]
+    },
+    {
+      "title": "两条缺失发行与日期的记录",
+      "status": "保留单曲，日期待核",
+      "detail": "TALKING SH*T FREESTYLE（2017）与 How You Feel 的分页发行 ID 为 0、日期为空，保留在目录与搜索中。标题中的 2017 不是已核实的发行日期，不填为 2017 年，也不把零时间戳显示为 1970 年。待核发行使用艺人肖像作占位，不声称是原始封面。",
+      "sources": [
+        {
+          "title": "TALKING SH*T FREESTYLE（2017）",
+          "url": "https://music.163.com/song?id=2744377651"
+        },
+        {
+          "title": "How You Feel",
+          "url": "https://music.163.com/song?id=2139367135"
+        }
+      ]
+    },
+    {
+      "title": "Apple Music 账号身份未确认",
+      "status": "相关搜索结果隔离",
+      "detail": "搜索 ljz329、贝贝与李京泽返回 404 RAPPER，但其与 ljz329 在网易云是分别署名的艺人。Apple 候选账号的中国 / 美国区 9 / 6 项发行及 12 条歌曲仅保留研究快照，不进入作品统计、发行对照与关系网；没有确认的 Apple 账号或补充歌曲。",
+      "sources": [
+        {
+          "title": "404 RAPPER 候选账号",
+          "url": "https://music.apple.com/cn/artist/404-rapper/1581921427?uo=4"
+        },
+        {
+          "title": "两位艺人分别署名的单曲",
+          "url": "https://music.163.com/song?id=1847059460"
+        },
+        {
+          "title": "两位艺人分别署名的单曲",
+          "url": "https://music.163.com/song?id=1408930588"
+        }
+      ]
+    },
+    {
+      "title": "部分发行详情受限",
+      "status": "保留失败日志",
+      "detail": "部分网易云发行详情返回 API -462。使用歌曲分页、艺人发行列表及已保存详情的明确字段，不猜测缺失曲目或制作角色。",
+      "sources": [
+        {
+          "title": "网易云音乐",
+          "url": "https://music.163.com/artist?id=51957057"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "平台名与常用名",
+      "detail": "本档案按用户指明的贝贝及其平台账号定位。网易云搜索贝贝与 ljz329 均返回同一 ID 51957057，实际拼写是 ljz329；lij329 作为用户提供的搜索写法保留，不替换来源中的原始艺人名。",
+      "sources": [
+        "https://music.163.com/artist?id=51957057"
+      ]
+    },
+    {
+      "title": "单曲主线与合作容器",
+      "detail": "艺人发行列表有 20 个单曲条目，没有已核实的完整个人专辑；页面按单曲主线展示，专辑数记为 0。KINGDOM、我与世界、Couple Hunnid Mixtape Vol.2 等只收录 ljz329 明确逐曲署名的歌曲，不归入他人的整张作品。",
+      "sources": [
+        "https://music.163.com/artist?id=51957057",
+        "https://music.163.com/album?id=145231495",
+        "https://music.163.com/album?id=151719469",
+        "https://music.163.com/album?id=124269518"
+      ]
+    },
+    {
+      "title": "404 RAPPER 保持独立身份",
+      "detail": "搜索相关性不等于身份一致。网易云单曲同时列出 404 RAPPER（30003804）和 ljz329（51957057），且作词、作曲字段分别署名；不将前者曲库并入后者。",
+      "sources": [
+        "https://music.163.com/song?id=1847059460",
+        "https://music.163.com/song?id=1408930588"
+      ]
+    },
+    {
+      "title": "统计与日期边界",
+      "detail": "32 条记录包含 30 条有平台日期记录及 2 条日期待核记录。网易云当前主账号分页完整，不等于历史全量；共同署名及幕后角色分别记录，未取得署名的歌曲不会猜测制作关系。",
+      "sources": [
+        "https://music.163.com/artist?id=51957057"
+      ]
+    }
+  ]
+}

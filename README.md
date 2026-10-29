@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -190,3 +190,18 @@ Asen：https://auutuumn222.github.io/rap-dna/
 采集：`node scripts/collect-thome.mjs`，再 `node scripts/harvest-thome.mjs`。离线重建：`npm run catalog:thome`。目录测试已纳入 `npm test`，浏览器检查 `npm run test:thome`。
 
 完整报告：[THOME-DISCOGRAPHY.md](research/THOME-DISCOGRAPHY.md)，来源：`research/thome/`，数据：`dist/catalog-thome.json`。
+
+
+## 贝贝 / ljz329 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=beibei`，也可从导航选择“贝贝（ljz329）”。支持贝贝、ljz329 与用户提供的拼写 lij329 搜索，保留来源中的实际平台名。
+
+- 网易云主账号 ID 51957057，完整返回 32 条不同歌曲记录，报告总数 32，末页 more=false；20 个艺人页单曲发行，30 个已知关联发行容器及 2 条发行待核记录。
+- 当前没有已核实的完整个人专辑，页面采用单曲主线；31 条取得明确逐曲署名。合作方专辑只列 ljz329 明确参与的歌曲。
+- 30 条有日期记录跨度 2019-12-11 至 2026-07-29；TALKING SH*T FREESTYLE（2017）与 How You Feel 的发行 ID 为 0、日期为空，保留待核，不从标题推定年份。
+- Apple 搜索返回的 404 RAPPER 与网易云 ljz329 在 backbone、POUR IT UP 中分别署名，不能证明是同一身份。其中国 / 美国区 9 / 6 项发行及 12 条歌曲只保留候选研究快照，不进入目录、统计或关系网；没有确认的 Apple 补充曲目。
+- 当前主账号公开目录完整，不代表早期、下架与视频作品历史全量。部分发行详情接口受限，失败保留日志；封面肖像本地缓存，待核发行使用肖像作占位并明确标示。
+
+核查报告：[BEIBEI-DISCOGRAPHY.md](research/BEIBEI-DISCOGRAPHY.md)。数据：`dist/catalog-beibei.json`；来源：`research/beibei/`。
+
+采集：`node scripts/collect-beibei.mjs`，随后 `node scripts/harvest-beibei.mjs`；离线重建：`npm run catalog:beibei`。`npm test` 校验完整分页、身份隔离、单曲及合作范围、日期缺口和关系证据；`npm run test:beibei` 检查搜索别名、单曲主线、详情深链接、导出、播放器、切换与 390 / 320px 布局。截图在 `qa/beibei/`。

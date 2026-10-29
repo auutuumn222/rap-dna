@@ -277,3 +277,15 @@ Asen：https://auutuumn222.github.io/rap-dna/
 入口 `?artist=knowknow`。网易云账号 27868624，Apple Music 1435562780。四页完整返回 335 条，8 个个人项目，266 条有明确逐曲署名，186 个关联发行容器。Higher Brothers 按逐曲署名收录。52hz remix 一条异常日期保留原平台字段 1994-09-03，显示日期留空待核。Apple 84 项地区发行分别保留；Mr. Enjoy Da Money 网易云 15 / Apple 14，街头贝多芬网易云 18 / Apple 美国区 17。历史全量未证明，受限请求保留日志。
 
 报告：[KNOWKNOW-DISCOGRAPHY.md](research/KNOWKNOW-DISCOGRAPHY.md)。数据 `dist/catalog-knowknow.json`；来源 `research/knowknow/`。采集 `node scripts/collect-knowknow.mjs`、`node scripts/harvest-knowknow.mjs`；离线重建 `npm run catalog:knowknow`；浏览器检查 `npm run test:knowknow`。
+
+## CashTrippy（2026-10-29 核查）
+
+访问 `?artist=cashtrippy` 或在导航选择 CashTrippy。沿用年表、搜索、逐曲署名关系、播放器、分享和导出。
+
+- 网易云ID 33937972，三页209条，末页more=false；同名账号58322051不合并。Apple明确合作曲No Brakes补充1条，共210条平台记录、135个关联发行容器。
+- 六个核心项目：TrippyHood、Slayer、Two Head Snake双头蛇、Nafia Fever、万古、RACER，当前曲单完整。Goodkidstape 1仅收本人署名9/13，The Collections（集）1/4；HEATROOM TAPE 4th单列现场企划。
+- 195条有明确单曲署名；有日期范围2019-06-06至2026-09-26，不代表历史全量。Apple中国/美国区10/13项发行分别保留为23项地区对照。部分详情返回-462，保留日志，不绕过限制。
+
+采集依次运行 `node scripts/collect-cashtrippy.mjs`、`node scripts/harvest-cashtrippy.mjs`、`node scripts/cache-cashtrippy-extras.mjs`。离线重建 `npm run catalog:cashtrippy`；目录测试纳入 `npm test`；浏览器检查 `npm run test:cashtrippy`。
+
+核查报告：[CASHTRIPPY-DISCOGRAPHY.md](research/CASHTRIPPY-DISCOGRAPHY.md)，来源：`research/cashtrippy/`，数据：`dist/catalog-cashtrippy.json`。仅保留元数据、署名与图片，不保存歌词或音频。

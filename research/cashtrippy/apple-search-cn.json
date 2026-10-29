@@ -1,0 +1,41 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "CashTrippy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/cashtrippy/1550156401?uo=4",
+      "artistId": 1550156401,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "mac ova seas",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mac-ova-seas/1529239270?uo=4",
+      "artistId": 1529239270,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Capper",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/capper/1574279636?uo=4",
+      "artistId": 1574279636,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "李大奔",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%9D%8E%E5%A4%A7%E5%A5%94/1440064487?uo=4",
+      "artistId": 1440064487,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

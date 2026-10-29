@@ -25,6 +25,7 @@ test('singles stay singles, featured albums stay partial and Apple candidate ide
  assert.ok(!catalog.tracks.some(t=>t.title==='粉红法拉利'));assert.ok(!catalog.tracks.some(t=>t.id.startsWith('a')));
 });
 test('every relationship and credit resolves to an explicit track source',()=>{
+ const emptyShell=catalog.tracks.find(t=>t.id==='n1827059566');assert.deepEqual(new Set(emptyShell.credits.filter(c=>c.role==='作曲').map(c=>catalog.people.find(p=>p.id===c.personId).name)),new Set(['谢帝','ljz329','AR']));
  const people=new Set(catalog.people.map(p=>p.id)),albums=new Map(catalog.albums.map(a=>[a.id,a]));assert.equal(catalog.tracks.filter(t=>t.creditLines.length).length,31);
  for(const t of catalog.tracks){assert.ok(albums.get(t.albumId).trackIds.includes(t.id));for(const id of t.artistIds)assert.ok(people.has(id));for(const c of t.credits){assert.ok(people.has(c.personId));assert.equal(c.source,t.source);assert.equal(c.level,'track');assert.ok(t.creditLines.includes(c.raw));}}
  for(const mode of ['artists','credits'])for(const p of connections(catalog,{mode}))for(const e of p.evidence){const t=catalog.tracks.find(t=>t.id===e.trackId);assert.equal(e.source,t.source);assert.ok(mode==='artists'?t.artistIds.includes(p.id):t.credits.some(c=>c.personId===p.id&&c.role===e.role));}

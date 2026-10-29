@@ -452,20 +452,14 @@
       "source": null
     },
     {
-      "id": "c6LCi5bidfGxqejMyOXxhcg",
-      "name": "谢帝｜ljz329｜AR",
+      "id": "cYXI",
+      "name": "AR",
       "kind": "credit",
       "source": null
     },
     {
       "id": "cNDA0cmFwcGVy",
       "name": "404RAPPER",
-      "kind": "credit",
-      "source": null
-    },
-    {
-      "id": "cYXI",
-      "name": "AR",
       "kind": "credit",
       "source": null
     },
@@ -3435,7 +3429,21 @@
           "level": "track"
         },
         {
-          "personId": "c6LCi5bidfGxqejMyOXxhcg",
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝｜ljz329｜AR",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "n51957057",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝｜ljz329｜AR",
+          "source": "https://music.163.com/song?id=1827059566",
+          "level": "track"
+        },
+        {
+          "personId": "cYXI",
           "role": "作曲",
           "raw": "作曲 : 谢帝｜ljz329｜AR",
           "source": "https://music.163.com/song?id=1827059566",

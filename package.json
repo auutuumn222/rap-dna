@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
     "test:masiwei": "node tests/masiwei-browser.mjs",
@@ -26,6 +26,8 @@
     "catalog:thome": "node scripts/build-thome.mjs",
     "test:thome": "node tests/thome-browser.mjs",
     "catalog:beibei": "node scripts/build-beibei.mjs",
-    "test:beibei": "node tests/beibei-browser.mjs"
+    "test:beibei": "node tests/beibei-browser.mjs",
+    "catalog:jinji": "node scripts/build-jinji.mjs",
+    "test:jinji": "node tests/jinji-browser.mjs"
   }
 }

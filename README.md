@@ -205,3 +205,18 @@ Asen：https://auutuumn222.github.io/rap-dna/
 核查报告：[BEIBEI-DISCOGRAPHY.md](research/BEIBEI-DISCOGRAPHY.md)。数据：`dist/catalog-beibei.json`；来源：`research/beibei/`。
 
 采集：`node scripts/collect-beibei.mjs`，随后 `node scripts/harvest-beibei.mjs`；离线重建：`npm run catalog:beibei`。`npm test` 校验完整分页、身份隔离、单曲及合作范围、日期缺口和关系证据；`npm run test:beibei` 检查搜索别名、单曲主线、详情深链接、导出、播放器、切换与 390 / 320px 布局。截图在 `qa/beibei/`。
+
+## JinJiBeWater_隼（2026-10-29 核查）
+
+导航选择 JinJiBeWater_隼，或访问 `?artist=jinji`。沿用年表、搜索、逐曲署名关系网、分享、导出和网易云官方播放器。
+
+- 网易云主账号 ID 13451886，完整一页返回 97 条歌曲记录，more=false；同名账号 50149549 不自动合并。
+- 5 个核心个人/联合项目：冰冷热带鱼、树敌SHOOTING、真假美猴王、纯白小背心、自在极意；冰冷热带鱼收本人 7/12 条，其余四个当前曲单完整。
+- 0828 发行总数 4，仅收本人逐曲署名的 say good bye 1 条；共 60 个关联发行容器，不等于 60 张个人专辑。
+- 87 条取得明确单曲署名，有日期的范围为 2018-04-27 至 2026-09-26；不代表历史全量。
+- Apple Music ID 1625179719，中国/美国区分别 5/6 项发行，保留为 11 项地区对照。中国区逐曲接口未返回歌曲，美国区取得 8 条；未因标题差异重复补入。
+- 部分发行详情返回 -462，保留采集日志，不绕过限制；封面、肖像本地缓存，仅保留元数据和署名，不保存歌词或音频。
+
+采集：`node scripts/collect-jinji.mjs`，随后 `node scripts/harvest-jinji.mjs`。离线重建：`npm run catalog:jinji`。目录检查接入 `npm test`，浏览器检查 `npm run test:jinji`。
+
+核查报告：[JINJI-DISCOGRAPHY.md](research/JINJI-DISCOGRAPHY.md)，数据：`dist/catalog-jinji.json`，来源快照：`research/jinji/`。

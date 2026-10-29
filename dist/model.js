@@ -7,7 +7,7 @@ export function filterTracks(catalog,{query='',year='all',kind='all',albumId='al
   if(kind==='solo'&&t.artistIds.length!==1)return false;
   if(kind==='collaboration'&&t.artistIds.length<2)return false;
   if(['instrumental','remix','live'].includes(kind)&&t.kind!==kind)return false;
-  if(q&&![t.title,...t.aliases,albums.get(t.albumId),...t.artistIds.map(id=>people.get(id)),...t.credits.map(c=>people.get(c.personId))].filter(Boolean).join(' ').toLocaleLowerCase().includes(q))return false;
+  if(q&&![t.title,...t.aliases,albums.get(t.albumId),...t.artistIds.map(id=>people.get(id)),...(t.artistIds.includes(catalog.artist.id)?catalog.artist.aliases||[]:[]),...t.credits.map(c=>people.get(c.personId))].filter(Boolean).join(' ').toLocaleLowerCase().includes(q))return false;
   return true;
  });
 }

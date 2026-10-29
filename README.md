@@ -1,12 +1,14 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen 和马思唯，可在导航栏切换。两份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯和张方钊（河南说唱之神），可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
 Asen：https://auutuumn222.github.io/rap-dna/
 
 马思唯：https://auutuumn222.github.io/rap-dna/?artist=masiwei
+
+张方钊：https://auutuumn222.github.io/rap-dna/?artist=zhangfangzhao
 
 音乐人参数随作品分享链接保留；原有 Asen 链接继续有效。
 
@@ -74,3 +76,20 @@ Asen：https://auutuumn222.github.io/rap-dna/
 - `scripts/`：可复核的采集、元数据处理与档案生成脚本。
 
 公开来源为网易云音乐、Apple Music 和艺人官方账号；具体作品链接附在各条记录中。平台目录可能变化，单曲字段也不等于已经核验的原始唱片内页。封面与肖像来自音乐平台公开资料，权利归相应权利人，用于音乐作品识别。
+
+
+## 张方钊 / 河南说唱之神（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=zhangfangzhao`，或在导航中选择“张方钊”。沿用作品年表、歌曲搜索、逐曲署名网络、分享、导出和网易云官方播放器；姓名与旧艺名均可搜索。
+
+- 网易云官方艺人 ID 15194340，别名字段为河南说唱之神；三页共 222 个不同歌曲 ID，平台报告 222，末页 more=false。同名其他账号不合并。
+- Apple 中国区 24 项发行用于对照；补充《2022 wasted》12 条及《Bucktown》1 条，共 235 条平台记录、130 个关联发行容器、8 个核心项目。
+- 核心项目为 2019 wasted、NEW WAVE、2020 wasted、答应我会幸福、哥们废了、钱专、2022 wasted、蛋专；每个当前平台曲单完整。
+- WASTED CLUB《大牌走在东里路》9 首中只收录张方钊明确署名的 7 首；209 条歌曲取得明确单曲署名字段。
+- 平台日期跨度 2016-07-02 至 2026-09-26，日期按来源保留，不视为首次发行或出道时间。Apple《2022 wasted》的平台日期为 2026-07-18，不从标题推定为 2022 年。
+- 早期、已下架和视频作品尚未证明历史全量；详情受限的请求记录在采集日志中。封面、肖像已本地缓存，仅提供元数据和官方播放器入口。
+
+核查报告：[ZHANGFANGZHAO-DISCOGRAPHY.md](research/ZHANGFANGZHAO-DISCOGRAPHY.md)。数据：`dist/catalog-zhangfangzhao.json`；来源快照：`research/zhangfangzhao/`。
+
+采集：`node scripts/collect-zhangfangzhao.mjs`，然后 `node scripts/harvest-zhangfangzhao.mjs`。离线重建：`npm run catalog:zhangfangzhao`。目录与署名校验已接入 `npm test`；浏览器检查：`npm run test:zhangfangzhao`，截图在 `qa/zhangfangzhao/`。
+

@@ -1,0 +1,128 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 18,
+    "hlWords": [
+      "河南说唱之神"
+    ],
+    "artists": [
+      {
+        "id": 15194340,
+        "name": "张方钊",
+        "picUrl": "https://p2.music.126.net/RMbpYw6fzT6Rej8Q92OiNA==/109951163618001416.jpg",
+        "alias": [
+          "河南说唱之神"
+        ],
+        "albumSize": 48,
+        "musicSize": 222,
+        "picId": 109951163618001400,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 789190,
+        "img1v1Url": "https://p2.music.126.net/ZENpbkoMj3xHYV6bdmQgvQ==/109951173955160849.jpg",
+        "accountId": 584508439,
+        "img1v1": 109951173955160850,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 15,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "河南说唱之神"
+        ],
+        "trans": null
+      },
+      {
+        "id": 99500305,
+        "name": "河南说唱之神",
+        "picUrl": "https://p2.music.126.net/3tclJNbZ-Jn7ghwcrxGowQ==/109951171701940177.jpg",
+        "alias": [
+          "河南说唱之神"
+        ],
+        "albumSize": 1,
+        "musicSize": 2,
+        "picId": 109951171701940180,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 30,
+        "img1v1Url": "https://p2.music.126.net/VnZiScyynLG7atLIZ2YPkw==/18686200114669622.jpg",
+        "accountId": 8759756165,
+        "img1v1": 18686200114669624,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "河南说唱之神"
+        ],
+        "trans": null
+      },
+      {
+        "id": 123859593,
+        "name": "河南说唱之神人",
+        "picUrl": "https://p2.music.126.net/jds57J9eNIQ8gpqO_fKLUQ==/109951173020664450.jpg",
+        "alias": [],
+        "albumSize": 1,
+        "musicSize": 3,
+        "picId": 109951173020664450,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 6,
+        "img1v1Url": "https://p2.music.126.net/t0UdQzDrmBYszAPu-jGaMA==/109951173949279905.jpg",
+        "accountId": 7938759069,
+        "img1v1": 109951173949279900,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12874853,
+        "name": "河北吴孟达",
+        "picUrl": "https://p2.music.126.net/3Rxfalis5ppgGrLFpDVE0w==/109951166752820512.jpg",
+        "alias": [],
+        "albumSize": 47,
+        "musicSize": 239,
+        "picId": 109951166752820510,
+        "fansGroup": null,
+        "recommendText": "与张方钊合唱歌曲《我像一个傻瓜（Frowned blueface）》",
+        "appendRecText": "",
+        "fansSize": 109094,
+        "img1v1Url": "https://p2.music.126.net/8PK5wiTX1_fq3FpinOxY9A==/109951172912077612.jpg",
+        "accountId": 345451969,
+        "img1v1": 109951172912077620,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 9,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 32992913,
+        "name": "河南说唱之神",
+        "picUrl": "https://p2.music.126.net/GNfC9wKc90xniXRUCZu-2w==/109951165502183144.jpg",
+        "alias": [],
+        "albumSize": 0,
+        "musicSize": 1,
+        "picId": 109951165502183140,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 61,
+        "img1v1Url": "https://p2.music.126.net/sSbgNLhRJpbAxzExw12GjQ==/109951168924301572.jpg",
+        "accountId": 361005862,
+        "img1v1": 109951168924301570,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

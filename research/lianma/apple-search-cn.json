@@ -1,0 +1,101 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "连麻",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%BF%9E%E9%BA%BBswimming/1577300746?uo=4",
+      "artistId": 1577300746,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JinJiBeWater_隼",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jinjibewater-%E9%9A%BC/1625179719?uo=4",
+      "artistId": 1625179719,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Troye Sivan",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/troye-sivan/396295677?uo=4",
+      "artistId": 396295677,
+      "amgArtistId": 2973656,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Alan Walker",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/alan-walker/1062085272?uo=4",
+      "artistId": 1062085272,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "OneRepublic",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/onerepublic/260414340?uo=4",
+      "artistId": 260414340,
+      "amgArtistId": 770910,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Zedd",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/zedd/368433979?uo=4",
+      "artistId": 368433979,
+      "amgArtistId": 2485317,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Mark Ronson",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mark-ronson/14400049?uo=4",
+      "artistId": 14400049,
+      "amgArtistId": 534790,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Kid LAROI",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/the-kid-laroi/1435848034?uo=4",
+      "artistId": 1435848034,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "FINNEAS",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/finneas/1138790033?uo=4",
+      "artistId": 1138790033,
+      "amgArtistId": 3409548,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Imagine Dragons",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/imagine-dragons/358714030?uo=4",
+      "artistId": 358714030,
+      "amgArtistId": 1184089,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    }
+  ]
+}

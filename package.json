@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
     "test:masiwei": "node tests/masiwei-browser.mjs",
@@ -14,6 +14,8 @@
     "catalog:zhangfangzhao": "node scripts/build-zhangfangzhao.mjs",
     "test:zhangfangzhao": "node tests/zhangfangzhao-browser.mjs",
     "catalog:pharaoh": "node scripts/build-pharaoh.mjs",
-    "test:pharaoh": "node tests/pharaoh-browser.mjs"
+    "test:pharaoh": "node tests/pharaoh-browser.mjs",
+    "catalog:lianma": "node scripts/build-lianma.mjs",
+    "test:lianma": "node tests/lianma-browser.mjs"
   }
 }

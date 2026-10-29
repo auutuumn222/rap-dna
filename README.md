@@ -111,3 +111,19 @@ Asen：https://auutuumn222.github.io/rap-dna/
 [完整核查报告](research/PHARAOH-DISCOGRAPHY.md)，结构化数据 `dist/catalog-pharaoh.json`，来源快照 `research/pharaoh/`。仅保存公开元数据、署名与识别图片，不保存歌词或音频。
 
 采集：`node scripts/collect-pharaoh.mjs` → `node scripts/harvest-pharaoh.mjs`；离线重建：`npm run catalog:pharaoh`；浏览器检查：`npm run test:pharaoh`。数据检查已接入 `npm test`，截图在 `qa/pharaoh/`。
+
+## 连麻Swimming 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=lianma`，或在导航中选择“连麻Swimming”。作品年表、搜索、逐曲署名关系、分享、导出和官方播放器沿用现有档案。
+
+- 网易云主艺人 ID 12064019，两页共 158 条，末页 more=false；其他同名账号不自动合并。
+- CHUNGHWA 官方发行页补入 8 条艺人 ID 为零但逐曲姓名明确署名的歌曲，另补 Apple Music《比心》《My Universe》，共 168 条平台记录、90 个关联发行容器。
+- 7 个核心项目：Wake Up、YELLER、Yuppie“雅痞”、CHUNGHWA、真假美猴王、邻家小丈夫、斩鸭线。Wake Up 保留 4/5 条主账号署名，另一首复合艺人账号待核；其他 6 个项目当前曲单完整。
+- 132 条记录取得单曲明确署名；有日期的范围为 2017-08-05 至 2026-10-24，不代表历史全量。Apple 中国/美国区 4/7 项发行分别保留；部分发行未返回逐曲资料。
+- 部分网易云详情接口返回 -462，记录在采集日志中；保留已取得的发行列表和歌曲分页，不绕过平台限制。图片均已本地缓存。
+
+采集依次运行 `node scripts/collect-lianma.mjs`、`node scripts/harvest-lianma.mjs`、`node scripts/supplement-lianma.mjs`；离线重建：`npm run catalog:lianma`。目录检查已接入 `npm test`，浏览器检查 `npm run test:lianma`。
+
+核查报告：[LIANMA-DISCOGRAPHY.md](research/LIANMA-DISCOGRAPHY.md)。来源快照：`research/lianma/`，页面数据：`dist/catalog-lianma.json`。
+
+

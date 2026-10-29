@@ -1,0 +1,32 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "杨和苏KeyNG",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%9D%A8%E5%92%8C%E8%8B%8Fkeyng/1440715265?uo=4",
+      "artistId": 1440715265,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KEYNG",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/keyng/1327301730?uo=4",
+      "artistId": 1327301730,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "王以太",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E4%BB%A5%E5%A4%AA/1436812638?uo=4",
+      "artistId": 1436812638,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

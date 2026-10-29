@@ -236,3 +236,14 @@ Asen：https://auutuumn222.github.io/rap-dna/
 核查报告：[MACOVASEAS-DISCOGRAPHY.md](research/MACOVASEAS-DISCOGRAPHY.md)。数据：`dist/catalog-macovaseas.json`；来源：`research/macovaseas/`。
 
 采集：`node scripts/collect-macovaseas.mjs`、`node scripts/harvest-macovaseas.mjs`；离线重建：`npm run catalog:macovaseas`。`npm test` 校验完整分页、个人项目、合作范围、日期缺口、关系证据及资源；`npm run test:macovaseas` 检查页面、搜索、深链接、导出、播放器、音乐人切换及 390 / 320px 布局。截图在 `qa/macovaseas/`。
+
+
+## 杨和苏 KeyNG（2026-10-29 核查）
+
+入口：`?artist=keyng`。网易云 ID 13899303，三页共 203 个歌曲 ID，末页 more=false；154 条取得明确单曲署名。Apple ID 1440715265 的中国区 25 项发行作交叉对照，补充《豫章書院》1 条，共 204 条平台记录、114 个发行容器、7 个核心项目。
+
+主线：加冕、辩护人、荒诞故事、关于、一千公里、理想国、旷野。《加冕》网易云 10 条中取得 8 条，《辩护人》12 条中取得 11 条；Apple 两者分别为 8 / 11 条，保留曲单差异，不宣称原始曲单完整。Woken Day 只计 2 / 11 条，《捕风追影》原声只计 3 / 5 条。平台日期范围 2017-07-26 至 2026-09-25，早期及下架作品历史全量未证明。
+
+[完整核查报告](research/KEYNG-DISCOGRAPHY.md)，目录 `dist/catalog-keyng.json`，来源快照 `research/keyng/`。采集：`node scripts/collect-keyng.mjs` → `node scripts/harvest-keyng.mjs`；离线重建：`npm run catalog:keyng`；浏览器检查：`npm run test:keyng`。支持杨和苏、杨和苏KeyNG、KeyNG 搜索，复用年表、关系网、播放器、分享及导出。
+
+线上入口：https://auutuumn222.github.io/rap-dna/?artist=keyng

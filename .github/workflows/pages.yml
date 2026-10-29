@@ -24,6 +24,8 @@ jobs:
           node-version: '24'
       - name: Check the catalog and relationship evidence
         run: npm test
+      - name: Check album gallery ordering
+        run: node --test tests/gallery.test.mjs
       - name: Check shared portrait identities and assets
         run: node --test tests/portraits.test.mjs
       - uses: actions/configure-pages@v6.0.0

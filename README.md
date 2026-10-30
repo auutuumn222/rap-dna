@@ -372,3 +372,11 @@ pm run test:rapeter浏览器检查。
 ## Jony J 数据范围
 
 网易云主账号完整返回 131 条歌曲，其中 107 条有明确单曲署名。六个个人及现场项目按逐曲艺人署名收录；平台接口限制、同名 Apple 账号、异常早期日期与无日期记录均保留待核。历史下架作品不宣称完整。
+
+## 华云龙KLE（2026-10-30核查）
+
+访问 `?artist=huayunlong`。网易云艺人ID33435403，一页70条，末页more=false；Apple Music ID1600550625，中国区未返回发行，美国区返回《龙年》14首。另两个Apple同名账号未返回发行，身份不自动合并。
+
+四个核心项目：From Nothing To 1、金鳞KING LEVIATHAN、SAVAGE 22、龙年，当前本人署名曲单完整；HEATROOM TAPE 2nd作为联合现场单列。70条平台记录、33个关联发行、48条明确单曲署名，有日期范围2019-11-27至2026-08-17，不代表历史全量。《龙年》只生成一张专辑卡片，Apple地区版本、日期和来源另行保留。
+
+部分网易云详情返回-462，保留采集日志，不绕过限制。来源 `research/huayunlong/`，报告 [HUAYUNLONG-DISCOGRAPHY.md](research/HUAYUNLONG-DISCOGRAPHY.md)。依次运行 collect-huayunlong、harvest-huayunlong、cache-huayunlong-art；离线重建 `npm run catalog:huayunlong`，再运行 `node scripts/build-creators.mjs` 更新发现页索引。

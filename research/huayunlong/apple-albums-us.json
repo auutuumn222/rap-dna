@@ -1,0 +1,36 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "華雲龍KLE",
+      "artistLinkUrl": "https://music.apple.com/us/artist/%E8%8F%AF%E9%9B%B2%E9%BE%8Dkle/1600550625?uo=4",
+      "artistId": 1600550625,
+      "primaryGenreName": "Mandopop",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1600550625,
+      "collectionId": 1818975832,
+      "artistName": "華雲龍KLE",
+      "collectionName": "龙年",
+      "collectionCensoredName": "龙年",
+      "artistViewUrl": "https://music.apple.com/us/artist/%E8%8F%AF%E9%9B%B2%E9%BE%8Dkle/1600550625?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/%E9%BE%99%E5%B9%B4/1818975832?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/64/3c/84643cd3-b1c5-a46e-2658-18bbe23064e8/a1749189958246.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/64/3c/84643cd3-b1c5-a46e-2658-18bbe23064e8/a1749189958246.jpg/100x100bb.jpg",
+      "collectionPrice": 3.99,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 14,
+      "copyright": "℗ 2025 网易云音乐",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2025-05-23T07:00:00Z",
+      "primaryGenreName": "Mandopop"
+    }
+  ]
+}

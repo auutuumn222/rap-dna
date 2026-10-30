@@ -1,5 +1,6 @@
 export const artistProfiles={
- jonyj:{key:'jonyj',file:'./catalog-jonyj.json',archive:'027',english:'JONY J',tagline:'FROM J HOOD TO 24 HOURS.',intro:'从 J HOOD Mixtape、物女金、喜新恋旧，到 24時 系列。沿着 Jony J 的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'早期和下架作品仍待补证；合作发行按逐曲署名收录，一条早期日期与一条无日期记录待核。'},
+ jonyj:{key:'jonyj',file:'./catalog-jonyj.json',archive:'027',english:'JONY J',tagline:'FROM J HOOD TO 24 HOURS.',intro:'从 J HOOD Mixtape、物女金、喜新恋旧，到 24時 系列。沿着 Jony J 的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'早期和下架作品仍待补证；合作发行按逐曲署名收录，一条早期日期与一条无日期记录待核。'},
+
  keyl:{key:'keyl',file:'./catalog-keyl.json',archive:'025',english:'KEY.L LIU CONG',tagline:'FROM KEY TO L TO THE STREETS.',intro:'从 KEY to L、街区故事，到回到2000。沿着 KEY.L 刘聪的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'艺人接口返回的142条歌曲已完整分页；早期、下架作品仍待补证，合作发行按单曲艺人署名收录。'},
  tizzyt:{key:'tizzyt',file:'./catalog-tizzyt.json',archive:'024',english:'TIZZY T',tagline:'FROM YOUR BOY TO POP.',intro:'从 YOUR BOY、夜行动物园到 Tizzy T、Vanity Fair 与流行。沿着 TizzyT 的作品和逐曲署名，认识共同创作的音乐人。',gapSummary:'早期与下架作品仍待补证；合作发行按逐曲署名收录，Apple 地区版本与未取得的曲单分别保留。'},
 
@@ -31,5 +32,6 @@ export const artistProfiles={
  xiedi:{key:'xiedi',file:'./catalog-xiedi.json',archive:'020',english:'XIEDI',tagline:'FROM CDC. ON HIS OWN TERMS.',intro:'从人·社会·钱、蔡镇鸿、帝头蛇末日的士，到信徒、社区生活与闪耀。沿着谢帝（BO$$X）的作品与逐曲署名，认识一起创作的音乐人。',gapSummary:'MY FRIEND WANNA TRAP及其他Apple补充合并入同一发行；信徒、蔡镇鸿版本差异保留，未核同名账号不合并，早期下架及视频作品仍待补证。'},
  topbarry:{key:'topbarry',file:'./catalog-topbarry.json',archive:'022',english:'TOP BARRY',tagline:'TEEN KING. KEEP SHINING.',intro:'从 Teen King、How I Shine 到不停的，沿着 Top Barry（掰瑞）的作品，认识一起写歌、制作与登台的音乐人。',gapSummary:'FANTASY WORLD 与节目合辑只按本人逐曲署名收录；早期、下架作品与同名账号保持待核，现场、伴奏和跨平台版本分别保留。'},
  rapeter:{key:'rapeter',file:'./catalog-rapeter.json',archive:'023',english:'RAPETER',tagline:'FROM ZERO TO NINE. KEEP MOVING.',intro:'从零到九、乖脏GOODirty、DirtyGOOD 装乖，到 IMGOOD别担心我。沿着 Rapeter 的作品与逐曲署名，认识一起构建声音的音乐人。',gapSummary:'HEATROOM 与其他合作项目按逐曲参与收录；同名账号分开核验，Apple 合作发行与独有署名单列，早期下架作品仍待补证。'},
- watchme:{key:'watchme',file:'./catalog-watchme.json',archive:'026',english:'WATCHME',tagline:'FROM QIJIANG TO HIS OWN CITY.',intro:'从 WATCH ME、壹銘驚人，到 RUN MY CITY、夜郎溪、混乱年代与生活麻辣烫。沿着王齐铭WatchMe的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'少年梦按本人逐曲署名收录8/10首；生活麻辣烫的跨平台发行保留日期和版本，不重复生成专辑卡片。早期下架与视频作品仍待核验。'}
+ watchme:{key:'watchme',file:'./catalog-watchme.json',archive:'026',english:'WATCHME',tagline:'FROM QIJIANG TO HIS OWN CITY.',intro:'从 WATCH ME、壹銘驚人，到 RUN MY CITY、夜郎溪、混乱年代与生活麻辣烫。沿着王齐铭WatchMe的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'少年梦按本人逐曲署名收录8/10首；生活麻辣烫的跨平台发行保留日期和版本，不重复生成专辑卡片。早期下架与视频作品仍待核验。'},
+ huayunlong:{key:'huayunlong',file:'./catalog-huayunlong.json',archive:'028',english:'HUAYUNLONG',tagline:'FROM NOTHING TO ONE.',intro:'从 From Nothing To 1、金鳞 KING LEVIATHAN，到 SAVAGE 22 与龙年。沿着华云龙KLE的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'龙年跨平台发行关联同一张专辑，保留平台日期；同名Apple账号不自动合并，早期与下架作品仍待补证。'}
 };

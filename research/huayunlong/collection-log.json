@@ -1,0 +1,114 @@
+{
+  "checkedAt": "2026-10-30",
+  "artistId": 33435403,
+  "reportedTracks": 70,
+  "returnedTracks": 70,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 70,
+      "more": false
+    }
+  ],
+  "listedReleases": 11,
+  "associatedReleases": 33,
+  "explicitCredits": 48,
+  "albumDetails": 12,
+  "appleCnReleases": 0,
+  "appleUsReleases": 1,
+  "appleSongRecords": 14,
+  "failures": [
+    {
+      "item": 281547957,
+      "error": "API -462"
+    },
+    {
+      "item": 166150772,
+      "error": "API -462"
+    },
+    {
+      "item": 159211714,
+      "error": "API -462"
+    },
+    {
+      "item": 164403788,
+      "error": "API -462"
+    },
+    {
+      "item": 151782498,
+      "error": "API -462"
+    },
+    {
+      "item": 141803223,
+      "error": "API -462"
+    },
+    {
+      "item": 147839122,
+      "error": "API -462"
+    },
+    {
+      "item": 89968294,
+      "error": "API -462"
+    },
+    {
+      "item": 120444692,
+      "error": "API -462"
+    },
+    {
+      "item": 383801253,
+      "error": "API -462"
+    },
+    {
+      "item": 380120244,
+      "error": "API -462"
+    },
+    {
+      "item": 381164186,
+      "error": "API -462"
+    },
+    {
+      "item": 377313633,
+      "error": "API -462"
+    },
+    {
+      "item": 376265117,
+      "error": "API -462"
+    },
+    {
+      "item": 266787856,
+      "error": "API -462"
+    },
+    {
+      "item": 150550260,
+      "error": "API -462"
+    },
+    {
+      "item": 145196400,
+      "error": "API -462"
+    },
+    {
+      "item": 122539876,
+      "error": "API -462"
+    },
+    {
+      "item": 90784999,
+      "error": "API -462"
+    },
+    {
+      "item": 85031726,
+      "error": "API -462"
+    },
+    {
+      "item": 83667822,
+      "error": "API -462"
+    },
+    {
+      "item": "album-166150772",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "item": "album-164403788",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

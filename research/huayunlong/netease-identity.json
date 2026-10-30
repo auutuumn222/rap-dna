@@ -1,0 +1,253 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 11,
+    "hlWords": [
+      "华云龙KLE"
+    ],
+    "artists": [
+      {
+        "id": 33435403,
+        "name": "华云龙KLE",
+        "picUrl": "https://p2.music.126.net/bnBdIclJRY8BQf3hWOlZyA==/109951168149196820.jpg",
+        "alias": [],
+        "albumSize": 10,
+        "musicSize": 70,
+        "picId": 109951168149196820,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 297358,
+        "img1v1Url": "https://p2.music.126.net/uud8eP712UuyHhDR3HtGYg==/109951172821942552.jpg",
+        "accountId": 1363155489,
+        "img1v1": 109951172821942560,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 847107,
+        "name": "谢帝",
+        "picUrl": "https://p2.music.126.net/bHDKyK8D7DRxajhr8wETSw==/109951165568828551.jpg",
+        "alias": [
+          "BO$$X"
+        ],
+        "albumSize": 35,
+        "musicSize": 304,
+        "picId": 109951165568828540,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《金球奖》",
+        "appendRecText": "",
+        "fansSize": 928710,
+        "img1v1Url": "https://p2.music.126.net/ETplhG5gXynEQoLQkRhHXg==/109951171813624638.jpg",
+        "accountId": 3895217,
+        "img1v1": 109951171813624640,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 65,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "BO$$X"
+        ],
+        "trans": null
+      },
+      {
+        "id": 52118688,
+        "name": "九莲",
+        "picUrl": "https://p2.music.126.net/SArZe4fZwr7SpifQw8bv7g==/109951167251732047.jpg",
+        "alias": [
+          "奉天大拿"
+        ],
+        "albumSize": 12,
+        "musicSize": 70,
+        "picId": 109951167251732050,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《九片花瓣》",
+        "appendRecText": "",
+        "fansSize": 20683,
+        "img1v1Url": "https://p2.music.126.net/y_nFacCULRCi-vbJv5kspA==/109951173224330171.jpg",
+        "accountId": 1671408378,
+        "img1v1": 109951173224330180,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 3,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "奉天大拿"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12277473,
+        "name": "李大奔BENZO",
+        "picUrl": "https://p2.music.126.net/POt8xRW0dct2gKg8JzZz8w==/109951170726176734.jpg",
+        "alias": [],
+        "albumSize": 37,
+        "musicSize": 233,
+        "picId": 109951170726176740,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《颜值博主》",
+        "appendRecText": "",
+        "fansSize": 638291,
+        "img1v1Url": "https://p2.music.126.net/U1mSNBdqoM_x9oTDUBwt4Q==/109951173293970640.jpg",
+        "accountId": 133717723,
+        "img1v1": 109951173293970640,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 19,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 28869014,
+        "name": "DiorGoFlex",
+        "picUrl": "https://p2.music.126.net/ti037oWDEMtbR9hpw_wxcw==/109951165488991480.jpg",
+        "alias": [],
+        "albumSize": 11,
+        "musicSize": 118,
+        "picId": 109951165488991490,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《常胜将军》",
+        "appendRecText": "",
+        "fansSize": 150686,
+        "img1v1Url": "https://p2.music.126.net/ZpzlvD9ffMjH1s5m6T5T-w==/109951168975273804.jpg",
+        "accountId": 1552584833,
+        "img1v1": 109951168975273810,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12923031,
+        "name": "扬布拉德",
+        "picUrl": "https://p2.music.126.net/uJ78FPqvjL1X4g0ePeSq6w==/109951166032558881.jpg",
+        "alias": [
+          "BLOOD"
+        ],
+        "albumSize": 29,
+        "musicSize": 146,
+        "picId": 109951166032558880,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《YAH Ⅱ》",
+        "appendRecText": "",
+        "fansSize": 222273,
+        "img1v1Url": "https://p2.music.126.net/Wq22qIX8hJDHe1we6Q_VGA==/109951173996681483.jpg",
+        "accountId": 552247123,
+        "img1v1": 109951173996681490,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 12,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "BLOOD"
+        ],
+        "trans": null
+      },
+      {
+        "id": 15200313,
+        "name": "Echo",
+        "picUrl": "https://p2.music.126.net/HqGqF4dzEjd2L-QKJpJodw==/109951164612672047.jpg",
+        "alias": [
+          "王耍大"
+        ],
+        "albumSize": 13,
+        "musicSize": 102,
+        "picId": 109951164612672050,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《黑山羊》",
+        "appendRecText": "",
+        "fansSize": 99372,
+        "img1v1Url": "https://p2.music.126.net/Iy0WBV2lZlMKDcFAvxbNsA==/109951172996098806.jpg",
+        "accountId": 285756181,
+        "img1v1": 109951172996098800,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 7,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "王耍大"
+        ],
+        "trans": null
+      },
+      {
+        "id": 50928848,
+        "name": "DiorBaby",
+        "picUrl": "https://p2.music.126.net/U4WwZH7Sq-fMVqFTmBvkfg==/109951166780985218.jpg",
+        "alias": [
+          "Lil Rylo"
+        ],
+        "albumSize": 9,
+        "musicSize": 43,
+        "picId": 109951166780985220,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《底层特律》",
+        "appendRecText": "",
+        "fansSize": 1240,
+        "img1v1Url": "https://p2.music.126.net/x1fCblDzRxNfyyqfEU96rA==/109951173136577226.jpg",
+        "accountId": 3274312446,
+        "img1v1": 109951173136577230,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Lil Rylo"
+        ],
+        "trans": null
+      },
+      {
+        "id": 35009085,
+        "name": "Vansdaddy",
+        "picUrl": "https://p2.music.126.net/ulqFs46YMZt4NR8xti29Wg==/109951166580691260.jpg",
+        "alias": [
+          "VD"
+        ],
+        "albumSize": 20,
+        "musicSize": 157,
+        "picId": 109951166580691260,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《台北一夜》",
+        "appendRecText": "",
+        "fansSize": 337966,
+        "img1v1Url": "https://p2.music.126.net/LMx08IlqLlQKlGpgJNG8uA==/109951173999539116.jpg",
+        "accountId": 3318191477,
+        "img1v1": 109951173999539120,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 8,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "VD"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12357897,
+        "name": "mok",
+        "picUrl": "https://p2.music.126.net/ERhSB7l2ZCiLh7LWhVPESg==/109951164445177583.jpg",
+        "alias": [],
+        "albumSize": 39,
+        "musicSize": 143,
+        "picId": 109951164445177580,
+        "fansGroup": null,
+        "recommendText": "与华云龙KLE合唱歌曲《天下谁人不识君》",
+        "appendRecText": "",
+        "fansSize": 9868,
+        "img1v1Url": "https://p2.music.126.net/qRA4X1W48HrURAQu3MxQJg==/109951171002600474.jpg",
+        "accountId": 307878134,
+        "img1v1": 109951171002600480,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

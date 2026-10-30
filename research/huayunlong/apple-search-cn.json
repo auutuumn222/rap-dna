@@ -1,0 +1,64 @@
+{
+  "resultCount": 7,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "華雲龍KLE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8D%8E%E4%BA%91%E9%BE%99kle/1600550625?uo=4",
+      "artistId": 1600550625,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "华云龙KLE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8D%8E%E4%BA%91%E9%BE%99kle/1699561311?uo=4",
+      "artistId": 1699561311
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "华云龙KLE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8D%8E%E4%BA%91%E9%BE%99kle/1835499303?uo=4",
+      "artistId": 1835499303
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "泰格西",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%B0%E6%A0%BC%E8%A5%BF/1645496384?uo=4",
+      "artistId": 1645496384,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "扬布拉德",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%89%AC%E5%B8%83%E6%8B%89%E5%BE%B7/1624415679?uo=4",
+      "artistId": 1624415679,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "九莲",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%B9%9D%E8%8E%B2/1744555036?uo=4",
+      "artistId": 1744555036,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "华云龙",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8D%8E%E4%BA%91%E9%BE%99/1592678991?uo=4",
+      "artistId": 1592678991,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

@@ -1,0 +1,4905 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-10-30",
+  "artist": {
+    "id": "n33435403",
+    "name": "华云龙KLE",
+    "short": "华云龙",
+    "aliases": [
+      "华云龙KLE",
+      "华云龙",
+      "華雲龍KLE",
+      "KLE"
+    ],
+    "portrait": "./assets/huayunlong-portrait.jpg",
+    "portraitSource": "https://p1.music.126.net/uud8eP712UuyHhDR3HtGYg==/109951172821942552.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=33435403"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1600550625"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 70,
+    "neteaseCollected": 70,
+    "neteaseIncluded": 70,
+    "neteaseExcluded": 0,
+    "neteaseHasMore": false,
+    "listedReleases": 11,
+    "associatedNeteaseReleases": 33,
+    "appleComparedReleases": 1,
+    "appleExtraTracks": 0,
+    "coreAlbums": 4,
+    "from": "2019-11-27",
+    "through": "2026-08-17",
+    "historicallyComplete": false,
+    "description": "网易云完整一页 70 条，末页more=false；四个核心项目当前曲单完整。Apple美国区龙年关联同一专辑，并保留平台日期和来源；历史全量尚未证明。当前有日期范围 2019-11-27 至 2026-08-17。"
+  },
+  "people": [
+    {
+      "id": "n12968978",
+      "name": "YOUNGLEGO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12968978"
+    },
+    {
+      "id": "n33435403",
+      "name": "华云龙KLE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33435403"
+    },
+    {
+      "id": "n27727833",
+      "name": "LinboiRivch链子",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=27727833"
+    },
+    {
+      "id": "n30220807",
+      "name": "罗可Lorkin",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30220807"
+    },
+    {
+      "id": "n12277473",
+      "name": "李大奔BENZO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12277473"
+    },
+    {
+      "id": "n35009085",
+      "name": "Vansdaddy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35009085"
+    },
+    {
+      "id": "n12923031",
+      "name": "扬布拉德",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12923031"
+    },
+    {
+      "id": "n52118688",
+      "name": "九莲",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52118688"
+    },
+    {
+      "id": "n61573190",
+      "name": "富梓皓FREY",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=61573190"
+    },
+    {
+      "id": "n15200313",
+      "name": "Echo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=15200313"
+    },
+    {
+      "id": "n28416123",
+      "name": "PONYGO小马",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=28416123"
+    },
+    {
+      "id": "n52410166",
+      "name": "泰格西",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52410166"
+    },
+    {
+      "id": "n99008968",
+      "name": "热单间HEATROOM",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=99008968"
+    },
+    {
+      "id": "n847107",
+      "name": "谢帝",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=847107"
+    },
+    {
+      "id": "n12357897",
+      "name": "mok",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12357897"
+    },
+    {
+      "id": "n12466885",
+      "name": "BroFA",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12466885"
+    },
+    {
+      "id": "n28869014",
+      "name": "DiorGoFlex",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=28869014"
+    },
+    {
+      "id": "n50928848",
+      "name": "DiorBaby",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50928848"
+    },
+    {
+      "id": "n47603179",
+      "name": "Rich4ever",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=47603179"
+    },
+    {
+      "id": "n12408182",
+      "name": "薛明媛",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12408182"
+    },
+    {
+      "id": "n32574675",
+      "name": "檀",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32574675"
+    },
+    {
+      "id": "n47607639",
+      "name": "贰万",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=47607639"
+    },
+    {
+      "id": "n33795996",
+      "name": "Boot布特",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33795996"
+    },
+    {
+      "id": "n31919304",
+      "name": "Paddi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31919304"
+    },
+    {
+      "id": "n33126449",
+      "name": "杨一川",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33126449"
+    },
+    {
+      "id": "n33541560",
+      "name": "彦志梓ACM",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33541560"
+    },
+    {
+      "id": "n29051253",
+      "name": "皓阳Grindy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29051253"
+    },
+    {
+      "id": "n0",
+      "name": "涵",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=0"
+    },
+    {
+      "id": "n32440553",
+      "name": "柳基贤Gisay",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32440553"
+    },
+    {
+      "id": "n27871690",
+      "name": "嘻哈融合体",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=27871690"
+    },
+    {
+      "id": "n12632373",
+      "name": "刘宇LGY",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12632373"
+    },
+    {
+      "id": "n29938260",
+      "name": "梁梵",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29938260"
+    },
+    {
+      "id": "n12965215",
+      "name": "邓典果DDG",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12965215"
+    },
+    {
+      "id": "n33583407",
+      "name": "谭添Ess",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33583407"
+    },
+    {
+      "id": "n34245040",
+      "name": "紫薇Avril",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34245040"
+    },
+    {
+      "id": "n30281610",
+      "name": "小聂不说唱",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30281610"
+    },
+    {
+      "id": "n1094247",
+      "name": "赣斯特G swag",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1094247"
+    },
+    {
+      "id": "c546L5riK5Y2a",
+      "name": "王渊博",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c572X5Y-vIGxvcmtpbiBsaW5ib2lyaXZjaA",
+      "name": "罗可 Lorkin LinboiRivch",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZmlyZeiMg-iJvui_qQ",
+      "name": "FiRe范艾迩",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6auY5a6H6LGq",
+      "name": "高宇豪",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5byg5q2l6Iul",
+      "name": "张步若",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbHVzY2lvdXNiYg",
+      "name": "LusciousBB",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2O6ZWV6L2p5a62",
+      "name": "李镕轩家",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2O5pix54a5",
+      "name": "李昱熹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2O6ZWV6L2p",
+      "name": "李镕轩",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5oiQ6YO95L6D6L-q6I6O5pmu5paH5YyW5Lyg5aqS5pyJ6ZmQ5YWs5Y-4",
+      "name": "成都侃迪莎普文化传媒有限公司",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdW5jbGUgZGFtbg",
+      "name": "Uncle Damn",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb2Nk",
+      "name": "Ocd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5rKC6LCm",
+      "name": "沂谦",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5biD54m5",
+      "name": "布特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5ZSQ5bq35a6B",
+      "name": "唐康宁",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6bmk5a2QaGVhenk",
+      "name": "鹤子Heazy",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5bq35ri6",
+      "name": "康渺",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhhdGtpZGdvcmFu",
+      "name": "ThatKidGoran",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccmljaGJsZXNzZWQmcGhhdG9t",
+      "name": "Richblessed&Phatom",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGFjdOa0vuWFi-eJuQ",
+      "name": "PACT派克特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2VsbHMxMDgm6bG85bC-cTc",
+      "name": "Cells108&鱼尾Q7",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2VrZWJvdyAmcHJvZGpheW1hZGU",
+      "name": "KeKeBow &prodjaymade",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caW50cm8gc3R1ZGlvIOa6kMK36Z-z5LmQ",
+      "name": "INTRO STUDIO 源·音乐",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbmV3c3dhZ2Vibw",
+      "name": "NewSwagEBo",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546JLTAwMw",
+      "name": "玉-003",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2xvbmVyMjM",
+      "name": "cLoner23",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camlv5ZCJ5qyn",
+      "name": "Jio吉欧",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGhhbnRvbQ",
+      "name": "Phantom",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caGVjaGl6YW50ZQ",
+      "name": "Hechizante",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c56ug56ug",
+      "name": "章章",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5aSa6IqsZG9sYmVhdHo",
+      "name": "多芬DolBeatz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccm9tYW4",
+      "name": "Roman",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGlyZWQ",
+      "name": "tired",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c56ug5pqH",
+      "name": "章暇",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2o5LiA5beddGlua28",
+      "name": "杨一川TINKO",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5Y2O5LqR6b6Z",
+      "name": "华云龙",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW91bmdyb2NrbWJiLg",
+      "name": "YOUNGROCKMBB.",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGFibG9tY3I",
+      "name": "PABLOMCR",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW91bmdyb2NrbWJi",
+      "name": "YOUNGROCKMBB",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hpbmVsaWtldnZz",
+      "name": "ShineLikeVVS",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYmVjayBiZWF0eg",
+      "name": "Beck Beatz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2xpbW9uZ2x1ZQ",
+      "name": "klimonglue",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGV2aWF0aGFu",
+      "name": "Leviathan",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LWj5pav54m5",
+      "name": "赣斯特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LWj5pav54m5LeWwj-iDlmZhdGU",
+      "name": "赣斯特-小胖FATE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZXNz",
+      "name": "Ess",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGV2aWF0aGFu5Y2O5LqR6b6Z",
+      "name": "Leviathan华云龙",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n392217046",
+      "title": "驭城 Run the city",
+      "date": "2026-08-17",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "YOUNGLEGO"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-392217046.jpg",
+      "artworkSource": "https://p2.music.126.net/ZG9WeeuUX5r3sRtAZQ_COg==/109951173740862159.jpg",
+      "source": "https://music.163.com/album?id=392217046",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3420344373"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n383801253",
+      "title": "红城",
+      "date": "2026-06-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "LinboiRivch链子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-383801253.jpg",
+      "artworkSource": "https://p1.music.126.net/IASHsCIalR-ooggLJRCTNw==/109951173460157965.jpg",
+      "source": "https://music.163.com/album?id=383801253",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3398322110"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n381164186",
+      "title": "MODEL",
+      "date": "2026-06-16",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "李大奔BENZO"
+      ],
+      "label": "杭州火热烧奔文化发展有限公司",
+      "artwork": "./assets/album-381164186.jpg",
+      "artworkSource": "https://p1.music.126.net/iCPBbnxFQeh0Kp1546ybJg==/109951173367360719.jpg",
+      "source": "https://music.163.com/album?id=381164186",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3392560498"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n380120244",
+      "title": "都市醉漢春日随笔2026",
+      "date": "2026-06-10",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 4,
+      "artistNames": [
+        "Vansdaddy",
+        "LusciousBB"
+      ],
+      "label": "成都侃迪莎普文化传媒有限公司",
+      "artwork": "./assets/album-380120244.jpg",
+      "artworkSource": "https://p1.music.126.net/zkPRRZP_q4ZtK9lBikCvXQ==/109951173331982132.jpg",
+      "source": "https://music.163.com/album?id=380120244",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3390198712"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n377313633",
+      "title": "迷失在情绪里",
+      "date": "2026-05-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 17,
+      "artistNames": [
+        "扬布拉德"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-377313633.jpg",
+      "artworkSource": "https://p1.music.126.net/GYrDflEI3TggE8jmgvGiig==/109951173248951522.jpg",
+      "source": "https://music.163.com/album?id=377313633",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3383995393"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n376265117",
+      "title": "面子",
+      "date": "2026-05-18",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "九莲"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-376265117.jpg",
+      "artworkSource": "https://p1.music.126.net/QnwEHiJEk_Rbhd2hQN6jXw==/109951173217649799.jpg",
+      "source": "https://music.163.com/album?id=376265117",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3381780212"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n361147873",
+      "title": "县城门面",
+      "date": "2026-02-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "Echo"
+      ],
+      "label": null,
+      "artwork": "./assets/album-361147873.jpg",
+      "artworkSource": "https://p2.music.126.net/wJFkHMHNLDzfVvRH4rNmeA==/109951172702334499.jpg",
+      "source": "https://music.163.com/album?id=361147873",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3347194491",
+        "n3347193459"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n284466958",
+      "title": "村里出了个说唱歌手",
+      "date": "2025-09-09",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 9,
+      "artistNames": [
+        "PONYGO小马"
+      ],
+      "label": null,
+      "artwork": "./assets/album-284466958.jpg",
+      "artworkSource": "https://p2.music.126.net/oEsnnSTH_5GWT8IhNopyGg==/109951171994197429.jpg",
+      "source": "https://music.163.com/album?id=284466958",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2744693224",
+        "n2744691278"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n281143386",
+      "title": "新说唱2025 第十二期",
+      "date": "2025-08-23",
+      "type": "专辑",
+      "edition": "现场版",
+      "totalTracks": 24,
+      "artistNames": [
+        "说唱巅峰对决2026"
+      ],
+      "label": "韶愔音乐娱乐（北京）有限公司",
+      "artwork": "./assets/album-281143386.jpg",
+      "artworkSource": "https://p2.music.126.net/QQsOcKcT6kleCUhIFMn-mg==/109951171834703159.jpg",
+      "source": "https://music.163.com/album?id=281143386",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2738932007"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n280931120",
+      "title": "Couple Hunnid All Star Mixtape Vol.1",
+      "date": "2025-08-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 21,
+      "artistNames": [
+        "谢帝"
+      ],
+      "label": "网易音乐人 x CoupleHunnid",
+      "artwork": "./assets/album-280931120.jpg",
+      "artworkSource": "https://p1.music.126.net/aZ2PZfKhELIHTVynAvDFVA==/109951171818265854.jpg",
+      "source": "https://music.163.com/album?id=280931120",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2734680361"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n281547957",
+      "title": "HEATROOM TAPE 2nd",
+      "date": "2025-08-17",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 3,
+      "artistNames": [
+        "华云龙KLE",
+        "热单间HEATROOM"
+      ],
+      "label": null,
+      "artwork": "./assets/album-281547957.jpg",
+      "artworkSource": "https://p2.music.126.net/GaC7ozzgLyBWxsg86QaqzA==/109951171867289305.jpg",
+      "source": "https://music.163.com/album?id=281547957",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "团体项目",
+      "trackIds": [
+        "n2736268352",
+        "n2736268314",
+        "n2736268285"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n272444963",
+      "title": "龙年",
+      "date": "2025-05-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-272444963.jpg",
+      "artworkSource": "https://p1.music.126.net/eSoVpvVnsS6TCvDUWZWptQ==/109951171005786628.jpg",
+      "source": "https://music.163.com/album?id=272444963",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2706786639",
+        "n2706783675",
+        "n2706764341",
+        "n2706764151",
+        "n2706759364",
+        "n2706755836",
+        "n2706752385",
+        "n2706742977",
+        "n2706742639",
+        "n2706734246",
+        "n2706734240",
+        "n2706734223",
+        "n2706734212",
+        "n2706732865"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n266787856",
+      "title": "奉天大拿",
+      "date": "2025-03-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "九莲"
+      ],
+      "label": null,
+      "artwork": "./assets/album-266787856.jpg",
+      "artworkSource": "https://p2.music.126.net/14XKq0ku8r8xlJNOc3pfYw==/109951170643705115.jpg",
+      "source": "https://music.163.com/album?id=266787856",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2687752084"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n170996512",
+      "title": "午夜心率",
+      "date": "2023-08-04",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 4,
+      "artistNames": [
+        "薛明媛"
+      ],
+      "label": "Republic Records China",
+      "artwork": "./assets/album-170996512.jpg",
+      "artworkSource": "https://p1.music.126.net/A03vyBFsskSc6hyRyBZMow==/109951168791116009.jpg",
+      "source": "https://music.163.com/album?id=170996512",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2069116628"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n166150772",
+      "title": "灰姑娘",
+      "date": "2023-05-23",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-166150772.jpg",
+      "artworkSource": "https://p2.music.126.net/vZcKTPqX8VgGUVyu9uyHuw==/109951168633238284.jpg",
+      "source": "https://music.163.com/album?id=166150772",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2049819559"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n164403788",
+      "title": "TRUTH",
+      "date": "2023-04-27",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-164403788.jpg",
+      "artworkSource": "https://p2.music.126.net/qh64i-viQ-lpzGbuSSbZBg==/109951168572930004.jpg",
+      "source": "https://music.163.com/album?id=164403788",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2042763765"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n159211714",
+      "title": "SAVAGE 22",
+      "date": "2023-02-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-159211714.jpg",
+      "artworkSource": "https://p2.music.126.net/0c54r0FjpBLKNIi1CFPLWA==/109951168277566058.jpg",
+      "source": "https://music.163.com/album?id=159211714",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2019068107",
+        "n2019061317",
+        "n2019060802",
+        "n2019060646",
+        "n2019060573",
+        "n2019060366",
+        "n2019059550",
+        "n2019059221",
+        "n2019059094",
+        "n2019058991"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n151782498",
+      "title": "唯一",
+      "date": "2022-09-21",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": "Republic Records China",
+      "artwork": "./assets/album-151782498.jpg",
+      "artworkSource": "https://p2.music.126.net/5HuQw5vPzNGlQcCszilqow==/109951167886575622.jpg",
+      "source": "https://music.163.com/album?id=151782498",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1982314046"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n150550260",
+      "title": "Play 4 Keeps Vol.1",
+      "date": "2022-09-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "Paddi"
+      ],
+      "label": null,
+      "artwork": "./assets/album-150550260.jpg",
+      "artworkSource": "https://p1.music.126.net/SJvXTEnpt6ald5MQZxltkQ==/109951167825599711.jpg",
+      "source": "https://music.163.com/album?id=150550260",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1976332347"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n147839122",
+      "title": "给我一杯马蒂尼",
+      "date": "2022-07-12",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "薛明媛",
+        "华云龙KLE"
+      ],
+      "label": "Republic Records China",
+      "artwork": "./assets/album-147839122.jpg",
+      "artworkSource": "https://p2.music.126.net/dHPm686byVd6Dglc-Vf6RQ==/109951167644244423.jpg",
+      "source": "https://music.163.com/album?id=147839122",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1962467912"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n145196400",
+      "title": "血雨",
+      "date": "2022-05-20",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "LinboiRivch链子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-145196400.jpg",
+      "artworkSource": "https://p1.music.126.net/KHkTGs_FuGqHjEujtGBR9A==/109951167709416538.jpg",
+      "source": "https://music.163.com/album?id=145196400",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1994866257"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n143024561",
+      "title": "KINGDOM",
+      "date": "2022-04-05",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "杨一川"
+      ],
+      "label": null,
+      "artwork": "./assets/album-143024561.jpg",
+      "artworkSource": "https://p2.music.126.net/HlxBgh6QanZnkhCq_qHcRA==/109951167246051322.jpg",
+      "source": "https://music.163.com/album?id=143024561",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1935365518"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n141803223",
+      "title": "蝶",
+      "date": "2022-03-14",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-141803223.jpg",
+      "artworkSource": "https://p2.music.126.net/K9BHfQJ3IQGj_JZIVdpY1Q==/109951167149714864.jpg",
+      "source": "https://music.163.com/album?id=141803223",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1928194423"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n139543605",
+      "title": "BRICK MANSION",
+      "date": "2022-01-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "PUCK"
+      ],
+      "label": "看见音乐",
+      "artwork": "./assets/album-139543605.jpg",
+      "artworkSource": "https://p2.music.126.net/mvqwQQNvJ_D2o_xPSad7ZA==/109951166987411266.jpg",
+      "source": "https://music.163.com/album?id=139543605",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1915600731"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n137094142",
+      "title": "金鳞KING LEVIATHAN",
+      "date": "2021-12-08",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-137094142.jpg",
+      "artworkSource": "https://p1.music.126.net/9b0PxDSpmc8llV01NhnsLw==/109951166699301642.jpg",
+      "source": "https://music.163.com/album?id=137094142",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n1901132090",
+        "n1901123959",
+        "n1901123822",
+        "n1901123153",
+        "n1901123018",
+        "n1901110073",
+        "n1901109953",
+        "n1901106893"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n123325293",
+      "title": "TurnUp2020 上海站",
+      "date": "2021-02-22",
+      "type": "专辑",
+      "edition": "现场版",
+      "totalTracks": 30,
+      "artistNames": [
+        "嘻哈融合体"
+      ],
+      "label": "嘻哈融合体",
+      "artwork": "./assets/album-123325293.jpg",
+      "artworkSource": "https://p2.music.126.net/TEkyiUnjMg2vYaDJdWs3VA==/109951165749012140.jpg",
+      "source": "https://music.163.com/album?id=123325293",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1821872790",
+        "n1821865321"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n122539876",
+      "title": "Born With",
+      "date": "2021-02-06",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "刘宇LGY"
+      ],
+      "label": null,
+      "artwork": "./assets/album-122539876.jpg",
+      "artworkSource": "https://p2.music.126.net/VEMW3pV0tr1JmwZqeA_aQQ==/109951165699524762.jpg",
+      "source": "https://music.163.com/album?id=122539876",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1818127909"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n120444692",
+      "title": "WooHaa",
+      "date": "2020-12-17",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-120444692.jpg",
+      "artworkSource": "https://p2.music.126.net/kK_XNVJlG0kOZ9I-WLw5FA==/109951165547602405.jpg",
+      "source": "https://music.163.com/album?id=120444692",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1805106527"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n90784999",
+      "title": "我想要 EDM Mix",
+      "date": "2020-06-13",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "谭添Ess"
+      ],
+      "label": null,
+      "artwork": "./assets/album-90784999.jpg",
+      "artworkSource": "https://p1.music.126.net/vA3yDpqRmwo_5_rnVN8Z5g==/109951165059316126.jpg",
+      "source": "https://music.163.com/album?id=90784999",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1455156469"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n89968294",
+      "title": "From Nothing To 1",
+      "date": "2020-05-28",
+      "type": "EP",
+      "edition": "Remix",
+      "totalTracks": 4,
+      "artistNames": [
+        "华云龙KLE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-89968294.jpg",
+      "artworkSource": "https://p2.music.126.net/le_QBeUysiaJ7ijIX3HI8w==/109951165033283571.jpg",
+      "source": "https://music.163.com/album?id=89968294",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n1452538650",
+        "n1452538569",
+        "n1452537504",
+        "n1451422066"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n85095679",
+      "title": "2019年说唱作业",
+      "date": "2020-01-22",
+      "type": "EP",
+      "edition": "Remix",
+      "totalTracks": 4,
+      "artistNames": [
+        "小聂不说唱"
+      ],
+      "label": null,
+      "artwork": "./assets/album-85095679.jpg",
+      "artworkSource": "https://p2.music.126.net/ELKN_uWZ4nUOZYHHNgpz9w==/109951164642146983.jpg",
+      "source": "https://music.163.com/album?id=85095679",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1418025467"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n85031726",
+      "title": "Daɪəmənd",
+      "date": "2020-01-18",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "赣斯特G swag"
+      ],
+      "label": null,
+      "artwork": "./assets/album-85031726.jpg",
+      "artworkSource": "https://p1.music.126.net/cEq9VhCK8yvVMAj8VRfSuA==/109951164633699928.jpg",
+      "source": "https://music.163.com/album?id=85031726",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1417320419"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n83667822",
+      "title": "My Time Jazzy Remix",
+      "date": "2019-11-27",
+      "type": "Single",
+      "edition": "Remix",
+      "totalTracks": 1,
+      "artistNames": [
+        "谭添Ess"
+      ],
+      "label": null,
+      "artwork": "./assets/album-83667822.jpg",
+      "artworkSource": "https://p1.music.126.net/BoxnLg4oxjCCKR7_5hLjSw==/109951164513188309.jpg",
+      "source": "https://music.163.com/album?id=83667822",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1406194617"
+      ],
+      "listedOnArtist": false
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3420344373",
+      "platformId": 3420344373,
+      "title": "自由不免费 Freedom not free",
+      "aliases": [],
+      "albumId": "n392217046",
+      "date": "2026-08-17",
+      "trackNumber": 2,
+      "duration": 183206,
+      "artistIds": [
+        "n12968978",
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3420344373",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3398322110",
+      "platformId": 3398322110,
+      "title": "泪忘书",
+      "aliases": [],
+      "albumId": "n383801253",
+      "date": "2026-06-28",
+      "trackNumber": 12,
+      "duration": 236025,
+      "artistIds": [
+        "n27727833",
+        "n33435403",
+        "n30220807"
+      ],
+      "credits": [
+        {
+          "personId": "n27727833",
+          "role": "作词",
+          "raw": "作词 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "n30220807",
+          "role": "作词",
+          "raw": "作词 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "n27727833",
+          "role": "作曲",
+          "raw": "作曲 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "n30220807",
+          "role": "作曲",
+          "raw": "作曲 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        },
+        {
+          "personId": "c572X5Y-vIGxvcmtpbiBsaW5ib2lyaXZjaA",
+          "role": "和声",
+          "raw": "和声：罗可 Lorkin LinboiRivch",
+          "source": "https://music.163.com/song?id=3398322110",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+        "作曲 : LinboiRivch链子/华云龙KLE/罗可Lorkin",
+        "混音：王渊博",
+        "和声：罗可 Lorkin LinboiRivch"
+      ],
+      "source": "https://music.163.com/song?id=3398322110",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3392560498",
+      "platformId": 3392560498,
+      "title": "颜值博主",
+      "aliases": [],
+      "albumId": "n381164186",
+      "date": "2026-06-16",
+      "trackNumber": 6,
+      "duration": 168000,
+      "artistIds": [
+        "n12277473",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n12277473",
+          "role": "作词",
+          "raw": "作词 : 李大奔BENZO/华云龙KLE",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 李大奔BENZO/华云龙KLE",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        },
+        {
+          "personId": "n12277473",
+          "role": "作曲",
+          "raw": "作曲 : 李大奔BENZO/华云龙KLE",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 李大奔BENZO/华云龙KLE",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        },
+        {
+          "personId": "cZmlyZeiMg-iJvui_qQ",
+          "role": "编曲",
+          "raw": "编曲 : FiRe范艾迩",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        },
+        {
+          "personId": "c6auY5a6H6LGq",
+          "role": "混音",
+          "raw": "混音 : 高宇豪",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        },
+        {
+          "personId": "c5byg5q2l6Iul",
+          "role": "母带",
+          "raw": "母带 : 张步若",
+          "source": "https://music.163.com/song?id=3392560498",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 李大奔BENZO/华云龙KLE",
+        "作曲 : 李大奔BENZO/华云龙KLE",
+        "编曲 : FiRe范艾迩",
+        "混音 : 高宇豪",
+        "母带 : 张步若"
+      ],
+      "source": "https://music.163.com/song?id=3392560498",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3390198712",
+      "platformId": 3390198712,
+      "title": "台北一夜",
+      "aliases": [],
+      "albumId": "n380120244",
+      "date": "2026-06-10",
+      "trackNumber": 2,
+      "duration": 195361,
+      "artistIds": [
+        "n35009085",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n35009085",
+          "role": "作词",
+          "raw": "作词 : Vansdaddy/华云龙KLE",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : Vansdaddy/华云龙KLE",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "n35009085",
+          "role": "作曲",
+          "raw": "作曲 : Vansdaddy/华云龙KLE",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : Vansdaddy/华云龙KLE",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "cbHVzY2lvdXNiYg",
+          "role": "制作人",
+          "raw": "制作人 : LusciousBB/Vansdaddy",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "n35009085",
+          "role": "制作人",
+          "raw": "制作人 : LusciousBB/Vansdaddy",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "cbHVzY2lvdXNiYg",
+          "role": "编曲",
+          "raw": "编曲 : LusciousBB/Vansdaddy",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "n35009085",
+          "role": "编曲",
+          "raw": "编曲 : LusciousBB/Vansdaddy",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O6ZWV6L2p5a62",
+          "role": "录音",
+          "raw": "录音 : 李镕轩家",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O5pix54a5",
+          "role": "混音",
+          "raw": "混音 : 李昱熹",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O5pix54a5",
+          "role": "母带",
+          "raw": "母带 : 李昱熹",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2O6ZWV6L2p",
+          "role": "和声编写",
+          "raw": "和声编写 : 李镕轩/华云龙KLE",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "和声编写",
+          "raw": "和声编写 : 李镕轩/华云龙KLE",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        },
+        {
+          "personId": "c5oiQ6YO95L6D6L-q6I6O5pmu5paH5YyW5Lyg5aqS5pyJ6ZmQ5YWs5Y-4",
+          "role": "监制",
+          "raw": "监制 : 成都侃迪莎普文化传媒有限公司",
+          "source": "https://music.163.com/song?id=3390198712",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Vansdaddy/华云龙KLE",
+        "作曲 : Vansdaddy/华云龙KLE",
+        "制作人 : LusciousBB/Vansdaddy",
+        "编曲 : LusciousBB/Vansdaddy",
+        "录音 : 李镕轩家",
+        "混音 : 李昱熹",
+        "母带 : 李昱熹",
+        "和声编写 : 李镕轩/华云龙KLE",
+        "监制 : 成都侃迪莎普文化传媒有限公司"
+      ],
+      "source": "https://music.163.com/song?id=3390198712",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3383995393",
+      "platformId": 3383995393,
+      "title": "YAH Ⅱ",
+      "aliases": [],
+      "albumId": "n377313633",
+      "date": "2026-05-23",
+      "trackNumber": 5,
+      "duration": 146174,
+      "artistIds": [
+        "n12923031",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n12923031",
+          "role": "作词",
+          "raw": "作词 : 扬布拉德/华云龙KLE",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 扬布拉德/华云龙KLE",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "n12923031",
+          "role": "作曲",
+          "raw": "作曲 : 扬布拉德/华云龙KLE",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 扬布拉德/华云龙KLE",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "cdW5jbGUgZGFtbg",
+          "role": "编曲",
+          "raw": "编曲 : Uncle Damn",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "cdW5jbGUgZGFtbg",
+          "role": "混音",
+          "raw": "混音 : Uncle Damn/王渊博",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音 : Uncle Damn/王渊博",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd/沂谦/布特",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "c5rKC6LCm",
+          "role": "监制",
+          "raw": "监制：Ocd/沂谦/布特",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        },
+        {
+          "personId": "c5biD54m5",
+          "role": "监制",
+          "raw": "监制：Ocd/沂谦/布特",
+          "source": "https://music.163.com/song?id=3383995393",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 扬布拉德/华云龙KLE",
+        "作曲 : 扬布拉德/华云龙KLE",
+        "编曲 : Uncle Damn",
+        "混音 : Uncle Damn/王渊博",
+        "监制：Ocd/沂谦/布特"
+      ],
+      "source": "https://music.163.com/song?id=3383995393",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3381780212",
+      "platformId": 3381780212,
+      "title": "九片花瓣",
+      "aliases": [],
+      "albumId": "n376265117",
+      "date": "2026-05-18",
+      "trackNumber": 13,
+      "duration": 212727,
+      "artistIds": [
+        "n52118688",
+        "n33435403",
+        "n61573190"
+      ],
+      "credits": [
+        {
+          "personId": "n52118688",
+          "role": "作词",
+          "raw": "作词 : 九莲/华云龙KLE/富梓皓FREY",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 九莲/华云龙KLE/富梓皓FREY",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "n61573190",
+          "role": "作词",
+          "raw": "作词 : 九莲/华云龙KLE/富梓皓FREY",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "n52118688",
+          "role": "作曲",
+          "raw": "作曲 : 九莲/华云龙KLE/富梓皓FREY",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 九莲/华云龙KLE/富梓皓FREY",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "n61573190",
+          "role": "作曲",
+          "raw": "作曲 : 九莲/华云龙KLE/富梓皓FREY",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "n61573190",
+          "role": "和声",
+          "raw": "和声 : 富梓皓FREY/唐康宁/鹤子Heazy/康渺",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "c5ZSQ5bq35a6B",
+          "role": "和声",
+          "raw": "和声 : 富梓皓FREY/唐康宁/鹤子Heazy/康渺",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "c6bmk5a2QaGVhenk",
+          "role": "和声",
+          "raw": "和声 : 富梓皓FREY/唐康宁/鹤子Heazy/康渺",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "c5bq35ri6",
+          "role": "和声",
+          "raw": "和声 : 富梓皓FREY/唐康宁/鹤子Heazy/康渺",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "cbHVzY2lvdXNiYg",
+          "role": "编曲",
+          "raw": "编曲 : LusciousBB/ThatKidGoran",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhhdGtpZGdvcmFu",
+          "role": "编曲",
+          "raw": "编曲 : LusciousBB/ThatKidGoran",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音:王渊博",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带:王渊博",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制:Ocd",
+          "source": "https://music.163.com/song?id=3381780212",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 九莲/华云龙KLE/富梓皓FREY",
+        "作曲 : 九莲/华云龙KLE/富梓皓FREY",
+        "和声 : 富梓皓FREY/唐康宁/鹤子Heazy/康渺",
+        "编曲 : LusciousBB/ThatKidGoran",
+        "混音:王渊博",
+        "母带:王渊博",
+        "监制:Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3381780212",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3347193459",
+      "platformId": 3347193459,
+      "title": "还款日",
+      "aliases": [],
+      "albumId": "n361147873",
+      "date": "2026-02-10",
+      "trackNumber": 3,
+      "duration": 199741,
+      "artistIds": [
+        "n15200313",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n15200313",
+          "role": "作词",
+          "raw": "作词 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347193459",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347193459",
+          "level": "track"
+        },
+        {
+          "personId": "n15200313",
+          "role": "作曲",
+          "raw": "作曲 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347193459",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347193459",
+          "level": "track"
+        },
+        {
+          "personId": "cY2VsbHMxMDgm6bG85bC-cTc",
+          "role": "编曲",
+          "raw": "编曲 : Cells108&鱼尾Q7",
+          "source": "https://music.163.com/song?id=3347193459",
+          "level": "track"
+        },
+        {
+          "personId": "ccGFjdOa0vuWFi-eJuQ",
+          "role": "监制",
+          "raw": "监制 : PACT派克特",
+          "source": "https://music.163.com/song?id=3347193459",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Echo/华云龙KLE",
+        "作曲 : Echo/华云龙KLE",
+        "编曲 : Cells108&鱼尾Q7",
+        "监制 : PACT派克特"
+      ],
+      "source": "https://music.163.com/song?id=3347193459",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3347194491",
+      "platformId": 3347194491,
+      "title": "黑山羊",
+      "aliases": [],
+      "albumId": "n361147873",
+      "date": "2026-02-10",
+      "trackNumber": 8,
+      "duration": 179200,
+      "artistIds": [
+        "n15200313",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n15200313",
+          "role": "作词",
+          "raw": "作词 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347194491",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347194491",
+          "level": "track"
+        },
+        {
+          "personId": "n15200313",
+          "role": "作曲",
+          "raw": "作曲 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347194491",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : Echo/华云龙KLE",
+          "source": "https://music.163.com/song?id=3347194491",
+          "level": "track"
+        },
+        {
+          "personId": "ccmljaGJsZXNzZWQmcGhhdG9t",
+          "role": "编曲",
+          "raw": "编曲 : Richblessed&Phatom",
+          "source": "https://music.163.com/song?id=3347194491",
+          "level": "track"
+        },
+        {
+          "personId": "ccGFjdOa0vuWFi-eJuQ",
+          "role": "监制",
+          "raw": "监制 : PACT派克特",
+          "source": "https://music.163.com/song?id=3347194491",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Echo/华云龙KLE",
+        "作曲 : Echo/华云龙KLE",
+        "编曲 : Richblessed&Phatom",
+        "监制 : PACT派克特"
+      ],
+      "source": "https://music.163.com/song?id=3347194491",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2744691278",
+      "platformId": 2744691278,
+      "title": "八八大发",
+      "aliases": [],
+      "albumId": "n284466958",
+      "date": "2025-09-09",
+      "trackNumber": 5,
+      "duration": 183000,
+      "artistIds": [
+        "n28416123",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n28416123",
+          "role": "作词",
+          "raw": "作词 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "n28416123",
+          "role": "作曲",
+          "raw": "作曲 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "c546JLTAwMw",
+          "role": "编曲",
+          "raw": "编曲 : 玉-003",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "caW50cm8gc3R1ZGlvIOa6kMK36Z-z5LmQ",
+          "role": "录音",
+          "raw": "录音 : INTRO STUDIO 源·音乐",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "cbmV3c3dhZ2Vibw",
+          "role": "混音",
+          "raw": "混音 : NewSwagEBo",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        },
+        {
+          "personId": "cbmV3c3dhZ2Vibw",
+          "role": "母带",
+          "raw": "母带 : NewSwagEBo",
+          "source": "https://music.163.com/song?id=2744691278",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : PONYGO小马/华云龙KLE",
+        "作曲 : PONYGO小马/华云龙KLE",
+        "编曲 : 玉-003",
+        "录音 : INTRO STUDIO 源·音乐",
+        "混音 : NewSwagEBo",
+        "母带 : NewSwagEBo"
+      ],
+      "source": "https://music.163.com/song?id=2744691278",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2744693224",
+      "platformId": 2744693224,
+      "title": "小青年",
+      "aliases": [],
+      "albumId": "n284466958",
+      "date": "2025-09-09",
+      "trackNumber": 9,
+      "duration": 200000,
+      "artistIds": [
+        "n28416123",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n28416123",
+          "role": "作词",
+          "raw": "作词 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "n28416123",
+          "role": "作曲",
+          "raw": "作曲 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : PONYGO小马/华云龙KLE",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "ca2VrZWJvdyAmcHJvZGpheW1hZGU",
+          "role": "编曲",
+          "raw": "编曲 : KeKeBow &prodjaymade",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "caW50cm8gc3R1ZGlvIOa6kMK36Z-z5LmQ",
+          "role": "录音",
+          "raw": "录音 : INTRO STUDIO 源·音乐",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "cbmV3c3dhZ2Vibw",
+          "role": "混音",
+          "raw": "混音 : NewSwagEBo",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        },
+        {
+          "personId": "cbmV3c3dhZ2Vibw",
+          "role": "母带",
+          "raw": "母带 : NewSwagEBo",
+          "source": "https://music.163.com/song?id=2744693224",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : PONYGO小马/华云龙KLE",
+        "作曲 : PONYGO小马/华云龙KLE",
+        "编曲 : KeKeBow &prodjaymade",
+        "录音 : INTRO STUDIO 源·音乐",
+        "混音 : NewSwagEBo",
+        "母带 : NewSwagEBo"
+      ],
+      "source": "https://music.163.com/song?id=2744693224",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2734680361",
+      "platformId": 2734680361,
+      "title": "金球奖",
+      "aliases": [
+        "Feat. 华云龙KLE"
+      ],
+      "albumId": "n280931120",
+      "date": "2025-08-23",
+      "trackNumber": 4,
+      "duration": 187741,
+      "artistIds": [
+        "n847107",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/谢帝",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/谢帝",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/谢帝",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/谢帝",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        },
+        {
+          "personId": "ccGhhbnRvbQ",
+          "role": "编曲",
+          "raw": "编曲 : Phantom/Hechizante",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        },
+        {
+          "personId": "caGVjaGl6YW50ZQ",
+          "role": "编曲",
+          "raw": "编曲 : Phantom/Hechizante",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音 : 王渊博",
+          "source": "https://music.163.com/song?id=2734680361",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/谢帝",
+        "作曲 : 华云龙KLE/谢帝",
+        "编曲 : Phantom/Hechizante",
+        "混音 : 王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2734680361",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2738932007",
+      "platformId": 2738932007,
+      "title": "小帅 (Live)",
+      "aliases": [],
+      "albumId": "n281143386",
+      "date": "2025-08-23",
+      "trackNumber": 10,
+      "duration": 181104,
+      "artistIds": [
+        "n52410166",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n52410166",
+          "role": "作词",
+          "raw": "作词 : 泰格西/华云龙KLE",
+          "source": "https://music.163.com/song?id=2738932007",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 泰格西/华云龙KLE",
+          "source": "https://music.163.com/song?id=2738932007",
+          "level": "track"
+        },
+        {
+          "personId": "n52410166",
+          "role": "作曲",
+          "raw": "作曲 : 泰格西/华云龙KLE",
+          "source": "https://music.163.com/song?id=2738932007",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 泰格西/华云龙KLE",
+          "source": "https://music.163.com/song?id=2738932007",
+          "level": "track"
+        },
+        {
+          "personId": "cY2xvbmVyMjM",
+          "role": "编曲",
+          "raw": "编曲 : cLoner23",
+          "source": "https://music.163.com/song?id=2738932007",
+          "level": "track"
+        },
+        {
+          "personId": "camlv5ZCJ5qyn",
+          "role": "混音",
+          "raw": "混音 : Jio吉欧",
+          "source": "https://music.163.com/song?id=2738932007",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 泰格西/华云龙KLE",
+        "作曲 : 泰格西/华云龙KLE",
+        "编曲 : cLoner23",
+        "混音 : Jio吉欧"
+      ],
+      "source": "https://music.163.com/song?id=2738932007",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n2736268352",
+      "platformId": 2736268352,
+      "title": "山东王FREESTYLE（热单间Live）",
+      "aliases": [],
+      "albumId": "n281547957",
+      "date": "2025-08-17",
+      "trackNumber": 1,
+      "duration": 123036,
+      "artistIds": [
+        "n33435403",
+        "n99008968"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2736268352",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2736268352",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=2736268352",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n2736268285",
+      "platformId": 2736268285,
+      "title": "枣庄一夜（热单间Live）",
+      "aliases": [],
+      "albumId": "n281547957",
+      "date": "2025-08-17",
+      "trackNumber": 2,
+      "duration": 187834,
+      "artistIds": [
+        "n33435403",
+        "n99008968"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2736268285",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2736268285",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=2736268285",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n2736268314",
+      "platformId": 2736268314,
+      "title": "川渝女孩（热单间Live）",
+      "aliases": [],
+      "albumId": "n281547957",
+      "date": "2025-08-17",
+      "trackNumber": 3,
+      "duration": 176892,
+      "artistIds": [
+        "n33435403",
+        "n99008968"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2736268314",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2736268314",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=2736268314",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n2706734212",
+      "platformId": 2706734212,
+      "title": "枣庄市马思唯",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 1,
+      "duration": 151578,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706734212",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706734212",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706734212",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706734212",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706734212",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706734223",
+      "platformId": 2706734223,
+      "title": "轨道飞虎",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 2,
+      "duration": 175994,
+      "artistIds": [
+        "n33435403",
+        "n47603179"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706734223",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706734223",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706734223",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706734223",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706734223",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706732865",
+      "platformId": 2706732865,
+      "title": "山东王FREESTYLE",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 3,
+      "duration": 118895,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706732865",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706732865",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706732865",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706732865",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706732865",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706734240",
+      "platformId": 2706734240,
+      "title": "底层特律",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 4,
+      "duration": 222318,
+      "artistIds": [
+        "n33435403",
+        "n50928848"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/DiorBaby",
+          "source": "https://music.163.com/song?id=2706734240",
+          "level": "track"
+        },
+        {
+          "personId": "n50928848",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/DiorBaby",
+          "source": "https://music.163.com/song?id=2706734240",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/DiorBaby",
+          "source": "https://music.163.com/song?id=2706734240",
+          "level": "track"
+        },
+        {
+          "personId": "n50928848",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/DiorBaby",
+          "source": "https://music.163.com/song?id=2706734240",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706734240",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706734240",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/DiorBaby",
+        "作曲 : 华云龙KLE/DiorBaby",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706734240",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706734246",
+      "platformId": 2706734246,
+      "title": "老乡日",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 5,
+      "duration": 194166,
+      "artistIds": [
+        "n33435403",
+        "n28416123"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/PONYGO小马",
+          "source": "https://music.163.com/song?id=2706734246",
+          "level": "track"
+        },
+        {
+          "personId": "n28416123",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/PONYGO小马",
+          "source": "https://music.163.com/song?id=2706734246",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/PONYGO小马",
+          "source": "https://music.163.com/song?id=2706734246",
+          "level": "track"
+        },
+        {
+          "personId": "n28416123",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/PONYGO小马",
+          "source": "https://music.163.com/song?id=2706734246",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706734246",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706734246",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/PONYGO小马",
+        "作曲 : 华云龙KLE/PONYGO小马",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706734246",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706752385",
+      "platformId": 2706752385,
+      "title": "爽文",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 6,
+      "duration": 136258,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2706752385",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706742639",
+      "platformId": 2706742639,
+      "title": "十男九痔",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 7,
+      "duration": 127643,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706742639",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706742639",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706742639",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706742639",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706742639",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706742977",
+      "platformId": 2706742977,
+      "title": "常胜将军",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 8,
+      "duration": 193077,
+      "artistIds": [
+        "n33435403",
+        "n28869014"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2706742977",
+          "level": "track"
+        },
+        {
+          "personId": "n28869014",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2706742977",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2706742977",
+          "level": "track"
+        },
+        {
+          "personId": "n28869014",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2706742977",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706742977",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706742977",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/DiorGoFlex",
+        "作曲 : 华云龙KLE/DiorGoFlex",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706742977",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706759364",
+      "platformId": 2706759364,
+      "title": "顶男",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 9,
+      "duration": 204800,
+      "artistIds": [
+        "n33435403",
+        "n12466885"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2706759364",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706755836",
+      "platformId": 2706755836,
+      "title": "SHXT CHANGE",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 10,
+      "duration": 123512,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2706755836",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706764341",
+      "platformId": 2706764341,
+      "title": "过肺",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 11,
+      "duration": 138556,
+      "artistIds": [
+        "n33435403",
+        "n52118688"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2706764341",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706764151",
+      "platformId": 2706764151,
+      "title": "枣庄一夜",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 12,
+      "duration": 184615,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706764151",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706764151",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706764151",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706764151",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706764151",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706783675",
+      "platformId": 2706783675,
+      "title": "川渝女孩",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 13,
+      "duration": 173377,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2706783675",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2706786639",
+      "platformId": 2706786639,
+      "title": "天下谁人不识君",
+      "aliases": [],
+      "albumId": "n272444963",
+      "date": "2025-05-23",
+      "trackNumber": 14,
+      "duration": 192007,
+      "artistIds": [
+        "n33435403",
+        "n12357897"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706786639",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2706786639",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音：王渊博",
+          "source": "https://music.163.com/song?id=2706786639",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "母带：王渊博",
+          "source": "https://music.163.com/song?id=2706786639",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音：王渊博",
+        "母带：王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2706786639",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2687752084",
+      "platformId": 2687752084,
+      "title": "格式化Eliminate（Feat.华云龙KLE）",
+      "aliases": [],
+      "albumId": "n266787856",
+      "date": "2025-03-25",
+      "trackNumber": 7,
+      "duration": 154165,
+      "artistIds": [
+        "n52118688",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n52118688",
+          "role": "作词",
+          "raw": "作词 : 九莲/华云龙KLE",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 九莲/华云龙KLE",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        },
+        {
+          "personId": "n52118688",
+          "role": "作曲",
+          "raw": "作曲 : 九莲/华云龙KLE",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 九莲/华云龙KLE",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "编曲",
+          "raw": "编曲 : 王渊博",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音/母带 : 王渊博",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "母带",
+          "raw": "混音/母带 : 王渊博",
+          "source": "https://music.163.com/song?id=2687752084",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 九莲/华云龙KLE",
+        "作曲 : 九莲/华云龙KLE",
+        "编曲 : 王渊博",
+        "混音/母带 : 王渊博"
+      ],
+      "source": "https://music.163.com/song?id=2687752084",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2069116628",
+      "platformId": 2069116628,
+      "title": "给我一杯马蒂尼",
+      "aliases": [],
+      "albumId": "n170996512",
+      "date": "2023-08-04",
+      "trackNumber": 1,
+      "duration": 187204,
+      "artistIds": [
+        "n12408182",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/章章",
+          "source": "https://music.163.com/song?id=2069116628",
+          "level": "track"
+        },
+        {
+          "personId": "c56ug56ug",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/章章",
+          "source": "https://music.163.com/song?id=2069116628",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/章章",
+          "source": "https://music.163.com/song?id=2069116628",
+          "level": "track"
+        },
+        {
+          "personId": "c56ug56ug",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/章章",
+          "source": "https://music.163.com/song?id=2069116628",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/章章",
+        "作曲 : 华云龙KLE/章章"
+      ],
+      "source": "https://music.163.com/song?id=2069116628",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2049819559",
+      "platformId": 2049819559,
+      "title": "灰姑娘",
+      "aliases": [],
+      "albumId": "n166150772",
+      "date": "2023-05-23",
+      "trackNumber": 1,
+      "duration": 161118,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2049819559",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2049819559",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=2049819559",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2042763765",
+      "platformId": 2042763765,
+      "title": "TRUTH",
+      "aliases": [],
+      "albumId": "n164403788",
+      "date": "2023-04-27",
+      "trackNumber": 1,
+      "duration": 128859,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2042763765",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2042763765",
+          "level": "track"
+        },
+        {
+          "personId": "c5aSa6IqsZG9sYmVhdHo",
+          "role": "编曲",
+          "raw": "编曲 : 多芬DolBeatz/Roman",
+          "source": "https://music.163.com/song?id=2042763765",
+          "level": "track"
+        },
+        {
+          "personId": "ccm9tYW4",
+          "role": "编曲",
+          "raw": "编曲 : 多芬DolBeatz/Roman",
+          "source": "https://music.163.com/song?id=2042763765",
+          "level": "track"
+        },
+        {
+          "personId": "c5aSa6IqsZG9sYmVhdHo",
+          "role": "编曲",
+          "raw": "编曲：多芬DolBeatz/Roman",
+          "source": "https://music.163.com/song?id=2042763765",
+          "level": "track"
+        },
+        {
+          "personId": "ccm9tYW4",
+          "role": "编曲",
+          "raw": "编曲：多芬DolBeatz/Roman",
+          "source": "https://music.163.com/song?id=2042763765",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "编曲 : 多芬DolBeatz/Roman",
+        "编曲：多芬DolBeatz/Roman"
+      ],
+      "source": "https://music.163.com/song?id=2042763765",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019059550",
+      "platformId": 2019059550,
+      "title": "INTRO：ONE SHOT",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 1,
+      "duration": 113683,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2019059550",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019058991",
+      "platformId": 2019058991,
+      "title": "小镇做题家TRENCHES PAINTER",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 2,
+      "duration": 156734,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2019058991",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2019058991",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=2019058991",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019059094",
+      "platformId": 2019059094,
+      "title": "街头STREET LIFE",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 3,
+      "duration": 156279,
+      "artistIds": [
+        "n33435403",
+        "n33795996"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2019059094",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019059221",
+      "platformId": 2019059221,
+      "title": "熟梨汤MEMORY TALK",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 4,
+      "duration": 176713,
+      "artistIds": [
+        "n33435403",
+        "n12357897"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/mok",
+          "source": "https://music.163.com/song?id=2019059221",
+          "level": "track"
+        },
+        {
+          "personId": "n12357897",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/mok",
+          "source": "https://music.163.com/song?id=2019059221",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/mok",
+          "source": "https://music.163.com/song?id=2019059221",
+          "level": "track"
+        },
+        {
+          "personId": "n12357897",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/mok",
+          "source": "https://music.163.com/song?id=2019059221",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/mok",
+        "作曲 : 华云龙KLE/mok"
+      ],
+      "source": "https://music.163.com/song?id=2019059221",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019060573",
+      "platformId": 2019060573,
+      "title": "罗密欧ROMEO",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 5,
+      "duration": 177952,
+      "artistIds": [
+        "n33435403",
+        "n28869014"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2019060573",
+          "level": "track"
+        },
+        {
+          "personId": "n28869014",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2019060573",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2019060573",
+          "level": "track"
+        },
+        {
+          "personId": "n28869014",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/DiorGoFlex",
+          "source": "https://music.163.com/song?id=2019060573",
+          "level": "track"
+        },
+        {
+          "personId": "cdGlyZWQ",
+          "role": "编曲",
+          "raw": "编曲 : tired",
+          "source": "https://music.163.com/song?id=2019060573",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/DiorGoFlex",
+        "作曲 : 华云龙KLE/DiorGoFlex",
+        "编曲 : tired"
+      ],
+      "source": "https://music.163.com/song?id=2019060573",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019060646",
+      "platformId": 2019060646,
+      "title": "疤痕体质FRAGILE ARTICLES",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 6,
+      "duration": 198948,
+      "artistIds": [
+        "n33435403",
+        "n27727833"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2019060646",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=2019060646",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=2019060646",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019068107",
+      "platformId": 2019068107,
+      "title": "抓手指SICK LOVE",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 7,
+      "duration": 161745,
+      "artistIds": [
+        "n33435403",
+        "n32574675"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2019068107",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019060802",
+      "platformId": 2019060802,
+      "title": "交换FK AROUND",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 8,
+      "duration": 162461,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2019060802",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019060366",
+      "platformId": 2019060366,
+      "title": "嘻哈侠HIPHOP，MAN",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 9,
+      "duration": 239998,
+      "artistIds": [
+        "n33435403",
+        "n47607639",
+        "n12357897"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2019060366",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019061317",
+      "platformId": 2019061317,
+      "title": "OUTRO：STILL ON MY WAY",
+      "aliases": [],
+      "albumId": "n159211714",
+      "date": "2023-02-01",
+      "trackNumber": 10,
+      "duration": 156735,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2019061317",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1982314046",
+      "platformId": 1982314046,
+      "title": "唯一",
+      "aliases": [],
+      "albumId": "n151782498",
+      "date": "2022-09-21",
+      "trackNumber": 1,
+      "duration": 196363,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1982314046",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1982314046",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=1982314046",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1976332347",
+      "platformId": 1976332347,
+      "title": "Started from 0791",
+      "aliases": [],
+      "albumId": "n150550260",
+      "date": "2022-09-06",
+      "trackNumber": 4,
+      "duration": 196440,
+      "artistIds": [
+        "n31919304",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n31919304",
+          "role": "作词",
+          "raw": "作词 : Paddi/华云龙KLE",
+          "source": "https://music.163.com/song?id=1976332347",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : Paddi/华云龙KLE",
+          "source": "https://music.163.com/song?id=1976332347",
+          "level": "track"
+        },
+        {
+          "personId": "n31919304",
+          "role": "作曲",
+          "raw": "作曲 : Paddi/华云龙KLE",
+          "source": "https://music.163.com/song?id=1976332347",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : Paddi/华云龙KLE",
+          "source": "https://music.163.com/song?id=1976332347",
+          "level": "track"
+        },
+        {
+          "personId": "n31919304",
+          "role": "编曲",
+          "raw": "编曲 : Paddi",
+          "source": "https://music.163.com/song?id=1976332347",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Paddi/华云龙KLE",
+        "作曲 : Paddi/华云龙KLE",
+        "编曲 : Paddi"
+      ],
+      "source": "https://music.163.com/song?id=1976332347",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1962467912",
+      "platformId": 1962467912,
+      "title": "给我一杯马蒂尼",
+      "aliases": [],
+      "albumId": "n147839122",
+      "date": "2022-07-12",
+      "trackNumber": 1,
+      "duration": 187200,
+      "artistIds": [
+        "n12408182",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "c56ug5pqH",
+          "role": "作词",
+          "raw": "作词 : 章暇/华云龙KLE",
+          "source": "https://music.163.com/song?id=1962467912",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 章暇/华云龙KLE",
+          "source": "https://music.163.com/song?id=1962467912",
+          "level": "track"
+        },
+        {
+          "personId": "c56ug5pqH",
+          "role": "作曲",
+          "raw": "作曲 : 章暇/华云龙KLE",
+          "source": "https://music.163.com/song?id=1962467912",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 章暇/华云龙KLE",
+          "source": "https://music.163.com/song?id=1962467912",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 章暇/华云龙KLE",
+        "作曲 : 章暇/华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=1962467912",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1994866257",
+      "platformId": 1994866257,
+      "title": "冷雨夜ColdRainyNight Ft.华云龙KLE Prod by Anansi",
+      "aliases": [],
+      "albumId": "n145196400",
+      "date": "2022-05-20",
+      "trackNumber": 9,
+      "duration": 181714,
+      "artistIds": [
+        "n27727833",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n27727833",
+          "role": "作词",
+          "raw": "作词 : LinboiRivch链子/华云龙KLE",
+          "source": "https://music.163.com/song?id=1994866257",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : LinboiRivch链子/华云龙KLE",
+          "source": "https://music.163.com/song?id=1994866257",
+          "level": "track"
+        },
+        {
+          "personId": "n27727833",
+          "role": "作曲",
+          "raw": "作曲 : LinboiRivch链子/华云龙KLE",
+          "source": "https://music.163.com/song?id=1994866257",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : LinboiRivch链子/华云龙KLE",
+          "source": "https://music.163.com/song?id=1994866257",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : LinboiRivch链子/华云龙KLE",
+        "作曲 : LinboiRivch链子/华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=1994866257",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1935365518",
+      "platformId": 1935365518,
+      "title": "KINGDOM",
+      "aliases": [],
+      "albumId": "n143024561",
+      "date": "2022-04-05",
+      "trackNumber": 1,
+      "duration": 224232,
+      "artistIds": [
+        "n33126449",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33126449",
+          "role": "作词",
+          "raw": "作词 : 杨一川/华云龙KLE",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 杨一川/华云龙KLE",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "n33126449",
+          "role": "作曲",
+          "raw": "作曲 : 杨一川/华云龙KLE",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 杨一川/华云龙KLE",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o5LiA5beddGlua28",
+          "role": "和声编写",
+          "raw": "和声编写：杨一川TINKO/华云龙",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2O5LqR6b6Z",
+          "role": "和声编写",
+          "raw": "和声编写：杨一川TINKO/华云龙",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o5LiA5beddGlua28",
+          "role": "和声",
+          "raw": "和声：杨一川TINKO/华云龙",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2O5LqR6b6Z",
+          "role": "和声",
+          "raw": "和声：杨一川TINKO/华云龙",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJiLg",
+          "role": "监制",
+          "raw": "监制：YOUNGROCKMBB.",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        },
+        {
+          "personId": "ccGFibG9tY3I",
+          "role": "编曲",
+          "raw": "编曲：PABLOMCR",
+          "source": "https://music.163.com/song?id=1935365518",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 杨一川/华云龙KLE",
+        "作曲 : 杨一川/华云龙KLE",
+        "和声编写：杨一川TINKO/华云龙",
+        "和声：杨一川TINKO/华云龙",
+        "监制：YOUNGROCKMBB.",
+        "编曲：PABLOMCR"
+      ],
+      "source": "https://music.163.com/song?id=1935365518",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1928194423",
+      "platformId": 1928194423,
+      "title": "蝶",
+      "aliases": [],
+      "albumId": "n141803223",
+      "date": "2022-03-14",
+      "trackNumber": 1,
+      "duration": 194064,
+      "artistIds": [
+        "n33435403",
+        "n27727833"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1928194423",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1928194423",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJi",
+          "role": "混音",
+          "raw": "混音/母带:YOUNGROCKMBB",
+          "source": "https://music.163.com/song?id=1928194423",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJi",
+          "role": "母带",
+          "raw": "混音/母带:YOUNGROCKMBB",
+          "source": "https://music.163.com/song?id=1928194423",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "混音/母带:YOUNGROCKMBB"
+      ],
+      "source": "https://music.163.com/song?id=1928194423",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1915600731",
+      "platformId": 1915600731,
+      "title": "锁(feat.华云龙KLE)",
+      "aliases": [],
+      "albumId": "n139543605",
+      "date": "2022-01-28",
+      "trackNumber": 9,
+      "duration": 208039,
+      "artistIds": [
+        "n33541560",
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1915600731",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901106893",
+      "platformId": 1901106893,
+      "title": "KING LEVIATHAN",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 1,
+      "duration": 144024,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1901106893",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901109953",
+      "platformId": 1901109953,
+      "title": "小房间",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 2,
+      "duration": 172560,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1901109953",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1901109953",
+          "level": "track"
+        },
+        {
+          "personId": "cYmVjayBiZWF0eg",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beatz",
+          "source": "https://music.163.com/song?id=1901109953",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJi",
+          "role": "混音",
+          "raw": "混音/母带：YOUNGROCKMBB",
+          "source": "https://music.163.com/song?id=1901109953",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJi",
+          "role": "母带",
+          "raw": "混音/母带：YOUNGROCKMBB",
+          "source": "https://music.163.com/song?id=1901109953",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "编曲 : Beck Beatz",
+        "混音/母带：YOUNGROCKMBB"
+      ],
+      "source": "https://music.163.com/song?id=1901109953",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901110073",
+      "platformId": 1901110073,
+      "title": "Big Boss 2",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 3,
+      "duration": 149856,
+      "artistIds": [
+        "n33435403",
+        "n32440553"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1901110073",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901123822",
+      "platformId": 1901123822,
+      "title": "Loyal",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 4,
+      "duration": 179616,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1901123822",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901123959",
+      "platformId": 1901123959,
+      "title": "Change It",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 5,
+      "duration": 192648,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1901123959",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901123018",
+      "platformId": 1901123018,
+      "title": "金项链",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 6,
+      "duration": 188571,
+      "artistIds": [
+        "n33435403",
+        "n0"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1901123018",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1901123018",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hpbmVsaWtldnZz",
+          "role": "编曲",
+          "raw": "编曲 : ShineLikeVVS",
+          "source": "https://music.163.com/song?id=1901123018",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJi",
+          "role": "混音",
+          "raw": "混音/母带：YOUNGROCKMBB",
+          "source": "https://music.163.com/song?id=1901123018",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91bmdyb2NrbWJi",
+          "role": "母带",
+          "raw": "混音/母带：YOUNGROCKMBB",
+          "source": "https://music.163.com/song?id=1901123018",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE",
+        "编曲 : ShineLikeVVS",
+        "混音/母带：YOUNGROCKMBB"
+      ],
+      "source": "https://music.163.com/song?id=1901123018",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901123153",
+      "platformId": 1901123153,
+      "title": "Yao Ming 2",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 7,
+      "duration": 149592,
+      "artistIds": [
+        "n33435403",
+        "n29051253"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1901123153",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1901132090",
+      "platformId": 1901132090,
+      "title": "新生",
+      "aliases": [],
+      "albumId": "n137094142",
+      "date": "2021-12-08",
+      "trackNumber": 8,
+      "duration": 196392,
+      "artistIds": [
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1901132090",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1821872790",
+      "platformId": 1821872790,
+      "title": "Yao Ming",
+      "aliases": [],
+      "albumId": "n123325293",
+      "date": "2021-02-22",
+      "trackNumber": 1,
+      "duration": 139624,
+      "artistIds": [
+        "n27871690",
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1821872790",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1821865321",
+      "platformId": 1821865321,
+      "title": "无路可退",
+      "aliases": [],
+      "albumId": "n123325293",
+      "date": "2021-02-22",
+      "trackNumber": 4,
+      "duration": 185234,
+      "artistIds": [
+        "n27871690",
+        "n33435403"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1821865321",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1818127909",
+      "platformId": 1818127909,
+      "title": "Born With",
+      "aliases": [],
+      "albumId": "n122539876",
+      "date": "2021-02-06",
+      "trackNumber": 1,
+      "duration": 265032,
+      "artistIds": [
+        "n12632373",
+        "n33435403",
+        "n29938260"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1818127909",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1805106527",
+      "platformId": 1805106527,
+      "title": "WooHaa（feat.邓典果DDG）",
+      "aliases": [],
+      "albumId": "n120444692",
+      "date": "2020-12-17",
+      "trackNumber": 1,
+      "duration": 104333,
+      "artistIds": [
+        "n33435403",
+        "n12965215"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/邓典果DDG",
+          "source": "https://music.163.com/song?id=1805106527",
+          "level": "track"
+        },
+        {
+          "personId": "n12965215",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/邓典果DDG",
+          "source": "https://music.163.com/song?id=1805106527",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/邓典果DDG",
+          "source": "https://music.163.com/song?id=1805106527",
+          "level": "track"
+        },
+        {
+          "personId": "n12965215",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/邓典果DDG",
+          "source": "https://music.163.com/song?id=1805106527",
+          "level": "track"
+        },
+        {
+          "personId": "ca2xpbW9uZ2x1ZQ",
+          "role": "制作人",
+          "raw": "prod：klimonglue",
+          "source": "https://music.163.com/song?id=1805106527",
+          "level": "track"
+        },
+        {
+          "personId": "n33583407",
+          "role": "混音",
+          "raw": "mix：谭添Ess",
+          "source": "https://music.163.com/song?id=1805106527",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/邓典果DDG",
+        "作曲 : 华云龙KLE/邓典果DDG",
+        "prod：klimonglue",
+        "mix：谭添Ess"
+      ],
+      "source": "https://music.163.com/song?id=1805106527",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1455156469",
+      "platformId": 1455156469,
+      "title": "我想要(EDM Mix)",
+      "aliases": [],
+      "albumId": "n90784999",
+      "date": "2020-06-13",
+      "trackNumber": 1,
+      "duration": 239882,
+      "artistIds": [
+        "n33583407",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1455156469",
+          "level": "track"
+        },
+        {
+          "personId": "n33583407",
+          "role": "作曲",
+          "raw": "作曲 : 谭添Ess/华云龙KLE",
+          "source": "https://music.163.com/song?id=1455156469",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 谭添Ess/华云龙KLE",
+          "source": "https://music.163.com/song?id=1455156469",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 谭添Ess/华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=1455156469",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1452537504",
+      "platformId": 1452537504,
+      "title": "梦想家(prod by. BigMusicFarmer)(feat.紫薇Avril)",
+      "aliases": [],
+      "albumId": "n89968294",
+      "date": "2020-05-28",
+      "trackNumber": 1,
+      "duration": 208117,
+      "artistIds": [
+        "n33435403",
+        "n34245040",
+        "n33583407"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/紫薇Avril/谭添Ess",
+          "source": "https://music.163.com/song?id=1452537504",
+          "level": "track"
+        },
+        {
+          "personId": "n34245040",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/紫薇Avril/谭添Ess",
+          "source": "https://music.163.com/song?id=1452537504",
+          "level": "track"
+        },
+        {
+          "personId": "n33583407",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/紫薇Avril/谭添Ess",
+          "source": "https://music.163.com/song?id=1452537504",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/紫薇Avril/谭添Ess",
+          "source": "https://music.163.com/song?id=1452537504",
+          "level": "track"
+        },
+        {
+          "personId": "n34245040",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/紫薇Avril/谭添Ess",
+          "source": "https://music.163.com/song?id=1452537504",
+          "level": "track"
+        },
+        {
+          "personId": "n33583407",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/紫薇Avril/谭添Ess",
+          "source": "https://music.163.com/song?id=1452537504",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/紫薇Avril/谭添Ess",
+        "作曲 : 华云龙KLE/紫薇Avril/谭添Ess"
+      ],
+      "source": "https://music.163.com/song?id=1452537504",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1451422066",
+      "platformId": 1451422066,
+      "title": "Yao Ming（prod by beast inside beat）",
+      "aliases": [],
+      "albumId": "n89968294",
+      "date": "2020-05-28",
+      "trackNumber": 2,
+      "duration": 142288,
+      "artistIds": [
+        "n33435403",
+        "n33583407"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1451422066",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1451422066",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=1451422066",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1452538650",
+      "platformId": 1452538650,
+      "title": "Be Flexin’(prod by.百川)(feat.How.younG)",
+      "aliases": [],
+      "albumId": "n89968294",
+      "date": "2020-05-28",
+      "trackNumber": 3,
+      "duration": 195787,
+      "artistIds": [
+        "n33435403",
+        "n29051253",
+        "n33583407"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/皓阳Grindy",
+          "source": "https://music.163.com/song?id=1452538650",
+          "level": "track"
+        },
+        {
+          "personId": "n29051253",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE/皓阳Grindy",
+          "source": "https://music.163.com/song?id=1452538650",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/皓阳Grindy",
+          "source": "https://music.163.com/song?id=1452538650",
+          "level": "track"
+        },
+        {
+          "personId": "n29051253",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE/皓阳Grindy",
+          "source": "https://music.163.com/song?id=1452538650",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE/皓阳Grindy",
+        "作曲 : 华云龙KLE/皓阳Grindy"
+      ],
+      "source": "https://music.163.com/song?id=1452538650",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1452538569",
+      "platformId": 1452538569,
+      "title": "还有谁freestyle(prod by.luke white)",
+      "aliases": [],
+      "albumId": "n89968294",
+      "date": "2020-05-28",
+      "trackNumber": 4,
+      "duration": 123193,
+      "artistIds": [
+        "n33435403",
+        "n33583407"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1452538569",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作曲",
+          "raw": "作曲 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1452538569",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 华云龙KLE"
+      ],
+      "source": "https://music.163.com/song?id=1452538569",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1418025467",
+      "platformId": 1418025467,
+      "title": "玩玩而已",
+      "aliases": [],
+      "albumId": "n85095679",
+      "date": "2020-01-22",
+      "trackNumber": 3,
+      "duration": 200698,
+      "artistIds": [
+        "n30281610",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n30281610",
+          "role": "作词",
+          "raw": "作词 : 小聂不说唱/华云龙KLE",
+          "source": "https://music.163.com/song?id=1418025467",
+          "level": "track"
+        },
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 小聂不说唱/华云龙KLE",
+          "source": "https://music.163.com/song?id=1418025467",
+          "level": "track"
+        },
+        {
+          "personId": "n30281610",
+          "role": "作曲",
+          "raw": "作曲 : 小聂不说唱",
+          "source": "https://music.163.com/song?id=1418025467",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 小聂不说唱/华云龙KLE",
+        "作曲 : 小聂不说唱"
+      ],
+      "source": "https://music.163.com/song?id=1418025467",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1417320419",
+      "platformId": 1417320419,
+      "title": "Daɪəmənd",
+      "aliases": [
+        "翻自 Henry Lee"
+      ],
+      "albumId": "n85031726",
+      "date": "2020-01-18",
+      "trackNumber": 1,
+      "duration": 173583,
+      "artistIds": [
+        "n1094247",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n1094247",
+          "role": "作词",
+          "raw": "作词 : 赣斯特G swag",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        },
+        {
+          "personId": "n1094247",
+          "role": "作曲",
+          "raw": "作曲 : 赣斯特G swag",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        },
+        {
+          "personId": "cbGV2aWF0aGFu",
+          "role": "作词",
+          "raw": "作词:Leviathan/赣斯特",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        },
+        {
+          "personId": "c6LWj5pav54m5",
+          "role": "作词",
+          "raw": "作词:Leviathan/赣斯特",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        },
+        {
+          "personId": "cbGV2aWF0aGFu",
+          "role": "作曲",
+          "raw": "作曲:Leviathan/赣斯特",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        },
+        {
+          "personId": "c6LWj5pav54m5",
+          "role": "作曲",
+          "raw": "作曲:Leviathan/赣斯特",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        },
+        {
+          "personId": "c6LWj5pav54m5LeWwj-iDlmZhdGU",
+          "role": "混音",
+          "raw": "mix:赣斯特-小胖FATE",
+          "source": "https://music.163.com/song?id=1417320419",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 赣斯特G swag",
+        "作曲 : 赣斯特G swag",
+        "作词:Leviathan/赣斯特",
+        "作曲:Leviathan/赣斯特",
+        "mix:赣斯特-小胖FATE"
+      ],
+      "source": "https://music.163.com/song?id=1417320419",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1406194617",
+      "platformId": 1406194617,
+      "title": "Leviathan华云龙-My Time (Jazz Remix By Ess) - Leviathan华云龙（Ess / Leviathan华云龙 remix）",
+      "aliases": [],
+      "albumId": "n83667822",
+      "date": "2019-11-27",
+      "trackNumber": 1,
+      "duration": 223817,
+      "artistIds": [
+        "n33583407",
+        "n33435403"
+      ],
+      "credits": [
+        {
+          "personId": "n33435403",
+          "role": "作词",
+          "raw": "作词 : 华云龙KLE",
+          "source": "https://music.163.com/song?id=1406194617",
+          "level": "track"
+        },
+        {
+          "personId": "n33583407",
+          "role": "作曲",
+          "raw": "作曲 : 谭添Ess",
+          "source": "https://music.163.com/song?id=1406194617",
+          "level": "track"
+        },
+        {
+          "personId": "cZXNz",
+          "role": "作曲",
+          "raw": "作曲 : Ess",
+          "source": "https://music.163.com/song?id=1406194617",
+          "level": "track"
+        },
+        {
+          "personId": "cbGV2aWF0aGFu5Y2O5LqR6b6Z",
+          "role": "作词",
+          "raw": "作词 : Leviathan华云龙",
+          "source": "https://music.163.com/song?id=1406194617",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 华云龙KLE",
+        "作曲 : 谭添Ess",
+        "作曲 : Ess",
+        "作词 : Leviathan华云龙"
+      ],
+      "source": "https://music.163.com/song?id=1406194617",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-10-30",
+      "kind": "remix",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1818975832-us",
+      "title": "龙年",
+      "date": "2025-05-23",
+      "trackCount": 14,
+      "artist": "華雲龍KLE",
+      "source": "https://music.apple.com/us/album/%E9%BE%99%E5%B9%B4/1818975832?uo=4",
+      "sourceLabel": "Apple Music（美国区）",
+      "checkedAt": "2026-10-30",
+      "relatedAlbumId": "n272444963",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/64/3c/84643cd3-b1c5-a46e-2658-18bbe23064e8/a1749189958246.jpg/100x100bb.jpg"
+    }
+  ],
+  "excludedRecords": [],
+  "gaps": [
+    {
+      "title": "历史与同名账号",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "网易云一页70条、末页more=false，仅说明当次公开目录读完；早期、下架和视频作品待补证。Apple同名账号1699561311及1835499303目前未返回发行，单独保留快照，不凭名字合并。",
+      "sources": [
+        {
+          "title": "平台艺人页",
+          "url": "https://music.163.com/artist?id=33435403"
+        },
+        {
+          "title": "平台艺人页",
+          "url": "https://music.apple.com/cn/artist/1600550625"
+        }
+      ]
+    },
+    {
+      "title": "平台版本与署名",
+      "year": "当前",
+      "status": "按逐曲证据",
+      "detail": "Apple中国区未返回发行，美国区返回龙年14首发行；网易云同名专辑14首，关联同一专辑卡片，平台日期与来源分别保留。未把其他人整张发行或厂牌身份当作逐曲参与证据；部分网易云详情返回-462，保留失败日志。",
+      "sources": [
+        {
+          "title": "官方平台",
+          "url": "https://music.163.com/artist?id=33435403"
+        },
+        {
+          "title": "官方平台",
+          "url": "https://music.apple.com/cn/artist/1600550625"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "平台数量与发行范围",
+      "detail": "网易云70条平台记录，包含版本和合作，不等于独立原创总数。四个核心项目当前本人逐曲署名曲单完整；HEATROOM TAPE 2nd单列联合现场。",
+      "sources": [
+        "https://music.163.com/artist?id=33435403",
+        "https://music.apple.com/cn/artist/1600550625"
+      ]
+    },
+    {
+      "title": "幕后署名与平台日期",
+      "detail": "共同署名来自逐曲艺人栏，制作、编曲、混音和母带仅来自明确单曲字段，不从标题Prod.或专辑级署名推断。不同平台发行日期分别保留，不当作首次创作日期。",
+      "sources": [
+        "https://music.163.com/artist?id=33435403",
+        "https://music.apple.com/cn/artist/1600550625"
+      ]
+    }
+  ]
+}

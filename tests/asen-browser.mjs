@@ -14,7 +14,7 @@ try{
  assert.equal((await fetch(url+'/missing-file')).status,404);
  assert.equal((await fetch(url+'/%2e%2e%2fpackage.json')).status,403);
  assert.equal((await fetch(url+'/catalog.json')).status,200);
- await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
+ await page.goto(url+'/?artist=asen',{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
  await page.screenshot({path:path.join(out,'desktop-hero.png')});
  assert.equal(await page.locator('.floating-album').count(),5);
  await page.locator('.floating-album.center').click();assert.match(await page.locator('#dialog-heading').innerText(),/在雨后醒来/);assert.equal(await page.locator('.detail-track-row').count(),15);await page.locator('.dialog-close').click();
@@ -39,7 +39,7 @@ try{
  await page.locator('#open-research').click();assert.match(await page.locator('#dialog-content').innerText(),/历史全量尚未证明/);await page.locator('.dialog-close').click();
  const downloadPromise=page.waitForEvent('download');await page.locator('.catalog-download').click();const download=await downloadPromise;assert.match(download.suggestedFilename(),/ASEN-catalog/);
  await page.goto(url+'/#track/n2755030698',{waitUntil:'networkidle'});await page.locator('dialog').waitFor({state:'visible'});assert.match(await page.locator('#dialog-heading').innerText(),/懂不/);assert.match(await page.locator('#dialog-content').innerText(),/JIMI天赐/);await page.locator('.dialog-close').click();
- await page.setViewportSize({width:390,height:844});await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
+ await page.setViewportSize({width:390,height:844});await page.goto(url+'/?artist=asen',{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
  await page.screenshot({path:path.join(out,'mobile-hero.png')});
  for(const id of ['journey','archive','network','sources']){await page.locator('#'+id).scrollIntoViewIfNeeded();await page.waitForTimeout(100);assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),id+' should fit mobile width');await page.screenshot({path:path.join(out,'mobile-'+id+'.png')});}
  const broken=await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>i.complete&&i.naturalWidth===0).map(i=>i.src));assert.deepEqual(broken,[]);assert.deepEqual(errors,[]);

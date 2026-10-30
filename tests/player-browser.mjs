@@ -11,7 +11,7 @@ try{
  await page.route('https://music.163.com/outchain/player?**',async route=>{requests.push(route.request().url());await route.fulfill({contentType:'text/html; charset=utf-8',body:'<!doctype html><html lang="zh-CN"><meta charset="UTF-8"><body>网易云官方播放器测试占位</body></html>'});});
  async function clickPlay(locator){const loaded=page.waitForResponse(r=>r.url().startsWith('https://music.163.com/outchain/player?'));await locator.click();await loaded;}
  const base=`http://127.0.0.1:${server.address().port}`;
- await page.goto(base,{waitUntil:'networkidle'});
+ await page.goto(base+'/?artist=asen',{waitUntil:'networkidle'});
  assert.equal(requests.length,0);assert.equal(await page.locator('#listening-panel').isVisible(),false);
  await page.locator('#track-search').fill('Going Down');await clickPlay(page.locator('#track-rows [data-listen]').first());
  await page.locator('#listen-frame iframe').waitFor({state:'attached'});

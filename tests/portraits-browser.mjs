@@ -16,7 +16,7 @@ try{
  await page.waitForFunction(()=>document.querySelector('.person-badge')?.classList.contains('has-portrait'));assert.match(await page.locator('.person-badge img').getAttribute('src'),/asen-portrait.jpg/);
  await page.locator('#network').scrollIntoViewIfNeeded();await page.locator('.graph-canvas').screenshot({path:'qa/avatars/masiwei-desktop.png'});
  await page.locator('[data-mode="credits"]').click();await page.locator('#connection-search').fill('YYKBZ');assert.ok(await page.locator('.person-node').count()>0);
- await page.goto(base+'/',{waitUntil:'networkidle'});await loaded('n1132392');assert.match(await page.locator('[data-node="n1132392"] image').getAttribute('href'),/masiwei-portrait.jpg/);
+ await page.goto(base+'/?artist=asen',{waitUntil:'networkidle'});await loaded('n1132392');assert.match(await page.locator('[data-node="n1132392"] image').getAttribute('href'),/masiwei-portrait.jpg/);
  await page.locator('[data-node="n1132392"]').focus();await page.keyboard.press('Enter');assert.match(await page.locator('#connection-detail').innerText(),/马思唯/);
  await page.waitForFunction(()=>document.querySelector('.person-badge')?.classList.contains('has-portrait'));assert.match(await page.locator('.person-badge img').getAttribute('src'),/masiwei-portrait.jpg/);
  await page.setViewportSize({width:390,height:844});await page.goto(base+'/?artist=masiwei',{waitUntil:'networkidle'});await loaded('n12198387');await page.locator('#network').scrollIntoViewIfNeeded();assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.locator('.graph-canvas').screenshot({path:'qa/avatars/masiwei-mobile.png'});

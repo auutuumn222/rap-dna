@@ -2,7 +2,7 @@
 
 核查日期：2026-10-30（北京时间）。
 
-网易云 387 条、QQ音乐 442 条，共 829 条平台歌曲记录，包含跨平台重合版本；Apple官方网页核对六项核心发行。QQ音乐REAL G为16首。当前有日期范围 2015-07-21 至 2026-05-15，历史全量尚未证明。
+网易云 387 条、QQ音乐 442 条，共 829 条平台歌曲记录，包含跨平台重合版本；Apple官方网页核对六项核心发行。同名专辑已按跨平台版本合并展示，平台日期在详情分别保留；专辑排序使用最早已取得的平台日期。QQ音乐REAL G为16首。当前有日期范围 2015-07-21 至 2026-05-15，历史全量尚未证明。
 
 网易云艺人 ID 1211046；Apple Music 艺人 ID 1522410451。106 个艺人页发行条目，204 个关联网易云发行容器；共 829 条平台歌曲记录，包含版本，不等于独立原创总数。
 
@@ -13,12 +13,13 @@
 |2018-10-10|光宗耀祖|个人项目|17|17|[来源](https://music.163.com/album?id=73703127)|
 |2021-02-05|烻|个人项目|9|9|[来源](https://music.163.com/album?id=122619417)|
 |2022-05-06|杜康|个人项目|13|13|[来源](https://music.163.com/album?id=146024000)|
-|2024-05-19|底层逻辑|个人项目|11|11|[来源](https://music.163.com/album?id=196241119)|
+|2024-04-18|底层逻辑|个人项目|11|11|[来源](https://music.163.com/album?id=196241119)|
 |2025-06-08|G-BLOCK Mixtape|联合专辑|14|14|[来源](https://music.163.com/album?id=274706820)|
 |2026-05-15|REAL G|个人项目|16|16|[来源](https://y.qq.com/n/ryqq/albumDetail/004OEuto2OvymU)|
 
 ## 差异与统计边界
 
+- **专辑合并与平台日期**：网易云与QQ同名发行合为一张专辑卡片，各平台曲单、日期、来源和单曲记录分别保留。默认曲单为网易云参考版本，其余版本可展开；不将各平台曲目数相加。不同标题、现场/伴奏/重制等不同发行标题不自动合并；歌曲仍按平台记录计数。 [来源](https://music.163.com/artist?id=1211046) [来源](https://music.apple.com/cn/artist/gai/1522410451) [来源](https://y.qq.com/n/ryqq/singer/004LV0lb4fOw89)
 - **三平台来源范围**：网易云四页387条；QQ五页442条、发行列表109项；Apple官方网页核对REAL G、G-BLOCK Mixtape、底层逻辑、杜康、烻、光宗耀祖六项发行。REAL G在QQ取得16首，Apple官方发行页同为16首，新增为主线专辑。 [来源](https://music.163.com/artist?id=1211046) [来源](https://music.apple.com/cn/artist/gai/1522410451) [来源](https://y.qq.com/n/ryqq/singer/004LV0lb4fOw89)
 - **关系证据与节目合辑**：共同署名仅来自各平台逐曲艺人栏，制作角色仅来自网易云明确单曲署名，不从专辑或厂牌下放。QQ尚未采得制作字段则留空；节目合辑只收GAI明确署名的曲目。平台发行日期不等于首次创作日期。 [来源](https://music.163.com/artist?id=1211046) [来源](https://music.apple.com/cn/artist/gai/1522410451) [来源](https://y.qq.com/n/ryqq/singer/004LV0lb4fOw89)
 
@@ -29,6 +30,351 @@
 
 ## 身份待核记录（不计入作品与关系）
 
+
+
+## 跨平台专辑日期与曲单
+
+|专辑|平台|平台日期|本人署名记录|原始发行|
+|---|---|---|---:|---|
+|全家福|网易云音乐|2026-02-26|2|[来源](https://music.163.com/album?id=362202999)|
+|全家福|QQ音乐|2026-02-26|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003JoIEF090g2u)|
+|重庆忠勇|网易云音乐|2026-02-10|1|[来源](https://music.163.com/album?id=361160874)|
+|重庆忠勇|QQ音乐|2026-02-10|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003V8xJK1eCwx2)|
+|唐宫奇案之青雾风鸣 影视原声带|网易云音乐|2026-02-10|3|[来源](https://music.163.com/album?id=361621022)|
+|唐宫奇案之青雾风鸣 影视原声带|QQ音乐|2026-02-10|3|[来源](https://y.qq.com/n/ryqq/albumDetail/0014eLwj1aPhbc)|
+|铺天盖棣|网易云音乐|2026-02-15|1|[来源](https://music.163.com/album?id=360842878)|
+|铺天盖棣|QQ音乐|2026-01-16|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001ibPvB0xL0gT)|
+|明知山|网易云音乐|2025-12-22|1|[来源](https://music.163.com/album?id=358529461)|
+|明知山|QQ音乐|2025-12-22|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001t93VY2Kp7tg)|
+|Couple Hunnid All Star Mixtape Vol.1|网易云音乐|2025-08-23|1|[来源](https://music.163.com/album?id=280931120)|
+|Couple Hunnid All Star Mixtape Vol.1|QQ音乐|2025-08-23|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004Kowql2LG2vM)|
+|故湘，风|网易云音乐|2025-08-16|1|[来源](https://music.163.com/album?id=288374077)|
+|故湘，风|QQ音乐|2025-08-16|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003UE4th4GWpZB)|
+|歌手2025 第10期|网易云音乐|2025-07-19|2|[来源](https://music.163.com/album?id=278688555)|
+|歌手2025 第10期|QQ音乐|2025-07-19|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003xWWHI0aq8ZI)|
+|歌手2025 第9期|网易云音乐|2025-07-12|2|[来源](https://music.163.com/album?id=277990700)|
+|歌手2025 第9期|QQ音乐|2025-07-12|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000OsLHN0r9g70)|
+|歌手2025 第8期|网易云音乐|2025-07-05|2|[来源](https://music.163.com/album?id=277254297)|
+|歌手2025 第8期|QQ音乐|2025-07-05|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003PzxXu28sOfz)|
+|歌手2025 第7期|网易云音乐|2025-06-28|2|[来源](https://music.163.com/album?id=276538125)|
+|歌手2025 第7期|QQ音乐|2025-06-28|1|[来源](https://y.qq.com/n/ryqq/albumDetail/00422hv24P7WGk)|
+|唐装|网易云音乐|2025-06-20|1|[来源](https://music.163.com/album?id=278707705)|
+|唐装|QQ音乐|2025-06-20|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000rMsxH4UyuRR)|
+|歌手2025 第5期|网易云音乐|2025-06-14|2|[来源](https://music.163.com/album?id=275042704)|
+|歌手2025 第5期|QQ音乐|2025-06-14|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001nqTLH4CU5xs)|
+|G-BLOCK Mixtape|网易云音乐|2025-06-08|14|[来源](https://music.163.com/album?id=274706820)|
+|G-BLOCK Mixtape|QQ音乐|2025-06-08|14|[来源](https://y.qq.com/n/ryqq/albumDetail/001qocFr1gpWDC)|
+|歌手2025 第4期|网易云音乐|2025-06-07|2|[来源](https://music.163.com/album?id=274350416)|
+|歌手2025 第4期|QQ音乐|2025-06-07|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004MSkyd0ZUPac)|
+|歌手2025 第3期|网易云音乐|2025-05-31|1|[来源](https://music.163.com/album?id=273575221)|
+|歌手2025 第3期|QQ音乐|2025-05-31|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002nKT7y3hmcea)|
+|炁|网易云音乐|2025-05-17|1|[来源](https://music.163.com/album?id=275077259)|
+|炁|QQ音乐|2025-05-17|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002HuVWa29fAIq)|
+|歌手2025 第1期|网易云音乐|2025-05-17|2|[来源](https://music.163.com/album?id=272110242)|
+|歌手2025 第1期|QQ音乐|2025-05-17|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0026g0mv4YpXXS)|
+|一脉相承Hood & Family|网易云音乐|2025-05-08|1|[来源](https://music.163.com/album?id=271178850)|
+|一脉相承Hood & Family|QQ音乐|2025-05-08|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0012SpJS4c2E9n)|
+|湖湘浪子|网易云音乐|2025-04-21|2|[来源](https://music.163.com/album?id=278702031)|
+|湖湘浪子|QQ音乐|2025-04-21|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0048EgfK3oGOMx)|
+|我本俗人|网易云音乐|2024-12-26|1|[来源](https://music.163.com/album?id=257910236)|
+|我本俗人|QQ音乐|2024-12-26|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001zlV8W0yMwTM)|
+|有歌2024 第3期|网易云音乐|2024-10-25|2|[来源](https://music.163.com/album?id=251731647)|
+|有歌2024 第3期|QQ音乐|2024-10-25|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000wlSEF4L9jXu)|
+|一半一半|网易云音乐|2024-09-03|1|[来源](https://music.163.com/album?id=246481122)|
+|一半一半|QQ音乐|2024-09-03|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001Ygx6A1UA7Hw)|
+|莱|网易云音乐|2024-08-02|1|[来源](https://music.163.com/album?id=243804223)|
+|莱|QQ音乐|2024-08-02|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002T9Owm1sHTeE)|
+|说唱梦工厂 第8期|网易云音乐|2024-07-11|1|[来源](https://music.163.com/album?id=241724450)|
+|说唱梦工厂 第8期|QQ音乐|2024-07-11|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002OOVeC1dpERd)|
+|023%|网易云音乐|2024-06-29|2|[来源](https://music.163.com/album?id=240274929)|
+|023%|QQ音乐|2024-06-29|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002QVf6v2Oql4R)|
+|天赐的声音第五季 第9期|网易云音乐|2024-06-21|2|[来源](https://music.163.com/album?id=239780764)|
+|天赐的声音第五季 第9期|QQ音乐|2024-06-21|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004WdV1C4gFkBO)|
+|林童|网易云音乐|2024-06-18|1|[来源](https://music.163.com/album?id=199357827)|
+|林童|QQ音乐|2024-06-18|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000cly632GCCF0)|
+|说唱梦工厂 第4期|网易云音乐|2024-06-13|1|[来源](https://music.163.com/album?id=199122611)|
+|说唱梦工厂 第4期|QQ音乐|2024-06-13|1|[来源](https://y.qq.com/n/ryqq/albumDetail/00237nSG1Jafw8)|
+|说唱梦工厂 先导片|网易云音乐|2024-05-23|1|[来源](https://music.163.com/album?id=196779843)|
+|说唱梦工厂 先导片|QQ音乐|2024-05-23|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001SpQMO3gj7ez)|
+|成名作CYPHER|网易云音乐|2024-05-04|2|[来源](https://music.163.com/album?id=193301583)|
+|成名作CYPHER|QQ音乐|2024-05-04|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003mrSiY36mDT3)|
+|李龙飞|网易云音乐|2024-04-21|1|[来源](https://music.163.com/album?id=192847565)|
+|李龙飞|QQ音乐|2024-04-28|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003E929f4TP6pU)|
+|ONE|网易云音乐|2024-04-19|1|[来源](https://music.163.com/album?id=192765676)|
+|ONE|QQ音乐|2024-04-19|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0002GJO74dSPHF)|
+|底层逻辑|网易云音乐|2024-05-19|11|[来源](https://music.163.com/album?id=196241119)|
+|底层逻辑|QQ音乐|2024-04-18|11|[来源](https://y.qq.com/n/ryqq/albumDetail/004BapRx0lFUmF)|
+|PHUKET FREESTYLE|网易云音乐|2024-02-28|1|[来源](https://music.163.com/album?id=187244089)|
+|PHUKET FREESTYLE|QQ音乐|2024-02-28|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001YKqrf40OiHT)|
+|仙逆 动画原声带|网易云音乐|2024-02-26|2|[来源](https://music.163.com/album?id=187448452)|
+|仙逆 动画原声带|QQ音乐|2024-02-26|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0028awRn2jXAHS)|
+|街头贝多芬|网易云音乐|2023-11-15|1|[来源](https://music.163.com/album?id=178308687)|
+|街头贝多芬|QQ音乐|2023-11-15|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000MUxfG105TKk)|
+|至高使命|网易云音乐|2023-11-04|1|[来源](https://music.163.com/album?id=178069345)|
+|至高使命|QQ音乐|2023-11-04|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002jJjEt0sqbiq)|
+|是一场烟火|网易云音乐|2023-08-18|1|[来源](https://music.163.com/album?id=172168816)|
+|是一场烟火|QQ音乐|2023-08-18|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000NE9uD1qoE5f)|
+|天赐的声音第四季 第12期|网易云音乐|2023-07-14|2|[来源](https://music.163.com/album?id=169508075)|
+|天赐的声音第四季 第12期|QQ音乐|2023-07-14|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004ADYFG0SQj3f)|
+|生如野草|网易云音乐|2023-07-08|1|[来源](https://music.163.com/album?id=169112096)|
+|生如野草|QQ音乐|2023-07-08|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000mdKTv4LaWPv)|
+|天赐的声音第四季 第11期|网易云音乐|2023-07-07|2|[来源](https://music.163.com/album?id=169100861)|
+|天赐的声音第四季 第11期|QQ音乐|2023-07-07|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0010cqEK2Ebn2R)|
+|天赐的声音第四季 第10期|网易云音乐|2023-06-30|2|[来源](https://music.163.com/album?id=168590885)|
+|天赐的声音第四季 第10期|QQ音乐|2023-06-30|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000TM7XG3QhdyL)|
+|天赐的声音第四季 第9期|网易云音乐|2023-06-23|2|[来源](https://music.163.com/album?id=168100735)|
+|天赐的声音第四季 第9期|QQ音乐|2023-06-23|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000y8saS1mffBo)|
+|天赐的声音第四季 第8期|网易云音乐|2023-06-16|2|[来源](https://music.163.com/album?id=167750115)|
+|天赐的声音第四季 第8期|QQ音乐|2023-06-16|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000owNkJ0aaSxQ)|
+|天赐的声音第四季 第7期|网易云音乐|2023-06-09|2|[来源](https://music.163.com/album?id=167286696)|
+|天赐的声音第四季 第7期|QQ音乐|2023-06-09|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003PDDFI0QGlg8)|
+|天赐的声音第四季 第6期|网易云音乐|2023-06-02|2|[来源](https://music.163.com/album?id=166869646)|
+|天赐的声音第四季 第6期|QQ音乐|2023-06-02|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0005xQBT193bPz)|
+|天赐的声音第四季 第5期|网易云音乐|2023-05-26|2|[来源](https://music.163.com/album?id=166386535)|
+|天赐的声音第四季 第5期|QQ音乐|2023-05-26|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0042SB942aKEX2)|
+|天赐的声音第四季 第4期|网易云音乐|2023-05-19|2|[来源](https://music.163.com/album?id=165939450)|
+|天赐的声音第四季 第4期|QQ音乐|2023-05-19|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003Wf10j3U2hEG)|
+|天赐的声音第四季 第3期|网易云音乐|2023-05-12|2|[来源](https://music.163.com/album?id=165533216)|
+|天赐的声音第四季 第3期|QQ音乐|2023-05-12|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000MnAzZ42tag9)|
+|天赐的声音第四季 第2期|网易云音乐|2023-05-05|2|[来源](https://music.163.com/album?id=165075863)|
+|天赐的声音第四季 第2期|QQ音乐|2023-05-05|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004SOksw3318mJ)|
+|天赐的声音第四季 第1期|网易云音乐|2023-04-28|2|[来源](https://music.163.com/album?id=164541493)|
+|天赐的声音第四季 第1期|QQ音乐|2023-04-28|2|[来源](https://y.qq.com/n/ryqq/albumDetail/002KWowB2rGXEg)|
+|如意|网易云音乐|2023-04-28|4|[来源](https://music.163.com/album?id=164551294)|
+|如意|QQ音乐|2023-04-28|4|[来源](https://y.qq.com/n/ryqq/albumDetail/002TtpsW2rbtrb)|
+|尘封十三载 影视原声带|网易云音乐|2023-04-14|2|[来源](https://music.163.com/album?id=166871841)|
+|尘封十三载 影视原声带|QQ音乐|2023-04-14|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001mZIpb3gtdnD)|
+|朝天门|网易云音乐|2023-02-06|1|[来源](https://music.163.com/album?id=284731599)|
+|朝天门|QQ音乐|2023-02-06|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001hnup93For2i)|
+|中国梦·我的梦|网易云音乐|2023-01-23|1|[来源](https://music.163.com/album?id=159084886)|
+|中国梦·我的梦|QQ音乐|2023-01-23|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004FPNCa1VVGdN)|
+|心愿清单|网易云音乐|2023-01-22|1|[来源](https://music.163.com/album?id=159123026)|
+|心愿清单|QQ音乐|2023-01-22|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000udp6R1aW8gH)|
+|嘿 做个人吧|网易云音乐|2022-11-14|3|[来源](https://music.163.com/album?id=154829005)|
+|嘿 做个人吧|QQ音乐|2022-11-14|3|[来源](https://y.qq.com/n/ryqq/albumDetail/001Om6Zu2VBWC6)|
+|中国说唱巅峰对决 总决赛（下集）|网易云音乐|2022-09-11|1|[来源](https://music.163.com/album?id=151387777)|
+|中国说唱巅峰对决 总决赛（下集）|QQ音乐|2022-09-11|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002grXcV2WHMsT)|
+|中国说唱巅峰对决 总决赛 (上集)|网易云音乐|2022-09-10|2|[来源](https://music.163.com/album?id=151300431)|
+|中国说唱巅峰对决 总决赛 (上集)|QQ音乐|2022-09-10|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0039APC22srO2t)|
+|重庆得行|网易云音乐|2022-08-27|1|[来源](https://music.163.com/album?id=150442545)|
+|重庆得行|QQ音乐|2022-08-27|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004G7NvF1wxziE)|
+|剑拔弩张|网易云音乐|2022-06-01|2|[来源](https://music.163.com/album?id=145720316)|
+|剑拔弩张|QQ音乐|2022-06-01|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004DhadD3IXgtN)|
+|杜康|网易云音乐|2022-05-06|13|[来源](https://music.163.com/album?id=146024000)|
+|杜康|QQ音乐|2022-05-06|13|[来源](https://y.qq.com/n/ryqq/albumDetail/001y2s2E3Tb63d)|
+|天赐的声音第三季 第3期|网易云音乐|2022-04-01|2|[来源](https://music.163.com/album?id=144679616)|
+|天赐的声音第三季 第3期|QQ音乐|2022-04-01|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001oX53W4dFtMR)|
+|天赐的声音第三季 第2期|网易云音乐|2022-03-19|2|[来源](https://music.163.com/album?id=144679627)|
+|天赐的声音第三季 第2期|QQ音乐|2022-03-19|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000HQ3Rm3aGYKb)|
+|天赐的声音第三季 第1期|网易云音乐|2022-03-11|2|[来源](https://music.163.com/album?id=144679632)|
+|天赐的声音第三季 第1期|QQ音乐|2022-03-11|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004B3UNm36ZG5v)|
+|我们的村晚2022|网易云音乐|2022-01-27|2|[来源](https://music.163.com/album?id=139476594)|
+|我们的村晚2022|QQ音乐|2022-01-27|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003zdyTl09VLLQ)|
+|天明|网易云音乐|2022-01-10|1|[来源](https://music.163.com/album?id=138515756)|
+|天明|QQ音乐|2022-01-10|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003xBfQP1BOX9K)|
+|共同梦想|网易云音乐|2021-12-31|1|[来源](https://music.163.com/album?id=147756956)|
+|共同梦想|QQ音乐|2021-12-31|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004PDF9H2dr8pI)|
+|披荆斩棘的哥哥 第12期|网易云音乐|2021-10-29|3|[来源](https://music.163.com/album?id=135434990)|
+|披荆斩棘的哥哥 第12期|QQ音乐|2021-10-29|3|[来源](https://y.qq.com/n/ryqq/albumDetail/002ofoC10diMsf)|
+|披荆斩棘的哥哥 第11期|网易云音乐|2021-10-22|1|[来源](https://music.163.com/album?id=135057794)|
+|披荆斩棘的哥哥 第11期|QQ音乐|2021-10-21|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002ebSPY47MouQ)|
+|少年说唱企划 第十二期|网易云音乐|2021-10-16|1|[来源](https://music.163.com/album?id=283680903)|
+|少年说唱企划 第十二期|QQ音乐|2021-10-16|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003Q3bb51OzS4d)|
+|披荆斩棘的哥哥 第9期|网易云音乐|2021-10-08|2|[来源](https://music.163.com/album?id=134330823)|
+|披荆斩棘的哥哥 第9期|QQ音乐|2021-10-07|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001BUall2Tdj8H)|
+|少年说唱企划 第九期|网易云音乐|2021-09-25|1|[来源](https://music.163.com/album?id=283679740)|
+|少年说唱企划 第九期|QQ音乐|2021-09-25|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002TpMcT1NUZ58)|
+|披荆斩棘的哥哥 第7期|网易云音乐|2021-09-24|1|[来源](https://music.163.com/album?id=133590391)|
+|披荆斩棘的哥哥 第7期|QQ音乐|2021-09-23|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0027Rh7Y44KwPM)|
+|披荆斩棘的哥哥 第5期|网易云音乐|2021-09-10|2|[来源](https://music.163.com/album?id=132923338)|
+|披荆斩棘的哥哥 第5期|QQ音乐|2021-09-09|2|[来源](https://y.qq.com/n/ryqq/albumDetail/002nYRYo2iGiIN)|
+|扫黑风暴 电视剧音乐合集|网易云音乐|2021-08-28|1|[来源](https://music.163.com/album?id=154259749)|
+|扫黑风暴 电视剧音乐合集|QQ音乐|2021-08-28|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000RT0HG3N9DUV)|
+|披荆斩棘的哥哥 第3期|网易云音乐|2021-08-27|1|[来源](https://music.163.com/album?id=132340799)|
+|披荆斩棘的哥哥 第3期|QQ音乐|2021-08-26|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0024kBbU1CnWUr)|
+|Get Together (feat. GAI周延 ) [乐堡开躁 Mix]|网易云音乐|2021-08-19|1|[来源](https://music.163.com/album?id=131897489)|
+|Get Together (feat. GAI周延 ) [乐堡开躁 Mix]|QQ音乐|2021-08-19|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003RuQ9Q2PqEIQ)|
+|少年说唱企划 第三期|网易云音乐|2021-08-14|1|[来源](https://music.163.com/album?id=133150792)|
+|少年说唱企划 第三期|QQ音乐|2021-08-14|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003YN1kQ2iIJT5)|
+|披荆斩棘的哥哥 第1期|网易云音乐|2021-08-13|1|[来源](https://music.163.com/album?id=131744908)|
+|披荆斩棘的哥哥 第1期|QQ音乐|2021-08-13|1|[来源](https://y.qq.com/n/ryqq/albumDetail/00149MW74BOlyL)|
+|Call me by Fire|网易云音乐|2021-08-13|1|[来源](https://music.163.com/album?id=131607103)|
+|Call me by Fire|QQ音乐|2021-08-11|3|[来源](https://y.qq.com/n/ryqq/albumDetail/003WWlcp1Xajzv)|
+|了不起的老爸 电影原声带|网易云音乐|2021-06-20|2|[来源](https://music.163.com/album?id=129317363)|
+|了不起的老爸 电影原声带|QQ音乐|2021-06-20|2|[来源](https://y.qq.com/n/ryqq/albumDetail/002mpOQ70YXALc)|
+|刺杀小说家 电影原声大碟|网易云音乐|2021-02-16|1|[来源](https://music.163.com/album?id=123327238)|
+|刺杀小说家 电影原声大碟|QQ音乐|2021-02-16|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0022wHDG0P60L3)|
+|蒙着眼睛走|网易云音乐|2021-02-09|1|[来源](https://music.163.com/album?id=125304251)|
+|蒙着眼睛走|QQ音乐|2021-02-09|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003wEEbB21nus1)|
+|烻|网易云音乐|2021-02-05|9|[来源](https://music.163.com/album?id=122619417)|
+|烻|QQ音乐|2021-02-05|9|[来源](https://y.qq.com/n/ryqq/albumDetail/00151T621ThPul)|
+|没有人在乎|网易云音乐|2021-01-31|1|[来源](https://music.163.com/album?id=122413550)|
+|没有人在乎|QQ音乐|2021-01-31|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004RuYRP2gBQlT)|
+|赤子心|网易云音乐|2021-01-07|0|[来源](https://music.163.com/album?id=146980396)|
+|赤子心|QQ音乐|2021-01-07|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000WmX983ss1Pd)|
+|失眠|网易云音乐|2020-12-30|1|[来源](https://music.163.com/album?id=120995493)|
+|失眠|QQ音乐|2020-12-30|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0011VsU40qn9MG)|
+|中国梦之声·我们的歌第二季 第12期|网易云音乐|2020-12-27|4|[来源](https://music.163.com/album?id=120919359)|
+|中国梦之声·我们的歌第二季 第12期|QQ音乐|2020-12-27|4|[来源](https://y.qq.com/n/ryqq/albumDetail/001jMudH3aMmc1)|
+|朝歌暮宴 V-Dynasty 上卷|网易云音乐|2020-12-23|1|[来源](https://music.163.com/album?id=120702957)|
+|朝歌暮宴 V-Dynasty 上卷|QQ音乐|2020-12-23|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004WyucQ2vSvnp)|
+|中国梦之声·我们的歌第二季 第11期|网易云音乐|2020-12-20|4|[来源](https://music.163.com/album?id=120715995)|
+|中国梦之声·我们的歌第二季 第11期|QQ音乐|2020-12-20|4|[来源](https://y.qq.com/n/ryqq/albumDetail/004VOQeB1EY7oL)|
+|Let's Go (feat. GAI)|网易云音乐|2020-12-05|1|[来源](https://music.163.com/album?id=99133912)|
+|Let's Go (feat. GAI)|QQ音乐|2020-12-05|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002tdz271KMsOj)|
+|凡人歌|网易云音乐|2020-11-30|3|[来源](https://music.163.com/album?id=98911244)|
+|凡人歌|QQ音乐|2020-11-30|3|[来源](https://y.qq.com/n/ryqq/albumDetail/004Zw5Xj2TAJuz)|
+|中国梦之声·我们的歌第二季 第8期|网易云音乐|2020-11-29|4|[来源](https://music.163.com/album?id=98909157)|
+|中国梦之声·我们的歌第二季 第8期|QQ音乐|2020-11-29|4|[来源](https://y.qq.com/n/ryqq/albumDetail/004X8h9B13o3dt)|
+|中国梦之声·我们的歌第二季 第7期|网易云音乐|2020-11-22|4|[来源](https://music.163.com/album?id=98655528)|
+|中国梦之声·我们的歌第二季 第7期|QQ音乐|2020-11-22|4|[来源](https://y.qq.com/n/ryqq/albumDetail/003D7OSN32RQev)|
+|「朝暮」王源20岁的一天ONLINE·LIVE辑|网易云音乐|2020-11-19|1|[来源](https://music.163.com/album?id=98511639)|
+|「朝暮」王源20岁的一天ONLINE·LIVE辑|QQ音乐|2020-11-19|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003zybmq43AuGP)|
+|中国梦之声·我们的歌第二季 第4期|网易云音乐|2020-11-01|4|[来源](https://music.163.com/album?id=97717280)|
+|中国梦之声·我们的歌第二季 第4期|QQ音乐|2020-11-01|4|[来源](https://y.qq.com/n/ryqq/albumDetail/00397Jhs10CKrJ)|
+|中国梦之声·我们的歌第二季 第3期|网易云音乐|2020-10-25|4|[来源](https://music.163.com/album?id=97348724)|
+|中国梦之声·我们的歌第二季 第3期|QQ音乐|2020-10-25|4|[来源](https://y.qq.com/n/ryqq/albumDetail/003s1NJk3PrZ84)|
+|沧海一声笑|网易云音乐|2020-09-02|1|[来源](https://music.163.com/album?id=94296929)|
+|沧海一声笑|QQ音乐|2020-09-02|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001cSluy0TvILU)|
+|反伍|网易云音乐|2023-12-01|0|[来源](https://music.163.com/album?id=146980393)|
+|反伍|QQ音乐|2020-08-18|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004X88sZ1QZoWC)|
+|任逍遥|网易云音乐|2020-08-13|3|[来源](https://music.163.com/album?id=93888306)|
+|任逍遥|QQ音乐|2020-08-13|3|[来源](https://y.qq.com/n/ryqq/albumDetail/000t5N7W1vVryE)|
+|一念永恒|网易云音乐|2020-08-09|3|[来源](https://music.163.com/album?id=93782308)|
+|一念永恒|QQ音乐|2020-08-09|3|[来源](https://y.qq.com/n/ryqq/albumDetail/000ACFXb3ufmOh)|
+|Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)|网易云音乐|2020-07-24|1|[来源](https://music.163.com/album?id=92717807)|
+|Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)|QQ音乐|2020-07-24|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002n9EHl05CJQX)|
+|untitled 3.30|网易云音乐|2020-07-10|2|[来源](https://music.163.com/album?id=92205395)|
+|untitled 3.30|QQ音乐|2020-07-10|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004GXdqR4dKmJt)|
+|这就是生活 (Live)|网易云音乐|2020-06-26|1|[来源](https://music.163.com/album?id=91682679)|
+|这就是生活 (Live)|QQ音乐|2020-06-26|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0003qO5u293Z9a)|
+|莲花 (Live)|网易云音乐|2020-06-05|1|[来源](https://music.163.com/album?id=90506259)|
+|莲花 (Live)|QQ音乐|2020-06-05|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002NdW7w3NqaZk)|
+|没对 (Live)|网易云音乐|2020-05-29|1|[来源](https://music.163.com/album?id=90224230)|
+|没对 (Live)|QQ音乐|2020-05-29|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000OyhgY3KEnX9)|
+|untitled 3.30 (Live)|网易云音乐|2020-05-22|1|[来源](https://music.163.com/album?id=90049279)|
+|untitled 3.30 (Live)|QQ音乐|2020-05-22|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004DW9wG0seyJ1)|
+|别留 (Live)|网易云音乐|2020-05-15|1|[来源](https://music.163.com/album?id=89434849)|
+|别留 (Live)|QQ音乐|2020-05-15|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001cyLuf0F7DZY)|
+|兰花草 (Live)|网易云音乐|2020-05-08|1|[来源](https://music.163.com/album?id=90102964)|
+|兰花草 (Live)|QQ音乐|2020-05-08|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004SSVMq4MJZNG)|
+|当潮不让|网易云音乐|2020-05-04|0|[来源](https://music.163.com/album?id=88793251)|
+|当潮不让|QQ音乐|2020-05-04|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000tvz602DJ2vk)|
+|蒙着眼睛走（Live）|网易云音乐|2020-05-01|1|[来源](https://music.163.com/album?id=89103044)|
+|蒙着眼睛走（Live）|QQ音乐|2020-05-01|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0013c3tV4GoLn9)|
+|极乐 (Live)|网易云音乐|2020-04-24|1|[来源](https://music.163.com/album?id=90103843)|
+|极乐 (Live)|QQ音乐|2020-04-24|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0015hPYI3U7pvS)|
+|bilibili晚会 二零一九最美的夜|网易云音乐|2019-12-31|1|[来源](https://music.163.com/album?id=90355426)|
+|bilibili晚会 二零一九最美的夜|QQ音乐|2019-12-31|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000FXC0p3Y5eVW)|
+|有空一起吃饭（纯净版）|网易云音乐|2019-12-19|1|[来源](https://music.163.com/album?id=84236817)|
+|有空一起吃饭（纯净版）|QQ音乐|2019-12-19|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003LMZP90kkgpN)|
+|有空一起吃饭（问候版）|网易云音乐|2019-12-18|1|[来源](https://music.163.com/album?id=84186782)|
+|有空一起吃饭（问候版）|QQ音乐|2019-12-18|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004ZLJ2M1Xh75F)|
+|啥款|网易云音乐|2019-11-26|1|[来源](https://music.163.com/album?id=83661633)|
+|啥款|QQ音乐|2019-11-26|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003AQeEP0my560)|
+|中！国！万！岁！|网易云音乐|2019-08-22|2|[来源](https://music.163.com/album?id=81082875)|
+|中！国！万！岁！|QQ音乐|2019-08-22|2|[来源](https://y.qq.com/n/ryqq/albumDetail/002CXAv83kIUgy)|
+|BIG BRO|网易云音乐|2019-07-29|2|[来源](https://music.163.com/album?id=80713779)|
+|BIG BRO|QQ音乐|2019-07-29|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000gMkP12JodY1)|
+|哪吒|网易云音乐|2019-07-16|2|[来源](https://music.163.com/album?id=80403482)|
+|哪吒|QQ音乐|2019-07-13|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000657sU1wUTIM)|
+|天龙十二门|网易云音乐|2019-07-04|2|[来源](https://music.163.com/album?id=80217399)|
+|天龙十二门|QQ音乐|2019-07-04|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0002ETet2xOfhD)|
+|混江湖|网易云音乐|2019-06-25|2|[来源](https://music.163.com/album?id=79981214)|
+|混江湖|QQ音乐|2019-06-25|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000HqZvj1OKdv9)|
+|art is BLUE|网易云音乐|2019-05-20|1|[来源](https://music.163.com/album?id=79257087)|
+|art is BLUE|QQ音乐|2019-07-09|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0034ZfQw3LJFAQ)|
+|华夏|网易云音乐|2019-04-22|2|[来源](https://music.163.com/album?id=78720654)|
+|华夏|QQ音乐|2019-04-22|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000ENJg21YyERd)|
+|在下霍元甲|网易云音乐|2019-01-18|2|[来源](https://music.163.com/album?id=75137066)|
+|在下霍元甲|QQ音乐|2019-01-18|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001IgKT842qE9g)|
+|大人物|网易云音乐|2019-01-10|2|[来源](https://music.163.com/album?id=75112071)|
+|大人物|QQ音乐|2019-01-10|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000iaA9g12cfqs)|
+|永不独行|网易云音乐|2019-01-08|1|[来源](https://music.163.com/album?id=74992173)|
+|永不独行|QQ音乐|2019-01-05|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001mScqj1N79Te)|
+|乐人·Live：大GAI如此 周延世界音乐之旅香港站（Live）|网易云音乐|2018-10-17|15|[来源](https://music.163.com/album?id=73877233)|
+|乐人·Live：大GAI如此 周延世界音乐之旅香港站（Live）|QQ音乐|2018-10-17|10|[来源](https://y.qq.com/n/ryqq/albumDetail/000Ncx3S37S6Lr)|
+|光宗耀祖|网易云音乐|2018-10-10|17|[来源](https://music.163.com/album?id=73703127)|
+|光宗耀祖|QQ音乐|2018-10-10|8|[来源](https://y.qq.com/n/ryqq/albumDetail/003MS8RP1GyP9f)|
+|豁得凶|网易云音乐|2018-08-20|2|[来源](https://music.163.com/album?id=72378643)|
+|豁得凶|QQ音乐|2018-08-20|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001UiDli4W7atj)|
+|山外青山楼外楼|网易云音乐|2018-08-15|1|[来源](https://music.163.com/album?id=274232240)|
+|山外青山楼外楼|QQ音乐|2018-08-15|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000xP3ee2xOpv9)|
+|见字如面|网易云音乐|2018-07-20|4|[来源](https://music.163.com/album?id=71882881)|
+|见字如面|QQ音乐|2018-07-20|4|[来源](https://y.qq.com/n/ryqq/albumDetail/004a1Pzy39RQWd)|
+|圆周率|网易云音乐|2018-06-22|2|[来源](https://music.163.com/album?id=39723263)|
+|圆周率|QQ音乐|2018-06-22|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003uePW80fqVQG)|
+|脱身 电视原声带|网易云音乐|2018-06-11|1|[来源](https://music.163.com/album?id=39593140)|
+|脱身 电视原声带|QQ音乐|2018-06-11|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000laC3r237XD4)|
+|万里长城|网易云音乐|2018-05-25|2|[来源](https://music.163.com/album?id=39339010)|
+|万里长城|QQ音乐|2018-05-25|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001IphcP2l1cXT)|
+|淘金日记|网易云音乐|2018-04-21|1|[来源](https://music.163.com/album?id=38402011)|
+|淘金日记|QQ音乐|2018-04-21|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003lR5Bp0Ji3Xo)|
+|炽热少年|网易云音乐|2020-12-01|1|[来源](https://music.163.com/album?id=98830681)|
+|炽热少年|QQ音乐|2018-04-08|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003yBtqq3oQ4Uw)|
+|长河|网易云音乐|2018-03-02|1|[来源](https://music.163.com/album?id=37801458)|
+|长河|网易云音乐|2018-03-21|1|[来源](https://music.163.com/album?id=37991078)|
+|长河|QQ音乐|2018-03-21|2|[来源](https://y.qq.com/n/ryqq/albumDetail/00367Cpg1m4Fvz)|
+|盖世英雄|网易云音乐|2018-01-31|1|[来源](https://music.163.com/album?id=37441147)|
+|盖世英雄|QQ音乐|2018-01-22|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001HFBUx4ACixv)|
+|都市惊奇夜|网易云音乐|2018-01-15|1|[来源](https://music.163.com/album?id=37099892)|
+|都市惊奇夜|QQ音乐|2018-01-15|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004V1gah2eK1LA)|
+|“让幸福照亮你”江苏卫视2018跨年演唱会|网易云音乐|2017-12-31|2|[来源](https://music.163.com/album?id=37086209)|
+|“让幸福照亮你”江苏卫视2018跨年演唱会|QQ音乐|2017-12-31|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000e36et0VmUI4)|
+|KUNG|网易云音乐|2017-12-20|1|[来源](https://music.163.com/album?id=37008014)|
+|KUNG|QQ音乐|2017-12-20|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0010zFRt1YWgmx)|
+|凡人修仙|网易云音乐|2017-11-29|1|[来源](https://music.163.com/album?id=90355833)|
+|凡人修仙|QQ音乐|2017-11-29|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0011mOWB1YOi5R)|
+|菜商卡头和车手|网易云音乐|2017-11-21|1|[来源](https://music.163.com/album?id=36842010)|
+|菜商卡头和车手|QQ音乐|2017-11-21|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000K33zp27RhIj)|
+|大师|网易云音乐|2017-11-15|1|[来源](https://music.163.com/album?id=90103154)|
+|大师|QQ音乐|2017-11-15|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004aGsCz0FShXl)|
+|风光超级行|网易云音乐|2017-11-14|2|[来源](https://music.163.com/album?id=90103995)|
+|风光超级行|QQ音乐|2017-11-14|2|[来源](https://y.qq.com/n/ryqq/albumDetail/0025D8oV2h0l5q)|
+|蒙面唱将猜猜猜第二季 第9期|网易云音乐|2017-11-05|2|[来源](https://music.163.com/album?id=36525979)|
+|蒙面唱将猜猜猜第二季 第9期|QQ音乐|2017-11-05|2|[来源](https://y.qq.com/n/ryqq/albumDetail/003OdTlD1p5J2s)|
+|蒙面唱将猜猜猜第二季 第8期|网易云音乐|2017-10-29|1|[来源](https://music.163.com/album?id=36525826)|
+|蒙面唱将猜猜猜第二季 第8期|QQ音乐|2017-10-29|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004Xzmvo1WXAQY)|
+|Ding Ling Ding|网易云音乐|2017-10-27|2|[来源](https://music.163.com/album?id=36525759)|
+|Ding Ling Ding|QQ音乐|2017-10-27|2|[来源](https://y.qq.com/n/ryqq/albumDetail/001Ms2wN3Pslx1)|
+|蒙面唱将猜猜猜第二季 第7期|网易云音乐|2017-10-22|2|[来源](https://music.163.com/album?id=148811787)|
+|蒙面唱将猜猜猜第二季 第7期|QQ音乐|2017-10-22|2|[来源](https://y.qq.com/n/ryqq/albumDetail/002rJ9gT0r1hBt)|
+|好运来|网易云音乐|2017-09-29|2|[来源](https://music.163.com/album?id=36412589)|
+|好运来|QQ音乐|2017-09-29|2|[来源](https://y.qq.com/n/ryqq/albumDetail/002vpNkb4Pk8Uk)|
+|为梦打Call|网易云音乐|2017-09-09|1|[来源](https://music.163.com/album?id=36192126)|
+|为梦打Call|QQ音乐|2017-09-09|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003g0uA81QiUMc)|
+|中国有嘻哈 第12期|网易云音乐|2017-09-09|4|[来源](https://music.163.com/album?id=36128553)|
+|中国有嘻哈 第12期|QQ音乐|2017-09-09|3|[来源](https://y.qq.com/n/ryqq/albumDetail/002LiyZW27dGjC)|
+|没钱咋个整|网易云音乐|2017-09-08|1|[来源](https://music.163.com/album?id=36192033)|
+|没钱咋个整|QQ音乐|2017-09-08|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000BGsgv1tLNWh)|
+|中国有嘻哈 第11期|网易云音乐|2017-09-02|1|[来源](https://music.163.com/album?id=36037857)|
+|中国有嘻哈 第11期|QQ音乐|2017-09-02|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001opXoW3imfj9)|
+|中国有嘻哈 第10期|网易云音乐|2017-08-26|1|[来源](https://music.163.com/album?id=36037262)|
+|中国有嘻哈 第10期|QQ音乐|2017-08-26|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000zVIGt2L9Vfp)|
+|中国有嘻哈 第9期|网易云音乐|2017-08-19|1|[来源](https://music.163.com/album?id=35934656)|
+|中国有嘻哈 第9期|QQ音乐|2017-08-19|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001dfi1U1SkgF7)|
+|王者降临|网易云音乐|2017-08-17|2|[来源](https://music.163.com/album?id=35934522)|
+|王者降临|QQ音乐|2017-08-17|2|[来源](https://y.qq.com/n/ryqq/albumDetail/004N1eR21h7eTi)|
+|中国有嘻哈 第8期|网易云音乐|2017-08-12|2|[来源](https://music.163.com/album?id=35908647)|
+|中国有嘻哈 第8期|QQ音乐|2017-08-12|2|[来源](https://y.qq.com/n/ryqq/albumDetail/000MISZa1VWIJe)|
+|你猜我猜不猜|网易云音乐|2017-08-07|1|[来源](https://music.163.com/album?id=35896025)|
+|你猜我猜不猜|QQ音乐|2017-08-07|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0045hYC20b9bph)|
+|中国有嘻哈 第4期|网易云音乐|2017-07-15|1|[来源](https://music.163.com/album?id=35864194)|
+|中国有嘻哈 第4期|QQ音乐|2017-07-15|1|[来源](https://y.qq.com/n/ryqq/albumDetail/001c8fpg0x7kIK)|
+|中国有嘻哈 第1期|网易云音乐|2017-06-24|1|[来源](https://music.163.com/album?id=35865146)|
+|中国有嘻哈 第1期|QQ音乐|2017-06-24|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004BlBLW37MIcB)|
+|川渝陷阱|网易云音乐|2017-06-07|1|[来源](https://music.163.com/album?id=35850243)|
+|川渝陷阱|QQ音乐|2017-08-30|1|[来源](https://y.qq.com/n/ryqq/albumDetail/004YusWS4ZXTJt)|
+|RAINBOW|网易云音乐|2017-04-27|1|[来源](https://music.163.com/album?id=35732627)|
+|RAINBOW|QQ音乐|2017-04-27|1|[来源](https://y.qq.com/n/ryqq/albumDetail/0028I7Hc10GMdq)|
+|耍没耍过的|网易云音乐|2017-03-04|1|[来源](https://music.163.com/album?id=35737492)|
+|耍没耍过的|QQ音乐|2017-03-04|1|[来源](https://y.qq.com/n/ryqq/albumDetail/003pQfhQ1MN8Td)|
+|以下范上|网易云音乐|2017-01-23|1|[来源](https://music.163.com/album?id=35139431)|
+|以下范上|QQ音乐|2017-01-23|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002ILjM64c4PZy)|
+|空城计|网易云音乐|2016-07-24|1|[来源](https://music.163.com/album?id=35426055)|
+|空城计|QQ音乐|2016-07-24|1|[来源](https://y.qq.com/n/ryqq/albumDetail/002DCgF32dwOW0)|
+|白日梦想家|网易云音乐|2015-09-15|0|[来源](https://music.163.com/album?id=36875529)|
+|白日梦想家|QQ音乐|2015-09-15|1|[来源](https://y.qq.com/n/ryqq/albumDetail/000V9hG60iuFdQ)|
 
 
 ## 全部收录歌曲记录
@@ -101,7 +447,7 @@
 |2017-03-04|耍没耍过的|耍没耍过的|布瑞吉Bridge / 雾都L4WUDU / GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/002RPWP346DD1K)|
 |2017-03-04|耍没耍过的|耍没耍过的|GAI周延 / Gosh Music / 雾都L4WUDU / 布瑞吉Bridge|[网易云音乐](https://music.163.com/song?id=490195151)|
 |2017-04-13|夕阳下|夕阳下（Hiphop版）|夜叉乐队 / GAI周延|[网易云音乐](https://music.163.com/song?id=471761746)|
-|2017-04-27|Rainbow|Rainbow|GAI周延 / 布瑞吉Bridge|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/004DJPc732vmCX)|
+|2017-04-27|Rainbow|RAINBOW|GAI周延 / 布瑞吉Bridge|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/004DJPc732vmCX)|
 |2017-04-27|RAINBOW|RAINBOW|布瑞吉Bridge / GAI周延 / Gosh Music|[网易云音乐](https://music.163.com/song?id=490189815)|
 |2017-06-07|2017 重庆茶馆 Cypher (Tory/Bridge/GAI)|川渝陷阱|GAI周延 / 布瑞吉Bridge / Toryondacloud / Gosh Music|[网易云音乐](https://music.163.com/song?id=493845025)|
 |2017-06-24|GAI海选清唱片段 (Live)|中国有嘻哈 第1期|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/00095Htd04hhv6)|
@@ -328,7 +674,7 @@
 |2020-04-17|烈火战马 (Live)|我是唱作人2第1期|GAI周延|[网易云音乐](https://music.163.com/song?id=1442284289)|
 |2020-04-24|极乐 (Live)|极乐 (Live)|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/000Rv4zR0LRedR)|
 |2020-04-24|极乐 (Live)|极乐 (Live)|GAI周延|[网易云音乐](https://music.163.com/song?id=1451692797)|
-|2020-05-01|蒙着眼睛走 (Live)|蒙着眼睛走 (Live)|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/003p45A40yJUX8)|
+|2020-05-01|蒙着眼睛走 (Live)|蒙着眼睛走（Live）|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/003p45A40yJUX8)|
 |2020-05-01|蒙着眼睛走 (Live)|蒙着眼睛走（Live）|GAI周延|[网易云音乐](https://music.163.com/song?id=1446286027)|
 |2020-05-04|当潮不让 (伴奏)|当潮不让|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/000WZc1U2QbGSR)|
 |2020-05-04|当潮不让|当潮不让|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/002u4xA63Q0ZhL)|
@@ -345,7 +691,7 @@
 |2020-06-26|这就是生活 (Live)|这就是生活 (Live)|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/002RQtWD1EePDj)|
 |2020-06-26|这就是生活 (Live)|这就是生活 (Live)|GAI周延|[网易云音乐](https://music.163.com/song?id=1458940086)|
 |2020-07-10|untitled 3.30 (伴奏)|untitled 3.30|GAI周延|[网易云音乐](https://music.163.com/song?id=1461637997)|
-|2020-07-10|Untitled 3.30|Untitled 3.30|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/001zOdHc1tKaen)|
+|2020-07-10|Untitled 3.30|untitled 3.30|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/001zOdHc1tKaen)|
 |2020-07-10|untitled 3.30|untitled 3.30|GAI周延|[网易云音乐](https://music.163.com/song?id=1461640888)|
 |2020-07-24|Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)|Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/002w9RbX4QQR5G)|
 |2020-07-24|Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)|Open The Night (The Chainsmokers x 乐堡开躁 Official Mix)|GAI周延 / The Chainsmokers|[网易云音乐](https://music.163.com/song?id=1464287700)|
@@ -599,7 +945,7 @@
 |2022-09-10|亢龙有悔 (LIVE版)|中国说唱巅峰对决 总决赛 (上集)|张艺兴 / GAI周延|[网易云音乐](https://music.163.com/song?id=1980027787)|
 |2022-09-10|山岚Flow杜康韵 (Live)|中国说唱巅峰对决 总决赛 (上集)|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/004SchH4126HtH)|
 |2022-09-10|山岚Flow杜康韵 (LIVE版)|中国说唱巅峰对决 总决赛 (上集)|GAI周延|[网易云音乐](https://music.163.com/song?id=1980024242)|
-|2022-09-11|三滴血 (Live)|中国说唱巅峰对决 总决赛 (下集)|GAI周延 / 功夫胖KUNGFU-PEN / 布瑞吉Bridge|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/000bT9Vz287MZg)|
+|2022-09-11|三滴血 (Live)|中国说唱巅峰对决 总决赛（下集）|GAI周延 / 功夫胖KUNGFU-PEN / 布瑞吉Bridge|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/000bT9Vz287MZg)|
 |2022-09-11|三滴血（LIVE版）|中国说唱巅峰对决 总决赛（下集）|GAI周延 / 功夫胖KUNGFU-PEN / 布瑞吉Bridge|[网易云音乐](https://music.163.com/song?id=1980392087)|
 |2022-11-14|嘿 做个人吧 (和声伴奏)|嘿 做个人吧|胡海泉 / GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/001jYmR049EOrb)|
 |2022-11-14|嘿 做个人吧 (和声伴奏)|嘿 做个人吧|胡海泉 / GAI周延|[网易云音乐](https://music.163.com/song?id=1997793664)|
@@ -764,7 +1110,7 @@
 |2025-04-21|酒歌|湖湘浪子|RANZER叶润泽 / GAI周延|[网易云音乐](https://music.163.com/song?id=2726937067)|
 |2025-04-21|故湘，风|湖湘浪子|RANZER叶润泽 / 功夫胖KUNGFU-PEN / 盛宇D-SHINE / GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/004Oi6rW1513A2)|
 |2025-04-21|故湘，风|湖湘浪子|RANZER叶润泽 / 功夫胖KUNGFU-PEN / 盛宇D-SHINE / GAI周延|[网易云音乐](https://music.163.com/song?id=2726937593)|
-|2025-05-08|第一现场|一脉相承Hood&Family|布瑞吉Bridge / GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/000jtyiG0n2OY5)|
+|2025-05-08|第一现场|一脉相承Hood & Family|布瑞吉Bridge / GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/000jtyiG0n2OY5)|
 |2025-05-08|第一现场|一脉相承Hood & Family|布瑞吉Bridge / GAI周延|[网易云音乐](https://music.163.com/song?id=2690855401)|
 |2025-05-17|炁 (Live/典藏)|歌手2025 第1期|GAI周延|[QQ音乐](https://y.qq.com/n/ryqq/songDetail/001KmjK43ONBi3)|
 |2025-05-17|炁 (live │ 典藏)|歌手2025 第1期|GAI周延|[网易云音乐](https://music.163.com/song?id=2705257426)|

@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太、TizzyT、KEY.L 刘聪，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太、TizzyT、KEY.L 刘聪、Jony J，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -367,3 +367,8 @@ pm run test:rapeter浏览器检查。
 核心项目包括WATCH ME、壹銘驚人、LOSETOWIN、RUN MY CITY、夜郎溪、四大天王、混乱年代、生活麻辣烫；当前本人署名曲单完整。《少年梦》另两首没有逐曲署名，不计入。Apple《生活麻辣烫》英文/繁体地区发行关联同一网易云专辑，日期来源分别保留，不重复生成专辑卡片。Apple部分发行只返回发行元数据；详情受限请求记录在采集日志，不绕过限制。历史下架、早期及视频内容不保证全量。
 
 来源 `research/watchme/`；报告 [WATCHME-DISCOGRAPHY.md](research/WATCHME-DISCOGRAPHY.md)。依次运行 collect-watchme、harvest-watchme、cache-watchme-extras；离线重建 `npm run catalog:watchme`，并运行 `node scripts/build-creators.mjs` 更新发现页索引。目录测试 `npm test`，浏览器 `npm run test:watchme`。
+
+
+## Jony J 数据范围
+
+网易云主账号完整返回 131 条歌曲，其中 107 条有明确单曲署名。六个个人及现场项目按逐曲艺人署名收录；平台接口限制、同名 Apple 账号、异常早期日期与无日期记录均保留待核。历史下架作品不宣称完整。

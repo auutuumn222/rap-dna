@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs tests/psyp.test.mjs tests/knowknow.test.mjs tests/cashtrippy.test.mjs tests/gai.test.mjs tests/gali.test.mjs tests/xiedi.test.mjs tests/wangyitai.test.mjs tests/topbarry.test.mjs tests/rapeter.test.mjs tests/tizzyt.test.mjs tests/keyl.test.mjs tests/watchme.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs tests/psyp.test.mjs tests/knowknow.test.mjs tests/cashtrippy.test.mjs tests/gai.test.mjs tests/gali.test.mjs tests/xiedi.test.mjs tests/wangyitai.test.mjs tests/topbarry.test.mjs tests/rapeter.test.mjs tests/tizzyt.test.mjs tests/keyl.test.mjs tests/watchme.test.mjs tests/jonyj.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
     "test:masiwei": "node tests/masiwei-browser.mjs",
@@ -58,6 +58,8 @@
     "catalog:keyl": "node scripts/build-keyl.mjs",
     "test:keyl": "node tests/keyl-browser.mjs",
     "catalog:watchme": "node scripts/build-watchme.mjs",
-    "test:watchme": "node tests/watchme-browser.mjs"
+    "test:watchme": "node tests/watchme-browser.mjs",
+    "catalog:jonyj": "node scripts/build-jonyj.mjs",
+    "test:jonyj": "node tests/jonyj-browser.mjs"
   }
 }

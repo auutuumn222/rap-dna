@@ -1,0 +1,8 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+const base='research/jonyj',id=784257;await mkdir(base,{recursive:true});
+async function snap(name,url){const r=await fetch(url,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error(`${name}: HTTP ${r.status}`);const d=await r.json();if(d.code&&d.code!==200)throw Error(`${name}: API ${d.code}`);await writeFile(`${base}/${name}.json`,JSON.stringify(d,null,2)+'\n');return d;}
+const search=await snap('netease-identity','https://music.163.com/api/search/get?s='+encodeURIComponent('Jony J')+'&type=100&limit=20');if(!search.result.artists.some(a=>a.id===id&&a.name==='Jony J'))throw Error('Identity candidate mismatch');
+await snap('netease-artist',`https://music.163.com/api/artist/${id}`);
+let albums=[],pages=[];for(let offset=0;;offset+=100){const d=await snap(`netease-albums-${offset}`,`https://music.163.com/api/artist/albums/${id}?id=${id}&offset=${offset}&limit=100`);pages.push({offset,count:d.hotAlbums.length,more:d.more});albums.push(...d.hotAlbums);if(!d.more)break;if(!d.hotAlbums.length)throw Error('Empty album page');}await writeFile(`${base}/netease-albums.json`,JSON.stringify({hotAlbums:albums,pages},null,2)+'\n');
+for(let offset=0;;offset+=100){const d=await snap(`netease-songs-${offset}`,`https://music.163.com/api/v1/artist/songs?id=${id}&offset=${offset}&limit=100&order=time`);console.log(JSON.stringify({offset,count:d.songs.length,total:d.total,more:d.more}));if(!d.more)break;if(!d.songs.length)throw Error('Empty song page');}
+await snap('apple-search-cn','https://itunes.apple.com/search?term='+encodeURIComponent('Jony J')+'&entity=musicArtist&country=cn&limit=20');

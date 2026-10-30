@@ -1,4 +1,5 @@
 export const artistProfiles={
+ jonyj:{key:'jonyj',file:'./catalog-jonyj.json',archive:'027',english:'JONY J',tagline:'FROM J HOOD TO 24 HOURS.',intro:'从 J HOOD Mixtape、物女金、喜新恋旧，到 24時 系列。沿着 Jony J 的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'早期和下架作品仍待补证；合作发行按逐曲署名收录，一条早期日期与一条无日期记录待核。'},
  keyl:{key:'keyl',file:'./catalog-keyl.json',archive:'025',english:'KEY.L LIU CONG',tagline:'FROM KEY TO L TO THE STREETS.',intro:'从 KEY to L、街区故事，到回到2000。沿着 KEY.L 刘聪的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'艺人接口返回的142条歌曲已完整分页；早期、下架作品仍待补证，合作发行按单曲艺人署名收录。'},
  tizzyt:{key:'tizzyt',file:'./catalog-tizzyt.json',archive:'024',english:'TIZZY T',tagline:'FROM YOUR BOY TO POP.',intro:'从 YOUR BOY、夜行动物园到 Tizzy T、Vanity Fair 与流行。沿着 TizzyT 的作品和逐曲署名，认识共同创作的音乐人。',gapSummary:'早期与下架作品仍待补证；合作发行按逐曲署名收录，Apple 地区版本与未取得的曲单分别保留。'},
 

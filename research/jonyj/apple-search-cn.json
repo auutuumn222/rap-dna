@@ -1,0 +1,199 @@
+{
+  "resultCount": 20,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jony J",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jony-j/1288524146?uo=4",
+      "artistId": 1288524146,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JONY",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jony/1444702518?uo=4",
+      "artistId": 1444702518,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "满舒克",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%BB%A1%E8%88%92%E5%85%8B/339814707?uo=4",
+      "artistId": 339814707,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "GIVĒON",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/giv%C4%93on/1070668868?uo=4",
+      "artistId": 1070668868,
+      "amgArtistId": 3591755,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Radiohead",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/radiohead/657515?uo=4",
+      "artistId": 657515,
+      "amgArtistId": 41092,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "John Mayer",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/john-mayer/472054?uo=4",
+      "artistId": 472054,
+      "amgArtistId": 405816,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Joni Mitchell",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/joni-mitchell/203373?uo=4",
+      "artistId": 203373,
+      "amgArtistId": 4930,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Chuck Berry",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/chuck-berry/343170?uo=4",
+      "artistId": 343170,
+      "amgArtistId": 3664,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Charles Aznavour",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/charles-aznavour/3097598?uo=4",
+      "artistId": 3097598,
+      "amgArtistId": 23756,
+      "primaryGenreName": "法国流行",
+      "primaryGenreId": 50000064
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Billie Holiday",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/billie-holiday/37299?uo=4",
+      "artistId": 37299,
+      "amgArtistId": 56716,
+      "primaryGenreName": "爵士乐",
+      "primaryGenreId": 11
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "The Smiths",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/the-smiths/829538?uo=4",
+      "artistId": 829538,
+      "amgArtistId": 5466,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Johnny Gill",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/johnny-gill/47720?uo=4",
+      "artistId": 47720,
+      "amgArtistId": 4365,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jonny Greenwood",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jonny-greenwood/5787786?uo=4",
+      "artistId": 5787786,
+      "amgArtistId": 166707,
+      "primaryGenreName": "原声音乐",
+      "primaryGenreId": 16
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jony J",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jony-j/1631780736?uo=4",
+      "artistId": 1631780736,
+      "primaryGenreName": "中国音乐",
+      "primaryGenreId": 1232
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Joyner Lucas",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/joyner-lucas/888715002?uo=4",
+      "artistId": 888715002,
+      "amgArtistId": 3259727,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Geek Music",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/geek-music/1169547547?uo=4",
+      "artistId": 1169547547,
+      "primaryGenreName": "致敬音乐",
+      "primaryGenreId": 100022
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JHAYCO",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jhayco/1275242928?uo=4",
+      "artistId": 1275242928,
+      "amgArtistId": 3367640,
+      "primaryGenreName": "拉丁都市音乐",
+      "primaryGenreId": 1119
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Joey Bada$$",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/joey-bada%24%24/577261450?uo=4",
+      "artistId": 577261450,
+      "amgArtistId": 2662746,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "EMIN",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/emin/275351904?uo=4",
+      "artistId": 275351904,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "John Lee Hooker",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BA%A6%E7%BF%B0-%E6%9D%8E-%E8%83%A1%E5%85%8B/97536?uo=4",
+      "artistId": 97536,
+      "amgArtistId": 371,
+      "primaryGenreName": "蓝调",
+      "primaryGenreId": 2
+    }
+  ]
+}

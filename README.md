@@ -360,3 +360,10 @@ pm run test:rapeter浏览器检查。
 ## KEY.L 刘聪 数据范围
 
 网易云艺人歌曲接口完整返回 142 条；其中 136 条可读取到明确单曲署名行。发行详情有 60 个接口限制失败，Apple Music 已按 KEY.L劉聰艺人身份核对但未取得可对照曲单。专辑、合辑只按实际返回的单曲艺人署名收录，不推定整张发行均参与。涵盖 KEY to L、街区故事、回到2000 三张个人专辑及平台逐曲署名记录；不代表早期与下架作品历史全量。
+## 王齐铭WatchMe（2026-10-30核查）
+
+访问 `?artist=watchme`。网易云主账号12320060两页177条，末页more=false；Apple ID 1626398907，补充《少年梦》中明确逐曲署名的8/10首和《我的兄弟》1首，共186条平台记录、113项关联发行、8个核心项目。157条有明确单曲署名。
+
+核心项目包括WATCH ME、壹銘驚人、LOSETOWIN、RUN MY CITY、夜郎溪、四大天王、混乱年代、生活麻辣烫；当前本人署名曲单完整。《少年梦》另两首没有逐曲署名，不计入。Apple《生活麻辣烫》英文/繁体地区发行关联同一网易云专辑，日期来源分别保留，不重复生成专辑卡片。Apple部分发行只返回发行元数据；详情受限请求记录在采集日志，不绕过限制。历史下架、早期及视频内容不保证全量。
+
+来源 `research/watchme/`；报告 [WATCHME-DISCOGRAPHY.md](research/WATCHME-DISCOGRAPHY.md)。依次运行 collect-watchme、harvest-watchme、cache-watchme-extras；离线重建 `npm run catalog:watchme`，并运行 `node scripts/build-creators.mjs` 更新发现页索引。目录测试 `npm test`，浏览器 `npm run test:watchme`。

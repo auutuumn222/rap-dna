@@ -1,0 +1,76 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 3,
+    "hlWords": [
+      "万妮达Vinida Weng"
+    ],
+    "artists": [
+      {
+        "id": 12001060,
+        "name": "万妮达Vinida Weng",
+        "picUrl": "https://p2.music.126.net/d6CgXY6DEWNDknxbIGD2HA==/109951170130501347.jpg",
+        "alias": [],
+        "albumSize": 42,
+        "musicSize": 231,
+        "picId": 109951170130501340,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1644042,
+        "img1v1Url": "https://p2.music.126.net/M-KcLOHL-qdjzYG7GtR8cw==/109951173127548962.jpg",
+        "accountId": 77698284,
+        "img1v1": 109951173127548960,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 44,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 1204010,
+        "name": "TizzyT",
+        "picUrl": "https://p2.music.126.net/VJLUv2HtobEqsfvE4H8xNg==/109951163464459383.jpg",
+        "alias": [],
+        "albumSize": 46,
+        "musicSize": 190,
+        "picId": 109951163464459380,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 2852957,
+        "img1v1Url": "https://p2.music.126.net/Vbo8K447I5LLvH9VpdTfww==/109951166527176990.jpg",
+        "accountId": 125606117,
+        "img1v1": 109951166527177000,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 46,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 31156487,
+        "name": "石凯",
+        "picUrl": "https://p2.music.126.net/mEFOyHwl6_2T5dHaJFjdkg==/109951171505285000.jpg",
+        "alias": [],
+        "albumSize": 12,
+        "musicSize": 71,
+        "picId": 109951171505285000,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 332485,
+        "img1v1Url": "https://p2.music.126.net/MheI3UDD3A4BctHmQbVjsQ==/109951168851098421.jpg",
+        "accountId": 1811572243,
+        "img1v1": 109951168851098420,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 10,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

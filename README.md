@@ -380,3 +380,7 @@ pm run test:rapeter浏览器检查。
 四个核心项目：From Nothing To 1、金鳞KING LEVIATHAN、SAVAGE 22、龙年，当前本人署名曲单完整；HEATROOM TAPE 2nd作为联合现场单列。70条平台记录、33个关联发行、48条明确单曲署名，有日期范围2019-11-27至2026-08-17，不代表历史全量。《龙年》只生成一张专辑卡片，Apple地区版本、日期和来源另行保留。
 
 部分网易云详情返回-462，保留采集日志，不绕过限制。来源 `research/huayunlong/`，报告 [HUAYUNLONG-DISCOGRAPHY.md](research/HUAYUNLONG-DISCOGRAPHY.md)。依次运行 collect-huayunlong、harvest-huayunlong、cache-huayunlong-art；离线重建 `npm run catalog:huayunlong`，再运行 `node scripts/build-creators.mjs` 更新发现页索引。
+
+## 万妮达Vinida Weng
+
+网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/VINIDA-DISCOGRAPHY.md。

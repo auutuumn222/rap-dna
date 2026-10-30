@@ -5377,6 +5377,14 @@
       "imageSource": "https://p2.music.126.net/fvKBiGSsbxmgCK0GBog0qA==/109951171380523664.jpg",
       "checkedAt": "2026-10-30",
       "kind": "person"
+    },
+    "n12563131": {
+      "name": "Rapeter",
+      "image": "./assets/rapeter-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12563131",
+      "imageSource": "https://p2.music.126.net/-14yOGYmESuvaPbXGintKg==/109951170489763444.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person"
     }
   }
 }

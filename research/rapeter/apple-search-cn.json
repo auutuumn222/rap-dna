@@ -1,0 +1,32 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Rapeter吴嘉轩",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/rapeter%E5%90%B4%E5%98%89%E8%BD%A9/1823588230?uo=4",
+      "artistId": 1823588230,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "严浩翔",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%B8%A5%E6%B5%A9%E7%BF%94/1489973276?uo=4",
+      "artistId": 1489973276,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SHarK米尔艾力",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/shark/1745083152?uo=4",
+      "artistId": 1745083152,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 export const artistProfiles={
+ wangyitai:{key:'wangyitai',file:'./catalog-wangyitai.json',archive:'021',english:'WANG YITAI',tagline:'FROM FEEL & SIGHT TO LOVE ME LATER.',intro:'从闪火mixtape、Feel & Sight、演.说.家，到与艾热共同创作的幸存者的负罪感、太热爱和 Love Me Later。沿着王以太的作品与署名认识共同创作的音乐人。',gapSummary:'早期下架及视频作品仍待补证；Love Me Later 和太热爱只按本人逐曲署名收录，两个现场记录日期待核。'},
  gali:{key:'gali',file:'./catalog-gali.json',archive:'019',english:'GALI',tagline:'FROM VINTAGE TO STRIPELIFE.',intro:'从 VINTAGE、晚霞 AfterLight，到亚特兰蒂斯与 STRIPELIFE。沿着 GALI 的作品和逐曲署名，认识共同创作的音乐人，也听见声音背后的故事。',gapSummary:'早期、下架与视频作品仍待补证；合作合辑按逐曲参与范围收录，跨平台版本与标题差异分别保留。'},
 
  knowknow:{key:'knowknow',file:'./catalog-knowknow.json',archive:'016',english:'KNOWKNOW',tagline:'ENJOY THE MONEY. FOLLOW THE MELODY.',intro:'从 Mr. Enjoy Da Money、MEDM，到 LONG TIME KNOW SEE、街头贝多芬与叉烧 GANG。沿着 KnowKnow 的作品及署名，认识共同构建声音的音乐人。',gapSummary:'Higher Brothers 按逐曲署名收录；早期、下架及跨平台版本仍待补证，一条异常平台日期保留待核。'},

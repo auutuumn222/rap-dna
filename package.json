@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs tests/psyp.test.mjs tests/knowknow.test.mjs tests/cashtrippy.test.mjs tests/gai.test.mjs tests/gali.test.mjs tests/xiedi.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/pharaoh.test.mjs tests/lianma.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs tests/psyp.test.mjs tests/knowknow.test.mjs tests/cashtrippy.test.mjs tests/gai.test.mjs tests/gali.test.mjs tests/xiedi.test.mjs tests/wangyitai.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
     "test:masiwei": "node tests/masiwei-browser.mjs",
@@ -46,6 +46,8 @@
     "catalog:gali": "node scripts/build-gali.mjs",
     "test:gali": "node tests/gali-browser.mjs",
     "catalog:xiedi": "node scripts/build-xiedi.mjs",
-    "test:xiedi": "node tests/xiedi-browser.mjs"
+    "test:xiedi": "node tests/xiedi-browser.mjs",
+    "catalog:wangyitai": "node scripts/build-wangyitai.mjs",
+    "test:wangyitai": "node tests/wangyitai-browser.mjs"
   }
 }

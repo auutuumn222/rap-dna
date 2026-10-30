@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -322,3 +322,12 @@ Apple逐曲补入45条：MY FRIEND WANNA TRAP 22条、这张专辑太Diao了14�
 MY FRIEND WANNA TRAP只展示一张专辑，网易云0/22与Apple22条合并，保留不同平台日期；信徒网易云15/16、蔡镇鸿网易云7条和Apple8条版本差异均保留。Couple Hunnid四个团体项目单列，不将他人专辑客串字段应用到每首歌。QQ公开姓名搜索未取得可确认的艺人结果，不猜测账号。
 
 来源 `research/xiedi/`，报告 [XIEDI-DISCOGRAPHY.md](research/XIEDI-DISCOGRAPHY.md)。采集依次运行collect-xiedi、harvest-xiedi、cache-xiedi-extras；离线重建 `npm run catalog:xiedi`；目录检查 `npm test`，浏览器 `npm run test:xiedi`。仅保留元数据、署名和图片，不保存歌词或音频；详情限制保留日志。
+
+
+## 王以太 数据范围（2026-10-30 核查）
+
+入口 `?artist=wangyitai`。网易云账号 12236125，Apple Music 1436812638；三页 220 条网易云记录、138 个关联发行容器，191 条取得明确逐曲署名。7 个个人、联合及现场项目。Love Me Later 标注 14 首，当前本人署名 13 条，Apple 第 14 首孟子说Interlude 署名 Mengzi；太热爱网易云标注 5 首、本人分页 4 条，Apple 地区版本 4 首。两条歌曲发行日期待核。Apple 96 项地区发行分别保留，早期及下架作品历史全量未证明。
+
+报告：[WANGYITAI-DISCOGRAPHY.md](research/WANGYITAI-DISCOGRAPHY.md)。数据 `dist/catalog-wangyitai.json`；来源 `research/wangyitai/`。采集 `node scripts/collect-wangyitai.mjs`、`node scripts/harvest-wangyitai.mjs`；离线重建 `npm run catalog:wangyitai`；浏览器检查 `npm run test:wangyitai`。
+
+

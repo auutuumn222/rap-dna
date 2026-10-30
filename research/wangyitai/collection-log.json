@@ -1,0 +1,412 @@
+{
+  "checkedAt": "2026-10-30",
+  "artistId": 12236125,
+  "reportedTracks": 220,
+  "returnedTracks": 220,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 200,
+      "count": 20,
+      "more": false
+    }
+  ],
+  "listedReleases": 45,
+  "associatedReleases": 136,
+  "explicitCredits": 191,
+  "albumDetails": 41,
+  "appleCnReleases": 45,
+  "appleUsReleases": 51,
+  "appleSongRecords": 113,
+  "failures": [
+    {
+      "item": 404764114,
+      "error": "API -462"
+    },
+    {
+      "item": 397224038,
+      "error": "API -462"
+    },
+    {
+      "item": 401336357,
+      "error": "API -462"
+    },
+    {
+      "item": 379750782,
+      "error": "API -462"
+    },
+    {
+      "item": 391975579,
+      "error": "API -462"
+    },
+    {
+      "item": 386145067,
+      "error": "API -462"
+    },
+    {
+      "item": 370981632,
+      "error": "API -462"
+    },
+    {
+      "item": 372057693,
+      "error": "API -462"
+    },
+    {
+      "item": 358276411,
+      "error": "API -462"
+    },
+    {
+      "item": 356213918,
+      "error": "API -462"
+    },
+    {
+      "item": 279303346,
+      "error": "API -462"
+    },
+    {
+      "item": 257171951,
+      "error": "API -462"
+    },
+    {
+      "item": 249290876,
+      "error": "API -462"
+    },
+    {
+      "item": 240032220,
+      "error": "API -462"
+    },
+    {
+      "item": 183603888,
+      "error": "API -462"
+    },
+    {
+      "item": 175573043,
+      "error": "API -462"
+    },
+    {
+      "item": 152925972,
+      "error": "API -462"
+    },
+    {
+      "item": 154980209,
+      "error": "API -462"
+    },
+    {
+      "item": 152905037,
+      "error": "API -462"
+    },
+    {
+      "item": 137683477,
+      "error": "API -462"
+    },
+    {
+      "item": 140792585,
+      "error": "API -462"
+    },
+    {
+      "item": 133202644,
+      "error": "API -462"
+    },
+    {
+      "item": 132874562,
+      "error": "API -462"
+    },
+    {
+      "item": 130970258,
+      "error": "API -462"
+    },
+    {
+      "item": 88667929,
+      "error": "API -462"
+    },
+    {
+      "item": 82239354,
+      "error": "API -462"
+    },
+    {
+      "item": 73468125,
+      "error": "API -462"
+    },
+    {
+      "item": 73480481,
+      "error": "API -462"
+    },
+    {
+      "item": 72795961,
+      "error": "API -462"
+    },
+    {
+      "item": 37965179,
+      "error": "API -462"
+    },
+    {
+      "item": 35435152,
+      "error": "API -462"
+    },
+    {
+      "item": 35072858,
+      "error": "API -462"
+    },
+    {
+      "item": 400302220,
+      "error": "API -462"
+    },
+    {
+      "item": 396638262,
+      "error": "API -462"
+    },
+    {
+      "item": 393938982,
+      "error": "API -462"
+    },
+    {
+      "item": 387360366,
+      "error": "API -462"
+    },
+    {
+      "item": 365373265,
+      "error": "API -462"
+    },
+    {
+      "item": 364407777,
+      "error": "API -462"
+    },
+    {
+      "item": 359380756,
+      "error": "API -462"
+    },
+    {
+      "item": 351117737,
+      "error": "API -462"
+    },
+    {
+      "item": 281159079,
+      "error": "API -462"
+    },
+    {
+      "item": 260357325,
+      "error": "API -462"
+    },
+    {
+      "item": 253196324,
+      "error": "API -462"
+    },
+    {
+      "item": 251292609,
+      "error": "API -462"
+    },
+    {
+      "item": 242626786,
+      "error": "API -462"
+    },
+    {
+      "item": 181439885,
+      "error": "API -462"
+    },
+    {
+      "item": 174330224,
+      "error": "API -462"
+    },
+    {
+      "item": 171692576,
+      "error": "API -462"
+    },
+    {
+      "item": 154132262,
+      "error": "API -462"
+    },
+    {
+      "item": 150943750,
+      "error": "API -462"
+    },
+    {
+      "item": 150434119,
+      "error": "API -462"
+    },
+    {
+      "item": 149613462,
+      "error": "API -462"
+    },
+    {
+      "item": 147091091,
+      "error": "API -462"
+    },
+    {
+      "item": 146078024,
+      "error": "API -462"
+    },
+    {
+      "item": 142046930,
+      "error": "API -462"
+    },
+    {
+      "item": 283680903,
+      "error": "API -462"
+    },
+    {
+      "item": 283679740,
+      "error": "API -462"
+    },
+    {
+      "item": 133150792,
+      "error": "API -462"
+    },
+    {
+      "item": 129639659,
+      "error": "API -462"
+    },
+    {
+      "item": 125905607,
+      "error": "API -462"
+    },
+    {
+      "item": 125450390,
+      "error": "API -462"
+    },
+    {
+      "item": 127622354,
+      "error": "API -462"
+    },
+    {
+      "item": 120838133,
+      "error": "API -462"
+    },
+    {
+      "item": 97583572,
+      "error": "API -462"
+    },
+    {
+      "item": 94403585,
+      "error": "API -462"
+    },
+    {
+      "item": 92962844,
+      "error": "API -462"
+    },
+    {
+      "item": 90768570,
+      "error": "API -462"
+    },
+    {
+      "item": 90408648,
+      "error": "API -462"
+    },
+    {
+      "item": 89791657,
+      "error": "API -462"
+    },
+    {
+      "item": 89173239,
+      "error": "API -462"
+    },
+    {
+      "item": 87700360,
+      "error": "API -462"
+    },
+    {
+      "item": 86495711,
+      "error": "API -462"
+    },
+    {
+      "item": 83999279,
+      "error": "API -462"
+    },
+    {
+      "item": 83004888,
+      "error": "API -462"
+    },
+    {
+      "item": 82638001,
+      "error": "API -462"
+    },
+    {
+      "item": 81855918,
+      "error": "API -462"
+    },
+    {
+      "item": 79891095,
+      "error": "API -462"
+    },
+    {
+      "item": 79978950,
+      "error": "API -462"
+    },
+    {
+      "item": 79696869,
+      "error": "API -462"
+    },
+    {
+      "item": 79294308,
+      "error": "API -462"
+    },
+    {
+      "item": 79193197,
+      "error": "API -462"
+    },
+    {
+      "item": 79696872,
+      "error": "API -462"
+    },
+    {
+      "item": 78483069,
+      "error": "API -462"
+    },
+    {
+      "item": 82983041,
+      "error": "API -462"
+    },
+    {
+      "item": 75797372,
+      "error": "API -462"
+    },
+    {
+      "item": 73471009,
+      "error": "API -462"
+    },
+    {
+      "item": 72794867,
+      "error": "API -462"
+    },
+    {
+      "item": 72603642,
+      "error": "API -462"
+    },
+    {
+      "item": 72302926,
+      "error": "API -462"
+    },
+    {
+      "item": 71852934,
+      "error": "API -462"
+    },
+    {
+      "item": 71852210,
+      "error": "API -462"
+    },
+    {
+      "item": 38473018,
+      "error": "API -462"
+    },
+    {
+      "item": 37554103,
+      "error": "API -462"
+    },
+    {
+      "item": 34861235,
+      "error": "API -462"
+    },
+    {
+      "item": 34791581,
+      "error": "API -462"
+    }
+  ]
+}

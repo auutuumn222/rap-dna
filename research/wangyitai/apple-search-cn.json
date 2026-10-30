@@ -1,0 +1,81 @@
+{
+  "resultCount": 8,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "王以太",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%8E%8B%E4%BB%A5%E5%A4%AA/1436812638?uo=4",
+      "artistId": 1436812638,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Whitney Houston",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/whitney-houston/13952?uo=4",
+      "artistId": 13952,
+      "amgArtistId": 4519,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Snoop Dogg",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/snoop-dogg/21769?uo=4",
+      "artistId": 21769,
+      "amgArtistId": 41625,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Dolly Parton",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dolly-parton/535066?uo=4",
+      "artistId": 535066,
+      "amgArtistId": 1759,
+      "primaryGenreName": "乡村",
+      "primaryGenreId": 6
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Aretha Franklin",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/aretha-franklin/98742?uo=4",
+      "artistId": 98742,
+      "amgArtistId": 4305,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gospel",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gospel/1624547795?uo=4",
+      "artistId": 1624547795,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gospel",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gospel/1807261988?uo=4",
+      "artistId": 1807261988,
+      "primaryGenreName": "朋克",
+      "primaryGenreId": 1006
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "艾热AIR",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%89%BE%E7%83%ADair/1233590583?uo=4",
+      "artistId": 1233590583,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

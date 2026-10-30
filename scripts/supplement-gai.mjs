@@ -1,0 +1,3 @@
+import {writeFile,readFile} from 'node:fs/promises';
+for(let begin=80;;begin+=80){let r=await fetch('https://u.y.qq.com/cgi-bin/musicu.fcg?data='+encodeURIComponent(JSON.stringify({req:{module:'music.musichallAlbum.AlbumListServer',method:'GetAlbumList',param:{singerMid:'004LV0lb4fOw89',begin,num:80,order:1}}})));let d=await r.json();await writeFile(`research/gai/qq-albums-${begin}.json`,JSON.stringify(d,null,2));console.log(begin,d.req.data.albumList.length);if(d.req.data.albumList.length<80)break;}
+const r=await fetch('https://music.apple.com/cn/album/real-g/6769134770');await writeFile('research/gai/apple-real-g.html',await r.text());

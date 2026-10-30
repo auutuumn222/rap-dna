@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a6769134770",
+    "title": "REAL G",
+    "date": "2026-05-15",
+    "trackCount": 16,
+    "artist": "GAI",
+    "source": "https://music.apple.com/cn/album/6769134770",
+    "sourceLabel": "Apple Music（中国区官方网页）",
+    "checkedAt": "2026-10-30",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/e4/11/64e411fc-5085-fd77-a9fb-f69aa797c067/4896016380252.jpg/1200x630bb.jpg"
+  },
+  {
+    "id": "a1823230368",
+    "title": "G-BLOCK Mixtape",
+    "date": "2025-07-08",
+    "trackCount": 14,
+    "artist": "GAI / 盛宇 / 功夫胖 / 刘聪",
+    "source": "https://music.apple.com/cn/album/1823230368",
+    "sourceLabel": "Apple Music（中国区官方网页）",
+    "checkedAt": "2026-10-30",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/8c/aa/7a8caa2f-7bf3-3a3b-d4c0-c728182bc5b4/cover.jpg/1200x630bb.jpg"
+  },
+  {
+    "id": "a1823909242",
+    "title": "底层逻辑",
+    "date": "2024-04-18",
+    "trackCount": 11,
+    "artist": "GAI",
+    "source": "https://music.apple.com/cn/album/1823909242",
+    "sourceLabel": "Apple Music（中国区官方网页）",
+    "checkedAt": "2026-10-30",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/51/9e/ae519e76-f8fc-4a7d-5e35-e0922a53a5e2/cover.jpg/1200x630bb.jpg"
+  },
+  {
+    "id": "a1823972645",
+    "title": "杜康",
+    "date": "2022-05-06",
+    "trackCount": 13,
+    "artist": "GAI",
+    "source": "https://music.apple.com/cn/album/1823972645",
+    "sourceLabel": "Apple Music（中国区官方网页）",
+    "checkedAt": "2026-10-30",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+  },
+  {
+    "id": "a1836838474",
+    "title": "烻",
+    "date": "2021-02-05",
+    "trackCount": 9,
+    "artist": "GAI",
+    "source": "https://music.apple.com/cn/album/1836838474",
+    "sourceLabel": "Apple Music（中国区官方网页）",
+    "checkedAt": "2026-10-30",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/00/dd/7300ddce-d901-43bd-e258-6106de9a0726/cover.jpg/1200x630bb.jpg"
+  },
+  {
+    "id": "a1883006190",
+    "title": "光宗耀祖",
+    "date": "2018-10-10",
+    "trackCount": 9,
+    "artist": "GAI",
+    "source": "https://music.apple.com/cn/album/1883006190",
+    "sourceLabel": "Apple Music（中国区官方网页）",
+    "checkedAt": "2026-10-30",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/29/da/db29dab4-97bb-cebb-e44e-6f91530f0ce4/cover.jpg/1200x630bb.jpg"
+  }
+]

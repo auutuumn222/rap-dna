@@ -1,0 +1,968 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MusicAlbum",
+  "name": "杜康",
+  "description": "在 Apple Music 上收听GAI的《杜康》。2022年。13 首歌曲。时长：35 分钟",
+  "citation": [
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/17/9d/21179dac-63c0-3f9d-4c79-cd2bcd893469/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E5%A5%94%E8%B7%91%E5%AD%A9%E5%AD%90/1823587667",
+      "name": "奔跑孩子"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/0e/3b/060e3bef-e0c9-4347-41f7-45e013015824/198588032244.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E5%B9%B8%E5%AD%98%E8%80%85%E7%9A%84%E8%B4%9F%E7%BD%AA%E6%84%9F/1751785101",
+      "name": "幸存者的负罪感"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/21/37/7921371e-9fd9-f536-14b2-877866a8e823/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E4%B8%80%E5%8D%83%E5%85%AC%E9%87%8C/1788460924",
+      "name": "一千公里"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c6/f4/85/c6f485e5-ef42-76d9-7a39-2a0c2e6d2a9c/4894944131946.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E7%A6%8F%E6%B0%94%E5%BA%99/1690358279",
+      "name": "福气庙"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/93/df/3d/93df3d92-2d43-8952-3746-dd22da7d74d9/25UMGIM42512.rgb.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E5%A4%AA%E9%98%B3%E4%B8%8E%E9%93%81/1808451156",
+      "name": "太阳与铁"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/48/72/a0/4872a0c2-0c7a-8d70-9611-a86f9f96565e/dj.rqhangzt.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E4%BB%A5%E4%B8%8B%E7%AF%84%E4%B8%8A/1295604332",
+      "name": "以下范上"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ee/37/b8/ee37b854-f42d-0811-061f-d0535afe104a/4896004075221.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E5%8F%81%E5%A3%B9/1822512786",
+      "name": "叁壹"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8a/93/7e/8a937e5c-4f1e-c5a4-7e86-8ebabe348f25/192508165951.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/w-o-t-w-t-mixtape-vol-2/1751779881",
+      "name": "W.O.T.W.T MixTape Vol.2"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/80/25/a2/8025a25f-3ad4-c4da-f439-4c72055d689d/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/24%E6%97%B6/1722577056",
+      "name": "24时"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/88/47/52/8847529d-62fe-67f9-44a6-4408b321d72f/193017073362.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E5%82%B3%E5%A5%87/1645836655",
+      "name": "传奇"
+    }
+  ],
+  "tracks": [
+    {
+      "@type": "MusicRecording",
+      "name": "Intro 归巢",
+      "duration": "PT1M14S",
+      "url": "https://music.apple.com/cn/song/intro-%E5%BD%92%E5%B7%A2/1823972647",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/intro-%E5%BD%92%E5%B7%A2/1823972647"
+          }
+        },
+        "name": "Intro 归巢",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/15/6f/0c156f5f-1dde-d379-15bd-2e2002b2e50d/mzaf_9935001676989233432.plus.aac.p.m4a",
+        "duration": "PT1M14S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "威远故事",
+      "duration": "PT4M29S",
+      "url": "https://music.apple.com/cn/song/%E5%A8%81%E8%BF%9C%E6%95%85%E4%BA%8B/1823972652",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E5%A8%81%E8%BF%9C%E6%95%85%E4%BA%8B/1823972652"
+          }
+        },
+        "name": "威远故事",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/a3/57/6ba3571e-40b9-c600-55bb-7edfc6969bb4/mzaf_827252008049510980.plus.aac.p.m4a",
+        "duration": "PT4M29S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Richard Mille Life",
+      "duration": "PT2M3S",
+      "url": "https://music.apple.com/cn/song/richard-mille-life/1823972661",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/richard-mille-life/1823972661"
+          }
+        },
+        "name": "Richard Mille Life",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/d6/1a/9ad61aa0-e1e4-e0c2-afcb-1ae9067f1d6b/mzaf_47882544807344670.plus.aac.p.m4a",
+        "duration": "PT2M3S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "江湖中人",
+      "duration": "PT3M2S",
+      "url": "https://music.apple.com/cn/song/%E6%B1%9F%E6%B9%96%E4%B8%AD%E4%BA%BA/1823972662",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E6%B1%9F%E6%B9%96%E4%B8%AD%E4%BA%BA/1823972662"
+          }
+        },
+        "name": "江湖中人",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/dd/7a/63dd7a56-68ab-fa51-8d4f-55cba83afbe4/mzaf_12290075770027264706.plus.aac.p.m4a",
+        "duration": "PT3M2S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Skit 踏云",
+      "duration": "PT1M6S",
+      "url": "https://music.apple.com/cn/song/skit-%E8%B8%8F%E4%BA%91/1823972975",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/skit-%E8%B8%8F%E4%BA%91/1823972975"
+          }
+        },
+        "name": "Skit 踏云",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/81/99/35819973-8912-fc67-746d-9f8baca9dcbf/mzaf_531415727417631321.plus.aac.p.m4a",
+        "duration": "PT1M6S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "山岚",
+      "duration": "PT3M14S",
+      "url": "https://music.apple.com/cn/song/%E5%B1%B1%E5%B2%9A/1823972976",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E5%B1%B1%E5%B2%9A/1823972976"
+          }
+        },
+        "name": "山岚",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/f1/9d/1cf19d3d-992b-8667-42a4-7db1578e9974/mzaf_4431160802869134980.plus.aac.p.m4a",
+        "duration": "PT3M14S",
+        "uploadDate": "2021-09-24",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "没败",
+      "duration": "PT2M11S",
+      "url": "https://music.apple.com/cn/song/%E6%B2%A1%E8%B4%A5/1823972977",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E6%B2%A1%E8%B4%A5/1823972977"
+          }
+        },
+        "name": "没败",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/d6/0f/d1d60fbf-4910-1c50-1e95-de0340f12b16/mzaf_976479291944737226.plus.aac.p.m4a",
+        "duration": "PT2M11S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "杜康",
+      "duration": "PT3M32S",
+      "url": "https://music.apple.com/cn/song/%E6%9D%9C%E5%BA%B7/1823972984",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E6%9D%9C%E5%BA%B7/1823972984"
+          }
+        },
+        "name": "杜康",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/5e/50/aa5e50b3-8d31-f469-01c9-6633cf6b959c/mzaf_8219879520936439215.plus.aac.p.m4a",
+        "duration": "PT3M32S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "传奇",
+      "duration": "PT2M40S",
+      "url": "https://music.apple.com/cn/song/%E4%BC%A0%E5%A5%87/1823972993",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E4%BC%A0%E5%A5%87/1823972993"
+          }
+        },
+        "name": "传奇",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/81/a7/d081a719-726a-bb00-aed7-43b669bae2dc/mzaf_4503410531666081029.plus.aac.p.m4a",
+        "duration": "PT2M40S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Not Friendly",
+      "duration": "PT3M18S",
+      "url": "https://music.apple.com/cn/song/not-friendly/1823972997",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/not-friendly/1823972997"
+          }
+        },
+        "name": "Not Friendly",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/e7/11/99e7114f-6fe5-7d64-a681-195d4508e4f4/mzaf_5929675057158772672.plus.aac.p.m4a",
+        "duration": "PT3M18S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "蓝色极光",
+      "duration": "PT3M9S",
+      "url": "https://music.apple.com/cn/song/%E8%93%9D%E8%89%B2%E6%9E%81%E5%85%89/1823973001",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E8%93%9D%E8%89%B2%E6%9E%81%E5%85%89/1823973001"
+          }
+        },
+        "name": "蓝色极光",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/f7/5c/5ff75cc9-233f-d61b-f0e8-ddb7061ca0bd/mzaf_15993534821825759102.plus.aac.p.m4a",
+        "duration": "PT3M9S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "亢龙有悔",
+      "duration": "PT4M39S",
+      "url": "https://music.apple.com/cn/song/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/1823973335",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/1823973335"
+          }
+        },
+        "name": "亢龙有悔",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/06/69/e006699d-33d5-3072-374c-adf02804b2b3/mzaf_2023409433495620599.plus.aac.p.m4a",
+        "duration": "PT4M39S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Outro 如龙",
+      "duration": "PT53S",
+      "url": "https://music.apple.com/cn/song/outro-%E5%A6%82%E9%BE%99/1823973353",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/outro-%E5%A6%82%E9%BE%99/1823973353"
+          }
+        },
+        "name": "Outro 如龙",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/24/69/16246947-fb09-038f-bfb2-efbe0bb8fd74/mzaf_15075867347872680720.plus.aac.p.m4a",
+        "duration": "PT53S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    }
+  ],
+  "workExample": [
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ff/99/8e/ff998e0a-ed1d-e41b-8c7f-502d737bff2f/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E8%99%8E%E5%B1%B1%E8%A1%8C-single/1885793381",
+      "name": "虎山行 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/a2/21/6ba2216f-c633-74c5-3bcf-214713e86946/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E6%95%85%E6%B9%98-%E9%A3%8E-single/1833520790",
+      "name": "故湘,风 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/44/89/9a44895b-1745-5a3f-9b75-d67eda547875/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E9%95%BF%E6%B2%B3-single/1548539760",
+      "name": "长河 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/05/3f/61053f74-e01f-3ebd-8df7-9b7d34789925/8718857321279.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E6%B1%9F%E6%B9%96%E6%B5%81-feat-gai-single/1282948258",
+      "name": "江湖流 (feat. Gai) - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/81/1e/3e811ef3-d7f7-e669-c916-478167eafd3c/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E7%81%AB%E9%94%85%E5%BA%95%E6%96%99-single/1885793240",
+      "name": "火锅底料 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/8c/aa/7a8caa2f-7bf3-3a3b-d4c0-c728182bc5b4/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/g-block-mixtape/1823230368",
+      "name": "G-BLOCK Mixtape"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/ac/fa/e7acfa15-9906-7885-3d55-a91189022d31/4896016986386.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E7%8E%89%E5%85%B0-single/1877060522",
+      "name": "玉兰 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/e4/11/64e411fc-5085-fd77-a9fb-f69aa797c067/4896016380252.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/real-g/6769134770",
+      "name": "REAL G"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e3/03/41/e303415f-a12a-028c-7418-5c859cc16eee/190295050689.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/lets-go-feat-%E5%91%A8%E5%BB%B6-single/1543384878",
+      "name": "Let's Go (feat. 周延) - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/c7/41/92c741ae-de43-e577-0133-a60fb4c834be/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E9%87%8D%E5%BA%86%E5%BE%97%E8%A1%8C-single/1823976571",
+      "name": "重庆得行 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/2c/1a/c7/2c1ac7e6-ed77-a7af-ab60-f85ebf42b84e/Untitled.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E6%B0%B8%E4%B8%8D%E7%8D%A8%E8%A1%8C-single/1448469947",
+      "name": "永不独行 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/1a/44/f01a4484-42be-17f6-e51e-4ea8a71774c5/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E4%BD%A0%E7%8C%9C%E6%88%91%E7%8C%9C%E4%B8%8D%E7%8C%9C-single/1883065539",
+      "name": "你猜我猜不猜 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/51/9e/ae519e76-f8fc-4a7d-5e35-e0922a53a5e2/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91/1823909242",
+      "name": "底层逻辑"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/e6/91/ebe69157-8d55-c8b9-328f-c460e69fe802/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E6%9C%9D%E5%A4%A9%E9%97%A8-single/1839468343",
+      "name": "朝天门 - Single"
+    },
+    {
+      "@type": "MusicAlbum",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d3/cc/8c/d3cc8c69-5ba3-52bd-c11f-2371e7a698ae/cover.jpg/1200x630bb.jpg",
+      "url": "https://music.apple.com/cn/album/%E9%87%8D%E5%BA%86%E5%BF%A0%E5%8B%87-single/1875236845",
+      "name": "重庆忠勇 - Single"
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Intro 归巢",
+      "duration": "PT1M14S",
+      "url": "https://music.apple.com/cn/song/intro-%E5%BD%92%E5%B7%A2/1823972647",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/intro-%E5%BD%92%E5%B7%A2/1823972647"
+          }
+        },
+        "name": "Intro 归巢",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0c/15/6f/0c156f5f-1dde-d379-15bd-2e2002b2e50d/mzaf_9935001676989233432.plus.aac.p.m4a",
+        "duration": "PT1M14S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "威远故事",
+      "duration": "PT4M29S",
+      "url": "https://music.apple.com/cn/song/%E5%A8%81%E8%BF%9C%E6%95%85%E4%BA%8B/1823972652",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E5%A8%81%E8%BF%9C%E6%95%85%E4%BA%8B/1823972652"
+          }
+        },
+        "name": "威远故事",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6b/a3/57/6ba3571e-40b9-c600-55bb-7edfc6969bb4/mzaf_827252008049510980.plus.aac.p.m4a",
+        "duration": "PT4M29S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Richard Mille Life",
+      "duration": "PT2M3S",
+      "url": "https://music.apple.com/cn/song/richard-mille-life/1823972661",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/richard-mille-life/1823972661"
+          }
+        },
+        "name": "Richard Mille Life",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/d6/1a/9ad61aa0-e1e4-e0c2-afcb-1ae9067f1d6b/mzaf_47882544807344670.plus.aac.p.m4a",
+        "duration": "PT2M3S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "江湖中人",
+      "duration": "PT3M2S",
+      "url": "https://music.apple.com/cn/song/%E6%B1%9F%E6%B9%96%E4%B8%AD%E4%BA%BA/1823972662",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E6%B1%9F%E6%B9%96%E4%B8%AD%E4%BA%BA/1823972662"
+          }
+        },
+        "name": "江湖中人",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/63/dd/7a/63dd7a56-68ab-fa51-8d4f-55cba83afbe4/mzaf_12290075770027264706.plus.aac.p.m4a",
+        "duration": "PT3M2S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Skit 踏云",
+      "duration": "PT1M6S",
+      "url": "https://music.apple.com/cn/song/skit-%E8%B8%8F%E4%BA%91/1823972975",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/skit-%E8%B8%8F%E4%BA%91/1823972975"
+          }
+        },
+        "name": "Skit 踏云",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/81/99/35819973-8912-fc67-746d-9f8baca9dcbf/mzaf_531415727417631321.plus.aac.p.m4a",
+        "duration": "PT1M6S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "山岚",
+      "duration": "PT3M14S",
+      "url": "https://music.apple.com/cn/song/%E5%B1%B1%E5%B2%9A/1823972976",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E5%B1%B1%E5%B2%9A/1823972976"
+          }
+        },
+        "name": "山岚",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1c/f1/9d/1cf19d3d-992b-8667-42a4-7db1578e9974/mzaf_4431160802869134980.plus.aac.p.m4a",
+        "duration": "PT3M14S",
+        "uploadDate": "2021-09-24",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "没败",
+      "duration": "PT2M11S",
+      "url": "https://music.apple.com/cn/song/%E6%B2%A1%E8%B4%A5/1823972977",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E6%B2%A1%E8%B4%A5/1823972977"
+          }
+        },
+        "name": "没败",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d1/d6/0f/d1d60fbf-4910-1c50-1e95-de0340f12b16/mzaf_976479291944737226.plus.aac.p.m4a",
+        "duration": "PT2M11S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "杜康",
+      "duration": "PT3M32S",
+      "url": "https://music.apple.com/cn/song/%E6%9D%9C%E5%BA%B7/1823972984",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E6%9D%9C%E5%BA%B7/1823972984"
+          }
+        },
+        "name": "杜康",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/aa/5e/50/aa5e50b3-8d31-f469-01c9-6633cf6b959c/mzaf_8219879520936439215.plus.aac.p.m4a",
+        "duration": "PT3M32S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "传奇",
+      "duration": "PT2M40S",
+      "url": "https://music.apple.com/cn/song/%E4%BC%A0%E5%A5%87/1823972993",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E4%BC%A0%E5%A5%87/1823972993"
+          }
+        },
+        "name": "传奇",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/81/a7/d081a719-726a-bb00-aed7-43b669bae2dc/mzaf_4503410531666081029.plus.aac.p.m4a",
+        "duration": "PT2M40S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Not Friendly",
+      "duration": "PT3M18S",
+      "url": "https://music.apple.com/cn/song/not-friendly/1823972997",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/not-friendly/1823972997"
+          }
+        },
+        "name": "Not Friendly",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/e7/11/99e7114f-6fe5-7d64-a681-195d4508e4f4/mzaf_5929675057158772672.plus.aac.p.m4a",
+        "duration": "PT3M18S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "蓝色极光",
+      "duration": "PT3M9S",
+      "url": "https://music.apple.com/cn/song/%E8%93%9D%E8%89%B2%E6%9E%81%E5%85%89/1823973001",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E8%93%9D%E8%89%B2%E6%9E%81%E5%85%89/1823973001"
+          }
+        },
+        "name": "蓝色极光",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5f/f7/5c/5ff75cc9-233f-d61b-f0e8-ddb7061ca0bd/mzaf_15993534821825759102.plus.aac.p.m4a",
+        "duration": "PT3M9S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "亢龙有悔",
+      "duration": "PT4M39S",
+      "url": "https://music.apple.com/cn/song/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/1823973335",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/%E4%BA%A2%E9%BE%99%E6%9C%89%E6%82%94/1823973335"
+          }
+        },
+        "name": "亢龙有悔",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e0/06/69/e006699d-33d5-3072-374c-adf02804b2b3/mzaf_2023409433495620599.plus.aac.p.m4a",
+        "duration": "PT4M39S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    },
+    {
+      "@type": "MusicRecording",
+      "name": "Outro 如龙",
+      "duration": "PT53S",
+      "url": "https://music.apple.com/cn/song/outro-%E5%A6%82%E9%BE%99/1823973353",
+      "offers": {
+        "@type": "Offer",
+        "category": "free",
+        "price": 0
+      },
+      "audio": {
+        "@type": "AudioObject",
+        "potentialAction": {
+          "@type": "ListenAction",
+          "expectsAcceptanceOf": {
+            "@type": "Offer",
+            "category": "free"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "actionPlatform": "https://music.apple.com/cn/song/outro-%E5%A6%82%E9%BE%99/1823973353"
+          }
+        },
+        "name": "Outro 如龙",
+        "contentUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/24/69/16246947-fb09-038f-bfb2-efbe0bb8fd74/mzaf_15075867347872680720.plus.aac.p.m4a",
+        "duration": "PT53S",
+        "uploadDate": "2022-05-06",
+        "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg"
+      }
+    }
+  ],
+  "url": "https://music.apple.com/cn/album/%E6%9D%9C%E5%BA%B7/1823972645",
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/0d/a8/0a0da847-bba0-7a23-aa1f-5da985b81cef/cover.jpg/1200x630bb.jpg",
+  "potentialAction": {
+    "@type": "ListenAction",
+    "expectsAcceptanceOf": {
+      "@type": "Offer",
+      "category": "free"
+    },
+    "target": {
+      "@type": "EntryPoint",
+      "actionPlatform": "https://music.apple.com/cn/album/%E6%9D%9C%E5%BA%B7/1823972645"
+    }
+  },
+  "genre": [
+    "中文嘻哈",
+    "音乐",
+    "嘻哈/说唱"
+  ],
+  "datePublished": "2022-05-06",
+  "byArtist": [
+    {
+      "@type": "MusicGroup",
+      "url": "https://music.apple.com/cn/artist/gai/1522410451",
+      "name": "GAI"
+    }
+  ]
+}

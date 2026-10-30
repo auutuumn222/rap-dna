@@ -1,0 +1,5 @@
+import {readFile,writeFile} from 'node:fs/promises';
+async function qq(name,module,method,param){const r=await fetch('https://u.y.qq.com/cgi-bin/musicu.fcg?data='+encodeURIComponent(JSON.stringify({req:{module,method,param}})),{headers:{Referer:'https://y.qq.com/'},signal:AbortSignal.timeout(25000)});const d=await r.json();if(d.code||d.req.code)throw Error(JSON.stringify(d));await writeFile(`research/gai/${name}.json`,JSON.stringify(d,null,2));return d.req.data;}
+for(let begin=0;;begin+=100){const d=await qq('qq-songs-'+begin,'musichall.song_list_server','GetSingerSongList',{singerMid:'004LV0lb4fOw89',begin,num:100,order:1});console.log('qqsongs',begin,d.songList.length,d.totalNum);if(begin+d.songList.length>=d.totalNum||!d.songList.length)break;}
+for(let begin=0;;begin+=100){const d=await qq('qq-albums-'+begin,'music.musichallAlbum.AlbumListServer','GetAlbumList',{singerMid:'004LV0lb4fOw89',begin,num:100,order:1});console.log('qqalbums',begin,d.albumList.length,d.totalNum);if(d.albumList.length<100)break;}
+const r=await fetch('https://music.apple.com/cn/artist/gai/1522410451');await writeFile('research/gai/apple-artist.html',await r.text());

@@ -1,4 +1,5 @@
 export const artistProfiles={
+ gali:{key:'gali',file:'./catalog-gali.json',archive:'019',english:'GALI',tagline:'FROM VINTAGE TO STRIPELIFE.',intro:'从 VINTAGE、晚霞 AfterLight，到亚特兰蒂斯与 STRIPELIFE。沿着 GALI 的作品和逐曲署名，认识共同创作的音乐人，也听见声音背后的故事。',gapSummary:'早期、下架与视频作品仍待补证；合作合辑按逐曲参与范围收录，跨平台版本与标题差异分别保留。'},
  knowknow:{key:'knowknow',file:'./catalog-knowknow.json',archive:'016',english:'KNOWKNOW',tagline:'ENJOY THE MONEY. FOLLOW THE MELODY.',intro:'从 Mr. Enjoy Da Money、MEDM，到 LONG TIME KNOW SEE、街头贝多芬与叉烧 GANG。沿着 KnowKnow 的作品及署名，认识共同构建声音的音乐人。',gapSummary:'Higher Brothers 按逐曲署名收录；早期、下架及跨平台版本仍待补证，一条异常平台日期保留待核。'},
  psyp:{key:'psyp',file:'./catalog-psyp.json',archive:'015',english:'PSY.P',tagline:'FROM PSYLIFE TO ELITE.',intro:'从 PSYLIFE.25、Chengdu Hot 到 ULTRA·超、光明离不开黑暗与伊力特。沿着 PSY.P 的作品及逐曲署名，认识共同构建声音的音乐人。',gapSummary:'早期 M.V.P 曲单及下架作品仍待补证；Higher Brothers 按逐曲署名收录，平台版本和曲数差异分别保留。'},
 

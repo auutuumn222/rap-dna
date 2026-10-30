@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -303,3 +303,12 @@ QQ记录只提供官方页面入口，不猜网易云ID。QQ搜索报告449首�
 采集：collect-gai.mjs、harvest-gai.mjs、collect-gai-platforms.mjs、supplement-gai.mjs、cache-gai-platforms.mjs。离线重建 `npm run catalog:gai`；目录测试 `npm test`，浏览器 `npm run test:gai`。
 
 GAI专辑展示已去除跨平台重复：同名网易云/QQ发行合为一张卡片；原始日期、曲单和链接保留在sourceEditions。年表按最早取得的平台日期排序，详情默认参考曲单，其余平台曲单单独展开，旧QQ专辑深链接继续有效。歌曲仍保留829条平台记录。
+
+
+## GALI 数据范围（2026-10-30 核查）
+
+入口 `?artist=gali`。网易云账号 12127362，Apple Music 1378752191。三页完整返回 217 条；补充魔法士、Crystal、God, Man and Ghost: Pathetic 三条明确署名的 Apple 记录，共 220 条、167 个关联发行容器，201 条有明确逐曲署名。
+
+VINTAGE、晚霞AfterLight、亚特兰蒂斯、STRIPELIFE 四个个人项目分别收录 7 / 6 / 16 / 12 条。BEDROOM TAPE 共 5 首取本人署名 1 首，D.N.A 共 13 首取 3 首。日期范围 2016-11-01 至 2026-10-28；历史全量未证明。Apple 共 72 项地区发行分别保留，Know You Better 与一知半解时长和艺人对应，暂作版本对照，不重复补入。部分详情接口受限，日志保留。
+
+报告：[GALI-DISCOGRAPHY.md](research/GALI-DISCOGRAPHY.md)。数据 `dist/catalog-gali.json`，来源 `research/gali/`。采集 `node scripts/collect-gali.mjs`、`node scripts/harvest-gali.mjs`；离线重建 `npm run catalog:gali`；浏览器验证 `npm run test:gali`。

@@ -1,0 +1,98 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "GALI",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali/1378752191?uo=4",
+      "artistId": 1378752191,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Sven Gali",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sven-gali/266272945?uo=4",
+      "artistId": 266272945,
+      "amgArtistId": 182918,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gali Givon",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali-givon/1613357419?uo=4",
+      "artistId": 1613357419,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "גלי עטרי",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%D7%92%D7%9C%D7%99-%D7%A2%D7%98%D7%A8%D7%99/451953398?uo=4",
+      "artistId": 451953398,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jain",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jain/334329603?uo=4",
+      "artistId": 334329603,
+      "amgArtistId": 2025128,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gali",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali/1808277555?uo=4",
+      "artistId": 1808277555,
+      "primaryGenreName": "House 作品",
+      "primaryGenreId": 1048
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gali",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali/1450823001?uo=4",
+      "artistId": 1450823001,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gali",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali/285758669?uo=4",
+      "artistId": 285758669,
+      "amgArtistId": 2209420,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gali",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali/1514408823?uo=4",
+      "artistId": 1514408823,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "GALI",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gali/1774748257?uo=4",
+      "artistId": 1774748257,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

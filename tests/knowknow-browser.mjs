@@ -1,3 +1,4 @@
+import {switchArtist} from './navigation-helpers.mjs';
 import assert from 'node:assert/strict';
 import {mkdir} from 'node:fs/promises';
 import {createRequire} from 'node:module';
@@ -25,7 +26,7 @@ try{
  await page.locator('#open-external').click();assert.equal(await page.locator('.external-release').count(),84);await page.locator('.dialog-close').click();
  const download=page.waitForEvent('download');await page.locator('.catalog-download').click();assert.match((await download).suggestedFilename(),/KNOWKNOW-catalog/);
  await page.locator('#track-search').fill('R&B All Night');await page.locator('#track-rows [data-listen]').first().click();assert.equal(await page.locator('#listen-frame iframe').count(),1);assert.match(await page.locator('#listen-frame iframe').getAttribute('src'),/auto=1/);await page.locator('#listen-close').click();
- for(const [artist,name] of [['asen','Asen'],['masiwei','马思唯'],['knowknow','KnowKnow']]){await page.locator('#artist-select').selectOption(artist);await page.locator('.hero h1').filter({hasText:name}).waitFor();}
+ for(const [artist,name] of [['asen','Asen'],['masiwei','马思唯'],['knowknow','KnowKnow']]){await switchArtist(page,artist);await page.locator('.hero h1').filter({hasText:name}).waitFor();}
  for(const width of [390,320]){await page.setViewportSize({width,height:844});await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();for(const id of ['top','journey','archive','network','sources']){await page.locator('#'+id).scrollIntoViewIfNeeded();assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${width}: ${id}`);}await page.locator('#top').scrollIntoViewIfNeeded();const bounds=await page.locator('.artist-headline').boundingBox();assert.ok(bounds.x>=0&&bounds.x+bounds.width<=width,'artist heading fits');await page.screenshot({path:`qa/knowknow/mobile-${width}.png`});}
  assert.deepEqual(await page.locator('img').evaluateAll(xs=>xs.filter(x=>x.complete&&x.naturalWidth===0).map(x=>x.src)),[]);assert.deepEqual(errors,[]);
  console.log('KnowKnow browser checks passed: catalog, relationships, deep links, export, player, switching and 390/320px layouts.');

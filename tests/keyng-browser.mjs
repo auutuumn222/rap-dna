@@ -1,3 +1,4 @@
+import {switchArtist} from './navigation-helpers.mjs';
 import assert from 'node:assert/strict';
 import {mkdir,readFile} from 'node:fs/promises';
 import {createRequire} from 'node:module';
@@ -32,9 +33,9 @@ try{
  await page.locator('#open-research').click();assert.match(await page.locator('#dialog-content').innerText(),/活死人/);assert.match(await page.locator('#dialog-content').innerText(),/历史全量尚未证明/);await page.locator('.dialog-close').click();
  const download=page.waitForEvent('download');await page.locator('.catalog-download').click();assert.match((await download).suggestedFilename(),/KEYNG-catalog-2026-10-29/);
  const song=catalog.tracks.find(t=>t.title==='冬眠');await page.goto(url+'&entry=shared#track/'+song.id,{waitUntil:'domcontentloaded'});await page.locator('#dialog-heading').waitFor();assert.match(await page.locator('#dialog-heading').innerText(),/冬眠/);assert.equal(new URL(page.url()).searchParams.get('artist'),'keyng');await page.locator('.dialog-close').click();
- await page.locator('#artist-select').selectOption('asen');await page.locator('.hero h1').filter({hasText:'Asen'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/168/);
- await page.locator('#artist-select').selectOption('masiwei');await page.locator('.hero h1').filter({hasText:'马思唯'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/322/);
- await page.locator('#artist-select').selectOption('keyng');await page.locator('.hero h1').filter({hasText:'杨和苏'}).waitFor();
+ await switchArtist(page,'asen');await page.locator('.hero h1').filter({hasText:'Asen'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/168/);
+ await switchArtist(page,'masiwei');await page.locator('.hero h1').filter({hasText:'马思唯'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/322/);
+ await switchArtist(page,'keyng');await page.locator('.hero h1').filter({hasText:'杨和苏'}).waitFor();
  await page.setViewportSize({width:390,height:844});await page.goto(url,{waitUntil:'networkidle'});await page.screenshot({path:'qa/keyng/mobile.png',fullPage:true});
  for(const id of ['journey','archive','network','sources']){await page.locator('#'+id).scrollIntoViewIfNeeded();assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),id);}
  await page.setViewportSize({width:320,height:740});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));

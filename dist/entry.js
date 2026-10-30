@@ -1,8 +1,8 @@
+import {mountMainNavigation} from './navigation.js';
 const params=new URLSearchParams(location.search);
+if(location.hash==='#rapper-archives'&&!params.has('artist')&&!params.has('creator')&&!params.has('view')){params.set('view','rappers');history.replaceState(null,'','./?view=rappers');}
 const legacy=params.has('artist')||(!params.has('creator')&&!params.has('view')&&/^#(?:track\/|album\/|journey$|archive$|network$|sources$)/.test(location.hash));
-document.querySelectorAll('.brand').forEach(a=>a.href='./');
+mountMainNavigation(legacy?'rappers':params.get('view')==='common'?'common':params.get('view')==='rappers'?'rappers':'discover');
 if(legacy){
- const nav=document.querySelector('.site-header nav');
- const a=document.createElement('a');a.href='./?view=creators';a.textContent='幕后发现';a.className='backstage-nav';nav.prepend(a);
  await import('./asen.js');
 }else await import('./discovery.js');

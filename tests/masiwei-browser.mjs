@@ -1,3 +1,4 @@
+import {switchArtist} from './navigation-helpers.mjs';
 import assert from 'node:assert/strict';
 import {createRequire} from 'node:module';
 import {server} from '../server.mjs';
@@ -32,8 +33,8 @@ try{
  await page.locator('#track-search').fill('Lion');await page.locator('#track-rows .song-button').first().click();assert.equal(await page.locator('dialog [data-listen]').count(),0);assert.match(await page.locator('.track-listen-action a').getAttribute('href'),/music.apple.com/);await page.locator('.dialog-close').click();
  await page.locator('#track-search').fill('维他命D');const loaded=page.waitForResponse(r=>r.url().startsWith('https://music.163.com/outchain/player?'));await page.locator('#track-rows [data-listen]').first().click();await loaded;
  assert.equal(await page.locator('#listen-body').isVisible(),false);assert.match(await page.locator('#listen-frame iframe').getAttribute('src'),/auto=1/);await page.locator('#listen-toggle').click();assert.equal(await page.locator('#listen-body').isVisible(),true);await page.locator('#listen-close').click();
- await page.locator('#artist-select').selectOption('asen');await page.locator('.hero h1').filter({hasText:'Asen'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/168/);assert.equal(await page.locator('.album-card').count(),7);
- await page.locator('#artist-select').selectOption('masiwei');await page.locator('.hero h1').filter({hasText:'马思唯'}).waitFor();
+ await switchArtist(page,'asen');await page.locator('.hero h1').filter({hasText:'Asen'}).waitFor();assert.match(await page.locator('#track-count').innerText(),/168/);assert.equal(await page.locator('.album-card').count(),7);
+ await switchArtist(page,'masiwei');await page.locator('.hero h1').filter({hasText:'马思唯'}).waitFor();
  await page.setViewportSize({width:390,height:844});await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();await page.screenshot({path:'qa/asen/masiwei-mobile.png'});
  for(const id of ['journey','archive','network','sources']){await page.locator('#'+id).scrollIntoViewIfNeeded();assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),id+' should fit mobile');}
  await page.setViewportSize({width:320,height:740});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));

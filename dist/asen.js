@@ -1,4 +1,5 @@
 import {filterTracks,connections,coreRoles} from './model.js';
+import {mountArchiveGuide,creatorDestination} from './navigation.js';
 import {artistProfiles} from './artists.js';
 import {galleryOrder,gallerySlots} from './gallery.js';
 import {createPortraits} from './portraits.js';
@@ -46,6 +47,8 @@ function buildPage(){
  $$('[data-mode]').forEach(b=>b.onclick=()=>{state.graph.mode=b.dataset.mode;state.graph.selected=null;$$('[data-mode]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',x===b);});renderNetwork();});
  $('#network-year').onchange=e=>{state.graph.year=e.target.value;state.graph.selected=null;renderNetwork();};$('#network-album').onchange=e=>{state.graph.albumId=e.target.value;state.graph.selected=null;renderNetwork();};$('#connection-search').oninput=e=>{state.graph.query=e.target.value;state.graph.selected=null;renderNetwork();};
  $('#open-external').onclick=openExternal;$('#open-research').onclick=openResearch;
+ if(new URLSearchParams(location.search).get('mode')==='credits')$('[data-mode="credits"]').click();
+ mountArchiveGuide({key:profile.key,name:catalog.artist.short,onBackstage:()=>{state.graph.mode='credits';state.graph.selected=null;$$('[data-mode]').forEach(b=>{const active=b.dataset.mode==='credits';b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});renderNetwork();history.replaceState(null,'',location.pathname+location.search+'#network');$('#network').scrollIntoView({behavior:'smooth'});}});
  observeSections();
  if(/^#(track|album)\//.test(location.hash)){const [type,id]=location.hash.slice(1).split('/');type==='track'?openTrack(decodeURIComponent(id)):openAlbum(decodeURIComponent(id));}
 }
@@ -108,7 +111,7 @@ function openTrack(id){
 function openPerson(id,asCreator=false){
  const p=personMap.get(id);if(!p)return;
  const hasCreatorProfile=catalog.tracks.some(t=>t.credits.some(c=>c.personId===id&&coreRoles.includes(c.role)&&c.level==='track'&&c.raw&&c.source));
- if(asCreator&&hasCreatorProfile){location.assign('./?'+new URLSearchParams({creator:id}));return;}
+ if(asCreator&&hasCreatorProfile){location.assign(creatorDestination(id,{artist:profile.key,section:location.hash.startsWith('#track/')?'archive':'network'}));return;}
  const related=catalog.tracks.filter(t=>t.artistIds.includes(id)||t.credits.some(c=>c.personId===id));
  const roles=[...new Set(related.flatMap(t=>[...(t.artistIds.includes(id)?['共同署名']:[]),...t.credits.filter(c=>c.personId===id).map(c=>c.role)]))];
  openDialog(`<div class="detail-copy"><div class="section-eyebrow">${esc(profile.english)} × THE PEOPLE BEHIND</div><h2 id="dialog-heading">${esc(p.name)}</h2><p>仅展示与 ${esc(catalog.artist.short)} 关联的作品，未扩展此音乐人的独立曲库。</p></div><div class="detail-facts"><span class="detail-pill">${related.length} 条相关记录</span>${roles.map(r=>`<span class="detail-pill">${esc(r)}</span>`).join('')}</div><div class="detail-label">作品连接与具体角色</div>${related.map(t=>{const roles=t.credits.filter(c=>c.personId===id).map(c=>c.role);if(t.artistIds.includes(id))roles.unshift('共同署名');return `<div class="detail-track-row"><button data-track="${t.id}"><span class="song-info"><b>${esc(t.title)}</b><small>${t.date||'日期待核'} · ${esc([...new Set(roles)].join(' / '))}</small></span></button><button class="text-link" data-track="${t.id}">查看依据 ${icon('right')}</button></div>`;}).join('')}<div class="evidence-box"><strong>关系来自作品，不来自猜测</strong>同一首歌曲出现多个角色，关系计数只计一条；单曲版与专辑版保留不同平台 ID。尚未核验的别名不自动合并。${p.source?`<div class="source-links">${sourceLink(p.source,'平台艺人页')}</div>`:''}</div>`);
@@ -119,7 +122,7 @@ function openResearch(){openDialog(`<div class="detail-copy"><div class="section
 async function copyText(text){try{await navigator.clipboard.writeText(text);toast('档案链接已复制');}catch{openDialog(`<div class="detail-copy"><h2 id="dialog-heading">复制档案链接</h2><p>浏览器未开放剪贴板，可手动复制。</p></div><textarea class="share-input" readonly>${esc(text)}</textarea>`);$('textarea',dialog).select();}}
 function observeSections(){
  revealObserver=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){e.target.classList.add('in-view');revealObserver.unobserve(e.target);}},{threshold:.05});$$('.reveal').forEach(el=>revealObserver.observe(el));
- const navObserver=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){$$('.site-header nav a').forEach(a=>a.classList.toggle('active',a.hash==='#'+e.target.id));}},{rootMargin:'-15% 0px -65% 0px'});$$('section[id]').forEach(el=>navObserver.observe(el));
+ const navObserver=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){$$('.archive-section-nav a').forEach(a=>{const active=a.hash==='#'+e.target.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');});}},{rootMargin:'-15% 0px -65% 0px'});$$('section[id]').forEach(el=>navObserver.observe(el));
  addEventListener('scroll',()=>{const length=document.documentElement.scrollHeight-innerHeight;$('.reading-progress').style.width=`${length>0?scrollY/length*100:0}%`;},{passive:true});
 }
 async function boot(){try{const [res,portraitData]=await Promise.all([fetch(profile.file),fetch('./people-portraits.json').then(r=>r.ok?r.json():{}).catch(()=>({}))]);portraits=createPortraits(portraitData.people);if(!res.ok)throw Error('HTTP '+res.status);catalog=await res.json();document.body.dataset.artist=profile.key;galleryIds=galleryOrder(catalog.albums,profile.galleryIds);state.gallery=0;document.title=`RAP DNA · ${catalog.artist.short} 作品与关系档案`;$('#artist-select').value=profile.key;$('#artist-select').onchange=e=>{const next=new URL(location.href);next.searchParams.set('artist',e.target.value);next.hash='';location.assign(next);};albumMap=new Map(catalog.albums.map(a=>[a.id,a]));trackMap=new Map(catalog.tracks.map(t=>[t.id,t]));personMap=new Map(catalog.people.map(p=>[p.id,p]));player=createNeteasePlayer({tracks:trackMap,albums:albumMap,names,beforeOpen:()=>{if(dialog.open){dialog.close();clearDetailHash();}}});buildPage();}catch(error){$('#app').innerHTML='<div class="load-error"><h1>档案暂时没有打开。</h1><p>请使用 Start-Demo.cmd 启动本地服务，或重新加载页面。</p><button class="primary" id="reload-app">重新加载</button></div>';$('#reload-app').onclick=()=>location.reload();console.error(error);}}

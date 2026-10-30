@@ -184,3 +184,67 @@
 @media(max-width:360px){.discovery-page .site-header nav{gap:10px}.discovery-page .site-header nav a{font-size:9px}.dna-hero h1{font-size:35px}.dna-hero-actions{gap:12px}.dna-hero-actions .dna-text-link{font-size:9px}.dna-profile-stats{gap:12px}.dna-profile-stats b{font-size:19px}.dna-profile-stats>div:last-child b{font-size:16px}.dna-profile-stats span{font-size:7px}}
 @media(prefers-reduced-motion:reduce){.dna-story,.dna-creator-card,.dna-button,.dna-avatar img{transition:none}.dna-story:hover,.dna-creator-card:hover,.dna-button:hover{transform:none}}
 @media(max-width:600px){.discovery-page .site-header nav a:nth-child(2){display:inline-flex}body:not(.discovery-page) .site-header nav a:nth-child(4){display:inline-flex}body:not(.discovery-page) .site-header nav a:nth-child(2){display:none}}
+
+/* One global navigation, with page-specific tools kept inside each page. */
+.site-header .artist-switch[hidden],.site-header .nav-cta[hidden]{display:none!important}
+.site-header nav[aria-label="主导航"]{margin-left:auto;gap:32px}
+.site-header nav[aria-label="主导航"] a{display:inline-flex!important;white-space:nowrap;font-size:12px}
+.site-header nav[aria-label="主导航"] a[aria-current="page"]{color:#6555b8}
+.dna-breadcrumb{display:flex;align-items:center;flex-wrap:wrap;gap:10px;color:#9c91aa;font-size:11px;line-height:1.9;margin-bottom:28px;text-align:left}
+.dna-breadcrumb a{color:#89749f;text-decoration:none}
+.dna-breadcrumb>span[aria-hidden]{color:#c7bfcf}
+.dna-breadcrumb>span[aria-current]{color:#7f708c}
+.dna-start-steps{display:flex;gap:22px;list-style:none;padding:0;margin:35px 0 0;color:#9b8daa;font-size:10px}
+.dna-start-steps li{display:flex;gap:8px;align-items:center}
+.dna-start-steps li+li:before{content:'→';margin-right:8px;color:#c2b7cf}
+.dna-start-steps li>span{font-size:9px;color:#b6a7cc}
+body[data-discovery-page="discover"] .dna-hero h1{font-size:clamp(35px,3.7vw,53px);letter-spacing:-2px}
+body[data-discovery-page="discover"] .dna-hero-actions{gap:20px;flex-wrap:wrap}
+body[data-discovery-page="discover"] .dna-hero-actions>.dna-text-link{font-size:11px}
+.dna-directory-fold{border:1px solid #e5deef;border-radius:22px;background:#ffffff78;margin-top:62px;scroll-margin-top:95px;overflow:hidden}
+.dna-directory-fold>summary{display:flex;align-items:center;justify-content:space-between;gap:22px;list-style:none;cursor:pointer;padding:25px 28px}
+.dna-directory-fold>summary::-webkit-details-marker{display:none}
+.dna-directory-fold summary b{font-size:17px;font-weight:500;display:block;color:#6d5d7c}
+.dna-directory-fold summary small{font-size:11px;color:#a294ad;display:block;margin-top:8px;line-height:1.8}
+.dna-fold-label{font-size:11px;color:#a18bb5;white-space:nowrap}
+.dna-directory-fold[open]>summary{border-bottom:1px solid #ece4f3}
+.dna-directory-fold>.dna-section{padding:26px 28px 30px}
+.dna-directory-fold .dna-section-head{display:none}
+.dna-directory-fold .dna-creator-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.dna-rapper-directory{padding:65px 0 10px}
+.dna-rapper-directory h1{font-size:43px;letter-spacing:-1.6px;margin:15px 0 18px;line-height:1.4}
+.dna-page-purpose{color:#8c7b99;font-size:13px;line-height:2;max-width:730px;margin:0 0 24px}
+.dna-rapper-search{max-width:600px;margin-top:30px}
+.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:15px;margin-top:22px}
+.dna-rapper-directory .dna-rapper-card{padding:30px 12px;gap:14px;background:#fff}
+.dna-rapper-directory .dna-rapper-card .dna-avatar{width:70px;height:70px}
+.dna-rapper-directory .dna-rapper-card b{font-size:13px}
+.dna-directory-next{font-size:12px;color:#9a87aa;line-height:1.9;margin-top:28px;display:flex;gap:15px;flex-wrap:wrap}
+.dna-profile .dna-breadcrumb{margin-bottom:16px}
+.dna-profile .dna-back{margin-bottom:30px;line-height:1.8}
+.dna-profile-heading p{max-width:690px;line-height:1.9}
+.dna-person-views{display:inline-flex;align-items:center;gap:4px;margin-top:25px;border:1px solid #e7deef;border-radius:100px;background:#ece7f5;padding:4px;font-size:11px}
+.dna-person-views>span,.dna-person-views>a{padding:10px 18px;border-radius:100px;text-decoration:none;color:#9a87ad}
+.dna-person-views>span{background:white;color:#78618d;box-shadow:0 3px 9px #5f3d7d08}
+.dna-common-hero .dna-breadcrumb{margin-bottom:30px}
+.dna-common-hero>.dna-page-purpose{max-width:700px;margin:0 auto 24px;font-size:12px}
+.archive-guide{max-width:1220px;margin:0 auto;padding:37px 34px 22px}
+.archive-guide .dna-breadcrumb{margin-bottom:19px}
+.archive-purpose{display:flex;align-items:center;justify-content:space-between;gap:30px}
+.archive-purpose p{font-size:12px;color:#8e7e9d;line-height:1.9;max-width:710px;margin:8px 0 0}
+.archive-purpose>.dna-button{white-space:nowrap;font-size:11px;padding:13px 19px}
+.archive-section-nav{display:flex;justify-content:center;align-items:center;gap:36px;padding:15px 20px;position:sticky;top:72px;z-index:25;max-width:1220px;margin:0 auto;background:#f5f5f7eb;backdrop-filter:blur(15px);border-top:1px solid #e8e2ef;border-bottom:1px solid #e8e2ef;font-size:11px;color:#a291b2}
+.archive-section-nav a.active{color:#765a94}
+body:not(.discovery-page) .hero{padding-top:45px}
+@media(max-width:1000px){.dna-start-steps{gap:12px}.dna-start-steps li+li:before{margin-right:0}.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:800px){.site-header nav[aria-label="主导航"]{gap:25px}.dna-start-steps{justify-content:center}.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.archive-purpose{align-items:flex-start;gap:20px}.archive-purpose>.dna-button{margin-top:10px}.dna-directory-fold .dna-creator-grid{grid-template-columns:1fr}}
+@media(max-width:600px){
+ .site-header .nav-wrap{gap:12px;padding:0 16px}.site-header nav[aria-label="主导航"]{gap:17px}.site-header nav[aria-label="主导航"] a{font-size:10px}
+ body[data-discovery-page="discover"] .dna-hero h1{font-size:34px;letter-spacing:-1.5px}.dna-start-steps{font-size:9px;gap:11px;margin-top:26px}.dna-start-steps li{gap:5px}.dna-start-steps li+li:before{margin-right:0}.dna-start-steps li>span{font-size:8px}
+ body[data-discovery-page="discover"] .dna-hero-actions{flex-direction:column;gap:18px}.dna-hero-visual{margin-top:28px}.dna-visual-caption{font-size:8px;letter-spacing:0}
+ .dna-directory-fold{margin-top:35px;border-radius:17px;scroll-margin-top:80px}.dna-directory-fold>summary{padding:21px 17px;gap:12px;align-items:flex-start}.dna-directory-fold summary b{font-size:14px}.dna-directory-fold summary small{font-size:10px;max-width:230px}.dna-fold-label{font-size:9px;margin-top:4px}.dna-directory-fold>.dna-section{padding:20px 15px 25px}.dna-directory-fold .dna-creator-card{padding:15px 12px}
+ .dna-breadcrumb{font-size:10px;gap:8px;margin-bottom:24px}.dna-rapper-directory{padding-top:42px}.dna-rapper-directory h1{font-size:29px;letter-spacing:-.8px}.dna-page-purpose{font-size:11px;line-height:2}.dna-rapper-search{margin-top:23px}.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.dna-rapper-directory .dna-rapper-card{padding:25px 10px;gap:12px}.dna-rapper-directory .dna-rapper-card .dna-avatar{width:62px;height:62px}.dna-rapper-directory .dna-rapper-card b{font-size:12px}.dna-directory-next{font-size:10px;gap:8px}
+ .dna-profile .dna-back{font-size:10px;margin-bottom:25px}.dna-person-views{font-size:10px;margin-top:22px}.dna-person-views>a,.dna-person-views>span{padding:9px 14px}.dna-common-hero .dna-breadcrumb{margin-bottom:30px}.dna-common-hero>.dna-page-purpose{font-size:10px}.dna-common-hero>.dna-page-purpose br{display:none}
+ .archive-guide{padding:25px 20px 20px}.archive-purpose{display:block}.archive-purpose p{font-size:10px;line-height:1.9}.archive-purpose>.dna-button{font-size:10px;margin-top:17px;padding:11px 17px}.archive-guide .dna-breadcrumb{font-size:9px}.archive-section-nav{top:62px;gap:25px;padding:13px 12px;font-size:10px}body:not(.discovery-page) .hero{padding-top:30px}
+}
+@media(max-width:360px){.site-header nav[aria-label="主导航"]{gap:12px}.site-header nav[aria-label="主导航"] a{font-size:9px}.site-header .nav-wrap{gap:8px;padding:0 13px}.dna-start-steps{gap:7px;font-size:8px}.dna-start-steps li{gap:4px}body[data-discovery-page="discover"] .dna-hero h1{font-size:30px}.dna-fold-label{font-size:8px}.dna-directory-fold summary b{font-size:12px}.dna-directory-fold summary small{font-size:9px}.archive-section-nav{gap:20px;font-size:9px}}

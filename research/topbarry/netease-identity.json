@@ -1,0 +1,133 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 15,
+    "hlWords": [
+      "Top Barry"
+    ],
+    "artists": [
+      {
+        "id": 49141872,
+        "name": "Top Barry",
+        "picUrl": "https://p2.music.126.net/UXAz1t3tXMqtByRWHx0_AQ==/109951165840438033.jpg",
+        "alias": [
+          "掰瑞"
+        ],
+        "albumSize": 36,
+        "musicSize": 241,
+        "picId": 109951165840438030,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1058241,
+        "img1v1Url": "https://p2.music.126.net/fvKBiGSsbxmgCK0GBog0qA==/109951171380523664.jpg",
+        "accountId": 4904037319,
+        "img1v1": 109951171380523660,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 9,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "掰瑞"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12563131,
+        "name": "Rapeter",
+        "picUrl": "https://p2.music.126.net/iE55pjgSNPJMMmBFYN4c-A==/109951163557090605.jpg",
+        "alias": [],
+        "albumSize": 29,
+        "musicSize": 149,
+        "picId": 109951163557090610,
+        "fansGroup": null,
+        "recommendText": "与Top Barry合唱歌曲《DD backseat》",
+        "appendRecText": "",
+        "fansSize": 1184722,
+        "img1v1Url": "https://p2.music.126.net/-14yOGYmESuvaPbXGintKg==/109951170489763444.jpg",
+        "accountId": 115248616,
+        "img1v1": 109951170489763440,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 16,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 123332382,
+        "name": "Top Barry",
+        "picUrl": "https://p2.music.126.net/uUmdUrxUlVNQlzXldGmb1A==/109951172865167287.jpg",
+        "alias": [
+          "掰瑞"
+        ],
+        "albumSize": 1,
+        "musicSize": 1,
+        "picId": 109951172865167280,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 45,
+        "img1v1Url": "https://p2.music.126.net/nFhuU8MhEGzsq8AFdUH0lg==/109951173612144707.jpg",
+        "accountId": 8930476803,
+        "img1v1": 109951173612144700,
+        "identityIconUrl": "https://p5.music.126.net/obj/wonDlsKUwrLClGjCm8Kx/59679338493/06e3/631a/4c59/7e34d8deb3c3401f32d1f9579a8f1e0a.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "掰瑞"
+        ],
+        "trans": null
+      },
+      {
+        "id": 123827697,
+        "name": "Top Barry",
+        "picUrl": "https://p2.music.126.net/oUeCohfdTOJNzgm16vNRRg==/109951173009599559.jpg",
+        "alias": [
+          "Top Barry"
+        ],
+        "albumSize": 1,
+        "musicSize": 2,
+        "picId": 109951173009599550,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1,
+        "img1v1Url": "https://p2.music.126.net/AaeZPIOVS4HYWagxBBevqg==/109951174037832522.jpg",
+        "accountId": 6421752497,
+        "img1v1": 109951174037832530,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Top Barry"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12277473,
+        "name": "李大奔BENZO",
+        "picUrl": "https://p2.music.126.net/POt8xRW0dct2gKg8JzZz8w==/109951170726176734.jpg",
+        "alias": [],
+        "albumSize": 37,
+        "musicSize": 233,
+        "picId": 109951170726176740,
+        "fansGroup": null,
+        "recommendText": "与Top Barry合唱歌曲《Dats Me》",
+        "appendRecText": "",
+        "fansSize": 638056,
+        "img1v1Url": "https://p2.music.126.net/U1mSNBdqoM_x9oTDUBwt4Q==/109951173293970640.jpg",
+        "accountId": 133717723,
+        "img1v1": 109951173293970640,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 19,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

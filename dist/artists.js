@@ -1,5 +1,6 @@
 export const artistProfiles={
- wangyitai:{key:'wangyitai',file:'./catalog-wangyitai.json',archive:'021',english:'WANG YITAI',tagline:'FROM FEEL & SIGHT TO LOVE ME LATER.',intro:'从闪火mixtape、Feel & Sight、演.说.家，到与艾热共同创作的幸存者的负罪感、太热爱和 Love Me Later。沿着王以太的作品与署名认识共同创作的音乐人。',gapSummary:'早期下架及视频作品仍待补证；Love Me Later 和太热爱只按本人逐曲署名收录，两个现场记录日期待核。'},
+ wangyitai:{key:'wangyitai',file:'./catalog-wangyitai.json',archive:'021',english:'WANG YITAI',tagline:'FROM FEEL & SIGHT TO LOVE ME LATER.',intro:'从闪火mixtape、Feel & Sight、演.说.家，到与艾热共同创作的幸存者的负罪感、太热爱和 Love Me Later。沿着王以太的作品与署名认识共同创作的音乐人。',gapSummary:'早期下架及视频作品仍待补证；Love Me Later 和太热爱只按本人逐曲署名收录，两个现场记录日期待核。'},
+
  gali:{key:'gali',file:'./catalog-gali.json',archive:'019',english:'GALI',tagline:'FROM VINTAGE TO STRIPELIFE.',intro:'从 VINTAGE、晚霞 AfterLight，到亚特兰蒂斯与 STRIPELIFE。沿着 GALI 的作品和逐曲署名，认识共同创作的音乐人，也听见声音背后的故事。',gapSummary:'早期、下架与视频作品仍待补证；合作合辑按逐曲参与范围收录，跨平台版本与标题差异分别保留。'},
 
  knowknow:{key:'knowknow',file:'./catalog-knowknow.json',archive:'016',english:'KNOWKNOW',tagline:'ENJOY THE MONEY. FOLLOW THE MELODY.',intro:'从 Mr. Enjoy Da Money、MEDM，到 LONG TIME KNOW SEE、街头贝多芬与叉烧 GANG。沿着 KnowKnow 的作品及署名，认识共同构建声音的音乐人。',gapSummary:'Higher Brothers 按逐曲署名收录；早期、下架及跨平台版本仍待补证，一条异常平台日期保留待核。'},
@@ -23,5 +24,6 @@ export const artistProfiles={
  vansdaddy:{key:'vansdaddy',file:'./catalog-vansdaddy.json',archive:'014',english:'VANSDADDY',tagline:'FROM NIUWOKENG. INTO THE CITY.',intro:'从 VEN10、200Q、Balloon 到牛窝坑之子与都市醉漢。沿着 Vansdaddy 的作品，听见生活里的故事，也认识一起创作的音乐人。',gapSummary:'Candytape 团体发行只按本人逐曲署名收录；Apple 地区艺人名存在冲突，保留原字段，不据此合并身份。早期下架与视频作品仍待补证。'},
  cashtrippy:{key:'cashtrippy',file:'./catalog-cashtrippy.json',archive:'017',english:'CASHTRIPPY',tagline:'FROM TRIPPYHOOD TO THE RACER.',intro:'从 TrippyHood、Slayer，到双头蛇、Nafia Fever、万古与 RACER。沿着 CashTrippy 的作品，寻找共同署名的同行与幕后的创作者。',gapSummary:'Goodkidstape 1 与他人发行只按本人逐曲署名收录；同名账号不合并，早期下架与视频作品仍待补证。'},
  gai:{key:'gai',file:'./catalog-gai.json',archive:'018',english:'GAI',tagline:'FROM CHONGQING. ACROSS THE PLATFORMS.',intro:'从光宗耀祖、烻、杜康，到底层逻辑、G-BLOCK Mixtape 与 REAL G。沿着 GAI周延 的作品与逐曲署名，跨越网易云、QQ音乐和 Apple Music，认识声音背后的音乐人。',gapSummary:'网易云与QQ音乐分别保留平台记录，跨平台重合不等于独立作品；Apple官方网页作版本对照，节目合辑只按本人逐曲署名收录。'},
- xiedi:{key:'xiedi',file:'./catalog-xiedi.json',archive:'020',english:'XIEDI',tagline:'FROM CDC. ON HIS OWN TERMS.',intro:'从人·社会·钱、蔡镇鸿、帝头蛇末日的士，到信徒、社区生活与闪耀。沿着谢帝（BO$$X）的作品与逐曲署名，认识一起创作的音乐人。',gapSummary:'MY FRIEND WANNA TRAP及其他Apple补充合并入同一发行；信徒、蔡镇鸿版本差异保留，未核同名账号不合并，早期下架及视频作品仍待补证。'}
+ xiedi:{key:'xiedi',file:'./catalog-xiedi.json',archive:'020',english:'XIEDI',tagline:'FROM CDC. ON HIS OWN TERMS.',intro:'从人·社会·钱、蔡镇鸿、帝头蛇末日的士，到信徒、社区生活与闪耀。沿着谢帝（BO$$X）的作品与逐曲署名，认识一起创作的音乐人。',gapSummary:'MY FRIEND WANNA TRAP及其他Apple补充合并入同一发行；信徒、蔡镇鸿版本差异保留，未核同名账号不合并，早期下架及视频作品仍待补证。'},
+ topbarry:{key:'topbarry',file:'./catalog-topbarry.json',archive:'022',english:'TOP BARRY',tagline:'TEEN KING. KEEP SHINING.',intro:'从 Teen King、How I Shine 到不停的，沿着 Top Barry（掰瑞）的作品，认识一起写歌、制作与登台的音乐人。',gapSummary:'FANTASY WORLD 与节目合辑只按本人逐曲署名收录；早期、下架作品与同名账号保持待核，现场、伴奏和跨平台版本分别保留。'}
 };

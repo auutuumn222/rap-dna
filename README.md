@@ -330,4 +330,11 @@ MY FRIEND WANNA TRAP只展示一张专辑，网易云0/22与Apple22条合并，�
 
 报告：[WANGYITAI-DISCOGRAPHY.md](research/WANGYITAI-DISCOGRAPHY.md)。数据 `dist/catalog-wangyitai.json`；来源 `research/wangyitai/`。采集 `node scripts/collect-wangyitai.mjs`、`node scripts/harvest-wangyitai.mjs`；离线重建 `npm run catalog:wangyitai`；浏览器检查 `npm run test:wangyitai`。
 
-
+
+
+
+## Top Barry / 掰瑞（2026-10-30）
+
+入口 `?artist=topbarry`。网易云 ID 49141872，三页241条，末页more=false；Apple ID1701059577，中国区20项发行作对照，没有额外补算歌曲，总241条平台记录、184个发行容器、208条有明确署名。主线Teen King（7）、How I Shine（10）、不停的（7）当前曲单完整；FANTASY WORLD只计2/9条。日期2021-02-23至2026-10-30，不代表历史全量。
+
+[完整核查报告](research/TOPBARRY-DISCOGRAPHY.md)。`node scripts/collect-topbarry.mjs` → `node scripts/harvest-topbarry.mjs`；`npm run catalog:topbarry`离线重建，`npm run test:topbarry`浏览器检查。

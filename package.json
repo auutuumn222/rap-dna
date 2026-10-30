@@ -11,6 +11,7 @@
     "test:masiwei": "node tests/masiwei-browser.mjs",
     "catalog:masiwei": "node scripts/build-masiwei.mjs",
     "catalog:build": "node scripts/build-catalog.mjs",
+    "catalog:creators": "node scripts/build-creators.mjs",
     "catalog:zhangfangzhao": "node scripts/build-zhangfangzhao.mjs",
     "test:zhangfangzhao": "node tests/zhangfangzhao-browser.mjs",
     "catalog:pharaoh": "node scripts/build-pharaoh.mjs",

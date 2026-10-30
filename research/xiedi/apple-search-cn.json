@@ -1,0 +1,101 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "谢帝",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%B0%A2%E5%B8%9D/1062071776?uo=4",
+      "artistId": 1062071776,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "谢帝雅",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%B0%A2%E5%B8%9D%E9%9B%85/1766044861?uo=4",
+      "artistId": 1766044861,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "謝帝",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%B0%A2%E5%B8%9D/6804591993?uo=4",
+      "artistId": 6804591993,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "EXO",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/exo/657630070?uo=4",
+      "artistId": 657630070,
+      "amgArtistId": 2827825,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Travis Scott",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/travis-scott/549236696?uo=4",
+      "artistId": 549236696,
+      "amgArtistId": 2701028,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Dua Lipa",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dua-lipa/1031397873?uo=4",
+      "artistId": 1031397873,
+      "amgArtistId": 3128482,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "FINNEAS",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/finneas/1138790033?uo=4",
+      "artistId": 1138790033,
+      "amgArtistId": 3409548,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "benny blanco",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/benny-blanco/1410841257?uo=4",
+      "artistId": 1410841257,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SUGA",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/suga/80159541?uo=4",
+      "artistId": 80159541,
+      "amgArtistId": 290711,
+      "primaryGenreName": "Electronica",
+      "primaryGenreId": 1058
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Adam Levine",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/adam-levine/16053191?uo=4",
+      "artistId": 16053191,
+      "amgArtistId": 156196,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-30",
+  "query": "谢帝",
+  "endpoint": "https://u.y.qq.com/cgi-bin/musicu.fcg",
+  "module": "music.search.SearchCgiService",
+  "method": "DoSearchForQQMusicDesktop",
+  "search_type": 1,
+  "returnedSingerList": [],
+  "note": "未取得可确认的歌手账号，不推断QQ目录或版权状态。"
+}

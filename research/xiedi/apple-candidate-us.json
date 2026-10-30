@@ -1,0 +1,35 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "謝帝",
+      "artistLinkUrl": "https://music.apple.com/us/artist/%E8%AC%9D%E5%B8%9D/6804591993?uo=4",
+      "artistId": 6804591993,
+      "primaryGenreName": "Mandopop",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 628277460,
+      "collectionId": 1713894589,
+      "artistName": "Xie Lei, 謝帝, Cai Mi Mi & 洪巧玲",
+      "collectionName": "可愛的馬",
+      "collectionCensoredName": "可愛的馬",
+      "artistViewUrl": "https://music.apple.com/us/artist/xie-lei/628277460?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/%E5%8F%AF%E6%84%9B%E7%9A%84%E9%A6%AC/1713894589?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/5c/40/735c40c1-5b81-0a69-0673-5c7a9992223f/4711280026937.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/5c/40/735c40c1-5b81-0a69-0673-5c7a9992223f/4711280026937.jpg/100x100bb.jpg",
+      "collectionPrice": 9.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 12,
+      "copyright": "℗ 2022 海山唱片股份有限公司",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "1997-01-01T08:00:00Z",
+      "primaryGenreName": "Mandopop"
+    }
+  ]
+}

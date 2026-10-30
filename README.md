@@ -312,3 +312,13 @@ GAI专辑展示已去除跨平台重复：同名网易云/QQ发行合为一张�
 VINTAGE、晚霞AfterLight、亚特兰蒂斯、STRIPELIFE 四个个人项目分别收录 7 / 6 / 16 / 12 条。BEDROOM TAPE 共 5 首取本人署名 1 首，D.N.A 共 13 首取 3 首。日期范围 2016-11-01 至 2026-10-28；历史全量未证明。Apple 共 72 项地区发行分别保留，Know You Better 与一知半解时长和艺人对应，暂作版本对照，不重复补入。部分详情接口受限，日志保留。
 
 报告：[GALI-DISCOGRAPHY.md](research/GALI-DISCOGRAPHY.md)。数据 `dist/catalog-gali.json`，来源 `research/gali/`。采集 `node scripts/collect-gali.mjs`、`node scripts/harvest-gali.mjs`；离线重建 `npm run catalog:gali`；浏览器验证 `npm run test:gali`。
+
+## 谢帝 / BO$$X（2026-10-30核查）
+
+访问 `?artist=xiedi`。网易云主账号847107四页304条，末页more=false；Apple主账号1062071776，美国区显示BO$$ X。网易云同名94423405与Apple同名6804591993单独隔离，不按名字合并。
+
+Apple逐曲补入45条：MY FRIEND WANNA TRAP 22条、这张专辑太Diao了14条、突如袭来3条、拽/这狠九六零/YOU GET THAT/请揣满人民币Freestyle四首，以及信徒Yily Freestyle Skit和蔡镇鸿堵起。共349条平台记录、136个发行条目、14个核心项目，268条有明确单曲署名。有日期范围2011-12-02至2026-09-13，不代表历史全量。
+
+MY FRIEND WANNA TRAP只展示一张专辑，网易云0/22与Apple22条合并，保留不同平台日期；信徒网易云15/16、蔡镇鸿网易云7条和Apple8条版本差异均保留。Couple Hunnid四个团体项目单列，不将他人专辑客串字段应用到每首歌。QQ公开姓名搜索未取得可确认的艺人结果，不猜测账号。
+
+来源 `research/xiedi/`，报告 [XIEDI-DISCOGRAPHY.md](research/XIEDI-DISCOGRAPHY.md)。采集依次运行collect-xiedi、harvest-xiedi、cache-xiedi-extras；离线重建 `npm run catalog:xiedi`；目录检查 `npm test`，浏览器 `npm run test:xiedi`。仅保留元数据、署名和图片，不保存歌词或音频；详情限制保留日志。

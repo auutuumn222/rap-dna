@@ -1,5 +1,6 @@
 export const artistProfiles={
- gali:{key:'gali',file:'./catalog-gali.json',archive:'019',english:'GALI',tagline:'FROM VINTAGE TO STRIPELIFE.',intro:'从 VINTAGE、晚霞 AfterLight，到亚特兰蒂斯与 STRIPELIFE。沿着 GALI 的作品和逐曲署名，认识共同创作的音乐人，也听见声音背后的故事。',gapSummary:'早期、下架与视频作品仍待补证；合作合辑按逐曲参与范围收录，跨平台版本与标题差异分别保留。'},
+ gali:{key:'gali',file:'./catalog-gali.json',archive:'019',english:'GALI',tagline:'FROM VINTAGE TO STRIPELIFE.',intro:'从 VINTAGE、晚霞 AfterLight，到亚特兰蒂斯与 STRIPELIFE。沿着 GALI 的作品和逐曲署名，认识共同创作的音乐人，也听见声音背后的故事。',gapSummary:'早期、下架与视频作品仍待补证；合作合辑按逐曲参与范围收录，跨平台版本与标题差异分别保留。'},
+
  knowknow:{key:'knowknow',file:'./catalog-knowknow.json',archive:'016',english:'KNOWKNOW',tagline:'ENJOY THE MONEY. FOLLOW THE MELODY.',intro:'从 Mr. Enjoy Da Money、MEDM，到 LONG TIME KNOW SEE、街头贝多芬与叉烧 GANG。沿着 KnowKnow 的作品及署名，认识共同构建声音的音乐人。',gapSummary:'Higher Brothers 按逐曲署名收录；早期、下架及跨平台版本仍待补证，一条异常平台日期保留待核。'},
  psyp:{key:'psyp',file:'./catalog-psyp.json',archive:'015',english:'PSY.P',tagline:'FROM PSYLIFE TO ELITE.',intro:'从 PSYLIFE.25、Chengdu Hot 到 ULTRA·超、光明离不开黑暗与伊力特。沿着 PSY.P 的作品及逐曲署名，认识共同构建声音的音乐人。',gapSummary:'早期 M.V.P 曲单及下架作品仍待补证；Higher Brothers 按逐曲署名收录，平台版本和曲数差异分别保留。'},
 
@@ -20,5 +21,6 @@ export const artistProfiles={
  keyng:{key:'keyng',file:'./catalog-keyng.json',archive:'013',english:'KEYNG',tagline:'FROM THE CROWN TO THE OPEN WILD.',intro:'从加冕、辩护人，到荒诞故事、关于、一千公里、理想国与旷野。沿着杨和苏的作品和逐曲署名，认识共同构建声音的音乐人。',gapSummary:'加冕、辩护人的在架曲单与 Apple 版本存在差异，分别保留；早期下架作品、其他同名账号仍待核验，活死人与节目合辑按逐曲署名计入。'},
  vansdaddy:{key:'vansdaddy',file:'./catalog-vansdaddy.json',archive:'014',english:'VANSDADDY',tagline:'FROM NIUWOKENG. INTO THE CITY.',intro:'从 VEN10、200Q、Balloon 到牛窝坑之子与都市醉漢。沿着 Vansdaddy 的作品，听见生活里的故事，也认识一起创作的音乐人。',gapSummary:'Candytape 团体发行只按本人逐曲署名收录；Apple 地区艺人名存在冲突，保留原字段，不据此合并身份。早期下架与视频作品仍待补证。'},
  cashtrippy:{key:'cashtrippy',file:'./catalog-cashtrippy.json',archive:'017',english:'CASHTRIPPY',tagline:'FROM TRIPPYHOOD TO THE RACER.',intro:'从 TrippyHood、Slayer，到双头蛇、Nafia Fever、万古与 RACER。沿着 CashTrippy 的作品，寻找共同署名的同行与幕后的创作者。',gapSummary:'Goodkidstape 1 与他人发行只按本人逐曲署名收录；同名账号不合并，早期下架与视频作品仍待补证。'},
- gai:{key:'gai',file:'./catalog-gai.json',archive:'018',english:'GAI',tagline:'FROM CHONGQING. ACROSS THE PLATFORMS.',intro:'从光宗耀祖、烻、杜康，到底层逻辑、G-BLOCK Mixtape 与 REAL G。沿着 GAI周延 的作品与逐曲署名，跨越网易云、QQ音乐和 Apple Music，认识声音背后的音乐人。',gapSummary:'网易云与QQ音乐分别保留平台记录，跨平台重合不等于独立作品；Apple官方网页作版本对照，节目合辑只按本人逐曲署名收录。'}
+ gai:{key:'gai',file:'./catalog-gai.json',archive:'018',english:'GAI',tagline:'FROM CHONGQING. ACROSS THE PLATFORMS.',intro:'从光宗耀祖、烻、杜康，到底层逻辑、G-BLOCK Mixtape 与 REAL G。沿着 GAI周延 的作品与逐曲署名，跨越网易云、QQ音乐和 Apple Music，认识声音背后的音乐人。',gapSummary:'网易云与QQ音乐分别保留平台记录，跨平台重合不等于独立作品；Apple官方网页作版本对照，节目合辑只按本人逐曲署名收录。'},
+ xiedi:{key:'xiedi',file:'./catalog-xiedi.json',archive:'020',english:'XIEDI',tagline:'FROM CDC. ON HIS OWN TERMS.',intro:'从人·社会·钱、蔡镇鸿、帝头蛇末日的士，到信徒、社区生活与闪耀。沿着谢帝（BO$$X）的作品与逐曲署名，认识一起创作的音乐人。',gapSummary:'MY FRIEND WANNA TRAP及其他Apple补充合并入同一发行；信徒、蔡镇鸿版本差异保留，未核同名账号不合并，早期下架及视频作品仍待补证。'}
 };

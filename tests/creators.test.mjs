@@ -33,7 +33,7 @@ test('published creator index is reproducible from current archives',async()=>{
 });
 test('editorial stories carry two different records with source evidence; ATM example is supported',()=>{
  const stories=discoveryStories(actual);assert.equal(stories.length,3);
- for(const s of stories){assert.notEqual(s.pair[0].id,s.pair[1].id);for(const t of s.pair)assert.ok(t.credits.some(c=>c.personId===s.person.id&&c.raw&&c.source));}
+ for(const s of stories){assert.equal(s.person.identity,'platform');assert.notEqual(s.pair[0].id,s.pair[1].id);for(const t of s.pair)assert.ok(t.credits.some(c=>c.personId===s.person.id&&c.raw&&c.source));}
  assert.equal(stories[0].person.id,'n13911452');assert.deepEqual(stories[0].pair.map(t=>t.title),['英雄','Pop Music']);
  for(const t of stories[0].pair)assert.ok(t.credits.some(c=>c.personId==='n13911452'&&c.role==='编曲'));
 });

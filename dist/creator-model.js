@@ -21,12 +21,12 @@ export function sharedCreators(index,left,right,role='all'){
   const second=b.find(t=>t.id!==first.id&&!t.artistKeys.includes(left))||b.find(t=>t.id!==first.id)||b[0];
   result.push({person:p,left:a,right:b,pair:[first,second],sharedIds,independent});
  }
- return result.sort((a,b)=>Number(b.independent)-Number(a.independent)||Math.min(b.left.length,b.right.length)-Math.min(a.left.length,a.right.length)||a.person.name.localeCompare(b.person.name));
+ return result.sort((a,b)=>Number(b.independent)-Number(a.independent)||Number(b.person.identity==='platform')-Number(a.person.identity==='platform')||Math.min(b.left.length,b.right.length)-Math.min(a.left.length,a.right.length)||a.person.name.localeCompare(b.person.name));
 }
 
 export function discoveryStories(index){
- const preferred=['n13911452','c6LCt546J5aCC','n12110173'];
- const candidates=index.creators.map(p=>({p,...creatorStats(index,p.id)})).filter(x=>x.artists.length>=2).sort((a,b)=>b.artists.length-a.artists.length);
+ const preferred=['n13911452','n12110173'];
+ const candidates=index.creators.filter(p=>p.identity==='platform').map(p=>({p,...creatorStats(index,p.id)})).filter(x=>x.artists.length>=2).sort((a,b)=>b.artists.length-a.artists.length);
  candidates.sort((a,b)=>{const rank=id=>preferred.includes(id)?preferred.indexOf(id):99;return rank(a.p.id)-rank(b.p.id);});
  const stories=[];
  for(const {p,artists} of candidates){

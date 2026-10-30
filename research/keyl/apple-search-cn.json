@@ -1,0 +1,51 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KEY.L劉聰",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/key-l%E5%88%98%E8%81%AA/1640856786?uo=4",
+      "artistId": 1640856786,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "刘聪",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%88%98%E8%81%AA/1586357104?uo=4",
+      "artistId": 1586357104,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Keyl",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%88%98%E8%81%AA/1459895793?uo=4",
+      "artistId": 1459895793,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Higher Brothers",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/higher-brothers/1149096753?uo=4",
+      "artistId": 1149096753,
+      "amgArtistId": 3446644,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Ghost Town DJs",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/ghost-town-djs/266863959?uo=4",
+      "artistId": 266863959,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

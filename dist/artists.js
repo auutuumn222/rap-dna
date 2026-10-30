@@ -1,4 +1,5 @@
 export const artistProfiles={
+ tizzyt:{key:'tizzyt',file:'./catalog-tizzyt.json',archive:'024',english:'TIZZY T',tagline:'FROM YOUR BOY TO POP.',intro:'从 YOUR BOY、夜行动物园到 Tizzy T、Vanity Fair 与流行。沿着 TizzyT 的作品和逐曲署名，认识共同创作的音乐人。',gapSummary:'早期与下架作品仍待补证；合作发行按逐曲署名收录，Apple 地区版本与未取得的曲单分别保留。'},
  wangyitai:{key:'wangyitai',file:'./catalog-wangyitai.json',archive:'021',english:'WANG YITAI',tagline:'FROM FEEL & SIGHT TO LOVE ME LATER.',intro:'从闪火mixtape、Feel & Sight、演.说.家，到与艾热共同创作的幸存者的负罪感、太热爱和 Love Me Later。沿着王以太的作品与署名认识共同创作的音乐人。',gapSummary:'早期下架及视频作品仍待补证；Love Me Later 和太热爱只按本人逐曲署名收录，两个现场记录日期待核。'},
 
  gali:{key:'gali',file:'./catalog-gali.json',archive:'019',english:'GALI',tagline:'FROM VINTAGE TO STRIPELIFE.',intro:'从 VINTAGE、晚霞 AfterLight，到亚特兰蒂斯与 STRIPELIFE。沿着 GALI 的作品和逐曲署名，认识共同创作的音乐人，也听见声音背后的故事。',gapSummary:'早期、下架与视频作品仍待补证；合作合辑按逐曲参与范围收录，跨平台版本与标题差异分别保留。'},

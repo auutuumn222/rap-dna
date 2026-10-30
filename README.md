@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太、TizzyT，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -348,3 +348,10 @@ ode scripts/harvest-rapeter.mjs；
 pm run catalog:rapeter离线重建，
 pm run test:rapeter浏览器检查。
 
+
+
+## TizzyT 数据范围（2026-10-30 核查）
+
+入口 `?artist=tizzyt`。网易云账号 1204010，Apple Music 1322388883。两页完整返回 190 条，Apple 补充 Winner Winner 1 条，共 191 条、111 个关联发行容器、177 条明确逐曲署名。9 个个人项目，合作发行仅按本人逐曲署名收录。Apple 中 / 美区 27 / 35 项发行分别保留；中国区未取得歌曲，美国区取得 19 条，未取得的曲单与早期下架作品保留待核。
+
+报告：[TIZZYT-DISCOGRAPHY.md](research/TIZZYT-DISCOGRAPHY.md)。数据 `dist/catalog-tizzyt.json`；来源 `research/tizzyt/`。采集 `node scripts/collect-tizzyt.mjs`、`node scripts/harvest-tizzyt.mjs`；离线重建 `npm run catalog:tizzyt`；浏览器检查 `npm run test:tizzyt`。

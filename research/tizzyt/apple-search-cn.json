@@ -1,0 +1,99 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tizzy T",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tizzy-t/1322388883?uo=4",
+      "artistId": 1322388883,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tizzy Bac",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tizzy-bac/308554746?uo=4",
+      "artistId": 308554746,
+      "amgArtistId": 1139872,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tizzy T",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tizzy-t/1832395534?uo=4",
+      "artistId": 1832395534,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "万妮达",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%B8%87%E5%A6%AE%E8%BE%BE/1185461302?uo=4",
+      "artistId": 1185461302,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Kendrick Lamar",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kendrick-lamar/368183298?uo=4",
+      "artistId": 368183298,
+      "amgArtistId": 2412704,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Demi Lovato",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/demi-lovato/280215821?uo=4",
+      "artistId": 280215821,
+      "amgArtistId": 1063095,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Burt Bacharach",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%BC%AF%E7%89%B9-%E5%B7%B4%E5%8D%A1%E6%8B%89%E5%85%8B/39042?uo=4",
+      "artistId": 39042,
+      "amgArtistId": 14856,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "罗言",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BD%97%E8%A8%80/1556188208?uo=4",
+      "artistId": 1556188208,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "满舒克",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%BB%A1%E8%88%92%E5%85%8B/339814707?uo=4",
+      "artistId": 339814707,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Teezo Touchdown",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/teezo-touchdown/1352195584?uo=4",
+      "artistId": 1352195584,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    }
+  ]
+}

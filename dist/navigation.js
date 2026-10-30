@@ -29,8 +29,14 @@ export function creatorReturn(params,artists){
 export function mountArchiveGuide({key,name,onBackstage}){
  if(document.querySelector('.archive-guide'))return;
  const guide=document.createElement('div');guide.className='archive-guide';
- guide.innerHTML=`<nav class="dna-breadcrumb" aria-label="当前位置"><a href="./?view=rappers">Rapper 档案</a><span aria-hidden="true">/</span><span aria-current="page">${escape(name)} · 作品档案</span></nav><div class="archive-purpose"><div><span class="dna-kicker">RAPPER / 作品档案</span><p>浏览 ${escape(name)} 的专辑、歌曲与合作。想认识声音背后的人，从幕后创作者开始。</p></div><button class="dna-button" id="archive-backstage-start">找 TA 的幕后创作者 ↗</button></div><nav class="archive-section-nav" aria-label="歌手档案页内导航"><a href="#journey">作品年表</a><a href="#archive">歌曲目录</a><a href="#network">合作网络</a><a href="#sources">数据说明</a></nav>`;
+ guide.innerHTML=`<nav class="dna-breadcrumb" aria-label="当前位置"><a href="./?view=rappers">Rapper 档案</a><span aria-hidden="true">/</span><span aria-current="page">${escape(name)} · 作品档案</span></nav><nav class="archive-section-nav" aria-label="歌手档案页内导航"><a href="#journey">作品年表</a><a href="#archive">歌曲目录</a><a href="#network">合作网络</a><a href="#sources">数据说明</a></nav>`;
  document.querySelector('#app').prepend(guide);
- guide.after(guide.querySelector('.archive-section-nav'));
- guide.querySelector('#archive-backstage-start').onclick=onBackstage;
+ const hero=document.querySelector('.hero');hero.classList.add('archive-hero');
+ hero.after(guide.querySelector('.archive-section-nav'));
+ hero.querySelector('h1').innerHTML=`<span class="artist-headline">${escape(name)}</span><span class="archive-hero-subtitle">沿着作品，听见幕后。</span>`;
+ hero.querySelector('.hero-lead').textContent='从一张专辑出发，认识共同塑造这些声音的人。';
+ const pill=hero.querySelector('.artist-pill'),image=pill.querySelector('img');
+ pill.replaceChildren();if(image)pill.append(image);pill.append(document.createTextNode('RAPPER / 作品档案'));
+ hero.querySelector('.hero-actions').innerHTML='<button class="primary" id="archive-backstage-start">发现幕后创作者 <span aria-hidden="true">↗</span></button><a class="text-link" href="#journey">浏览专辑 <span aria-hidden="true">↓</span></a>';
+ hero.querySelector('#archive-backstage-start').onclick=onBackstage;
 }

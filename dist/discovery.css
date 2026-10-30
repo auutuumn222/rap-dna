@@ -248,3 +248,35 @@ body:not(.discovery-page) .hero{padding-top:45px}
  .archive-guide{padding:25px 20px 20px}.archive-purpose{display:block}.archive-purpose p{font-size:10px;line-height:1.9}.archive-purpose>.dna-button{font-size:10px;margin-top:17px;padding:11px 17px}.archive-guide .dna-breadcrumb{font-size:9px}.archive-section-nav{top:62px;gap:25px;padding:13px 12px;font-size:10px}body:not(.discovery-page) .hero{padding-top:30px}
 }
 @media(max-width:360px){.site-header nav[aria-label="主导航"]{gap:12px}.site-header nav[aria-label="主导航"] a{font-size:9px}.site-header .nav-wrap{gap:8px;padding:0 13px}.dna-start-steps{gap:7px;font-size:8px}.dna-start-steps li{gap:4px}body[data-discovery-page="discover"] .dna-hero h1{font-size:30px}.dna-fold-label{font-size:8px}.dna-directory-fold summary b{font-size:12px}.dna-directory-fold summary small{font-size:9px}.archive-section-nav{gap:20px;font-size:9px}}
+
+/* A single artist introduction, with the record collection in the first view. */
+.archive-guide{padding:23px 34px 0}
+.archive-guide .dna-breadcrumb{margin:0;font-size:10px}
+body:not(.discovery-page) .hero.archive-hero{padding-top:22px;background:radial-gradient(ellipse 580px 280px at 50% 61%,#e0ddf64f,transparent),#f5f5f7}
+.archive-hero .artist-pill{padding:5px 12px 5px 5px;font-size:8px;letter-spacing:1.4px;color:#8b829d;border-color:#e6e1ee;box-shadow:none;background:#ffffff80}
+.archive-hero .artist-pill img{width:24px;height:24px;margin-right:2px}
+.hero.archive-hero h1{margin:17px 0 12px;font-size:clamp(42px,4.8vw,66px);letter-spacing:-2px;line-height:1.08;font-weight:650}
+.hero.archive-hero .artist-headline{display:block;font-size:inherit;letter-spacing:inherit;line-height:inherit;white-space:normal;overflow-wrap:anywhere}
+.archive-hero-subtitle{display:block;margin-top:15px;font-size:23px;line-height:1.5;letter-spacing:-.6px;font-weight:450;color:#8b81aa}
+.archive-hero .hero-lead{font-size:12px;color:#96909f;line-height:1.8}
+.archive-hero .hero-actions{margin-top:21px;gap:25px}
+.archive-hero .hero-actions .primary{font-size:11px;padding:12px 21px;gap:17px;background:#7462dc;box-shadow:0 7px 20px #7561d31a}
+.archive-hero .hero-actions .text-link{font-size:11px;color:#9689b2}
+.archive-hero .hero-scene{margin-top:12px;height:340px}
+.archive-hero .hero-caption{margin-top:0}
+.archive-hero .hero-bottom{margin-top:18px;border-top-color:#e7e3ed}
+.archive-section-nav{border-top:0;border-bottom:1px solid #e8e2ef;gap:40px;padding:17px 22px;background:#f8f7fbe8;box-shadow:0 6px 15px #4b365602}
+@media(min-width:1600px){.archive-hero .hero-scene{height:390px}}
+@media(max-width:800px){.hero.archive-hero h1{font-size:48px}.archive-hero .hero-scene{height:310px}.archive-hero-subtitle{font-size:21px}}
+@media(max-width:600px){
+ .archive-guide{padding:20px 20px 0}.archive-guide .dna-breadcrumb{font-size:9px}
+ body:not(.discovery-page) .hero.archive-hero{padding-top:26px}
+ .hero.archive-hero h1{font-size:39px;letter-spacing:-1.3px;margin:17px 0 11px}
+ .archive-hero-subtitle{font-size:19px;margin-top:12px;letter-spacing:-.4px}
+ .archive-hero .artist-pill{font-size:7px;letter-spacing:1.2px}.archive-hero .artist-pill img{width:23px;height:23px}
+ .archive-hero .hero-lead{font-size:10px;max-width:290px;line-height:1.9}
+ .archive-hero .hero-actions{margin-top:19px;gap:22px}.archive-hero .hero-actions .primary{font-size:10px;padding:11px 18px}.archive-hero .hero-actions .text-link{font-size:10px}
+ .archive-hero .hero-scene{height:265px;margin-top:13px}.archive-hero .hero-caption{margin-top:-5px}.archive-hero .hero-bottom{margin-top:14px}
+ .archive-section-nav{gap:26px;padding:14px 12px;font-size:10px}
+}
+@media(max-width:360px){.hero.archive-hero h1{font-size:34px}.archive-hero-subtitle{font-size:18px}.archive-section-nav{gap:20px;font-size:9px}.archive-hero .hero-actions{gap:17px}}

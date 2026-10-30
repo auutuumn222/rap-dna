@@ -16,7 +16,7 @@ test('existing archive portraits are shared by stable artist IDs',()=>{
 test('every registered portrait has an exact platform identity, evidence and a local asset',async()=>{
  assert.ok(Object.keys(registry.people).length>=2);
  for(const [id,entry] of Object.entries(registry.people)){
-  assert.match(id,/^n[1-9]\d*$/);assert.equal(entry.source,`https://music.163.com/artist?id=${id.slice(1)}`);assert.ok(entry.name);assert.ok(entry.imageSource);
+  if(/^n[1-9]\d*$/.test(id))assert.equal(entry.source,`https://music.163.com/artist?id=${id.slice(1)}`);else {assert.ok(entry.evidence);assert.match(entry.source,/^https:\/\/(music\.163\.com\/artist\?id=|music\.apple\.com\/)/);}assert.ok(entry.name);assert.ok(entry.imageSource);
   assert.ok(createPortraits(registry.people).imageFor(id));await access(new URL('../dist/'+entry.image.slice(2),import.meta.url));
  }
 });

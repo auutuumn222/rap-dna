@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-29",
+  "checkedAt": "2026-10-30",
   "people": {
     "n12198387": {
       "name": "艾志恒 Asen",
@@ -1474,6 +1474,3901 @@
       "imageSource": "https://p2.music.126.net/Bm4LjMDzUu9e4ZiPUyyHSg==/3241360281909673.jpg",
       "checkedAt": "2026-10-29",
       "kind": "person"
+    },
+    "c5b6Q5p2l": {
+      "name": "徐来",
+      "image": "./assets/people/c5b6Q5p2l.jpg",
+      "source": "https://music.163.com/artist?id=13114452",
+      "imageSource": "https://p2.music.126.net/UnonjLn8IsfasdZMkOaABw==/109951171270207193.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 13114452,
+        "works": [
+          {
+            "id": 1336892099,
+            "title": "ACTA"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1336892099"
+        ]
+      }
+    },
+    "c5LuY5oCd6YGl": {
+      "name": "付思遥",
+      "catalogName": "付思遥",
+      "aliases": [],
+      "image": "./assets/people/n51088331.jpg",
+      "source": "https://music.163.com/artist?id=51088331",
+      "imageSource": "https://p1.music.126.net/DLS2MuixfvgSApgW-apmbQ==/109951170752318587.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n51088331",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1995502665",
+          "https://music.163.com/song?id=2013291289",
+          "https://music.163.com/song?id=2061964447"
+        ]
+      }
+    },
+    "c5qKB6b6Z": {
+      "name": "梁龙",
+      "image": "./assets/people/c5qKB6b6Z.jpg",
+      "source": "https://music.163.com/artist?id=12468289",
+      "imageSource": "https://p1.music.126.net/1IcD37ZbOmpKsbFRUYgGEg==/109951172136293216.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 12468289,
+        "works": [
+          {
+            "id": 1343596888,
+            "title": "耍猴儿"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1980024415"
+        ]
+      }
+    },
+    "c6Im-54OtYWly": {
+      "name": "艾热AIR",
+      "image": "./assets/people/c6Im-54OtYWly.jpg",
+      "source": "https://music.163.com/artist?id=1203045",
+      "imageSource": "https://p2.music.126.net/tvy9BeZWZhqKfYKLHsSf-w==/109951172651091852.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 1203045,
+        "works": [
+          {
+            "id": 1980392121,
+            "title": "人来疯（LIVE版）"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1980392121"
+        ]
+      }
+    },
+    "c6ZmI6L225Lym": {
+      "name": "陈轶伦",
+      "image": "./assets/people/c6ZmI6L225Lym.jpg",
+      "source": "https://music.163.com/artist?id=34288614",
+      "imageSource": "https://p2.music.126.net/BsIYswd_JqloWu8i7z2ErQ==/109951173544091416.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 34288614,
+        "works": [
+          {
+            "id": 2632675075,
+            "title": "你呢"
+          },
+          {
+            "id": 2638549563,
+            "title": "你呢？(Pitch Up Ver.)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2632675075"
+        ]
+      }
+    },
+    "ca25vd2tub3c": {
+      "name": "KnowKnow",
+      "catalogName": "KnowKnow",
+      "aliases": [],
+      "image": "./assets/people/n27868624.jpg",
+      "source": "https://music.163.com/artist?id=27868624",
+      "imageSource": "https://p2.music.126.net/EI-opdeBAR11phjG14fwbg==/109951172883193186.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n27868624",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2607423641"
+        ]
+      }
+    },
+    "caGFyaWtpcmk": {
+      "name": "HARIKIRI",
+      "catalogName": "HARIKIRI",
+      "aliases": [],
+      "image": "./assets/people/n12200029.jpg",
+      "source": "https://music.163.com/artist?id=12200029",
+      "imageSource": "https://p1.music.126.net/yWw5dvuTn7dRpXbpv50lfw==/109951165776309282.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12200029",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1918900532",
+          "https://music.163.com/song?id=1973015438",
+          "https://music.163.com/song?id=2090363143"
+        ]
+      }
+    },
+    "camltaeWkqei1kA": {
+      "name": "JIMI天赐",
+      "catalogName": "JIMI天赐",
+      "aliases": [
+        "JIMMY_TC"
+      ],
+      "image": "./assets/people/n13132045.jpg",
+      "source": "https://music.163.com/artist?id=13132045",
+      "imageSource": "https://p2.music.126.net/mXCI_4datC8yHZ4xPu1NXg==/109951168287113478.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n13132045",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2626359794",
+          "https://music.163.com/song?id=2632524453",
+          "https://music.163.com/song?id=2702041618"
+        ]
+      }
+    },
+    "canpsZWU": {
+      "name": "JZlee",
+      "catalogName": "JZlee",
+      "aliases": [],
+      "image": "./assets/people/n1098154.jpg",
+      "source": "https://music.163.com/artist?id=1098154",
+      "imageSource": "https://p2.music.126.net/m7NmO162frZip3JzSg0Cnw==/109951163992379706.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n1098154",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2683306413"
+        ]
+      }
+    },
+    "canJyNGxs": {
+      "name": "JRR4ll",
+      "image": "./assets/people/canJyNGxs.jpg",
+      "source": "https://music.163.com/artist?id=34747408",
+      "imageSource": "https://p1.music.126.net/TyxO1586I8wXeMC71A97VQ==/109951170212388213.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 34747408,
+        "works": [
+          {
+            "id": 2626257653,
+            "title": "废墟（伴奏）"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2625398261",
+          "https://music.163.com/song?id=2625410676"
+        ]
+      }
+    },
+    "cbXJub2JvZHk": {
+      "name": "mrnobody",
+      "image": "./assets/people/cbXJub2JvZHk.jpg",
+      "source": "https://music.163.com/artist?id=46913339",
+      "imageSource": "https://p1.music.126.net/ZXf3qUreL1GVdvY78M2n2g==/109951167789783319.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 46913339,
+        "works": [
+          {
+            "id": 2067906771,
+            "title": "Bad"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1350642021"
+        ]
+      }
+    },
+    "cc3dhZ2tlbGx5": {
+      "name": "SwagKelly",
+      "image": "./assets/people/cc3dhZ2tlbGx5.jpg",
+      "source": "https://music.163.com/artist?id=12002047",
+      "imageSource": "https://p2.music.126.net/T7PtVZ01ewtLUqnB2e3SHg==/109951173344899182.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 12002047,
+        "works": [
+          {
+            "id": 1319670500,
+            "title": "52hz(Remix)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1319670500"
+        ]
+      }
+    },
+    "cc3VyZm9zaG8": {
+      "name": "Surfosho",
+      "catalogName": "Surfosho",
+      "aliases": [],
+      "image": "./assets/people/n34319827.jpg",
+      "source": "https://music.163.com/artist?id=34319827",
+      "imageSource": "https://p1.music.126.net/BbQUhowD_7lKgi1gRWjTQQ==/109951172468632222.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n34319827",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1941393115",
+          "https://music.163.com/song?id=2061964449",
+          "https://music.163.com/song?id=2061964450"
+        ]
+      }
+    },
+    "ccG9sb2JlYXI": {
+      "name": "PoloBear",
+      "catalogName": "PoloBear",
+      "aliases": [],
+      "image": "./assets/people/n12083741.jpg",
+      "source": "https://music.163.com/artist?id=12083741",
+      "imageSource": "https://p2.music.126.net/bU7cOaeRdDXsdMWbV23KwA==/109951168619726641.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12083741",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1840736349",
+          "https://music.163.com/song?id=1857097219",
+          "https://music.163.com/song?id=1857099214"
+        ]
+      }
+    },
+    "ccG9sbyBiZWFy": {
+      "name": "Polo Bear",
+      "catalogName": "PoloBear",
+      "aliases": [],
+      "image": "./assets/people/n12083741.jpg",
+      "source": "https://music.163.com/artist?id=12083741",
+      "imageSource": "https://p2.music.126.net/bU7cOaeRdDXsdMWbV23KwA==/109951168619726641.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12083741",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2083777324"
+        ]
+      }
+    },
+    "ccHN5LnA": {
+      "name": "PSY.P",
+      "catalogName": "PSY.P",
+      "aliases": [],
+      "image": "./assets/people/n29303235.jpg",
+      "source": "https://music.163.com/artist?id=29303235",
+      "imageSource": "https://p2.music.126.net/n8mwO118TxzqsXG88ZtiTQ==/109951173712104888.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n29303235",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2607423641"
+        ]
+      }
+    },
+    "cdHku": {
+      "name": "Ty.",
+      "catalogName": "Ty.",
+      "aliases": [],
+      "image": "./assets/people/n1086078.jpg",
+      "source": "https://music.163.com/artist?id=1086078",
+      "imageSource": "https://p2.music.126.net/bQkoAJSN2mkUmDZDejF_Tg==/109951167060520225.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n1086078",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2607423641"
+        ]
+      }
+    },
+    "ceHZpYmUoZ29hdCBtdXNpYyk": {
+      "name": "XVIBE（GOAT MUSIC）",
+      "catalogName": "XVIBE",
+      "aliases": [],
+      "image": "./assets/people/n30126914.jpg",
+      "source": "https://music.163.com/artist?id=30126914",
+      "imageSource": "https://p2.music.126.net/5S4YRZR0ouhPNL0GNPCxwA==/109951171092018183.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n30126914",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1483497856"
+        ]
+      }
+    },
+    "ceW9rZW5fb2ZmaWNpYWw": {
+      "name": "Yoken_Official",
+      "catalogName": "Yoken_Official",
+      "aliases": [
+        "YOKEN@YBM"
+      ],
+      "image": "./assets/people/n1047049.jpg",
+      "source": "https://music.163.com/artist?id=1047049",
+      "imageSource": "https://p1.music.126.net/X9Peqwsml-tJ2OidCZLtRA==/109951165844122653.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n1047049",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1906038438",
+          "https://music.163.com/song?id=1913573235",
+          "https://music.163.com/song?id=1933218031"
+        ]
+      }
+    },
+    "ceXlrYno": {
+      "name": "YYKBZ",
+      "catalogName": "YYKBZ",
+      "aliases": [],
+      "image": "./assets/people/n12268099.jpg",
+      "source": "https://music.163.com/artist?id=12268099",
+      "imageSource": "https://p2.music.126.net/88Qjxict_qPJXtbm1gHLNg==/109951170624463244.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12268099",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1848204640",
+          "https://music.163.com/song?id=1906038438",
+          "https://music.163.com/song?id=1913573235"
+        ]
+      }
+    },
+    "cMTUyMA": {
+      "name": "1520",
+      "image": "./assets/people/cMTUyMA.jpg",
+      "source": "https://music.163.com/artist?id=27866110",
+      "imageSource": "https://p2.music.126.net/LjNKBfhC9lgK-YxICpnWaw==/109951174083307673.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 27866110,
+        "works": [
+          {
+            "id": 1910738837,
+            "title": "Ride4you"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1910738837"
+        ]
+      }
+    },
+    "cYXRtaGFuc29u": {
+      "name": "ATMHanson",
+      "catalogName": "ATM Hanson",
+      "aliases": [],
+      "image": "./assets/people/n13911452.jpg",
+      "source": "https://music.163.com/artist?id=13911452",
+      "imageSource": "https://p1.music.126.net/G4han0GjhygZruxsll7_Lw==/109951173643567238.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n13911452",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2705348963"
+        ]
+      }
+    },
+    "cYXRtIGhhbnNvbg": {
+      "name": "ATM Hanson",
+      "catalogName": "ATM Hanson",
+      "aliases": [],
+      "image": "./assets/people/n13911452.jpg",
+      "source": "https://music.163.com/artist?id=13911452",
+      "imageSource": "https://p1.music.126.net/G4han0GjhygZruxsll7_Lw==/109951173643567238.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n13911452",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1908083484",
+          "https://music.163.com/song?id=1929062443",
+          "https://music.163.com/song?id=2008721563"
+        ]
+      }
+    },
+    "cYXRtIGhhbnNvbiw": {
+      "name": "ATM Hanson，",
+      "catalogName": "ATM Hanson",
+      "aliases": [],
+      "image": "./assets/people/n13911452.jpg",
+      "source": "https://music.163.com/artist?id=13911452",
+      "imageSource": "https://p1.music.126.net/G4han0GjhygZruxsll7_Lw==/109951173643567238.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n13911452",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1862259822",
+          "https://music.163.com/song?id=1863149321",
+          "https://music.163.com/song?id=1863149403"
+        ]
+      }
+    },
+    "cZG91Z2gtYm95": {
+      "name": "Dough-Boy",
+      "catalogName": "Dough-Boy",
+      "aliases": [],
+      "image": "./assets/people/n1203015.jpg",
+      "source": "https://music.163.com/artist?id=1203015",
+      "imageSource": "https://p2.music.126.net/LAqRKX-IqBcIPMsIV33juA==/109951170725935352.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n1203015",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2720118695"
+        ]
+      }
+    },
+    "cZGllc2k": {
+      "name": "DiESi",
+      "catalogName": "DiESi",
+      "aliases": [],
+      "image": "./assets/people/n12001195.jpg",
+      "source": "https://music.163.com/artist?id=12001195",
+      "imageSource": "https://p2.music.126.net/4y-35v2-QpqrDqX8j71DcQ==/109951163522329706.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12001195",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1948572170",
+          "https://music.163.com/song?id=1969845253",
+          "https://music.163.com/song?id=1977946820"
+        ]
+      }
+    },
+    "cZGllc2koYXlvIHBybyk": {
+      "name": "DiESi（AYO PRO）",
+      "catalogName": "DiESi",
+      "aliases": [],
+      "image": "./assets/people/n12001195.jpg",
+      "source": "https://music.163.com/artist?id=12001195",
+      "imageSource": "https://p2.music.126.net/4y-35v2-QpqrDqX8j71DcQ==/109951163522329706.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12001195",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2045332345"
+        ]
+      }
+    },
+    "cZHVodQ": {
+      "name": "Duhu",
+      "catalogName": "Duhu",
+      "aliases": [],
+      "image": "./assets/people/n12554857.jpg",
+      "source": "https://music.163.com/artist?id=12554857",
+      "imageSource": "https://p2.music.126.net/qaBqvFZLdPFQ4UkU466b6Q==/109951172811726323.jpg",
+      "checkedAt": "2026-10-30",
+      "kind": "person",
+      "matchedPersonId": "n12554857",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1474178480",
+          "https://music.163.com/song?id=1474181051",
+          "https://music.163.com/song?id=1857097212"
+        ]
+      }
+    },
+    "n1050364": {
+      "name": "Yee",
+      "image": "./assets/people/n1050364.jpg",
+      "source": "https://music.163.com/artist?id=1050364",
+      "imageSource": "https://p2.music.126.net/M9S2kc_qzOV5wrUS147l3A==/109951170351901193.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 1050364,
+        "works": [
+          {
+            "id": 2664388261,
+            "title": "恨"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2664388261"
+        ]
+      }
+    },
+    "n1142042": {
+      "name": "徐梦圆",
+      "image": "./assets/people/n1142042.jpg",
+      "source": "https://music.163.com/artist?id=1142042",
+      "imageSource": "https://p2.music.126.net/rGJRq9sngB9tlF8ZDdKxpQ==/109951173716290946.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 1142042,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1464744803",
+          "https://music.163.com/song?id=1464745785"
+        ]
+      }
+    },
+    "n1087140": {
+      "name": "欧阳娜娜",
+      "image": "./assets/people/n1087140.jpg",
+      "source": "https://music.163.com/artist?id=1087140",
+      "imageSource": "https://p1.music.126.net/bOV9q3csbmyzYXEno_Hvkw==/109951168764331667.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 1087140,
+        "works": [
+          {
+            "id": 2074765481,
+            "title": "玛格丽特"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2074765481"
+        ]
+      }
+    },
+    "n11514": {
+      "name": "二手玫瑰",
+      "image": "./assets/people/n11514.jpg",
+      "source": "https://music.163.com/artist?id=11514",
+      "imageSource": "https://p1.music.126.net/--XNCdRHliDXu5o647cwsg==/109951165912473511.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 11514,
+        "works": [
+          {
+            "id": 1980024415,
+            "title": "耍猴儿 (LIVE版)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1980024415"
+        ]
+      }
+    },
+    "n1185005": {
+      "name": "8:48",
+      "image": "./assets/people/n1185005.jpg",
+      "source": "https://music.163.com/artist?id=1185005",
+      "imageSource": "https://p2.music.126.net/pEhqi-8kttDs3updpkbkQA==/109951168290502651.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 1185005,
+        "works": [
+          {
+            "id": 431795577,
+            "title": "我想（feat.MC pharaoh)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2065926839"
+        ]
+      }
+    },
+    "n12002184": {
+      "name": "AR刘夫阳",
+      "image": "./assets/people/n12002184.jpg",
+      "source": "https://music.163.com/artist?id=12002184",
+      "imageSource": "https://p1.music.126.net/bgGGRnbZ1pj0AD640qRgog==/109951165525342459.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12002184,
+        "works": [
+          {
+            "id": 2055024607,
+            "title": "直播带货"
+          },
+          {
+            "id": 2636250351,
+            "title": "大天才"
+          },
+          {
+            "id": 2638210629,
+            "title": "孩子，当你长大"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1912875128",
+          "https://music.163.com/song?id=2055024607",
+          "https://music.163.com/song?id=2635384543"
+        ]
+      }
+    },
+    "n12001209": {
+      "name": "SanJin",
+      "image": "./assets/people/n12001209.jpg",
+      "source": "https://music.163.com/artist?id=12001209",
+      "imageSource": "https://p2.music.126.net/Iuo6p4OyfvzVeDmEWSZmOw==/109951173460137934.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12001209,
+        "works": [
+          {
+            "id": 1908487538,
+            "title": "克什米尔山羊"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1908487538"
+        ]
+      }
+    },
+    "n12003187": {
+      "name": "瘦恒SoulHan",
+      "image": "./assets/people/n12003187.jpg",
+      "source": "https://music.163.com/artist?id=12003187",
+      "imageSource": "https://p2.music.126.net/752X9y3UnwXHvf3ZAIZA6A==/109951168989162396.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12003187,
+        "works": [
+          {
+            "id": 1910574313,
+            "title": "1234567(ft.SASIOVERLXRD)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1910574313"
+        ]
+      }
+    },
+    "n1203045": {
+      "name": "艾热 AIR",
+      "image": "./assets/people/n1203045.jpg",
+      "source": "https://music.163.com/artist?id=1203045",
+      "imageSource": "https://p1.music.126.net/tvy9BeZWZhqKfYKLHsSf-w==/109951172651091852.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 1203045,
+        "works": [
+          {
+            "id": 1980392121,
+            "title": "人来疯（LIVE版）"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1980392121",
+          "https://music.163.com/song?id=1987823308",
+          "https://music.163.com/song?id=2065921543"
+        ]
+      }
+    },
+    "n12065015": {
+      "name": "隆历奇",
+      "image": "./assets/people/n12065015.jpg",
+      "source": "https://music.163.com/artist?id=12065015",
+      "imageSource": "https://p2.music.126.net/6LMxYMm0NtTKG4tuBU4pVA==/109951168203000632.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12065015,
+        "works": [
+          {
+            "id": 3333138880,
+            "title": "活死人2026Cypher"
+          },
+          {
+            "id": 2009744753,
+            "title": "活死人2022没有Cypher"
+          },
+          {
+            "id": 2108872620,
+            "title": "好天气 坏天气"
+          },
+          {
+            "id": 1405207289,
+            "title": "活死人2019Cypher"
+          },
+          {
+            "id": 1387629743,
+            "title": "Woken Day"
+          },
+          {
+            "id": 1335257558,
+            "title": "异乡人 remix"
+          },
+          {
+            "id": 1382385609,
+            "title": "异乡人Remix"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1382385609",
+          "https://music.163.com/song?id=1387629743",
+          "https://music.163.com/song?id=1405207289"
+        ]
+      }
+    },
+    "n12052041": {
+      "name": "小神仙Boogie",
+      "image": "./assets/people/n12052041.jpg",
+      "source": "https://music.163.com/artist?id=12052041",
+      "imageSource": "https://p2.music.126.net/Ge7A9i5HAdJ5p_5ynns-wA==/109951163032742815.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12052041,
+        "works": [
+          {
+            "id": 2042267777,
+            "title": "Same Love（remix)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2042267777"
+        ]
+      }
+    },
+    "n12078198": {
+      "name": "鹤仙问鹿仙",
+      "image": "./assets/people/n12078198.jpg",
+      "source": "https://music.163.com/artist?id=12078198",
+      "imageSource": "https://p2.music.126.net/AkhItd6_jZtft4HcNk8MnA==/109951165826348119.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12078198,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1471753720",
+          "https://music.163.com/song?id=1471753721"
+        ]
+      }
+    },
+    "n12085631": {
+      "name": "HEAT J",
+      "image": "./assets/people/n12085631.jpg",
+      "source": "https://music.163.com/artist?id=12085631",
+      "imageSource": "https://p1.music.126.net/DNgZ0F94-v9PZWpa7lhDKg==/109951173475045178.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12085631,
+        "works": [
+          {
+            "id": 1422571387,
+            "title": "谁的错？？？"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1422571387",
+          "https://music.163.com/song?id=2619810975"
+        ]
+      }
+    },
+    "n12114249": {
+      "name": "大D(DLyn)",
+      "image": "./assets/people/n12114249.jpg",
+      "source": "https://music.163.com/artist?id=12114249",
+      "imageSource": "https://p2.music.126.net/_TYZTsB3MTgrsQMW04QQCQ==/109951169533774856.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12114249,
+        "works": [
+          {
+            "id": 1910738837,
+            "title": "Ride4you"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1910738837"
+        ]
+      }
+    },
+    "n12084178": {
+      "name": "Flvnmingo",
+      "image": "./assets/people/n12084178.jpg",
+      "source": "https://music.163.com/artist?id=12084178",
+      "imageSource": "https://p2.music.126.net/QIZIPv-Da6JzXu2t72F13w==/109951172530694432.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12084178,
+        "works": [
+          {
+            "id": 1897790360,
+            "title": "Shooting feat.CashTrippy"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1897790360"
+        ]
+      }
+    },
+    "n12121264": {
+      "name": "Ice Paper",
+      "image": "./assets/people/n12121264.jpg",
+      "source": "https://music.163.com/artist?id=12121264",
+      "imageSource": "https://p2.music.126.net/fzWDTckJqRqApWSYxUzKzA==/109951171972222899.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12121264,
+        "works": [
+          {
+            "id": 2146404212,
+            "title": "We back"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1464105865",
+          "https://music.163.com/song?id=1477850680",
+          "https://music.163.com/song?id=1988024508"
+        ]
+      }
+    },
+    "n12120573": {
+      "name": "Newyounggo",
+      "image": "./assets/people/n12120573.jpg",
+      "source": "https://music.163.com/artist?id=12120573",
+      "imageSource": "https://p1.music.126.net/ZWoIXRkhLxmYtbj_wuJHrw==/109951169220120566.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12120573,
+        "works": [
+          {
+            "id": 2738036501,
+            "title": "时间列车"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2039986280",
+          "https://music.163.com/song?id=2738036501"
+        ]
+      }
+    },
+    "n12157298": {
+      "name": "刘炫廷",
+      "image": "./assets/people/n12157298.jpg",
+      "source": "https://music.163.com/artist?id=12157298",
+      "imageSource": "https://p1.music.126.net/QV0m88znchhwEPRiAIe4Xw==/109951173972906698.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12157298,
+        "works": [
+          {
+            "id": 1976485113,
+            "title": "DROPTOP!"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1976485113"
+        ]
+      }
+    },
+    "n12124013": {
+      "name": "俞天时",
+      "image": "./assets/people/n12124013.jpg",
+      "source": "https://music.163.com/artist?id=12124013",
+      "imageSource": "https://p2.music.126.net/IMTBUcK6KCym_v5064W4hg==/109951173955478411.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12124013,
+        "works": [
+          {
+            "id": 2100558978,
+            "title": "飞天茅台 (Ultimate Remix)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2100558978"
+        ]
+      }
+    },
+    "n12127712": {
+      "name": "梁笑生AIRBUS130",
+      "image": "./assets/people/n12127712.jpg",
+      "source": "https://music.163.com/artist?id=12127712",
+      "imageSource": "https://p1.music.126.net/LwXkl95TPCnSLu0dnwHbFg==/109951172582741379.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12127712,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2155975888"
+        ]
+      }
+    },
+    "n12183619": {
+      "name": "Todd Malone",
+      "image": "./assets/people/n12183619.jpg",
+      "source": "https://music.163.com/artist?id=12183619",
+      "imageSource": "https://p2.music.126.net/PR9LnYJPkxWBgr62prN2xQ==/109951169814352729.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12183619,
+        "works": [
+          {
+            "id": 1819970423,
+            "title": "纵容"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1819970423",
+          "https://music.163.com/song?id=1877751496",
+          "https://music.163.com/song?id=1908081373"
+        ]
+      }
+    },
+    "n12185615": {
+      "name": "迪迪",
+      "image": "./assets/people/n12185615.jpg",
+      "source": "https://music.163.com/artist?id=12185615",
+      "imageSource": "https://p1.music.126.net/Xzihl8Pks5PSKcnZFa0RgA==/109951165994825097.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12185615,
+        "works": [
+          {
+            "id": 1480372447,
+            "title": "MOU问题 河南cypher2020"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1480372447"
+        ]
+      }
+    },
+    "n12213153": {
+      "name": "Gen Neo",
+      "image": "./assets/people/n12213153.jpg",
+      "source": "https://music.163.com/artist?id=12213153",
+      "imageSource": "https://p2.music.126.net/uNcjal_MmC5pfOeVuzFx6g==/109951173729034143.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12213153,
+        "works": [
+          {
+            "id": 1921727842,
+            "title": "DONE THINKING（feat. 梁根荣 Gen Neo，Psy.P）"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1921727842"
+        ]
+      }
+    },
+    "n12228586": {
+      "name": "高嘉丰jiafeng",
+      "image": "./assets/people/n12228586.jpg",
+      "source": "https://music.163.com/artist?id=12228586",
+      "imageSource": "https://p1.music.126.net/C8N0TbCpdaKwPmFTYQR83Q==/109951170312410833.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12228586,
+        "works": [
+          {
+            "id": 2114324920,
+            "title": "微信是聊天的坟墓"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2114324920"
+        ]
+      }
+    },
+    "n12226546": {
+      "name": "YABYesFu",
+      "image": "./assets/people/n12226546.jpg",
+      "source": "https://music.163.com/artist?id=12226546",
+      "imageSource": "https://p1.music.126.net/mUya0GYN4OSpqW5STNTPCg==/109951167471905949.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12226546,
+        "works": [
+          {
+            "id": 1912492166,
+            "title": "Purple Lamborghini"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1912492166"
+        ]
+      }
+    },
+    "n12236269": {
+      "name": "高天佐",
+      "image": "./assets/people/n12236269.jpg",
+      "source": "https://music.163.com/artist?id=12236269",
+      "imageSource": "https://p1.music.126.net/y-3qwEWtftd17tbfZiAUWA==/109951170513898827.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12236269,
+        "works": [
+          {
+            "id": 1937763074,
+            "title": "倒垃圾"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1937763074"
+        ]
+      }
+    },
+    "n12259963": {
+      "name": "FADER ONE",
+      "image": "./assets/people/n12259963.jpg",
+      "source": "https://music.163.com/artist?id=12259963",
+      "imageSource": "https://p1.music.126.net/Kqswheel-65UyHpW6_3DgA==/109951167292930696.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12259963,
+        "works": [
+          {
+            "id": 1952293151,
+            "title": "Fang Fei Remix"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1952293151"
+        ]
+      }
+    },
+    "n12275698": {
+      "name": "TozziyTheHellBoy",
+      "image": "./assets/people/n12275698.jpg",
+      "source": "https://music.163.com/artist?id=12275698",
+      "imageSource": "https://p2.music.126.net/lMglJ0AkWPJp-VH6VEoHWA==/109951171463589509.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12275698,
+        "works": [
+          {
+            "id": 1908081426,
+            "title": "心，逃，亡"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1908081426"
+        ]
+      }
+    },
+    "n12293217": {
+      "name": "LEGGO",
+      "image": "./assets/people/n12293217.jpg",
+      "source": "https://music.163.com/artist?id=12293217",
+      "imageSource": "https://p1.music.126.net/LX_A8Kvvwy1_GICjbG4DXA==/109951172150251056.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12293217,
+        "works": [
+          {
+            "id": 1908083479,
+            "title": "柑橘乌云"
+          },
+          {
+            "id": 1819970423,
+            "title": "纵容"
+          },
+          {
+            "id": 1472142718,
+            "title": "无人区玫瑰"
+          },
+          {
+            "id": 1956519419,
+            "title": "都市问题"
+          },
+          {
+            "id": 1857270974,
+            "title": "招牌 Swing"
+          },
+          {
+            "id": 2629061542,
+            "title": "毒药"
+          },
+          {
+            "id": 2732266081,
+            "title": "White Sera 白血清 (Live)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1472142718",
+          "https://music.163.com/song?id=1819970423",
+          "https://music.163.com/song?id=1857270974"
+        ]
+      }
+    },
+    "n12268101": {
+      "name": "XTONE",
+      "image": "./assets/people/n12268101.jpg",
+      "source": "https://music.163.com/artist?id=12268101",
+      "imageSource": "https://p1.music.126.net/0DHcQFpppVqpOxpe8BV4zg==/109951173955746269.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12268101,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2697703803",
+          "https://music.163.com/song?id=3436809538",
+          "https://music.163.com/song?id=3436810470"
+        ]
+      }
+    },
+    "n12316254": {
+      "name": "Pablo",
+      "image": "./assets/people/n12316254.jpg",
+      "source": "https://music.163.com/artist?id=12316254",
+      "imageSource": "https://p1.music.126.net/Hld0rXVbedafYdOKnTu5KQ==/109951172984357933.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12316254,
+        "works": [
+          {
+            "id": 2085859563,
+            "title": "飘"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1909081625",
+          "https://music.163.com/song?id=1909488696",
+          "https://music.163.com/song?id=2040572199"
+        ]
+      }
+    },
+    "n12328955": {
+      "name": "Udigg",
+      "image": "./assets/people/n12328955.jpg",
+      "source": "https://music.163.com/artist?id=12328955",
+      "imageSource": "https://p1.music.126.net/AMqDMQwQfUkNxHTaxhSw-Q==/109951173193465884.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12328955,
+        "works": [
+          {
+            "id": 1933659329,
+            "title": "西湖水"
+          },
+          {
+            "id": 1977332611,
+            "title": "如果我们"
+          },
+          {
+            "id": 2008727919,
+            "title": "现在的流行(Poping Now)"
+          },
+          {
+            "id": 2008727973,
+            "title": "城市森林(City Zoo)"
+          },
+          {
+            "id": 2003007713,
+            "title": "酷孩子(CoolGuy)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1918027200",
+          "https://music.163.com/song?id=1933659329",
+          "https://music.163.com/song?id=1977332611"
+        ]
+      }
+    },
+    "n12415043": {
+      "name": "安林瑶Alia",
+      "image": "./assets/people/n12415043.jpg",
+      "source": "https://music.163.com/artist?id=12415043",
+      "imageSource": "https://p2.music.126.net/XteddnxvLATeS6I1XOI-Kw==/109951169384808723.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12415043,
+        "works": [
+          {
+            "id": 2600679643,
+            "title": "野兽（feat.PSY.P）"
+          },
+          {
+            "id": 2656035135,
+            "title": "野兽（CDBoi Remix）"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2600679643"
+        ]
+      }
+    },
+    "n12493703": {
+      "name": "K11",
+      "image": "./assets/people/n12493703.jpg",
+      "source": "https://music.163.com/artist?id=12493703",
+      "imageSource": "https://p1.music.126.net/uXbpvnGfHDpub3CrOIgxwA==/109951172160438899.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12493703,
+        "works": [
+          {
+            "id": 1436520262,
+            "title": "林弯弯 (Prod K eleven)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1436520262",
+          "https://music.163.com/song?id=2105406239"
+        ]
+      }
+    },
+    "n12382151": {
+      "name": "nightboitheflash",
+      "image": "./assets/people/n12382151.jpg",
+      "source": "https://music.163.com/artist?id=12382151",
+      "imageSource": "https://p1.music.126.net/f_5rl5u8DvVDtNHCWOZlIw==/109951168735791007.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12382151,
+        "works": [
+          {
+            "id": 1942570554,
+            "title": "纳菲雅夜"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1942570554"
+        ]
+      }
+    },
+    "n12513047": {
+      "name": "赵辰龙(Dragon X)",
+      "image": "./assets/people/n12513047.jpg",
+      "source": "https://music.163.com/artist?id=12513047",
+      "imageSource": "https://p2.music.126.net/c1GUrVrCHmLSvLDClAbywA==/109951169544300562.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12513047,
+        "works": [
+          {
+            "id": 1394155242,
+            "title": "红色-山河版"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1394155242",
+          "https://music.163.com/song?id=1394835352",
+          "https://music.163.com/song?id=2735174725"
+        ]
+      }
+    },
+    "n12523451": {
+      "name": "BrAnTB白景屹",
+      "image": "./assets/people/n12523451.jpg",
+      "source": "https://music.163.com/artist?id=12523451",
+      "imageSource": "https://p1.music.126.net/Sr317x_cuFvlnyxajtjQ8Q==/109951169464498126.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12523451,
+        "works": [
+          {
+            "id": 1907025488,
+            "title": "ONE PLAY(王位) Remix"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1907025488"
+        ]
+      }
+    },
+    "n12529780": {
+      "name": "KenRobb",
+      "image": "./assets/people/n12529780.jpg",
+      "source": "https://music.163.com/artist?id=12529780",
+      "imageSource": "https://p2.music.126.net/c5uvnFo5PW7r3QSPkeXx1g==/109951172355663423.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12529780,
+        "works": [
+          {
+            "id": 2036226011,
+            "title": "现在 你才不幸福"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2036226011"
+        ]
+      }
+    },
+    "n12529503": {
+      "name": "KSA",
+      "image": "./assets/people/n12529503.jpg",
+      "source": "https://music.163.com/artist?id=12529503",
+      "imageSource": "https://p2.music.126.net/JJmNYYal_SpKt_knn1yenA==/109951170331697162.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12529503,
+        "works": [
+          {
+            "id": 1882152366,
+            "title": "超狗任务"
+          },
+          {
+            "id": 2036495323,
+            "title": "25K"
+          },
+          {
+            "id": 1882152364,
+            "title": "陷阱丛林"
+          },
+          {
+            "id": 1882152367,
+            "title": "Dance with Moon"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1882152364",
+          "https://music.163.com/song?id=1882152366",
+          "https://music.163.com/song?id=1882152367"
+        ]
+      }
+    },
+    "n12548132": {
+      "name": "TQ",
+      "image": "./assets/people/n12548132.jpg",
+      "source": "https://music.163.com/artist?id=12548132",
+      "imageSource": "https://p2.music.126.net/kdhH47Hx9bKRo3ZRWJZfvQ==/109951170058758868.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12548132,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1964316595",
+          "https://music.163.com/song?id=1964443056",
+          "https://music.163.com/song?id=1967735685"
+        ]
+      }
+    },
+    "n12702147": {
+      "name": "周夏影",
+      "image": "./assets/people/n12702147.jpg",
+      "source": "https://music.163.com/artist?id=12702147",
+      "imageSource": "https://p1.music.126.net/UwjYsn5LD771uf7wxQtFxg==/109951172023013925.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12702147,
+        "works": [
+          {
+            "id": 2081819322,
+            "title": "Cfbdsir2149"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2081819322"
+        ]
+      }
+    },
+    "n12798217": {
+      "name": "刘思鉴",
+      "image": "./assets/people/n12798217.jpg",
+      "source": "https://music.163.com/artist?id=12798217",
+      "imageSource": "https://p2.music.126.net/8DeHDfOQGSbuH7fnHncv3g==/109951173738232459.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12798217,
+        "works": [
+          {
+            "id": 2097223516,
+            "title": "熊熊烈火"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2097223516",
+          "https://music.163.com/song?id=2756408230"
+        ]
+      }
+    },
+    "n12762192": {
+      "name": "FrozenHeart",
+      "image": "./assets/people/n12762192.jpg",
+      "source": "https://music.163.com/artist?id=12762192",
+      "imageSource": "https://p2.music.126.net/qjQUSZRpFSmMZc_Kz_kBsA==/109951173888103469.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12762192,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1482167547",
+          "https://music.163.com/song?id=1805026985"
+        ]
+      }
+    },
+    "n12897263": {
+      "name": "drippinshawty",
+      "image": "./assets/people/n12897263.jpg",
+      "source": "https://music.163.com/artist?id=12897263",
+      "imageSource": "https://p2.music.126.net/V-wVSjD9biFshaYU7G8pNQ==/109951167796057807.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12897263,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1498532331",
+          "https://music.163.com/song?id=1863149321",
+          "https://music.163.com/song?id=1882152367"
+        ]
+      }
+    },
+    "n12789348": {
+      "name": "G23",
+      "image": "./assets/people/n12789348.jpg",
+      "source": "https://music.163.com/artist?id=12789348",
+      "imageSource": "https://p1.music.126.net/vK64k7V6oUcTKGsbO94zpw==/109951168167044764.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12789348,
+        "works": [
+          {
+            "id": 2725586647,
+            "title": "有法"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2104359434",
+          "https://music.163.com/song?id=2725586647"
+        ]
+      }
+    },
+    "n12904832": {
+      "name": "荨麻疹",
+      "image": "./assets/people/n12904832.jpg",
+      "source": "https://music.163.com/artist?id=12904832",
+      "imageSource": "https://p2.music.126.net/dzgIKnImd4ZVMmbHlGHDmA==/109951170491674093.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12904832,
+        "works": [
+          {
+            "id": 3423058694,
+            "title": "迷失暹罗Feat.荨麻疹"
+          },
+          {
+            "id": 1381001808,
+            "title": "ALONE&LONG"
+          },
+          {
+            "id": 1460304378,
+            "title": "四哥喪币"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1381001808",
+          "https://music.163.com/song?id=1460304378",
+          "https://music.163.com/song?id=1853864505"
+        ]
+      }
+    },
+    "n13029082": {
+      "name": "azazel",
+      "image": "./assets/people/n13029082.jpg",
+      "source": "https://music.163.com/artist?id=13029082",
+      "imageSource": "https://p1.music.126.net/CXRfjmozy4OSFr22NJ4OYw==/109951172382078208.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13029082,
+        "works": [
+          {
+            "id": 3381357122,
+            "title": "Sayless&闹"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=3381357122"
+        ]
+      }
+    },
+    "n13109208": {
+      "name": "YoungMarkin",
+      "image": "./assets/people/n13109208.jpg",
+      "source": "https://music.163.com/artist?id=13109208",
+      "imageSource": "https://p2.music.126.net/EX6PdRSP02X40T1V3RV9-A==/109951167784600715.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13109208,
+        "works": [
+          {
+            "id": 1808725312,
+            "title": "No Lie 2 Me (Prod. YoungMarkin)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1808725312"
+        ]
+      }
+    },
+    "n12924606": {
+      "name": "ayin印",
+      "image": "./assets/people/n12924606.jpg",
+      "source": "https://music.163.com/artist?id=12924606",
+      "imageSource": "https://p2.music.126.net/L5L4zD8rVMXVKmZvuG5HTg==/109951173659681536.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 12924606,
+        "works": [
+          {
+            "id": 3371365502,
+            "title": "Wet"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=3371365502"
+        ]
+      }
+    },
+    "n13451886": {
+      "name": "JinJiBeWater_隼",
+      "image": "./assets/people/n13451886.jpg",
+      "source": "https://music.163.com/artist?id=13451886",
+      "imageSource": "https://p2.music.126.net/lwzDVFpq_4wKUzJURdwijQ==/109951174131325219.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13451886,
+        "works": [
+          {
+            "id": 3423059546,
+            "title": "年少成名"
+          },
+          {
+            "id": 1954524453,
+            "title": "六月九日阴Ft.JinJiBeWater隼"
+          },
+          {
+            "id": 3423058623,
+            "title": "直视痛苦"
+          },
+          {
+            "id": 3423058551,
+            "title": "蜀道难"
+          },
+          {
+            "id": 3423059561,
+            "title": "营火Feat.万妮达Vinida Weng"
+          },
+          {
+            "id": 3423040060,
+            "title": "我梦到还剩5分钟死去"
+          },
+          {
+            "id": 3423058694,
+            "title": "迷失暹罗Feat.荨麻疹"
+          },
+          {
+            "id": 3423059477,
+            "title": "DUMB"
+          },
+          {
+            "id": 3423059597,
+            "title": "无人给你喝彩"
+          },
+          {
+            "id": 3423058651,
+            "title": "鼻祖鼻祖鼻祖鼻祖鼻祖!!!!!"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1853864505",
+          "https://music.163.com/song?id=1857323625",
+          "https://music.163.com/song?id=1948056363"
+        ]
+      }
+    },
+    "n13899303": {
+      "name": "杨和苏KeyNG",
+      "image": "./assets/people/n13899303.jpg",
+      "source": "https://music.163.com/artist?id=13899303",
+      "imageSource": "https://p2.music.126.net/-Xy6jVswqXtI5h7duPNSHw==/109951171453051553.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13899303,
+        "works": [
+          {
+            "id": 1469041281,
+            "title": "很久很久"
+          },
+          {
+            "id": 1394123837,
+            "title": "\"她\""
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1394123837",
+          "https://music.163.com/song?id=1469041281"
+        ]
+      }
+    },
+    "n13528028": {
+      "name": "FANTASYLAND",
+      "image": "./assets/people/n13528028.jpg",
+      "source": "https://music.163.com/artist?id=13528028",
+      "imageSource": "https://p2.music.126.net/1a5-2DFNVokGJTmVELjCWA==/109951172054223795.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13528028,
+        "works": [
+          {
+            "id": 1435749283,
+            "title": "Hate me（prod.Spyder x Skress）"
+          },
+          {
+            "id": 1406885811,
+            "title": "FAIRYTALES"
+          },
+          {
+            "id": 1423532323,
+            "title": "溺死。・゜・。★prod+Odece"
+          },
+          {
+            "id": 1439398577,
+            "title": "玛丽亚"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1406885811",
+          "https://music.163.com/song?id=1423532323",
+          "https://music.163.com/song?id=1435749283"
+        ]
+      }
+    },
+    "n13698278": {
+      "name": "FlyingJacuzzi",
+      "image": "./assets/people/n13698278.jpg",
+      "source": "https://music.163.com/artist?id=13698278",
+      "imageSource": "https://p1.music.126.net/tztWnJ7i87YH7RXCn4uB-A==/109951163211737317.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13698278,
+        "works": [
+          {
+            "id": 2095299916,
+            "title": "差点意思 Try Harder(feat.thomeboydontkill)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2095299916"
+        ]
+      }
+    },
+    "n13699284": {
+      "name": "JACKWAVY",
+      "image": "./assets/people/n13699284.jpg",
+      "source": "https://music.163.com/artist?id=13699284",
+      "imageSource": "https://p2.music.126.net/-Kn-xjEFX51zmqrpGjfFog==/109951170186101502.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 13699284,
+        "works": [
+          {
+            "id": 2085860427,
+            "title": "ON MY WAY"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2085860427"
+        ]
+      }
+    },
+    "n14018235": {
+      "name": "黄之仪Kyra Zilver",
+      "image": "./assets/people/n14018235.jpg",
+      "source": "https://music.163.com/artist?id=14018235",
+      "imageSource": "https://p1.music.126.net/F6ajarwLHHycrW-1JPlcTw==/109951173848404704.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 14018235,
+        "works": [
+          {
+            "id": 3425649294,
+            "title": "阳光明朗的一天"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=3425649294"
+        ]
+      }
+    },
+    "n188141": {
+      "name": "满舒克",
+      "image": "./assets/people/n188141.jpg",
+      "source": "https://music.163.com/artist?id=188141",
+      "imageSource": "https://p2.music.126.net/ZY6pRcKLqzMNbGTrbWb_6Q==/109951167525919164.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 188141,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2699331774"
+        ]
+      }
+    },
+    "n15194340": {
+      "name": "张方钊",
+      "image": "./assets/people/n15194340.jpg",
+      "source": "https://music.163.com/artist?id=15194340",
+      "imageSource": "https://p2.music.126.net/ZENpbkoMj3xHYV6bdmQgvQ==/109951173955160849.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 15194340,
+        "works": [
+          {
+            "id": 1462707541,
+            "title": "唉"
+          },
+          {
+            "id": 2036226011,
+            "title": "现在 你才不幸福"
+          },
+          {
+            "id": 3437986736,
+            "title": "不过就是一眨眼"
+          },
+          {
+            "id": 2153825358,
+            "title": "工厂"
+          },
+          {
+            "id": 2633740189,
+            "title": "唉 (pt.7)"
+          },
+          {
+            "id": 1979723287,
+            "title": "我有点焦虑"
+          },
+          {
+            "id": 1492114515,
+            "title": "唉 (pt.3)"
+          },
+          {
+            "id": 3436809273,
+            "title": "今非昔比"
+          },
+          {
+            "id": 1907797858,
+            "title": "真心话就是大冒险"
+          },
+          {
+            "id": 2041207383,
+            "title": "爱一半留一半"
+          },
+          {
+            "id": 2740498684,
+            "title": "回避依恋"
+          },
+          {
+            "id": 2740498685,
+            "title": "尴尬的"
+          },
+          {
+            "id": 2740498015,
+            "title": "双向狂欢"
+          },
+          {
+            "id": 1476554602,
+            "title": "唉 (pt.2)"
+          },
+          {
+            "id": 1967752637,
+            "title": "总比好过没有感情"
+          },
+          {
+            "id": 2036225987,
+            "title": "我没有你想的 活的明白"
+          },
+          {
+            "id": 2740498686,
+            "title": "简单的"
+          },
+          {
+            "id": 1965929258,
+            "title": "反派英雄"
+          },
+          {
+            "id": 1967744519,
+            "title": "倒带一辈子"
+          },
+          {
+            "id": 1836462679,
+            "title": "夜晚打灯我找不到爱"
+          },
+          {
+            "id": 2740498678,
+            "title": "穷惯了"
+          },
+          {
+            "id": 2036231782,
+            "title": "那你嘞"
+          },
+          {
+            "id": 1810729670,
+            "title": "唉 (pt.5)"
+          },
+          {
+            "id": 1882417545,
+            "title": "唉 (pt.6)"
+          },
+          {
+            "id": 1839449600,
+            "title": "唉 (pt.4)"
+          },
+          {
+            "id": 2740498687,
+            "title": "Outro"
+          },
+          {
+            "id": 2106426268,
+            "title": "锁链 pt2"
+          },
+          {
+            "id": 3436813098,
+            "title": "踩地上"
+          },
+          {
+            "id": 2072590350,
+            "title": "龙卷风"
+          },
+          {
+            "id": 3436814032,
+            "title": "若即若离"
+          },
+          {
+            "id": 2740498012,
+            "title": "阳光实在美好，就算美好的一天吗?"
+          },
+          {
+            "id": 2072639815,
+            "title": "晒干我的pain"
+          },
+          {
+            "id": 2740498010,
+            "title": "钱"
+          },
+          {
+            "id": 2738036501,
+            "title": "时间列车"
+          },
+          {
+            "id": 1967704613,
+            "title": "Selfish (Ft.KenRobb)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1401523497",
+          "https://music.163.com/song?id=1460304378",
+          "https://music.163.com/song?id=1836462679"
+        ]
+      }
+    },
+    "n187624": {
+      "name": "Q.luv",
+      "image": "./assets/people/n187624.jpg",
+      "source": "https://music.163.com/artist?id=187624",
+      "imageSource": "https://p1.music.126.net/tBo7pVe-IBbNz5rz07gGfA==/109951169282940158.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 187624,
+        "works": [
+          {
+            "id": 2100558978,
+            "title": "飞天茅台 (Ultimate Remix)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2100558978"
+        ]
+      }
+    },
+    "n197248": {
+      "name": "R3HAB",
+      "image": "./assets/people/n197248.jpg",
+      "source": "https://music.163.com/artist?id=197248",
+      "imageSource": "https://p2.music.126.net/KGJlhgCI9zBGU5fV3y8wNQ==/109951172630181422.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 197248,
+        "works": [
+          {
+            "id": 2048344999,
+            "title": "Distance (R3HAB Remix)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2048344999"
+        ]
+      }
+    },
+    "n14016611": {
+      "name": "Bubbleboy",
+      "image": "./assets/people/n14016611.jpg",
+      "source": "https://music.163.com/artist?id=14016611",
+      "imageSource": "https://p1.music.126.net/6NTcSqGUa-e_CdstI1Aixg==/109951165808728979.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 14016611,
+        "works": [
+          {
+            "id": 1892692807,
+            "title": "我 太 帅"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1892692807",
+          "https://music.163.com/song?id=1906037773",
+          "https://music.163.com/song?id=1907797858"
+        ]
+      }
+    },
+    "n2524": {
+      "name": "大张伟",
+      "image": "./assets/people/n2524.jpg",
+      "source": "https://music.163.com/artist?id=2524",
+      "imageSource": "https://p2.music.126.net/7DBeSdD8t6ULqDp-6PK_rw==/109951163309009334.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 2524,
+        "works": [
+          {
+            "id": 2124030803,
+            "title": "只为自己开的花"
+          },
+          {
+            "id": 2152313798,
+            "title": "万物盛开法则plus (Live)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2152313798",
+          "https://music.163.com/song?id=2609732084"
+        ]
+      }
+    },
+    "n27866110": {
+      "name": "Louis 1520",
+      "image": "./assets/people/n27866110.jpg",
+      "source": "https://music.163.com/artist?id=27866110",
+      "imageSource": "https://p2.music.126.net/LjNKBfhC9lgK-YxICpnWaw==/109951174083307673.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 27866110,
+        "works": [
+          {
+            "id": 1910738837,
+            "title": "Ride4you"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1910738837"
+        ]
+      }
+    },
+    "n30003804": {
+      "name": "404 RAPPER",
+      "image": "./assets/people/n30003804.jpg",
+      "source": "https://music.163.com/artist?id=30003804",
+      "imageSource": "https://p1.music.126.net/-OPbbZN4XTKpvg-jvwttfw==/109951164076924582.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 30003804,
+        "works": [
+          {
+            "id": 1408930588,
+            "title": "POUR IT UP"
+          },
+          {
+            "id": 1847059460,
+            "title": "backbone"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1408930588",
+          "https://music.163.com/song?id=1847059460"
+        ]
+      }
+    },
+    "n30134996": {
+      "name": "杭异凡",
+      "image": "./assets/people/n30134996.jpg",
+      "source": "https://music.163.com/artist?id=30134996",
+      "imageSource": "https://p2.music.126.net/F9uNQdRvctzxWVTENq220Q==/109951172581485455.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 30134996,
+        "works": [
+          {
+            "id": 2612729185,
+            "title": "山河"
+          },
+          {
+            "id": 3316584402,
+            "title": "回声"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2612729185",
+          "https://music.163.com/song?id=3316584402"
+        ]
+      }
+    },
+    "n30223665": {
+      "name": "狂兆北",
+      "image": "./assets/people/n30223665.jpg",
+      "source": "https://music.163.com/artist?id=30223665",
+      "imageSource": "https://p2.music.126.net/YYl49Bg94sxfuqw4NQAL6w==/109951169379701293.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 30223665,
+        "works": [
+          {
+            "id": 1907814085,
+            "title": "缝"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1907814085"
+        ]
+      }
+    },
+    "n27729363": {
+      "name": "LeeHX李鸿翔",
+      "image": "./assets/people/n27729363.jpg",
+      "source": "https://music.163.com/artist?id=27729363",
+      "imageSource": "https://p2.music.126.net/tDa21gpEW-OuiswTNs7vFQ==/109951169362213329.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 27729363,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1492074263",
+          "https://music.163.com/song?id=1841289592",
+          "https://music.163.com/song?id=1841289612"
+        ]
+      }
+    },
+    "n30395569": {
+      "name": "杨秋儒",
+      "image": "./assets/people/n30395569.jpg",
+      "source": "https://music.163.com/artist?id=30395569",
+      "imageSource": "https://p2.music.126.net/CWHwao96_ZSNuU2qU_JeLw==/109951168915251633.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 30395569,
+        "works": [
+          {
+            "id": 1336856498,
+            "title": "我想part2"
+          },
+          {
+            "id": 1969846925,
+            "title": "回家part2"
+          },
+          {
+            "id": 1334297109,
+            "title": "回家"
+          },
+          {
+            "id": 1488985584,
+            "title": "伤心游击队 (sad squaad)"
+          },
+          {
+            "id": 1845409162,
+            "title": "温柔小曲"
+          },
+          {
+            "id": 1488985592,
+            "title": "最短的告白"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1321385072",
+          "https://music.163.com/song?id=1321385074",
+          "https://music.163.com/song?id=1336856498"
+        ]
+      }
+    },
+    "n31050978": {
+      "name": "麦克羊",
+      "image": "./assets/people/n31050978.jpg",
+      "source": "https://music.163.com/artist?id=31050978",
+      "imageSource": "https://p2.music.126.net/I413Qhc8NbkSFzNUFLgF8A==/109951170348005193.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 31050978,
+        "works": [
+          {
+            "id": 2052466051,
+            "title": "危险关系"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2052466051"
+        ]
+      }
+    },
+    "n31093989": {
+      "name": "LusciousBB",
+      "image": "./assets/people/n31093989.jpg",
+      "source": "https://music.163.com/artist?id=31093989",
+      "imageSource": "https://p2.music.126.net/VESAiTCtBhut8Oasp0ObZw==/109951168405629451.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 31093989,
+        "works": [
+          {
+            "id": 2114980065,
+            "title": "月光 Moonlight"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2110873369",
+          "https://music.163.com/song?id=2114980065",
+          "https://music.163.com/song?id=2163934060"
+        ]
+      }
+    },
+    "n31060023": {
+      "name": "7-VV-N_总监",
+      "image": "./assets/people/n31060023.jpg",
+      "source": "https://music.163.com/artist?id=31060023",
+      "imageSource": "https://p2.music.126.net/ex3-XsZ7Gx7siRSWlnCkiQ==/109951169389973102.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 31060023,
+        "works": [
+          {
+            "id": 1412618266,
+            "title": "暴雨海洋"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1412618266"
+        ]
+      }
+    },
+    "n32005660": {
+      "name": "MAZE",
+      "image": "./assets/people/n32005660.jpg",
+      "source": "https://music.163.com/artist?id=32005660",
+      "imageSource": "https://p2.music.126.net/mzQyJ3IDuYwH4nRMlUwtnw==/109951169292896563.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32005660,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1837745784",
+          "https://music.163.com/song?id=1842306602",
+          "https://music.163.com/song?id=1862259822"
+        ]
+      }
+    },
+    "n32252720": {
+      "name": "ZII",
+      "image": "./assets/people/n32252720.jpg",
+      "source": "https://music.163.com/artist?id=32252720",
+      "imageSource": "https://p2.music.126.net/fggVdjZcv7huVe6Mt88t3A==/109951170165275808.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32252720,
+        "works": [
+          {
+            "id": 1861140536,
+            "title": "么得Dior意思(ft. KnowKnow)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1861140536"
+        ]
+      }
+    },
+    "n32429225": {
+      "name": "AYO!",
+      "image": "./assets/people/n32429225.jpg",
+      "source": "https://music.163.com/artist?id=32429225",
+      "imageSource": "https://p1.music.126.net/QyZFNfkjbVD70wT4hjHwmg==/109951167812593923.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32429225,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1965646815"
+        ]
+      }
+    },
+    "n32827173": {
+      "name": "404#udkcis",
+      "image": "./assets/people/n32827173.jpg",
+      "source": "https://music.163.com/artist?id=32827173",
+      "imageSource": "https://p1.music.126.net/6S46AGuU79MSCEEYXEVlUg==/109951172306201292.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32827173,
+        "works": [
+          {
+            "id": 1910638946,
+            "title": "懂娃Ft.JinJiBeWater隼"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1910638946"
+        ]
+      }
+    },
+    "n32435188": {
+      "name": "维斯",
+      "image": "./assets/people/n32435188.jpg",
+      "source": "https://music.163.com/artist?id=32435188",
+      "imageSource": "https://p2.music.126.net/-At4laRrFWvgEM3dn86-fg==/109951172901492065.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32435188,
+        "works": [
+          {
+            "id": 2028680744,
+            "title": "异乡人"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2028680744"
+        ]
+      }
+    },
+    "n32893629": {
+      "name": "陈一豪Clear",
+      "image": "./assets/people/n32893629.jpg",
+      "source": "https://music.163.com/artist?id=32893629",
+      "imageSource": "https://p2.music.126.net/P9I3MUMnR0RzIIZM_b3z7Q==/109951173535912472.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32893629,
+        "works": [
+          {
+            "id": 2039986280,
+            "title": "Leave"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2039986280"
+        ]
+      }
+    },
+    "n33165901": {
+      "name": "RICHNOMADIC",
+      "image": "./assets/people/n33165901.jpg",
+      "source": "https://music.163.com/artist?id=33165901",
+      "imageSource": "https://p1.music.126.net/ZSO6K-AV3AndfuaOt0rXMA==/109951174129635366.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 33165901,
+        "works": [
+          {
+            "id": 1899161130,
+            "title": "彝藏汉（Prod.yz)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1899161130"
+        ]
+      }
+    },
+    "n32436403": {
+      "name": "Monovisa",
+      "image": "./assets/people/n32436403.jpg",
+      "source": "https://music.163.com/artist?id=32436403",
+      "imageSource": "https://p2.music.126.net/L2p4AWJwMpDuSCqhhq5ThA==/109951169291733089.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32436403,
+        "works": [
+          {
+            "id": 3433370230,
+            "title": "直接吃儿起Cypher"
+          },
+          {
+            "id": 3433370228,
+            "title": "第八十难"
+          },
+          {
+            "id": 2097850520,
+            "title": "陶渊明"
+          },
+          {
+            "id": 3433371184,
+            "title": "intro CANDYTIME"
+          },
+          {
+            "id": 3433370239,
+            "title": "十月黄昏"
+          },
+          {
+            "id": 2139664730,
+            "title": "自我意识"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2063453994",
+          "https://music.163.com/song?id=2073164315",
+          "https://music.163.com/song?id=2073164343"
+        ]
+      }
+    },
+    "n32914814": {
+      "name": "泡椒花生",
+      "image": "./assets/people/n32914814.jpg",
+      "source": "https://music.163.com/artist?id=32914814",
+      "imageSource": "https://p2.music.126.net/2-wPNIiZTOVgqc7UPH93lA==/109951171980965035.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32914814,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2048335360",
+          "https://music.163.com/song?id=2073164363"
+        ]
+      }
+    },
+    "n33216986": {
+      "name": "SETI",
+      "image": "./assets/people/n33216986.jpg",
+      "source": "https://music.163.com/artist?id=33216986",
+      "imageSource": "https://p1.music.126.net/HjAekvbpwGQ73MHIpd2bhQ==/109951174131146424.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 33216986,
+        "works": [
+          {
+            "id": 2122615322,
+            "title": "Forget it （feat. Mac Ova Seas）"
+          },
+          {
+            "id": 2122615077,
+            "title": "Forget it"
+          },
+          {
+            "id": 2122608212,
+            "title": "这觉喊没法睡了 feat. Vansdaddy"
+          },
+          {
+            "id": 3380564074,
+            "title": "Forget It(Live.feat. mac ova seas)"
+          },
+          {
+            "id": 2052741279,
+            "title": "苏珊"
+          },
+          {
+            "id": 3340697529,
+            "title": "对峙"
+          },
+          {
+            "id": 2053399892,
+            "title": "翻山越岭"
+          },
+          {
+            "id": 2053382973,
+            "title": "邂逅"
+          },
+          {
+            "id": 3340700134,
+            "title": "自画像"
+          },
+          {
+            "id": 2053423466,
+            "title": "自画像"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1478381001",
+          "https://music.163.com/song?id=1485815352",
+          "https://music.163.com/song?id=2052741279"
+        ]
+      }
+    },
+    "n32895107": {
+      "name": "MinHo",
+      "image": "./assets/people/n32895107.jpg",
+      "source": "https://music.163.com/artist?id=32895107",
+      "imageSource": "https://p1.music.126.net/2mDezKy7HBkP-xRjfacj1Q==/109951168538230475.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 32895107,
+        "works": [
+          {
+            "id": 1857323625,
+            "title": "圈 LIMIT"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1857323625"
+        ]
+      }
+    },
+    "n33984327": {
+      "name": "翁伟栋",
+      "image": "./assets/people/n33984327.jpg",
+      "source": "https://music.163.com/artist?id=33984327",
+      "imageSource": "https://p2.music.126.net/LN3AO_DKWp10yxlKGII64Q==/109951172948297914.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 33984327,
+        "works": [
+          {
+            "id": 2120384251,
+            "title": "偏航"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2120384251"
+        ]
+      }
+    },
+    "n34173729": {
+      "name": "VainlyBoiAslayërr",
+      "image": "./assets/people/n34173729.jpg",
+      "source": "https://music.163.com/artist?id=34173729",
+      "imageSource": "https://p2.music.126.net/P5trTdxXlPLREBfDF94T3Q==/109951165797647987.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 34173729,
+        "works": [
+          {
+            "id": 2697666121,
+            "title": "漂亮眼睛"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1933659329",
+          "https://music.163.com/song?id=2028898313",
+          "https://music.163.com/song?id=2035989863"
+        ]
+      }
+    },
+    "n34272376": {
+      "name": "MarioLikeMe",
+      "image": "./assets/people/n34272376.jpg",
+      "source": "https://music.163.com/artist?id=34272376",
+      "imageSource": "https://p1.music.126.net/rED19o-DX3jlQU71HCA2IQ==/109951169670827203.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 34272376,
+        "works": [
+          {
+            "id": 2020322384,
+            "title": "Deja Vu"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2020322384"
+        ]
+      }
+    },
+    "n35884195": {
+      "name": "翁杰Winjay",
+      "image": "./assets/people/n35884195.jpg",
+      "source": "https://music.163.com/artist?id=35884195",
+      "imageSource": "https://p1.music.126.net/rtP5KlpX97D16QROC9WYng==/109951172549373407.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 35884195,
+        "works": [
+          {
+            "id": 3334713998,
+            "title": "蛇吞象"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=3334713998"
+        ]
+      }
+    },
+    "n34319290": {
+      "name": "Clutch+离合",
+      "image": "./assets/people/n34319290.jpg",
+      "source": "https://music.163.com/artist?id=34319290",
+      "imageSource": "https://p1.music.126.net/nlvjRerJJlji7P1dDYgYkw==/109951169922880587.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 34319290,
+        "works": [
+          {
+            "id": 3415062385,
+            "title": "NO CHANCE"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=3415062385"
+        ]
+      }
+    },
+    "n34639852": {
+      "name": "叶轩池",
+      "image": "./assets/people/n34639852.jpg",
+      "source": "https://music.163.com/artist?id=34639852",
+      "imageSource": "https://p2.music.126.net/aCsJGTmvI1pz14d-Xs9BZw==/109951173439210907.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 34639852,
+        "works": [
+          {
+            "id": 3433370241,
+            "title": "交大绿岭又停电了"
+          },
+          {
+            "id": 3433370242,
+            "title": "虚焦"
+          },
+          {
+            "id": 2033031045,
+            "title": "年兽"
+          },
+          {
+            "id": 2033069712,
+            "title": "南极洲Kanye"
+          },
+          {
+            "id": 2166832617,
+            "title": "神啊，你能给我买点什么吗？"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2033031045",
+          "https://music.163.com/song?id=2033069712",
+          "https://music.163.com/song?id=2166832617"
+        ]
+      }
+    },
+    "n4481": {
+      "name": "满江",
+      "image": "./assets/people/n4481.jpg",
+      "source": "https://music.163.com/artist?id=4481",
+      "imageSource": "https://p1.music.126.net/Ck4KQ4Gf8oGbUHXLhRYHPQ==/109951170761876131.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 4481,
+        "works": [
+          {
+            "id": 1932524623,
+            "title": "旗帜"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1932524623"
+        ]
+      }
+    },
+    "n35946228": {
+      "name": "AZ啊之",
+      "image": "./assets/people/n35946228.jpg",
+      "source": "https://music.163.com/artist?id=35946228",
+      "imageSource": "https://p2.music.126.net/rOdkPMJtv-WrJB4jCYeq1A==/109951167254059738.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 35946228,
+        "works": [
+          {
+            "id": 1937763074,
+            "title": "倒垃圾"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1937763074"
+        ]
+      }
+    },
+    "n43158": {
+      "name": "病态男孩",
+      "image": "./assets/people/n43158.jpg",
+      "source": "https://music.163.com/artist?id=43158",
+      "imageSource": "https://p2.music.126.net/SthyEqSH0qVoE43k4occwA==/109951174194316454.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 43158,
+        "works": [
+          {
+            "id": 1979302371,
+            "title": "沉默"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1979302371",
+          "https://music.163.com/song?id=3436813098"
+        ]
+      }
+    },
+    "n37132535": {
+      "name": "RTYRACE",
+      "image": "./assets/people/n37132535.jpg",
+      "source": "https://music.163.com/artist?id=37132535",
+      "imageSource": "https://p1.music.126.net/TWswOgoXuJDLquNULy2iSA==/109951173008907757.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 37132535,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2013290412"
+        ]
+      }
+    },
+    "n46452045": {
+      "name": "ZASA",
+      "image": "./assets/people/n46452045.jpg",
+      "source": "https://music.163.com/artist?id=46452045",
+      "imageSource": "https://p2.music.126.net/tBv9l2B85l8EjKo91TOhKg==/109951173466792476.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 46452045,
+        "works": [
+          {
+            "id": 1824566701,
+            "title": "52Hz(Alice version)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1824566701"
+        ]
+      }
+    },
+    "n46549449": {
+      "name": "Akemen",
+      "image": "./assets/people/n46549449.jpg",
+      "source": "https://music.163.com/artist?id=46549449",
+      "imageSource": "https://p2.music.126.net/qR_NN4qSC3oU47nuGHm2mw==/109951173684109398.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 46549449,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2141298734"
+        ]
+      }
+    },
+    "n48045772": {
+      "name": "ANGPANG",
+      "image": "./assets/people/n48045772.jpg",
+      "source": "https://music.163.com/artist?id=48045772",
+      "imageSource": "https://p2.music.126.net/v2LDHWs0WBJNl5SU6-qsyw==/109951168900449476.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 48045772,
+        "works": [
+          {
+            "id": 2698390694,
+            "title": "BASIC"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2698390694"
+        ]
+      }
+    },
+    "n48277407": {
+      "name": "BOBBYNOPEACE",
+      "image": "./assets/people/n48277407.jpg",
+      "source": "https://music.163.com/artist?id=48277407",
+      "imageSource": "https://p1.music.126.net/yA8Yg7smOSUbPL68lqzMuQ==/109951173913716164.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 48277407,
+        "works": [
+          {
+            "id": 1954524453,
+            "title": "六月九日阴Ft.JinJiBeWater隼"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1954524453"
+        ]
+      }
+    },
+    "n50039862": {
+      "name": "FiRe范艾迩",
+      "image": "./assets/people/n50039862.jpg",
+      "source": "https://music.163.com/artist?id=50039862",
+      "imageSource": "https://p2.music.126.net/WJsHs7FH5n-BICGIlrbdpQ==/109951173994247323.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 50039862,
+        "works": [
+          {
+            "id": 3439387316,
+            "title": "G.T.R."
+          },
+          {
+            "id": 3323827598,
+            "title": "戰術娘:Tactical Mom Intro."
+          },
+          {
+            "id": 2610628123,
+            "title": "波点"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1968156124",
+          "https://music.163.com/song?id=1969813336",
+          "https://music.163.com/song?id=1975800434"
+        ]
+      }
+    },
+    "n51829833": {
+      "name": "说唱教官qasa",
+      "image": "./assets/people/n51829833.jpg",
+      "source": "https://music.163.com/artist?id=51829833",
+      "imageSource": "https://p1.music.126.net/_Czfbdu0SWAjY89_hMZsMA==/109951169399391427.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 51829833,
+        "works": [
+          {
+            "id": 2048971457,
+            "title": "古怪因子"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2048971457"
+        ]
+      }
+    },
+    "n53113593": {
+      "name": "张峻豪SHUN",
+      "image": "./assets/people/n53113593.jpg",
+      "source": "https://music.163.com/artist?id=53113593",
+      "imageSource": "https://p2.music.126.net/Q0fHX_dsHdszXrIzklTjrQ==/109951171689653129.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 53113593,
+        "works": [
+          {
+            "id": 2750047704,
+            "title": "Love Volcano"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2750047704"
+        ]
+      }
+    },
+    "n48353226": {
+      "name": "COOZI",
+      "image": "./assets/people/n48353226.jpg",
+      "source": "https://music.163.com/artist?id=48353226",
+      "imageSource": "https://p2.music.126.net/LMAM6LJDcwwvfOx7FKBHaw==/109951172283117039.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 48353226,
+        "works": [
+          {
+            "id": 1916925121,
+            "title": "Weirdcore Dinner"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1916925121"
+        ]
+      }
+    },
+    "n5350": {
+      "name": "吴克群",
+      "image": "./assets/people/n5350.jpg",
+      "source": "https://music.163.com/artist?id=5350",
+      "imageSource": "https://p2.music.126.net/2A1lDp2KXfgnFQ95QXldDA==/109951172840238682.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 5350,
+        "works": [
+          {
+            "id": 2737837632,
+            "title": "分手排行榜"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2737837632"
+        ]
+      }
+    },
+    "n56564450": {
+      "name": "王豆",
+      "image": "./assets/people/n56564450.jpg",
+      "source": "https://music.163.com/artist?id=56564450",
+      "imageSource": "https://p1.music.126.net/zq1EL-Xe9yZlYu-JbkNstw==/109951173090300841.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 56564450,
+        "works": [
+          {
+            "id": 3436814096,
+            "title": "比天高"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2740498678",
+          "https://music.163.com/song?id=3436809273",
+          "https://music.163.com/song?id=3436809538"
+        ]
+      }
+    },
+    "n53921455": {
+      "name": "Liue",
+      "image": "./assets/people/n53921455.jpg",
+      "source": "https://music.163.com/artist?id=53921455",
+      "imageSource": "https://p2.music.126.net/lEYlE9Zo-bth-zeitaRsoQ==/109951174126451929.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 53921455,
+        "works": [
+          {
+            "id": 2020295743,
+            "title": "IOOU"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2020295743"
+        ]
+      }
+    },
+    "n6652": {
+      "name": "周传雄",
+      "image": "./assets/people/n6652.jpg",
+      "source": "https://music.163.com/artist?id=6652",
+      "imageSource": "https://p2.music.126.net/kYc19-cfIMCDoSFwq1vgTg==/109951173061600160.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 6652,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2647785252"
+        ]
+      }
+    },
+    "n54247662": {
+      "name": "刀脚",
+      "image": "./assets/people/n54247662.jpg",
+      "source": "https://music.163.com/artist?id=54247662",
+      "imageSource": "https://p1.music.126.net/1boUUGnDBkl8vc1Vk54Ohw==/109951173569640287.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 54247662,
+        "works": [
+          {
+            "id": 2155972625,
+            "title": "哦（That'it）"
+          },
+          {
+            "id": 2738934515,
+            "title": "哦 (Live)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1948055313",
+          "https://music.163.com/song?id=2048971457",
+          "https://music.163.com/song?id=2100264951"
+        ]
+      }
+    },
+    "n816248": {
+      "name": "于文文",
+      "image": "./assets/people/n816248.jpg",
+      "source": "https://music.163.com/artist?id=816248",
+      "imageSource": "https://p2.music.126.net/qqP7T57ifBhLU_a2ZtfqfA==/109951170187640451.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 816248,
+        "works": [
+          {
+            "id": 1386079916,
+            "title": "心跳 (Live)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1386079916"
+        ]
+      }
+    },
+    "n607160": {
+      "name": "808 Mafia",
+      "image": "./assets/people/n607160.jpg",
+      "source": "https://music.163.com/artist?id=607160",
+      "imageSource": "https://p1.music.126.net/YWaW3hU5bPXDIG96iK3WZQ==/109951168540363743.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 607160,
+        "works": [
+          {
+            "id": 2038217027,
+            "title": "ANYWAY（Prod. by 808Mafia）"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2038217027"
+        ]
+      }
+    },
+    "n59528211": {
+      "name": "鼠尾草",
+      "image": "./assets/people/n59528211.jpg",
+      "source": "https://music.163.com/artist?id=59528211",
+      "imageSource": "https://p2.music.126.net/sv15Ht_46qotsbPU5zEIGg==/109951169200216608.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 59528211,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2103764064"
+        ]
+      }
+    },
+    "n865007": {
+      "name": "法老",
+      "image": "./assets/people/n865007.jpg",
+      "source": "https://music.163.com/artist?id=865007",
+      "imageSource": "https://p2.music.126.net/mXAWgUNp5pLAzmphYvBrzQ==/109951170711607308.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 865007,
+        "works": [
+          {
+            "id": 2690846498,
+            "title": "来电瑶"
+          },
+          {
+            "id": 2693446565,
+            "title": "Worldwide"
+          },
+          {
+            "id": 2065926839,
+            "title": "我想 (remix) (LIVE版)"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=2032777023",
+          "https://music.163.com/song?id=2164880569",
+          "https://music.163.com/song?id=2688790957"
+        ]
+      }
+    },
+    "n830038": {
+      "name": "郑宇界",
+      "image": "./assets/people/n830038.jpg",
+      "source": "https://music.163.com/artist?id=830038",
+      "imageSource": "https://p2.music.126.net/vhoB4AVIPPqLGurNBy3XGA==/109951172399500687.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 830038,
+        "works": [
+          {
+            "id": 1334297124,
+            "title": "大气层"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1334297124",
+          "https://music.163.com/song?id=523251338"
+        ]
+      }
+    },
+    "n985402": {
+      "name": "张尕怂",
+      "image": "./assets/people/n985402.jpg",
+      "source": "https://music.163.com/artist?id=985402",
+      "imageSource": "https://p2.music.126.net/rX68f_4gzoJ67CGX6KsEEA==/109951168477361000.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 985402,
+        "works": [
+          {
+            "id": 1969845255,
+            "title": "雨季"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1969845255"
+        ]
+      }
+    },
+    "ubWFp": {
+      "name": "mai",
+      "image": "./assets/people/ubWFp.jpg",
+      "source": "https://music.163.com/artist?id=6309",
+      "imageSource": "https://p2.music.126.net/ybT73o31hQsxi2U5eRW7Gg==/109951169742637657.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-shared-work",
+        "artistId": 6309,
+        "works": [
+          {
+            "id": 1826189041,
+            "title": "花,太阳,彩虹,你"
+          }
+        ],
+        "creditSources": [
+          "https://music.163.com/song?id=1411990343",
+          "https://music.163.com/song?id=1488990337",
+          "https://music.163.com/song?id=1826189041"
+        ]
+      }
+    },
+    "c546L6LGG": {
+      "name": "王豆",
+      "image": "./assets/people/n56564450.jpg",
+      "source": "https://music.163.com/artist?id=56564450",
+      "imageSource": "https://p1.music.126.net/zq1EL-Xe9yZlYu-JbkNstw==/109951173090300841.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2154160020"
+        ]
+      },
+      "matchedPersonId": "n56564450"
+    },
+    "c5biD5YWwYnJvd24": {
+      "name": "布兰Brown",
+      "image": "./assets/people/c5biD5YWwYnJvd24.jpg",
+      "source": "https://music.163.com/artist?id=12002120",
+      "imageSource": "https://p1.music.126.net/ehOfNLgfmgn6K0eb_o3J0g==/109951170489753555.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 12002120,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1402883968",
+          "https://music.163.com/song?id=1975253843",
+          "https://music.163.com/song?id=1975253870"
+        ]
+      }
+    },
+    "c55m-5bed": {
+      "name": "百川",
+      "image": "./assets/people/c55m-5bed.jpg",
+      "source": "https://music.163.com/artist?id=12664246",
+      "imageSource": "https://p2.music.126.net/82aH0BC9WkgYPJvonSWR7g==/109951163286410154.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 12664246,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1869159161"
+        ]
+      }
+    },
+    "c5qKB56yR55SfYWlyYnVzMTMw": {
+      "name": "梁笑生AIRBUS130",
+      "image": "./assets/people/n12127712.jpg",
+      "source": "https://music.163.com/artist?id=12127712",
+      "imageSource": "https://p1.music.126.net/LwXkl95TPCnSLu0dnwHbFg==/109951172582741379.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1355291136"
+        ]
+      },
+      "matchedPersonId": "n12127712"
+    },
+    "c6I2o6bq755a5": {
+      "name": "荨麻疹",
+      "image": "./assets/people/n12904832.jpg",
+      "source": "https://music.163.com/artist?id=12904832",
+      "imageSource": "https://p2.music.126.net/dzgIKnImd4ZVMmbHlGHDmA==/109951170491674093.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1853864505",
+          "https://music.163.com/song?id=1913211372",
+          "https://music.163.com/song?id=1946802010"
+        ]
+      },
+      "matchedPersonId": "n12904832"
+    },
+    "c6ZqG5Y6G5aWH": {
+      "name": "隆历奇",
+      "image": "./assets/people/n12065015.jpg",
+      "source": "https://music.163.com/artist?id=12065015",
+      "imageSource": "https://p2.music.126.net/6LMxYMm0NtTKG4tuBU4pVA==/109951168203000632.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2019537535",
+          "https://music.163.com/song?id=2052741279",
+          "https://music.163.com/song?id=2053382973"
+        ]
+      },
+      "matchedPersonId": "n12065015"
+    },
+    "c5a2Z5qyh6YOO": {
+      "name": "孙次郎",
+      "image": "./assets/people/c5a2Z5qyh6YOO.jpg",
+      "source": "https://music.163.com/artist?id=12060043",
+      "imageSource": "https://p2.music.126.net/tGqaOBNnKw3r2NH_KBrk0g==/109951168871122294.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 12060043,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2645759396",
+          "https://music.163.com/song?id=2645759403",
+          "https://music.163.com/song?id=2645759411"
+        ]
+      }
+    },
+    "caGVhdGo": {
+      "name": "HEATJ",
+      "image": "./assets/people/n12085631.jpg",
+      "source": "https://music.163.com/artist?id=12085631",
+      "imageSource": "https://p1.music.126.net/DNgZ0F94-v9PZWpa7lhDKg==/109951173475045178.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1952066137"
+        ]
+      },
+      "matchedPersonId": "n12085631"
+    },
+    "camFja3dhdnk": {
+      "name": "JACKWAVY",
+      "image": "./assets/people/n13699284.jpg",
+      "source": "https://music.163.com/artist?id=13699284",
+      "imageSource": "https://p2.music.126.net/-Kn-xjEFX51zmqrpGjfFog==/109951170186101502.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2643167150"
+        ]
+      },
+      "matchedPersonId": "n13699284"
+    },
+    "camluamliZXdhdGVy6Zq8": {
+      "name": "JinJiBeWater隼",
+      "image": "./assets/people/n13451886.jpg",
+      "source": "https://music.163.com/artist?id=13451886",
+      "imageSource": "https://p2.music.126.net/lwzDVFpq_4wKUzJURdwijQ==/109951174131325219.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2008727919"
+        ]
+      },
+      "matchedPersonId": "n13451886"
+    },
+    "caWNlIHBhcGVy": {
+      "name": "Ice Paper",
+      "image": "./assets/people/n12121264.jpg",
+      "source": "https://music.163.com/artist?id=12121264",
+      "imageSource": "https://p2.music.126.net/fzWDTckJqRqApWSYxUzKzA==/109951171972222899.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1483315011"
+        ]
+      },
+      "matchedPersonId": "n12121264"
+    },
+    "cazEx": {
+      "name": "K11",
+      "image": "./assets/people/n12493703.jpg",
+      "source": "https://music.163.com/artist?id=12493703",
+      "imageSource": "https://p1.music.126.net/uXbpvnGfHDpub3CrOIgxwA==/109951172160438899.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1855121139",
+          "https://music.163.com/song?id=2105408111"
+        ]
+      },
+      "matchedPersonId": "n12493703"
+    },
+    "cbG91aXMxNTIw": {
+      "name": "Louis1520",
+      "image": "./assets/people/n27866110.jpg",
+      "source": "https://music.163.com/artist?id=27866110",
+      "imageSource": "https://p2.music.126.net/LjNKBfhC9lgK-YxICpnWaw==/109951174083307673.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1460304378"
+        ]
+      },
+      "matchedPersonId": "n27866110"
+    },
+    "cbGVlaHgg5p2O6bi_57-U": {
+      "name": "LeeHX 李鸿翔",
+      "image": "./assets/people/n27729363.jpg",
+      "source": "https://music.163.com/artist?id=27729363",
+      "imageSource": "https://p2.music.126.net/tDa21gpEW-OuiswTNs7vFQ==/109951169362213329.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1847219367"
+        ]
+      },
+      "matchedPersonId": "n27729363"
+    },
+    "cbGVlaHjmnY7puL_nv5Q": {
+      "name": "LeeHX李鸿翔",
+      "image": "./assets/people/n27729363.jpg",
+      "source": "https://music.163.com/artist?id=27729363",
+      "imageSource": "https://p2.music.126.net/tDa21gpEW-OuiswTNs7vFQ==/109951169362213329.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2033028531",
+          "https://music.163.com/song?id=2033028567",
+          "https://music.163.com/song?id=2033030924"
+        ]
+      },
+      "matchedPersonId": "n27729363"
+    },
+    "cbHVzY2lvdXNiYg": {
+      "name": "LusciousBB",
+      "image": "./assets/people/n31093989.jpg",
+      "source": "https://music.163.com/artist?id=31093989",
+      "imageSource": "https://p2.music.126.net/VESAiTCtBhut8Oasp0ObZw==/109951168405629451.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2033030924",
+          "https://music.163.com/song?id=2033030941",
+          "https://music.163.com/song?id=2033031045"
+        ]
+      },
+      "matchedPersonId": "n31093989"
+    },
+    "cbmV3eW91bmdnbw": {
+      "name": "Newyounggo",
+      "image": "./assets/people/n12120573.jpg",
+      "source": "https://music.163.com/artist?id=12120573",
+      "imageSource": "https://p1.music.126.net/ZWoIXRkhLxmYtbj_wuJHrw==/109951169220120566.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=3402862368"
+        ]
+      },
+      "matchedPersonId": "n12120573"
+    },
+    "cbW9ub3Zpc2E": {
+      "name": "Monovisa",
+      "image": "./assets/people/n32436403.jpg",
+      "source": "https://music.163.com/artist?id=32436403",
+      "imageSource": "https://p2.music.126.net/L2p4AWJwMpDuSCqhhq5ThA==/109951169291733089.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2635174120",
+          "https://music.163.com/song?id=2635176639"
+        ]
+      },
+      "matchedPersonId": "n32436403"
+    },
+    "cbWFp": {
+      "name": "Mai",
+      "image": "./assets/people/ubWFp.jpg",
+      "source": "https://music.163.com/artist?id=6309",
+      "imageSource": "https://p2.music.126.net/ybT73o31hQsxi2U5eRW7Gg==/109951169742637657.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1383211748",
+          "https://music.163.com/song?id=1403510842",
+          "https://music.163.com/song?id=1867944927"
+        ]
+      },
+      "matchedPersonId": "ubWFp"
+    },
+    "ccGFibG8": {
+      "name": "Pablo",
+      "image": "./assets/people/n12316254.jpg",
+      "source": "https://music.163.com/artist?id=12316254",
+      "imageSource": "https://p1.music.126.net/Hld0rXVbedafYdOKnTu5KQ==/109951172984357933.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1857097212",
+          "https://music.163.com/song?id=1857097213",
+          "https://music.163.com/song?id=1857097221"
+        ]
+      },
+      "matchedPersonId": "n12316254"
+    },
+    "ca3VtYXJr5ryx5LiA": {
+      "name": "Kumark漱一",
+      "image": "./assets/people/ca3VtYXJr5ryx5LiA.jpg",
+      "source": "https://music.163.com/artist?id=30702641",
+      "imageSource": "https://p2.music.126.net/7ecsU5nmxtTtOKemtjyL5Q==/109951173833388244.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 30702641,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2677399061",
+          "https://music.163.com/song?id=3451530455",
+          "https://music.163.com/song?id=3451530456"
+        ]
+      }
+    },
+    "ccnR5cmFjZQ": {
+      "name": "RTYRACE",
+      "image": "./assets/people/n37132535.jpg",
+      "source": "https://music.163.com/artist?id=37132535",
+      "imageSource": "https://p1.music.126.net/TWswOgoXuJDLquNULy2iSA==/109951173008907757.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2013290412",
+          "https://music.163.com/song?id=2686898675",
+          "https://music.163.com/song?id=3323827599"
+        ]
+      },
+      "matchedPersonId": "n37132535"
+    },
+    "ccS5sdXY": {
+      "name": "Q.Luv",
+      "image": "./assets/people/n187624.jpg",
+      "source": "https://music.163.com/artist?id=187624",
+      "imageSource": "https://p1.music.126.net/tBo7pVe-IBbNz5rz07gGfA==/109951169282940158.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1465082816",
+          "https://music.163.com/song?id=2030471549",
+          "https://music.163.com/song?id=471763224"
+        ]
+      },
+      "matchedPersonId": "n187624"
+    },
+    "cdG9kZCBtYWxvbmU": {
+      "name": "Todd Malone",
+      "image": "./assets/people/n12183619.jpg",
+      "source": "https://music.163.com/artist?id=12183619",
+      "imageSource": "https://p2.music.126.net/PR9LnYJPkxWBgr62prN2xQ==/109951169814352729.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2610631230"
+        ]
+      },
+      "matchedPersonId": "n12183619"
+    },
+    "cdHE": {
+      "name": "TQ",
+      "image": "./assets/people/n12548132.jpg",
+      "source": "https://music.163.com/artist?id=12548132",
+      "imageSource": "https://p2.music.126.net/kdhH47Hx9bKRo3ZRWJZfvQ==/109951170058758868.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1973016358",
+          "https://music.163.com/song?id=1995496604",
+          "https://music.163.com/song?id=1995502665"
+        ]
+      },
+      "matchedPersonId": "n12548132"
+    },
+    "cdmFpbmx5Ym9pYXNsYXnDq3Jy": {
+      "name": "VainlyBoiAslayërr",
+      "image": "./assets/people/n34173729.jpg",
+      "source": "https://music.163.com/artist?id=34173729",
+      "imageSource": "https://p2.music.126.net/P5trTdxXlPLREBfDF94T3Q==/109951165797647987.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1933659329",
+          "https://music.163.com/song?id=1969813336",
+          "https://music.163.com/song?id=2006224434"
+        ]
+      },
+      "matchedPersonId": "n34173729"
+    },
+    "ceHRvbmU": {
+      "name": "XTONE",
+      "image": "./assets/people/n12268101.jpg",
+      "source": "https://music.163.com/artist?id=12268101",
+      "imageSource": "https://p1.music.126.net/0DHcQFpppVqpOxpe8BV4zg==/109951173955746269.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1877756142",
+          "https://music.163.com/song?id=1908081391",
+          "https://music.163.com/song?id=2002813505"
+        ]
+      },
+      "matchedPersonId": "n12268101"
+    },
+    "cNDA0cmFwcGVy": {
+      "name": "404RAPPER",
+      "image": "./assets/people/n30003804.jpg",
+      "source": "https://music.163.com/artist?id=30003804",
+      "imageSource": "https://p1.music.126.net/-OPbbZN4XTKpvg-jvwttfw==/109951164076924582.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1827059566"
+        ]
+      },
+      "matchedPersonId": "n30003804"
+    },
+    "c6aOe6KGM5bCR5bm0": {
+      "name": "飞行少年",
+      "image": "./assets/people/c6aOe6KGM5bCR5bm0.jpg",
+      "source": "https://music.163.com/artist?id=12172289",
+      "imageSource": "https://p2.music.126.net/vjzvnt3fcG3dL7CBMEEYVA==/109951169813260704.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 12172289,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1977946820",
+          "https://music.163.com/song?id=2055808604",
+          "https://music.163.com/song?id=2058920966"
+        ]
+      }
+    },
+    "cYnViYmxlYm95": {
+      "name": "Bubbleboy",
+      "image": "./assets/people/n14016611.jpg",
+      "source": "https://music.163.com/artist?id=14016611",
+      "imageSource": "https://p1.music.126.net/6NTcSqGUa-e_CdstI1Aixg==/109951165808728979.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1956517518",
+          "https://music.163.com/song?id=1978020898"
+        ]
+      },
+      "matchedPersonId": "n14016611"
+    },
+    "cZHJpcHBpbnNoYXd0eQ": {
+      "name": "drippinshawty",
+      "image": "./assets/people/n12897263.jpg",
+      "source": "https://music.163.com/artist?id=12897263",
+      "imageSource": "https://p2.music.126.net/V-wVSjD9biFshaYU7G8pNQ==/109951167796057807.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1882152364",
+          "https://music.163.com/song?id=1882152366",
+          "https://music.163.com/song?id=1913211372"
+        ]
+      },
+      "matchedPersonId": "n12897263"
+    },
+    "cZmlyZeiMg-iJvui_qQ": {
+      "name": "FiRe范艾迩",
+      "image": "./assets/people/n50039862.jpg",
+      "source": "https://music.163.com/artist?id=50039862",
+      "imageSource": "https://p2.music.126.net/WJsHs7FH5n-BICGIlrbdpQ==/109951173994247323.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=2000455200",
+          "https://music.163.com/song?id=2619810975",
+          "https://music.163.com/song?id=2657564228"
+        ]
+      },
+      "matchedPersonId": "n50039862"
+    },
+    "cZzIz": {
+      "name": "G23",
+      "image": "./assets/people/n12789348.jpg",
+      "source": "https://music.163.com/artist?id=12789348",
+      "imageSource": "https://p1.music.126.net/vK64k7V6oUcTKGsbO94zpw==/109951168167044764.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1836808752",
+          "https://music.163.com/song?id=1928543868",
+          "https://music.163.com/song?id=1971680387"
+        ]
+      },
+      "matchedPersonId": "n12789348"
+    },
+    "cY2hpbHlub2tpYQ": {
+      "name": "CHILYNOKIA",
+      "image": "./assets/people/cY2hpbHlub2tpYQ.jpg",
+      "source": "https://music.163.com/artist?id=12372494",
+      "imageSource": "https://p1.music.126.net/s_8nI8mPoH0lt4yLVMx20Q==/109951169827276719.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 12372494,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1387811717"
+        ]
+      }
+    },
+    "c5byg5oGL5q2M": {
+      "name": "张恋歌",
+      "image": "./assets/people/c5byg5oGL5q2M.jpg",
+      "source": "https://music.163.com/artist?id=1049637",
+      "imageSource": "https://p1.music.126.net/wxccMWRFjV9zQSxzTvj2HA==/109951169244261299.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 1049637,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=1442844194"
+        ]
+      }
+    },
+    "nunlinked-SmluSmlCZVdhdGVyX-mavA": {
+      "name": "JinJiBeWater_隼",
+      "image": "./assets/people/n13451886.jpg",
+      "source": "https://music.163.com/artist?id=13451886",
+      "imageSource": "https://p2.music.126.net/lwzDVFpq_4wKUzJURdwijQ==/109951174131325219.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "unique-exact-catalog-name",
+        "creditSources": [
+          "https://music.163.com/song?id=1853864505"
+        ]
+      },
+      "matchedPersonId": "n13451886"
+    },
+    "ceS0gYg": {
+      "name": "Y- B",
+      "image": "./assets/people/ceS0gYg.jpg",
+      "source": "https://music.163.com/artist?id=12519733",
+      "imageSource": "https://p2.music.126.net/nJ5KVwOJVrAl8WmBAszcjw==/109951168949198479.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-name-and-existing-catalog-artist-id",
+        "artistId": 12519733,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=2132747446"
+        ]
+      }
+    },
+    "n39040": {
+      "name": "Melo",
+      "image": "./assets/people/n39040.jpg",
+      "source": "https://music.163.com/artist?id=39040",
+      "imageSource": "https://p2.music.126.net/HuqQRy4r504LxWKF5cUdlQ==/5925268162519800.jpg?param=300y300",
+      "platform": "netease",
+      "checkedAt": "2026-10-30",
+      "evidence": {
+        "method": "exact-platform-id",
+        "artistId": 39040,
+        "works": [],
+        "creditSources": [
+          "https://music.163.com/song?id=3352825378",
+          "https://music.163.com/song?id=3352826361",
+          "https://music.163.com/song?id=3352826362"
+        ]
+      }
     }
   }
 }

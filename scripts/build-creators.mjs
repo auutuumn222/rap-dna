@@ -2,6 +2,7 @@ import {readFile,writeFile} from 'node:fs/promises';
 import {pathToFileURL} from 'node:url';
 import path from 'node:path';
 import {backstageRoles} from '../dist/creator-model.js';
+import {mergeCreatorIdentities,mergeSummary} from './merge-creators.mjs';
 
 export function buildCreatorIndex(entries){
  const artists=entries.map(({key,catalog:c})=>({key,id:c.artist.id,name:c.artist.short,aliases:c.artist.aliases||[],portrait:c.artist.portrait,checkedAt:c.checkedAt}));
@@ -28,14 +29,26 @@ export function buildCreatorIndex(entries){
  return {version:1,scope:'仅汇总已收录歌手的单曲明确署名；按平台歌曲 ID 去重，版本保留不同 ID，不代表创作者全部作品。未核验别名不自动合并。',artists,creators,tracks:[...tracks.values()].sort((a,b)=>a.id.localeCompare(b.id))};
 }
 
-export async function buildFromDirectory(directory){
+export async function readCatalogEntries(directory){
  const text=await readFile(path.join(directory,'artists.js'),'utf8');
  const {artistProfiles}=await import('data:text/javascript;base64,'+Buffer.from(text).toString('base64'));
- const entries=await Promise.all(Object.values(artistProfiles).map(async p=>({key:p.key,catalog:JSON.parse(await readFile(path.join(directory,p.file),'utf8'))})));
- return buildCreatorIndex(entries);
+ return Promise.all(Object.values(artistProfiles).map(async p=>({key:p.key,catalog:JSON.parse(await readFile(path.join(directory,p.file),'utf8'))})));
+}
+
+export async function readPortraits(directory){
+ try{return (JSON.parse(await readFile(path.join(directory,'people-portraits.json'),'utf8'))).people||{};}
+ catch{return {};}
+}
+
+// 发布用入口：先按平台数据汇聚，再过署名身份归并这一级。
+export async function buildFromDirectory(directory,{merge=true}={}){
+ const index=buildCreatorIndex(await readCatalogEntries(directory));
+ return merge?mergeCreatorIdentities(index,await readPortraits(directory)):index;
 }
 if(process.argv[1]&&pathToFileURL(path.resolve(process.argv[1])).href===import.meta.url){
- const directory=path.resolve(process.argv[2]||'dist'),index=await buildFromDirectory(directory);
+ const directory=path.resolve(process.argv[2]||'dist');
+ const base=buildCreatorIndex(await readCatalogEntries(directory));
+ const index=mergeCreatorIdentities(base,await readPortraits(directory));
  await writeFile(path.join(directory,'creator-index.json'),JSON.stringify(index));
- console.log(JSON.stringify({artists:index.artists.length,creators:index.creators.length,records:index.tracks.length,bytes:Buffer.byteLength(JSON.stringify(index))}));
+ console.log(JSON.stringify({...mergeSummary(base,index),artists:index.artists.length,records:index.tracks.length,bytes:Buffer.byteLength(JSON.stringify(index))}));
 }

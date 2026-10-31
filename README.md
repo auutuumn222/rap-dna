@@ -393,3 +393,7 @@ pm run test:rapeter浏览器检查。
 ## 罗言 数据范围
 
 目标为 rapper 罗言 RollFlash，网易云艺人 ID 33863232。主账号完整返回149条，105条取得明确署名行。同名及其他 RollFlash 账号不自动合并，Apple Music候选仍待核验；合作发行按逐曲艺人署名收录。五个主要个人项目，历史下架作品不宣称完整。
+
+## LSGCSIKORIOT
+
+网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/LSGCSIKORIOT-DISCOGRAPHY.md。

@@ -1,0 +1,56 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "LSGCsikoriot",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lsgcsikoriot/1581210956?uo=4",
+      "artistId": 1581210956,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1581210956,
+      "collectionId": 1723824964,
+      "artistName": "LSGCsikoriot",
+      "collectionName": "天堂后花园",
+      "collectionCensoredName": "天堂后花园",
+      "artistViewUrl": "https://music.apple.com/cn/artist/lsgcsikoriot/1581210956?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/%E5%A4%A9%E5%A0%82%E5%90%8E%E8%8A%B1%E5%9B%AD/1723824964?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/57/4a/71/574a71e5-fc88-d0a6-3232-47968ced75f4/cover.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 15,
+      "copyright": "℗ 2023 LSGCsikoriot",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2024-01-08T08:00:00Z",
+      "primaryGenreName": "中文嘻哈"
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1581210956,
+      "collectionId": 6805015063,
+      "artistName": "LSGCsikoriot",
+      "collectionName": "佛哦佛404(Fo0Fo)",
+      "collectionCensoredName": "佛哦佛404(Fo0Fo)",
+      "artistViewUrl": "https://music.apple.com/cn/artist/lsgcsikoriot/1581210956?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/%E4%BD%9B%E5%93%A6%E4%BD%9B404-fo0fo/6805015063?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/18/26/e2/1826e212-990c-a5ce-e159-5f9814f30a13/6936738139252.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 18,
+      "copyright": "℗ 2026 WhichwayMusic,distributed by 秀动发行 ShowStart Release",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-08-29T07:00:00Z",
+      "primaryGenreName": "Hip-Hop"
+    }
+  ]
+}

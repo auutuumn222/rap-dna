@@ -1,0 +1,251 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 11,
+    "hlWords": [
+      "LSGCsikoriot"
+    ],
+    "artists": [
+      {
+        "id": 33097968,
+        "name": "LSGCsikoriot",
+        "picUrl": "https://p2.music.126.net/RpbP04i9fQ3nDhlKBAmpDA==/109951165055716458.jpg",
+        "alias": [
+          "四口"
+        ],
+        "albumSize": 74,
+        "musicSize": 232,
+        "picId": 109951165055716460,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 178991,
+        "img1v1Url": "https://p2.music.126.net/gubm-zDHSIj4aZJwdqiNcQ==/109951171443067525.jpg",
+        "accountId": 1963804377,
+        "img1v1": 109951171443067520,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 10,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "四口"
+        ],
+        "trans": null
+      },
+      {
+        "id": 33863232,
+        "name": "罗言",
+        "picUrl": "https://p2.music.126.net/AXQB530V_ZrrQctITVfRnw==/109951167579824884.jpg",
+        "alias": [
+          "RollFlash"
+        ],
+        "albumSize": 16,
+        "musicSize": 149,
+        "picId": 109951167579824880,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《靶心挂在嘴角》",
+        "appendRecText": "",
+        "fansSize": 1402844,
+        "img1v1Url": "https://p2.music.126.net/ZrO8gJjxSmlmadJeRiqOPw==/109951172417958240.jpg",
+        "accountId": 2014687853,
+        "img1v1": 109951172417958240,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 19,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "RollFlash"
+        ],
+        "trans": null
+      },
+      {
+        "id": 15194340,
+        "name": "张方钊",
+        "picUrl": "https://p2.music.126.net/RMbpYw6fzT6Rej8Q92OiNA==/109951163618001416.jpg",
+        "alias": [
+          "河南说唱之神"
+        ],
+        "albumSize": 48,
+        "musicSize": 222,
+        "picId": 109951163618001400,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《钱》",
+        "appendRecText": "",
+        "fansSize": 791600,
+        "img1v1Url": "https://p2.music.126.net/ZENpbkoMj3xHYV6bdmQgvQ==/109951173955160849.jpg",
+        "accountId": 584508439,
+        "img1v1": 109951173955160850,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 15,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "河南说唱之神"
+        ],
+        "trans": null
+      },
+      {
+        "id": 33937972,
+        "name": "CashTrippy",
+        "picUrl": "https://p2.music.126.net/LtSnwO9nqJ1MIfC5c1r-OQ==/109951169486931488.jpg",
+        "alias": [],
+        "albumSize": 40,
+        "musicSize": 210,
+        "picId": 109951169486931490,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《JaJa》",
+        "appendRecText": "",
+        "fansSize": 471599,
+        "img1v1Url": "https://p2.music.126.net/kL7d-0ehorNXgSa8tznQGg==/109951172338582374.jpg",
+        "accountId": 320513064,
+        "img1v1": 109951172338582370,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 15,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 48277407,
+        "name": "BOBBYNOPEACE",
+        "picUrl": "https://p2.music.126.net/PJ_pEPnz1bP7-AIITS6gVA==/109951166062555979.jpg",
+        "alias": [],
+        "albumSize": 29,
+        "musicSize": 169,
+        "picId": 109951166062555980,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《琳》",
+        "appendRecText": "",
+        "fansSize": 493779,
+        "img1v1Url": "https://p2.music.126.net/yA8Yg7smOSUbPL68lqzMuQ==/109951173913716164.jpg",
+        "accountId": 484655763,
+        "img1v1": 109951173913716160,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12320060,
+        "name": "王齐铭WatchMe",
+        "picUrl": "https://p2.music.126.net/rVsG5YoYN5xPASaCCnzVqA==/109951164858747318.jpg",
+        "alias": [],
+        "albumSize": 41,
+        "musicSize": 177,
+        "picId": 109951164858747310,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《新生活》",
+        "appendRecText": "",
+        "fansSize": 634395,
+        "img1v1Url": "https://p2.music.126.net/2NkqRM-esPbSjYR0freJYg==/109951172165801367.jpg",
+        "accountId": 419624345,
+        "img1v1": 109951172165801360,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 25,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 34326822,
+        "name": "Tlatre特雷西",
+        "picUrl": "https://p2.music.126.net/wKHOoJWRfdAdVb-Om4ENyg==/109951165826274978.jpg",
+        "alias": [],
+        "albumSize": 15,
+        "musicSize": 115,
+        "picId": 109951165826274980,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《幻痛药 Hurt And Hurt Ft.LSGCsikoriot四口》",
+        "appendRecText": "",
+        "fansSize": 199715,
+        "img1v1Url": "https://p2.music.126.net/8CS4NFyBP_qvWK7cEh7JSQ==/109951173308393777.jpg",
+        "accountId": 563168625,
+        "img1v1": 109951173308393780,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 9,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 28869014,
+        "name": "DiorGoFlex",
+        "picUrl": "https://p2.music.126.net/ti037oWDEMtbR9hpw_wxcw==/109951165488991480.jpg",
+        "alias": [],
+        "albumSize": 11,
+        "musicSize": 118,
+        "picId": 109951165488991490,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《瘦马》",
+        "appendRecText": "",
+        "fansSize": 151041,
+        "img1v1Url": "https://p2.music.126.net/ZpzlvD9ffMjH1s5m6T5T-w==/109951168975273804.jpg",
+        "accountId": 1552584833,
+        "img1v1": 109951168975273810,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 34516758,
+        "name": "CashMoon",
+        "picUrl": "https://p2.music.126.net/DdpJmHaRup69navMpAmSJg==/109951168138949264.jpg",
+        "alias": [
+          "卡西姆恩"
+        ],
+        "albumSize": 448,
+        "musicSize": 552,
+        "picId": 109951168138949260,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《琳》",
+        "appendRecText": "",
+        "fansSize": 161902,
+        "img1v1Url": "https://p2.music.126.net/r8JzMThDpIdvhIdX5ahmDg==/109951168057331405.jpg",
+        "accountId": 1439839246,
+        "img1v1": 109951168057331410,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "卡西姆恩"
+        ],
+        "trans": null
+      },
+      {
+        "id": 30285305,
+        "name": "吕富贵",
+        "picUrl": "https://p2.music.126.net/Z90DRi6PuStxNYdbMAO_XQ==/109951167968706621.jpg",
+        "alias": [
+          "Omajor"
+        ],
+        "albumSize": 4,
+        "musicSize": 46,
+        "picId": 109951167968706620,
+        "fansGroup": null,
+        "recommendText": "与LSGCsikoriot合唱歌曲《钱》",
+        "appendRecText": "",
+        "fansSize": 47693,
+        "img1v1Url": "https://p2.music.126.net/H8nPm8xrQQ3zNdE6WZZZnQ==/109951172555394362.jpg",
+        "accountId": 333716164,
+        "img1v1": 109951172555394370,
+        "transNames": [
+          "吕富贵"
+        ],
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 6,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Omajor"
+        ],
+        "trans": "吕富贵"
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

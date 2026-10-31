@@ -16,6 +16,18 @@ test('reviewed aliases share the same avatar even when only an old alias has a r
  const portraits=createPortraits({cYXRtaGFuc29u:{image:'./assets/people/atm.jpg'}});
  assert.equal(portraits.imageFor('n13911452'),'./assets/people/atm.jpg');assert.equal(portraits.imageFor('cYXRtIGhhbnNvbg'),'./assets/people/atm.jpg');assert.equal(portraits.imageFor('unknown'),null);
 });
+test('expanded review fixes spelling, affiliations and name-only formatting without merging unrelated people',()=>{
+ for(const name of ['LusciouBB','Luciousbb']){const e=identityRegistry.entities.find(e=>e.id==='n31093989');assert.equal(resolvePersonId(e.aliases.find(a=>a.name===name).id),e.id);}
+ const mai=identityRegistry.entities.find(e=>e.name==='Mai');assert.ok(mai);assert.ok(mai.aliases.some(a=>a.name.includes('No Label Crew')));
+ assert.equal(resolvePersonId('n29304235'),'n29304235');assert.equal(resolvePersonId('n39040'),'n39040');
+ assert.notEqual(resolvePersonId('cZG91YmxlIHo'),resolvePersonId('cZG91YmxlX2c'));
+ const nameOnly=identityRegistry.entities.find(e=>e.id.startsWith('c'));assert.equal(identities.person(nameOnly.aliases[0].id).kind,'credit');
+ assert.throws(()=>createIdentityResolver({entities:[{id:'n1',name:'one',aliases:[{id:'n2',name:'two',evidence:[{}]}]}]}),/Invalid/);
+});
+test('every recorded merge resolves together and withheld comparisons remain separate',async()=>{
+ const report=JSON.parse(await readFile(new URL('../research/identity-review.json',import.meta.url),'utf8'));
+ for(const d of report.decisions){if(d.status==='merged')assert.equal(resolvePersonId(d.a.id),resolvePersonId(d.b.id));else assert.notEqual(resolvePersonId(d.a.id),resolvePersonId(d.b.id));}
+});
 test('reviewed variants resolve exactly; similar names and unrelated accounts never do',()=>{
  for(const id of ['cYXRtIGhhbnNvbg','cYXRtaGFuc29u','cYXRtIGhhbnNvbiw'])assert.equal(resolvePersonId(id),'n13911452');
  for(const id of ['n987654','new-atmhanson','The Heatmakerz'])assert.equal(resolvePersonId(id),id);
@@ -41,7 +53,7 @@ test('build retains distinct original IDs as evidence while deduplicating song c
  const result=buildCreatorIndex(entries);assert.equal(result.tracks.length,1);assert.equal(result.creators.length,1);assert.equal(result.tracks[0].credits.length,2);
 });
 test('all registry mappings have dated, auditable source evidence',()=>{
- for(const p of identityRegistry.entities){assert.match(p.source,/^https:\/\/music.163.com\/artist\?id=\d+$/);assert.ok(p.reviewedAt);for(const a of p.aliases){assert.ok(a.method);assert.ok(a.evidence.length);for(const e of a.evidence){assert.ok(e.trackId&&e.role);assert.match(e.source,/^https:\/\/music.163.com\/song\?id=\d+$/);}}}
+ for(const p of identityRegistry.entities){assert.match(p.source,/^https:\/\/music.163.com\/(?:artist|song)\?id=\d+$/);assert.ok(p.reviewedAt);for(const a of p.aliases){assert.ok(a.method);assert.ok(a.evidence.length);for(const e of a.evidence){assert.ok(e.trackId&&e.role);assert.match(e.source,/^https:\/\/music.163.com\/song\?id=\d+$/);}}}
 });
 test('review evidence resolves to the original catalog credits, including both sides of cross-checks',async()=>{
  const catalogs=new Map(await Promise.all(Object.values(artistProfiles).map(async p=>[p.key,JSON.parse(await readFile(new URL('../dist/'+p.file.slice(2),import.meta.url),'utf8'))])));

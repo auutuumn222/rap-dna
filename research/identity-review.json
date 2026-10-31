@@ -1,0 +1,3676 @@
+{
+  "reviewedAt": "2026-10-31",
+  "stats": {
+    "backstageIdentities": 2366,
+    "exactGroups": 124,
+    "nearPairs": 38,
+    "reviewedPairs": 197,
+    "mergedPairs": 140,
+    "pendingPairs": 57,
+    "entities": 105,
+    "aliases": 139
+  },
+  "decisions": [
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cYWRl6Zm25YW06L2p",
+        "name": "ADE陶兴轩",
+        "count": 212
+      },
+      "b": {
+        "id": "cYWRlIOmZtuWFtOi9qQ",
+        "name": "ADE 陶兴轩",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZmlyZeiMg-iJvui_qQ",
+        "name": "FiRe范艾迩",
+        "count": 17
+      },
+      "b": {
+        "id": "n50039862",
+        "name": "FiRe范艾迩",
+        "count": 118
+      },
+      "proof": {
+        "trackId": "n2610631213",
+        "a": {
+          "catalog": "luoyan",
+          "trackId": "n2610631213",
+          "title": "地下城",
+          "role": "编曲",
+          "raw": "编曲 : loadinggg1016/FiRe范艾迩/KATHARSIS",
+          "source": "https://music.163.com/song?id=2610631213"
+        },
+        "b": {
+          "catalog": "capper",
+          "trackId": "n2610631213",
+          "title": "地下城",
+          "role": "编曲",
+          "raw": "编曲 : loadinggg1016/FiRe范艾迩/KATHARSIS",
+          "source": "https://music.163.com/song?id=2610631213"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZHVodQ",
+        "name": "Duhu",
+        "count": 33
+      },
+      "b": {
+        "id": "n12554857",
+        "name": "Duhu",
+        "count": 9
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ca2FzaCBtZW5n",
+        "name": "Kash Meng",
+        "count": 13
+      },
+      "b": {
+        "id": "ca2FzaG1lbmc",
+        "name": "Kashmeng",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5Y2h5pava2FzJA",
+        "name": "卡斯Kas$",
+        "count": 47
+      },
+      "b": {
+        "id": "n222404",
+        "name": "卡斯Kas$",
+        "count": 3
+      },
+      "proof": {
+        "trackId": "n1966263877",
+        "a": {
+          "catalog": "capper",
+          "trackId": "n1966263877",
+          "title": "礼拜日 Life goes on（LIVE版）",
+          "role": "制作人",
+          "raw": "制作人 : 卡斯Kas$",
+          "source": "https://music.163.com/song?id=1966263877"
+        },
+        "b": {
+          "catalog": "gali",
+          "trackId": "n1966263877",
+          "title": "礼拜日 Life goes on（LIVE版）",
+          "role": "制作人",
+          "raw": "制作人 : 卡斯Kas$",
+          "source": "https://music.163.com/song?id=1966263877"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceC1wZWFr",
+        "name": "X-Peak",
+        "count": 6
+      },
+      "b": {
+        "id": "ceC0gcGVhaw",
+        "name": "X- Peak",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWF4IGxlZQ",
+        "name": "Max Lee",
+        "count": 1
+      },
+      "b": {
+        "id": "cbWF4bGVl",
+        "name": "MaxLee",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdHk",
+        "name": "TY",
+        "count": 1
+      },
+      "b": {
+        "id": "n1086078",
+        "name": "Ty.",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2047036125",
+        "a": {
+          "catalog": "luoyan",
+          "trackId": "n2047036125",
+          "title": "如影随形",
+          "role": "混音",
+          "raw": "混音:TY/ADE陶兴轩",
+          "source": "https://music.163.com/song?id=2047036125"
+        },
+        "method": "same-track-artist"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdHk",
+        "name": "TY",
+        "count": 1
+      },
+      "b": {
+        "id": "cdHku",
+        "name": "Ty.",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1086078",
+        "name": "Ty.",
+        "count": 1
+      },
+      "b": {
+        "id": "cdHku",
+        "name": "Ty.",
+        "count": 1
+      },
+      "proof": {
+        "method": "platform-work-version",
+        "a": {
+          "catalog": "jinji",
+          "trackId": "n2607423641",
+          "title": "高，还没富，但帅 (Live)",
+          "role": "编曲",
+          "raw": "编曲 : Ty./KnowKnow/PSY.P",
+          "source": "https://music.163.com/song?id=2607423641"
+        },
+        "trackId": "n2607423641",
+        "profileSource": "https://music.163.com/artist?id=1086078"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdHE",
+        "name": "TQ",
+        "count": 21
+      },
+      "b": {
+        "id": "n12548132",
+        "name": "TQ",
+        "count": 129
+      },
+      "proof": {
+        "trackId": "n1973016358",
+        "a": {
+          "catalog": "macovaseas",
+          "trackId": "n1973016358",
+          "title": "出人头地（feat.mac ova seas）",
+          "role": "编曲",
+          "raw": "编曲 : TQ",
+          "source": "https://music.163.com/song?id=1973016358"
+        },
+        "b": {
+          "catalog": "psyp",
+          "trackId": "n1973016358",
+          "title": "出人头地（feat.mac ova seas）",
+          "role": "编曲",
+          "raw": "编曲 : TQ",
+          "source": "https://music.163.com/song?id=1973016358"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdHE",
+        "name": "TQ",
+        "count": 21
+      },
+      "b": {
+        "id": "cdC4gcQ",
+        "name": "T. Q",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12548132",
+        "name": "TQ",
+        "count": 129
+      },
+      "b": {
+        "id": "cdC4gcQ",
+        "name": "T. Q",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n27729363",
+        "name": "LeeHX李鸿翔",
+        "count": 86
+      },
+      "b": {
+        "id": "cbGVlaHgg5p2O6bi_57-U",
+        "name": "LeeHX 李鸿翔",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6Z2e5Y-UIHVuY2xlIGZlaQ",
+        "name": "非叔 Uncle Fei",
+        "count": 1
+      },
+      "b": {
+        "id": "c6Z2e5Y-UdW5jbGUtZmVp",
+        "name": "非叔Uncle-Fei",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6Z2e5Y-UIHVuY2xlIGZlaQ",
+        "name": "非叔 Uncle Fei",
+        "count": 1
+      },
+      "b": {
+        "id": "c6Z2e5Y-UIHVuY2xlLWZlaQ",
+        "name": "非叔 Uncle-fei",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6Z2e5Y-UdW5jbGUtZmVp",
+        "name": "非叔Uncle-Fei",
+        "count": 4
+      },
+      "b": {
+        "id": "c6Z2e5Y-UIHVuY2xlLWZlaQ",
+        "name": "非叔 Uncle-fei",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccHJvZCBieSDnjok",
+        "name": "Prod By 玉",
+        "count": 1
+      },
+      "b": {
+        "id": "ccHJvZGJ5546J",
+        "name": "Prodby玉",
+        "count": 9
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12128883",
+        "name": "mess",
+        "count": 2
+      },
+      "b": {
+        "id": "cbWVzcw",
+        "name": "Mess",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZG91Z2hib3k",
+        "name": "Doughboy",
+        "count": 19
+      },
+      "b": {
+        "id": "n1203015",
+        "name": "Dough-Boy",
+        "count": 42
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12027183",
+        "name": "Peach K",
+        "count": 16
+      },
+      "b": {
+        "id": "ccGVhY2ggaw",
+        "name": "Peach K",
+        "count": 14
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1203045",
+        "name": "艾热 AIR",
+        "count": 27
+      },
+      "b": {
+        "id": "c6Im-54OtYWly",
+        "name": "艾热AIR",
+        "count": 3
+      },
+      "proof": {
+        "trackId": "n3392180083",
+        "a": {
+          "catalog": "wangyitai",
+          "trackId": "n3392180083",
+          "title": "Crazy Love",
+          "role": "制作人",
+          "raw": "制作人 : 卡斯/王以太/艾热 AIR",
+          "source": "https://music.163.com/song?id=3392180083"
+        },
+        "method": "same-track-artist"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1204010",
+        "name": "TizzyT",
+        "count": 96
+      },
+      "b": {
+        "id": "cdGl6enkgdA",
+        "name": "Tizzy T",
+        "count": 2
+      },
+      "proof": {
+        "trackId": "n2100329027",
+        "a": {
+          "catalog": "tizzyt",
+          "trackId": "n2100329027",
+          "title": "冷战",
+          "role": "制作人",
+          "raw": "制作人 : 细GalaxyMan/Tim姜皓天/TizzyT",
+          "source": "https://music.163.com/song?id=2100329027"
+        },
+        "method": "same-track-artist"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5aSn5rOiX2RvdWJsZQ",
+        "name": "大波_DOUBLE",
+        "count": 10
+      },
+      "b": {
+        "id": "c5aSnIOazol9kb3VibGU",
+        "name": "大 波_Double",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZGF2ZSBrdXRjaA",
+        "name": "Dave Kutch",
+        "count": 23
+      },
+      "b": {
+        "id": "cZGF2ZWt1dGNo",
+        "name": "DaveKutch",
+        "count": 8
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdCB0b25l",
+        "name": "T Tone",
+        "count": 1
+      },
+      "b": {
+        "id": "cdC50b25l",
+        "name": "T.tone",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZC5zLumZhuaUvg",
+        "name": "D.S.陆放",
+        "count": 61
+      },
+      "b": {
+        "id": "cZC5zLumZhuaUviw",
+        "name": "D.S.陆放，",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5Lmf5piv56aP",
+        "name": "也是福",
+        "count": 5
+      },
+      "b": {
+        "id": "n12118563",
+        "name": "也是福",
+        "count": 13
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cazEx",
+        "name": "K11",
+        "count": 50
+      },
+      "b": {
+        "id": "n12493703",
+        "name": "K11",
+        "count": 38
+      },
+      "proof": {
+        "trackId": "n1869263761",
+        "a": {
+          "catalog": "gai",
+          "trackId": "n1869263761",
+          "title": "差不多先生+Brother Man+爱就爱了+单身公寓+沧海一声笑+哥哥在哪？ (Live)",
+          "role": "编曲",
+          "raw": "编曲：张亚东/K11",
+          "source": "https://music.163.com/song?id=1869263761"
+        },
+        "b": {
+          "catalog": "keyl",
+          "trackId": "n1869263761",
+          "title": "差不多先生+Brother Man+爱就爱了+单身公寓+沧海一声笑+哥哥在哪？ (Live)",
+          "role": "编曲",
+          "raw": "编曲：张亚东/K11",
+          "source": "https://music.163.com/song?id=1869263761"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6YOt5a2Q5pWsIOWuq-mYgQ",
+        "name": "郭子敬 宫阁",
+        "count": 1
+      },
+      "b": {
+        "id": "c6YOt5a2Q5pWsLOWuq-mYgQ",
+        "name": "郭子敬，宫阁",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "包含多位音乐人的组合署名，不能归为一个人物"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceW9ndXJ06YW45aW2",
+        "name": "Yogurt酸奶",
+        "count": 41
+      },
+      "b": {
+        "id": "ceW9ndXJ06YW45aW2LA",
+        "name": "Yogurt酸奶，",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1079074",
+        "name": "余佳运",
+        "count": 5
+      },
+      "b": {
+        "id": "c5L2Z5L2z6L-Q",
+        "name": "余佳运",
+        "count": 5
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6ZmI5Luk6Z-sKGNsb3VkKQ",
+        "name": "陈令韬(Cloud)",
+        "count": 3
+      },
+      "b": {
+        "id": "c6ZmI5Luk6Z-sY2xvdWQ",
+        "name": "陈令韬Cloud",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFp",
+        "name": "Mai",
+        "count": 121
+      },
+      "b": {
+        "id": "cbWFpJiMxMzs",
+        "name": "MAI&#13;",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFp",
+        "name": "Mai",
+        "count": 121
+      },
+      "b": {
+        "id": "ubWFp",
+        "name": "mai",
+        "count": 21
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpJiMxMzs",
+        "name": "MAI&#13;",
+        "count": 1
+      },
+      "b": {
+        "id": "ubWFp",
+        "name": "mai",
+        "count": 21
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n30126503",
+        "name": "FIJIDAYTONA500",
+        "count": 5
+      },
+      "b": {
+        "id": "cZmlqaWRheXRvbmE1MDBf",
+        "name": "FIJIDAYTONA500_",
+        "count": 2
+      },
+      "proof": {
+        "trackId": "n1968156057",
+        "a": {
+          "catalog": "gai",
+          "trackId": "n1968156057",
+          "title": "啥子声音 (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲 : FIJIDAYTONA500/老道",
+          "source": "https://music.163.com/song?id=1968156057"
+        },
+        "b": {
+          "catalog": "gai",
+          "trackId": "n1968156057",
+          "title": "啥子声音 (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲:FIJIDAYTONA500_/老道",
+          "source": "https://music.163.com/song?id=1968156057"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5p2O5rKr6JCxIGZlaWpp",
+        "name": "李沫萱 FeiJi",
+        "count": 2
+      },
+      "b": {
+        "id": "c5p2O5rKr6JCxZmVpamk",
+        "name": "李沫萱FeiJi",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai \"No Label Crew\"",
+        "count": 29
+      },
+      "b": {
+        "id": "cbWFpIiBubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai＂ No Label Crew＂",
+        "count": 9
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai \"No Label Crew\"",
+        "count": 29
+      },
+      "b": {
+        "id": "cbWFpIm5vIGxhYmVsIGNyZXci",
+        "name": "Mai＂No Label Crew＂",
+        "count": 9
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai \"No Label Crew\"",
+        "count": 29
+      },
+      "b": {
+        "id": "cbWFpIOKAnG5vIGxhYmVsIGNyZXfigJ0",
+        "name": "Mai “No Label Crew”",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai \"No Label Crew\"",
+        "count": 29
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyAi",
+        "name": "Mai \" No Label Crew \"",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpICJubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai \"No Label Crew\"",
+        "count": 29
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyI",
+        "name": "Mai \" No Label Crew＂",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIiBubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai＂ No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpIm5vIGxhYmVsIGNyZXci",
+        "name": "Mai＂No Label Crew＂",
+        "count": 9
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIiBubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai＂ No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpIOKAnG5vIGxhYmVsIGNyZXfigJ0",
+        "name": "Mai “No Label Crew”",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIiBubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai＂ No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyAi",
+        "name": "Mai \" No Label Crew \"",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIiBubyBsYWJlbCBjcmV3Ig",
+        "name": "Mai＂ No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyI",
+        "name": "Mai \" No Label Crew＂",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIm5vIGxhYmVsIGNyZXci",
+        "name": "Mai＂No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpIOKAnG5vIGxhYmVsIGNyZXfigJ0",
+        "name": "Mai “No Label Crew”",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIm5vIGxhYmVsIGNyZXci",
+        "name": "Mai＂No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyAi",
+        "name": "Mai \" No Label Crew \"",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIm5vIGxhYmVsIGNyZXci",
+        "name": "Mai＂No Label Crew＂",
+        "count": 9
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyI",
+        "name": "Mai \" No Label Crew＂",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIOKAnG5vIGxhYmVsIGNyZXfigJ0",
+        "name": "Mai “No Label Crew”",
+        "count": 1
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyAi",
+        "name": "Mai \" No Label Crew \"",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpIOKAnG5vIGxhYmVsIGNyZXfigJ0",
+        "name": "Mai “No Label Crew”",
+        "count": 1
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyI",
+        "name": "Mai \" No Label Crew＂",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyAi",
+        "name": "Mai \" No Label Crew \"",
+        "count": 1
+      },
+      "b": {
+        "id": "cbWFpICIgbm8gbGFiZWwgY3JldyI",
+        "name": "Mai \" No Label Crew＂",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n1958954251",
+        "a": {
+          "catalog": "keyng",
+          "trackId": "n1958954251",
+          "title": "小丑女 (LIVE版)",
+          "role": "制作人",
+          "raw": "制作人：Mai \" No Label Crew \"",
+          "source": "https://music.163.com/song?id=1958954251"
+        },
+        "b": {
+          "catalog": "keyng",
+          "trackId": "n1958954251",
+          "title": "小丑女 (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲：HYPER MUSIC/Mai \" No Label Crew＂",
+          "source": "https://music.163.com/song?id=1958954251"
+        },
+        "method": "same-track-context"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6ZqG5Y6G5aWHICJubyBsYWJlbCBjcmV3Ig",
+        "name": "隆历奇 \"No Label Crew\"",
+        "count": 9
+      },
+      "b": {
+        "id": "c6ZqG5Y6G5aWHIm5vIGxhYmVsIGNyZXci",
+        "name": "隆历奇＂No Label Crew＂",
+        "count": 18
+      },
+      "proof": {
+        "trackId": "n2053891069",
+        "a": {
+          "catalog": "keyl",
+          "trackId": "n2053891069",
+          "title": "《说唱听我的》2021推荐官Cypher",
+          "role": "编曲",
+          "raw": "编曲：Mai ＂No Label Crew＂/隆历奇 ＂No Label Crew＂",
+          "source": "https://music.163.com/song?id=2053891069"
+        },
+        "b": {
+          "catalog": "keyl",
+          "trackId": "n2053891069",
+          "title": "《说唱听我的》2021推荐官Cypher",
+          "role": "混音",
+          "raw": "混音：隆历奇＂No Label Crew＂/Mai ＂No Label Crew＂",
+          "source": "https://music.163.com/song?id=2053891069"
+        },
+        "method": "same-track-context"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5byg6ZyH5bKz",
+        "name": "张震岳",
+        "count": 1
+      },
+      "b": {
+        "id": "n6453",
+        "name": "张震岳",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n1869263761",
+        "a": {
+          "catalog": "keyl",
+          "trackId": "n1869263761",
+          "title": "差不多先生+Brother Man+爱就爱了+单身公寓+沧海一声笑+哥哥在哪？ (Live)",
+          "role": "编曲",
+          "raw": "编曲：张震岳",
+          "source": "https://music.163.com/song?id=1869263761"
+        },
+        "b": {
+          "catalog": "gai",
+          "trackId": "n1869263761",
+          "title": "差不多先生+Brother Man+爱就爱了+单身公寓+沧海一声笑+哥哥在哪？ (Live)",
+          "role": "编曲",
+          "raw": "编曲：张震岳",
+          "source": "https://music.163.com/song?id=1869263761"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2Njag",
+        "name": "CccJ",
+        "count": 5
+      },
+      "b": {
+        "id": "cY2Njaig",
+        "name": "CccJ（",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c57uGZ2FsYXh5bWFu",
+        "name": "细GalaxyMan",
+        "count": 48
+      },
+      "b": {
+        "id": "c57uGIGdhbGF4eW1hbg",
+        "name": "细 GalaxyMan",
+        "count": 3
+      },
+      "proof": {
+        "trackId": "n1975802875",
+        "a": {
+          "catalog": "tizzyt",
+          "trackId": "n1975802875",
+          "title": "顶峰 (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲 : 细GalaxyMan/顺德/Tim姜皓天/SinVstyle",
+          "source": "https://music.163.com/song?id=1975802875"
+        },
+        "b": {
+          "catalog": "tizzyt",
+          "trackId": "n1975802875",
+          "title": "顶峰 (LIVE版)",
+          "role": "制作人",
+          "raw": "制作人： TizzyT/细 GalaxyMan/顺德@亿万虎力/ Tim姜皓天",
+          "source": "https://music.163.com/song?id=1975802875"
+        },
+        "method": "same-track-context"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12085631",
+        "name": "HEAT J",
+        "count": 10
+      },
+      "b": {
+        "id": "caGVhdGo",
+        "name": "HEATJ",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2hpZWYgbWFsb25leQ",
+        "name": "Chief Maloney",
+        "count": 26
+      },
+      "b": {
+        "id": "cY2hpZWZtYWxvbmV5",
+        "name": "ChiefMaloney",
+        "count": 7
+      },
+      "proof": {
+        "trackId": "n1491237340",
+        "a": {
+          "catalog": "gali",
+          "trackId": "n1491237340",
+          "title": "1992 (Live)",
+          "role": "编曲",
+          "raw": "编曲 : Chief Maloney",
+          "source": "https://music.163.com/song?id=1491237340"
+        },
+        "b": {
+          "catalog": "gali",
+          "trackId": "n1491237340",
+          "title": "1992 (Live)",
+          "role": "编曲",
+          "raw": "编曲：ChiefMaloney",
+          "source": "https://music.163.com/song?id=1491237340"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12924568",
+        "name": "BINGO",
+        "count": 2
+      },
+      "b": {
+        "id": "cYmluZ28",
+        "name": "BINGO",
+        "count": 6
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZ29sZCBjaGlsZA",
+        "name": "Gold Child",
+        "count": 15
+      },
+      "b": {
+        "id": "cZ29sZGNoaWxk",
+        "name": "GoldChild",
+        "count": 11
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZ29sZCBjaGlsZA",
+        "name": "Gold Child",
+        "count": 15
+      },
+      "b": {
+        "id": "cZ29sZCBjaGlsZCYjMTM7",
+        "name": "Gold child&#13;",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZ29sZGNoaWxk",
+        "name": "GoldChild",
+        "count": 11
+      },
+      "b": {
+        "id": "cZ29sZCBjaGlsZCYjMTM7",
+        "name": "Gold child&#13;",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6aG65b63c291bmQ",
+        "name": "顺德Sound",
+        "count": 3
+      },
+      "b": {
+        "id": "c6aG65b63KHNvdW5kKQ",
+        "name": "顺德（SOUND）",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "caG9w5L6v6IiS5oms",
+        "name": "Hop侯舒扬",
+        "count": 1
+      },
+      "b": {
+        "id": "caG9wIOS-r-iIkuaJrA",
+        "name": "Hop 侯舒扬",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ca3dvcmxk",
+        "name": "KWORLD",
+        "count": 11
+      },
+      "b": {
+        "id": "ca3dvcmxkJiMxMzs",
+        "name": "KWORLD&#13;",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbThiZWF0eg",
+        "name": "M8BEATZ",
+        "count": 2
+      },
+      "b": {
+        "id": "cbTggYmVhdHo",
+        "name": "M8 BEATZ",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZG91YmxlZw",
+        "name": "DoubleG",
+        "count": 1
+      },
+      "b": {
+        "id": "cZG91YmxlX2c",
+        "name": "Double_G",
+        "count": 7
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12288446",
+        "name": "王晓夫",
+        "count": 20
+      },
+      "b": {
+        "id": "c546L5pmT5aSr",
+        "name": "王晓夫",
+        "count": 25
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbmV3eW91bmdnbw",
+        "name": "Newyounggo",
+        "count": 5
+      },
+      "b": {
+        "id": "n12120573",
+        "name": "Newyounggo",
+        "count": 4
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbWlrZSDigJxwaXp6YeKAnSBwaWF6emE",
+        "name": "Mike “Pizza” Piazza",
+        "count": 2
+      },
+      "b": {
+        "id": "cbWlrZSAicGl6emEiIHBpYXp6YQ",
+        "name": "Mike \"Pizza\" Piazza",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2xpbnRvbiDigJxoZWFkYWNoZeKAnSB3YWxrZXIgaWlp",
+        "name": "Clinton “HeadAche” Walker III",
+        "count": 101
+      },
+      "b": {
+        "id": "cY2xpbnRvbiAiaGVhZGFjaGUiIHdhbGtlciBpaWk",
+        "name": "Clinton \"HeadAche\" Walker III",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2xpbnRvbiDigJxoZWFkYWNoZeKAnSB3YWxrZXIgaWlp",
+        "name": "Clinton “HeadAche” Walker III",
+        "count": 101
+      },
+      "b": {
+        "id": "cY2xpbnRvbiDigJxoZWFkYWNoZSDigJ13YWxrZXIgaWlp",
+        "name": "Clinton “HeadAche ”Walker III",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2xpbnRvbiDigJxoZWFkYWNoZeKAnSB3YWxrZXIgaWlp",
+        "name": "Clinton “HeadAche” Walker III",
+        "count": 101
+      },
+      "b": {
+        "id": "cY2xpbnRvbuKAnGhlYWRhY2hl4oCdd2Fsa2VyIGlpaQ",
+        "name": "Clinton“Headache”Walker III",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2xpbnRvbiAiaGVhZGFjaGUiIHdhbGtlciBpaWk",
+        "name": "Clinton \"HeadAche\" Walker III",
+        "count": 4
+      },
+      "b": {
+        "id": "cY2xpbnRvbiDigJxoZWFkYWNoZSDigJ13YWxrZXIgaWlp",
+        "name": "Clinton “HeadAche ”Walker III",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2xpbnRvbiAiaGVhZGFjaGUiIHdhbGtlciBpaWk",
+        "name": "Clinton \"HeadAche\" Walker III",
+        "count": 4
+      },
+      "b": {
+        "id": "cY2xpbnRvbuKAnGhlYWRhY2hl4oCdd2Fsa2VyIGlpaQ",
+        "name": "Clinton“Headache”Walker III",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2xpbnRvbiDigJxoZWFkYWNoZSDigJ13YWxrZXIgaWlp",
+        "name": "Clinton “HeadAche ”Walker III",
+        "count": 2
+      },
+      "b": {
+        "id": "cY2xpbnRvbuKAnGhlYWRhY2hl4oCdd2Fsa2VyIGlpaQ",
+        "name": "Clinton“Headache”Walker III",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceHRvbmU",
+        "name": "XTONE",
+        "count": 6
+      },
+      "b": {
+        "id": "n12268101",
+        "name": "XTONE",
+        "count": 33
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5bCP5q2meGlhbyB3dQ",
+        "name": "小武XIAO WU",
+        "count": 1
+      },
+      "b": {
+        "id": "c5bCP5q2mICh4aWFvIHd1KQ",
+        "name": "小武           （Xiao Wu）",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZGllc2k",
+        "name": "DiESi",
+        "count": 33
+      },
+      "b": {
+        "id": "n12001195",
+        "name": "DiESi",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZGogcGVlIHdlZQ",
+        "name": "Dj Pee Wee",
+        "count": 1
+      },
+      "b": {
+        "id": "cZGogcGVld2Vl",
+        "name": "DJ Peewee",
+        "count": 2
+      },
+      "proof": {
+        "trackId": "n1975800314",
+        "a": {
+          "catalog": "wangyitai",
+          "trackId": "n1975800314",
+          "title": "现实的生活 (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲 : Dj Pee Wee/卡斯Kas$/雷十一",
+          "source": "https://music.163.com/song?id=1975800314"
+        },
+        "b": {
+          "catalog": "wangyitai",
+          "trackId": "n1975800314",
+          "title": "现实的生活 (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲： DJ Peewee/卡斯/雷十一",
+          "source": "https://music.163.com/song?id=1975800314"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12789348",
+        "name": "G23",
+        "count": 16
+      },
+      "b": {
+        "id": "cZzIz",
+        "name": "G23",
+        "count": 13
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6ICB6YGTZGFv",
+        "name": "老道Dao",
+        "count": 2
+      },
+      "b": {
+        "id": "c6ICB6YGTIChkYW8p",
+        "name": "老道         （DAO）",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY3JhaWcgaiB3aWxsaWFtcw",
+        "name": "Craig J Williams",
+        "count": 7
+      },
+      "b": {
+        "id": "cY3JhaWcgai4gd2lsbGlhbXM",
+        "name": "Craig J. Williams",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccGFibG8",
+        "name": "Pablo",
+        "count": 29
+      },
+      "b": {
+        "id": "n12316254",
+        "name": "Pablo",
+        "count": 12
+      },
+      "proof": {
+        "trackId": "n1909488696",
+        "a": {
+          "catalog": "mulasakee",
+          "trackId": "n1909488696",
+          "title": "水泊梁山",
+          "role": "编曲",
+          "raw": "编曲 : mac ova seas/THOME/MULA SAKEE/艾志恒Asen/TOYOKI/KIV/付思遥/Pablo/DIGI GHETTO",
+          "source": "https://music.163.com/song?id=1909488696"
+        },
+        "b": {
+          "catalog": "macovaseas",
+          "trackId": "n1909488696",
+          "title": "水泊梁山",
+          "role": "编曲",
+          "raw": "编曲 : mac ova seas/THOME/MULA SAKEE/艾志恒Asen/TOYOKI/KIV/付思遥/Pablo/DIGI GHETTO",
+          "source": "https://music.163.com/song?id=1909488696"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccS5sdXY",
+        "name": "Q.luv",
+        "count": 4
+      },
+      "b": {
+        "id": "n187624",
+        "name": "Q.luv",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1050520",
+        "name": "KAII",
+        "count": 1
+      },
+      "b": {
+        "id": "ca2FpaQ",
+        "name": "KAII",
+        "count": 4
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6LS-5bu35466amF0YW5jeQ",
+        "name": "贾廷玺JATANCY",
+        "count": 3
+      },
+      "b": {
+        "id": "n29590977",
+        "name": "贾廷玺JATANCY",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5YiY5rSy",
+        "name": "刘洲",
+        "count": 9
+      },
+      "b": {
+        "id": "n46666690",
+        "name": "刘洲",
+        "count": 4
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13132045",
+        "name": "JIMI天赐",
+        "count": 5
+      },
+      "b": {
+        "id": "camltaeWkqei1kA",
+        "name": "JIMI天赐",
+        "count": 14
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6I2o6bq755a5",
+        "name": "荨麻疹",
+        "count": 65
+      },
+      "b": {
+        "id": "n12904832",
+        "name": "荨麻疹",
+        "count": 45
+      },
+      "proof": {
+        "trackId": "n1913211372",
+        "a": {
+          "catalog": "psyp",
+          "trackId": "n1913211372",
+          "title": "Kawasaki",
+          "role": "混音",
+          "raw": "Mixed/Mastered：荨麻疹",
+          "source": "https://music.163.com/song?id=1913211372"
+        },
+        "b": {
+          "catalog": "cashtrippy",
+          "trackId": "n1913211372",
+          "title": "Kawasaki",
+          "role": "混音",
+          "raw": "Mixed/Mastered：荨麻疹",
+          "source": "https://music.163.com/song?id=1913211372"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cYWRl",
+        "name": "ADE",
+        "count": 20
+      },
+      "b": {
+        "id": "cYWRlKQ",
+        "name": "ADE）",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceW91bmcgb3o",
+        "name": "Young oz",
+        "count": 8
+      },
+      "b": {
+        "id": "ceW91bmdveg",
+        "name": "Youngoz",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12172289",
+        "name": "飞行少年",
+        "count": 1
+      },
+      "b": {
+        "id": "c6aOe6KGM5bCR5bm0",
+        "name": "飞行少年",
+        "count": 6
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cc291bGZyZXNoIGJlYXRz",
+        "name": "SOULFRESH BEATS",
+        "count": 3
+      },
+      "b": {
+        "id": "cc291bGZyZXNoYmVhdHM",
+        "name": "SOULFRESHBEATS",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbG92ZSB6YWNo",
+        "name": "Love Zach",
+        "count": 1
+      },
+      "b": {
+        "id": "cbG92ZSx6YWNo",
+        "name": "love,zach",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n1978173964",
+        "a": {
+          "catalog": "gali",
+          "trackId": "n1978173964",
+          "title": "BackPack (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲 : Puda Beats/Love Zach",
+          "source": "https://music.163.com/song?id=1978173964"
+        },
+        "b": {
+          "catalog": "gali",
+          "trackId": "n1978173964",
+          "title": "BackPack (LIVE版)",
+          "role": "编曲",
+          "raw": "编曲：Puda./love,zach",
+          "source": "https://music.163.com/song?id=1978173964"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceW91bmcgc3dpc2hlcg",
+        "name": "Young Swisher",
+        "count": 2
+      },
+      "b": {
+        "id": "ceW91bmdzd2lzaGVy",
+        "name": "YoungSwisher",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cc3RvbmVzb3dhdnk",
+        "name": "stonesowavy",
+        "count": 2
+      },
+      "b": {
+        "id": "cc3RvbmVzb3dhdnkh",
+        "name": "StoneSoWavy!",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "canVuIGxlZQ",
+        "name": "JUN Lee",
+        "count": 7
+      },
+      "b": {
+        "id": "canVuX2xlZQ",
+        "name": "Jun_Lee",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12490483",
+        "name": "Robins Lu",
+        "count": 1
+      },
+      "b": {
+        "id": "ccm9iaW5zbHU",
+        "name": "RobinsLu",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n52562123",
+        "name": "栾卓忻",
+        "count": 4
+      },
+      "b": {
+        "id": "c5qC-5Y2T5b-7",
+        "name": "栾卓忻",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n27868624",
+        "name": "KnowKnow",
+        "count": 33
+      },
+      "b": {
+        "id": "ca25vd2tub3c",
+        "name": "KnowKnow",
+        "count": 1
+      },
+      "proof": {
+        "method": "platform-work-version",
+        "a": {
+          "catalog": "jinji",
+          "trackId": "n2607423641",
+          "title": "高，还没富，但帅 (Live)",
+          "role": "编曲",
+          "raw": "编曲 : Ty./KnowKnow/PSY.P",
+          "source": "https://music.163.com/song?id=2607423641"
+        },
+        "trackId": "n2607423641",
+        "profileSource": "https://music.163.com/artist?id=27868624"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n29303235",
+        "name": "PSY.P",
+        "count": 36
+      },
+      "b": {
+        "id": "ccHN5LnA",
+        "name": "PSY.P",
+        "count": 1
+      },
+      "proof": {
+        "method": "platform-work-version",
+        "a": {
+          "catalog": "jinji",
+          "trackId": "n2607423641",
+          "title": "高，还没富，但帅 (Live)",
+          "role": "编曲",
+          "raw": "编曲 : Ty./KnowKnow/PSY.P",
+          "source": "https://music.163.com/song?id=2607423641"
+        },
+        "trackId": "n2607423641",
+        "profileSource": "https://music.163.com/artist?id=29303235"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n29304235",
+        "name": "Melo",
+        "count": 8
+      },
+      "b": {
+        "id": "n39040",
+        "name": "Melo",
+        "count": 4
+      },
+      "proof": {
+        "trackId": "n3352826361",
+        "a": {
+          "catalog": "knowknow",
+          "trackId": "n3352826361",
+          "title": "Highest",
+          "role": "制作人",
+          "raw": "制作人 : 马思唯/KnowKnow/PSY.P/Melo",
+          "source": "https://music.163.com/song?id=3352826361"
+        },
+        "b": {
+          "catalog": "psyp",
+          "trackId": "n3352826361",
+          "title": "Highest",
+          "role": "制作人",
+          "raw": "制作人 : 马思唯/KnowKnow/PSY.P/Melo",
+          "source": "https://music.163.com/song?id=3352826361"
+        },
+        "method": "same-track-role"
+      },
+      "status": "pending",
+      "reason": "存在两个不同的平台账号，不能按同名合并"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12083741",
+        "name": "PoloBear",
+        "count": 16
+      },
+      "b": {
+        "id": "ccG9sbyBiZWFy",
+        "name": "Polo Bear",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccm9zc2dvc3NhZ2U",
+        "name": "Rossgossage",
+        "count": 1
+      },
+      "b": {
+        "id": "ccm9zcyBnb3NzYWdl",
+        "name": "ross gossage",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cYmFua3JvbGwgZ290IGl0",
+        "name": "Bankroll got it",
+        "count": 1
+      },
+      "b": {
+        "id": "cYmFua3JvbGwgZ290aXQ",
+        "name": "Bankroll Gotit",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cYmFua3JvbGwgZ290IGl0",
+        "name": "Bankroll got it",
+        "count": 1
+      },
+      "b": {
+        "id": "cYmFua3JvbGxnb3RpdA",
+        "name": "Bankrollgotit",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cYmFua3JvbGwgZ290aXQ",
+        "name": "Bankroll Gotit",
+        "count": 2
+      },
+      "b": {
+        "id": "cYmFua3JvbGxnb3RpdA",
+        "name": "Bankrollgotit",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cc21va2VtYWZpYQ",
+        "name": "SmokeMafia",
+        "count": 2
+      },
+      "b": {
+        "id": "n54098104",
+        "name": "SmokeMafia",
+        "count": 3
+      },
+      "proof": {
+        "trackId": "n3426181655",
+        "a": {
+          "catalog": "psyp",
+          "trackId": "n3426181655",
+          "title": "一满把",
+          "role": "混音",
+          "raw": "混音 : SmokeMafia",
+          "source": "https://music.163.com/song?id=3426181655"
+        },
+        "b": {
+          "catalog": "lsgcsikoriot",
+          "trackId": "n3426181655",
+          "title": "一满把",
+          "role": "混音",
+          "raw": "混音 : SmokeMafia",
+          "source": "https://music.163.com/song?id=3426181655"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cc21va2VtYWZpYQ",
+        "name": "SmokeMafia",
+        "count": 2
+      },
+      "b": {
+        "id": "cc21va2UgbWFmaWE",
+        "name": "smoke mafia",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n54098104",
+        "name": "SmokeMafia",
+        "count": 3
+      },
+      "b": {
+        "id": "cc21va2UgbWFmaWE",
+        "name": "smoke mafia",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cenk",
+        "name": "Zy",
+        "count": 2
+      },
+      "b": {
+        "id": "n37123911",
+        "name": "Zy",
+        "count": 4
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbGlsIGNoZW4",
+        "name": "Lil Chen",
+        "count": 60
+      },
+      "b": {
+        "id": "cbGlsY2hlbg",
+        "name": "lilchen",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbmF6ZG8",
+        "name": "Nazdo",
+        "count": 1
+      },
+      "b": {
+        "id": "n46638107",
+        "name": "Nazdo",
+        "count": 40
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5Y2i5Yev5pavbHVjeA",
+        "name": "卢凯斯LucX",
+        "count": 5
+      },
+      "b": {
+        "id": "c5Y2i5Yev5pavIGx1Y3g",
+        "name": "卢凯斯 LucX",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6ZmI55GcbG9uYQ",
+        "name": "陈瑜Lona",
+        "count": 1
+      },
+      "b": {
+        "id": "n48685148",
+        "name": "陈瑜Lona",
+        "count": 3
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbmljayByb2Nr",
+        "name": "Nick Rock",
+        "count": 2
+      },
+      "b": {
+        "id": "n52509946",
+        "name": "Nick Rock",
+        "count": 4
+      },
+      "proof": {
+        "trackId": "n2610649081",
+        "a": {
+          "catalog": "macovaseas",
+          "trackId": "n2610649081",
+          "title": "呀瑟呀雷",
+          "role": "编曲",
+          "raw": "编曲 : Nick Rock",
+          "source": "https://music.163.com/song?id=2610649081"
+        },
+        "b": {
+          "catalog": "watchme",
+          "trackId": "n2610649081",
+          "title": "呀瑟呀雷",
+          "role": "编曲",
+          "raw": "编曲 : Nick Rock",
+          "source": "https://music.163.com/song?id=2610649081"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccmVkYm9p",
+        "name": "REDBOI",
+        "count": 4
+      },
+      "b": {
+        "id": "n53092750",
+        "name": "REDBOI",
+        "count": 5
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13699284",
+        "name": "JACKWAVY",
+        "count": 1
+      },
+      "b": {
+        "id": "camFja3dhdnk",
+        "name": "JACKWAVY",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdGhhdGJvc3NldmFu",
+        "name": "ThatBossEvan",
+        "count": 2
+      },
+      "b": {
+        "id": "cdGhhdGJvc3NldmFuLA",
+        "name": "ThatBossEvan，",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cc2FvYmVhcg",
+        "name": "SAOBEAR",
+        "count": 17
+      },
+      "b": {
+        "id": "cc2FvIGJlYXI",
+        "name": "SAO BEAR",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdmFpbmx5Ym9pYXNsYXnDq3Jy",
+        "name": "VainlyBoiAslayërr",
+        "count": 15
+      },
+      "b": {
+        "id": "n34173729",
+        "name": "VainlyBoiAslayërr",
+        "count": 10
+      },
+      "proof": {
+        "trackId": "n1933659329",
+        "a": {
+          "catalog": "macovaseas",
+          "trackId": "n1933659329",
+          "title": "西湖水",
+          "role": "编曲",
+          "raw": "编曲 : VainlyBoiAslayërr/Udigg/CashTrippy/mac ova seas/李大奔BENZO",
+          "source": "https://music.163.com/song?id=1933659329"
+        },
+        "b": {
+          "catalog": "cashtrippy",
+          "trackId": "n1933659329",
+          "title": "西湖水",
+          "role": "编曲",
+          "raw": "编曲 : VainlyBoiAslayërr/Udigg/CashTrippy/mac ova seas/李大奔BENZO",
+          "source": "https://music.163.com/song?id=1933659329"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceW91bmdicmVlenk",
+        "name": "YoungBreezy",
+        "count": 2
+      },
+      "b": {
+        "id": "ceW91bmcgYnJlZXp5",
+        "name": "Young Breezy",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5aWl5pav5Y2hb3NjYXIgd3U",
+        "name": "奥斯卡Oscar Wu",
+        "count": 3
+      },
+      "b": {
+        "id": "c5aWl5pav5Y2hIG9zY2FyIHd1",
+        "name": "奥斯卡 Oscar Wu",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2737837632",
+        "a": {
+          "catalog": "beibei",
+          "trackId": "n2737837632",
+          "title": "分手排行榜",
+          "role": "制作人",
+          "raw": "制作人 : 吴克群/ljz329/奥斯卡Oscar Wu",
+          "source": "https://music.163.com/song?id=2737837632"
+        },
+        "b": {
+          "catalog": "beibei",
+          "trackId": "n2737837632",
+          "title": "分手排行榜",
+          "role": "母带",
+          "raw": "母带 : 奥斯卡 Oscar Wu@米果音乐工作室",
+          "source": "https://music.163.com/song?id=2737837632"
+        },
+        "method": "same-track-context"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ceS0gYg",
+        "name": "Y- B",
+        "count": 1
+      },
+      "b": {
+        "id": "ceS1i",
+        "name": "Y-B",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n30003804",
+        "name": "404 RAPPER",
+        "count": 2
+      },
+      "b": {
+        "id": "cNDA0cmFwcGVy",
+        "name": "404RAPPER",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cam9obmxpdQ",
+        "name": "JohnLiu",
+        "count": 4
+      },
+      "b": {
+        "id": "cam9obiBsaXU",
+        "name": "John Liu",
+        "count": 101
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cYnViYmxlYm95",
+        "name": "Bubbleboy",
+        "count": 3
+      },
+      "b": {
+        "id": "n14016611",
+        "name": "Bubbleboy",
+        "count": 13
+      },
+      "proof": {
+        "trackId": "n2740498010",
+        "a": {
+          "catalog": "lsgcsikoriot",
+          "trackId": "n2740498010",
+          "title": "钱",
+          "role": "编曲",
+          "raw": "编曲 : Bubbleboy/John Liu/LusciousBB/Sahara/张方钊",
+          "source": "https://music.163.com/song?id=2740498010"
+        },
+        "b": {
+          "catalog": "zhangfangzhao",
+          "trackId": "n2740498010",
+          "title": "钱",
+          "role": "编曲",
+          "raw": "编曲 : Bubbleboy/John Liu/LusciousBB/Sahara/张方钊",
+          "source": "https://music.163.com/song?id=2740498010"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n56564450",
+        "name": "王豆",
+        "count": 17
+      },
+      "b": {
+        "id": "c546L6LGG",
+        "name": "王豆",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbGlja293ZW5z",
+        "name": "LickOwens",
+        "count": 1
+      },
+      "b": {
+        "id": "cbGljayBvd2Vucw",
+        "name": "Lick Owens",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2hyaXMgZ2VocmluZ2VyICjnvo4p",
+        "name": "CHRIS GEHRINGER (美)",
+        "count": 3
+      },
+      "b": {
+        "id": "cY2hyaXMgZ2VocmluZ2VyKOe-jik",
+        "name": "CHRIS GEHRINGER(美)",
+        "count": 16
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n27866110",
+        "name": "Louis 1520",
+        "count": 1
+      },
+      "b": {
+        "id": "cbG91aXMxNTIw",
+        "name": "Louis1520",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbmV2ZXJraWxsdGhlYXBl",
+        "name": "neverkilltheape",
+        "count": 12
+      },
+      "b": {
+        "id": "n50445808",
+        "name": "neverkilltheape",
+        "count": 5
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbW9ub3Zpc2E",
+        "name": "Monovisa",
+        "count": 6
+      },
+      "b": {
+        "id": "n32436403",
+        "name": "Monovisa",
+        "count": 23
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cY2FzaG1vb24",
+        "name": "CashMoon",
+        "count": 2
+      },
+      "b": {
+        "id": "n34516758",
+        "name": "CashMoon",
+        "count": 4
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdGhpc2lzd2Fua3N0YQ",
+        "name": "ThisIsWanksta",
+        "count": 1
+      },
+      "b": {
+        "id": "cdGhpc2lzIHdhbmtzdGE",
+        "name": "ThisIs Wanksta",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "nunlinked-SmluSmlCZVdhdGVyX-mavA",
+        "name": "JinJiBeWater_隼",
+        "count": 1
+      },
+      "b": {
+        "id": "n13451886",
+        "name": "JinJiBeWater_隼",
+        "count": 18
+      },
+      "proof": {
+        "trackId": "n1853864505",
+        "a": {
+          "catalog": "lianma",
+          "trackId": "n1853864505",
+          "title": "街头智慧Ft.连麻swimming（Prod.TnT）",
+          "role": "编曲",
+          "raw": "编曲 : JinJiBeWater_隼/连麻Swimming",
+          "source": "https://music.163.com/song?id=1853864505"
+        },
+        "b": {
+          "catalog": "jinji",
+          "trackId": "n1853864505",
+          "title": "街头智慧Ft.连麻swimming（Prod.TnT）",
+          "role": "编曲",
+          "raw": "编曲 : JinJiBeWater_隼/连麻Swimming",
+          "source": "https://music.163.com/song?id=1853864505"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "nunlinked-SmluSmlCZVdhdGVyX-mavA",
+        "name": "JinJiBeWater_隼",
+        "count": 1
+      },
+      "b": {
+        "id": "camluamliZXdhdGVy6Zq8",
+        "name": "JinJiBeWater隼",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13451886",
+        "name": "JinJiBeWater_隼",
+        "count": 18
+      },
+      "b": {
+        "id": "camluamliZXdhdGVy6Zq8",
+        "name": "JinJiBeWater隼",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2008727919",
+        "a": {
+          "catalog": "jinji",
+          "trackId": "n2008727919",
+          "title": "现在的流行(Poping Now)",
+          "role": "制作人",
+          "raw": "制作人 : Udigg/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=2008727919"
+        },
+        "b": {
+          "catalog": "jinji",
+          "trackId": "n2008727919",
+          "title": "现在的流行(Poping Now)",
+          "role": "制作人",
+          "raw": "制作人：Udigg/JinJiBeWater隼",
+          "source": "https://music.163.com/song?id=2008727919"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "caWNlIHBhcGVy",
+        "name": "Ice Paper",
+        "count": 2
+      },
+      "b": {
+        "id": "n12121264",
+        "name": "Ice Paper",
+        "count": 7
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n59528211",
+        "name": "鼠尾草",
+        "count": 1
+      },
+      "b": {
+        "id": "c6byg5bC-6I2J",
+        "name": "鼠尾草",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2103764064",
+        "a": {
+          "catalog": "pharaoh",
+          "trackId": "n2103764064",
+          "title": "阳光男孩阳光女孩2023",
+          "role": "制作人",
+          "raw": "制作人：鼠尾草",
+          "source": "https://music.163.com/song?id=2103764064"
+        },
+        "b": {
+          "catalog": "vinida",
+          "trackId": "n2103764064",
+          "title": "阳光男孩阳光女孩2023",
+          "role": "制作人",
+          "raw": "制作人：鼠尾草",
+          "source": "https://music.163.com/song?id=2103764064"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccmljb3Rzb2hvdA",
+        "name": "RICOTSOHOT",
+        "count": 2
+      },
+      "b": {
+        "id": "n50434860",
+        "name": "RICOTSOHOT",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZWVyeXNraWVzLg",
+        "name": "eeryskies.",
+        "count": 1
+      },
+      "b": {
+        "id": "cZWVyeXNraWVz",
+        "name": "eeryskies",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5b2x5bidaW5keSg",
+        "name": "影帝inDy（",
+        "count": 2
+      },
+      "b": {
+        "id": "c5b2x5bidaW5keQ",
+        "name": "影帝inDy",
+        "count": 12
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n32914814",
+        "name": "泡椒花生",
+        "count": 3
+      },
+      "b": {
+        "id": "c5rOh5qSS6Iqx55Sf",
+        "name": "泡椒花生",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2048335360",
+        "a": {
+          "catalog": "vansdaddy",
+          "trackId": "n2048335360",
+          "title": "盆栽里",
+          "role": "混音",
+          "raw": "混音 : 泡椒花生",
+          "source": "https://music.163.com/song?id=2048335360"
+        },
+        "b": {
+          "catalog": "bobbynopeace",
+          "trackId": "n2048335360",
+          "title": "盆栽里",
+          "role": "混音",
+          "raw": "混音 : 泡椒花生",
+          "source": "https://music.163.com/song?id=2048335360"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZG9rb2RlbW8gZG9vciBtdXNpYyhjZGMp",
+        "name": "Dokodemo Door Music(CDC)",
+        "count": 1
+      },
+      "b": {
+        "id": "cZG9rb2RlbW8gZG9vciBtdXNpYyAoY2RjKQ",
+        "name": "Dokodemo Door Music （CDC）",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12762192",
+        "name": "FrozenHeart",
+        "count": 3
+      },
+      "b": {
+        "id": "cZnJvemVuaGVhcnQ",
+        "name": "Frozenheart",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n5538",
+        "name": "汪苏泷",
+        "count": 1
+      },
+      "b": {
+        "id": "c5rGq6IuP5rO3",
+        "name": "汪苏泷",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c5ZC05Yag5LuRaHVzaCE",
+        "name": "吴冠仑Hush!",
+        "count": 4
+      },
+      "b": {
+        "id": "c5ZC05Yag5LuRIGh1c2gh",
+        "name": "吴冠仑 HusH!",
+        "count": 3
+      },
+      "proof": {
+        "trackId": "n1817971998",
+        "a": {
+          "catalog": "gai",
+          "trackId": "n1817971998",
+          "title": "莲花",
+          "role": "编曲",
+          "raw": "编曲：吴冠仑Hush!",
+          "source": "https://music.163.com/song?id=1817971998"
+        },
+        "b": {
+          "catalog": "gai",
+          "trackId": "n1817971998",
+          "title": "莲花",
+          "role": "编曲",
+          "raw": "编曲 : 吴冠仑 HusH!@SBMS Beijing",
+          "source": "https://music.163.com/song?id=1817971998"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cemotIGFpdnNvbg",
+        "name": "Zj- aIvSoN",
+        "count": 1
+      },
+      "b": {
+        "id": "cemotYWl2c29u",
+        "name": "Zj-aIvSoN",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cZG9vcm11c2lj",
+        "name": "DoorMusic",
+        "count": 1
+      },
+      "b": {
+        "id": "cZG9vciBtdXNpYw",
+        "name": "Door music",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1083118",
+        "name": "王嘉尔",
+        "count": 1
+      },
+      "b": {
+        "id": "c546L5ZiJ5bCU",
+        "name": "王嘉尔",
+        "count": 1
+      },
+      "proof": {
+        "method": "platform-work-version",
+        "a": {
+          "catalog": "rapeter",
+          "trackId": "n2732266121",
+          "title": "BUCK (feat. Diljit Dosanjh) (Live)",
+          "role": "制作人",
+          "raw": "制作人 : 王嘉尔/严浩翔",
+          "source": "https://music.163.com/song?id=2732266121"
+        },
+        "trackId": "n2732266121",
+        "profileSource": "https://music.163.com/artist?id=1083118"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cdGlyZWQ",
+        "name": "tired",
+        "count": 4
+      },
+      "b": {
+        "id": "n30226091",
+        "name": "tired",
+        "count": 5
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c57qz5YW55aSabmF6ZG8",
+        "name": "纳兹多Nazdo",
+        "count": 7
+      },
+      "b": {
+        "id": "c57qz5YW55aSaIG5hemRv",
+        "name": "纳兹多 Nazdo",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "ccGluZXZzdGhld29ybGQ",
+        "name": "PINEvsTheWorld",
+        "count": 1
+      },
+      "b": {
+        "id": "n13793119",
+        "name": "PINEvsTheWorld",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n49745789",
+        "name": "李外LilWine",
+        "count": 1
+      },
+      "b": {
+        "id": "c5p2O5aSWbGlsd2luZQ",
+        "name": "李外LilWine",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "cbmVmZi0gdQ",
+        "name": "Neff- U",
+        "count": 1
+      },
+      "b": {
+        "id": "cbmVmZi11",
+        "name": "Neff-U",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "c6Iy255Om57qzIw",
+        "name": "茶瓦纳#",
+        "count": 1
+      },
+      "b": {
+        "id": "c6Iy255Om57qz",
+        "name": "茶瓦纳",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYWRl6Zm25YW06L2p",
+        "name": "ADE陶兴轩",
+        "count": 212
+      },
+      "b": {
+        "id": "cYWRl5reY5YW06L2p",
+        "name": "ADE淘兴轩",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n31093989",
+        "name": "LusciousBB",
+        "count": 53
+      },
+      "b": {
+        "id": "cbHVzY2lvdWJi",
+        "name": "LusciouBB",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n31093989",
+        "name": "LusciousBB",
+        "count": 53
+      },
+      "b": {
+        "id": "cbHVjaW91c2Ji",
+        "name": "Luciousbb",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2606310989",
+        "a": {
+          "catalog": "vansdaddy",
+          "trackId": "n2606310989",
+          "title": "眼保健操",
+          "role": "编曲",
+          "raw": "编曲 : Vansdaddy/LusciousBB",
+          "source": "https://music.163.com/song?id=2606310989"
+        },
+        "b": {
+          "catalog": "vansdaddy",
+          "trackId": "n2606310989",
+          "title": "眼保健操",
+          "role": "编曲",
+          "raw": "编曲:vansdaddy/Luciousbb",
+          "source": "https://music.163.com/song?id=2606310989"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "c5Y2h5pava2FzJA",
+        "name": "卡斯Kas$",
+        "count": 47
+      },
+      "b": {
+        "id": "c5Y2h5pava2EkJA",
+        "name": "卡斯KA$$",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cc3RvbmVzb3dheQ",
+        "name": "stonesoway",
+        "count": 2
+      },
+      "b": {
+        "id": "cc3RvbmVzb3dhdnk",
+        "name": "stonesowavy",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cc3RvbmVzb3dheQ",
+        "name": "stonesoway",
+        "count": 2
+      },
+      "b": {
+        "id": "cc3RvbmVzb3dhdnkh",
+        "name": "StoneSoWavy!",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cbWlycm93",
+        "name": "Mirrow",
+        "count": 1
+      },
+      "b": {
+        "id": "cbWlyb293",
+        "name": "miroow",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cdC7QsHh4a3d5d2Qg5Y2h5pav",
+        "name": "T.Аxxkwywd 卡斯",
+        "count": 2
+      },
+      "b": {
+        "id": "cdC7QsHh4a3d5d2Qg5bCP5q2m",
+        "name": "T.Аxxkwywd 小武",
+        "count": 2
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cY2hyaXMgZ2VocmluZ2Vy",
+        "name": "Chris Gehringer",
+        "count": 25
+      },
+      "b": {
+        "id": "cY2hyaXMgZ2VocmluZ2VyICjnvo4p",
+        "name": "CHRIS GEHRINGER (美)",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cY2hyaXMgZ2VocmluZ2Vy",
+        "name": "Chris Gehringer",
+        "count": 25
+      },
+      "b": {
+        "id": "cY2hyaXMgZ2VocmluZ2VyKOe-jik",
+        "name": "CHRIS GEHRINGER(美)",
+        "count": 16
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "c6aG65b63c291bmQ",
+        "name": "顺德Sound",
+        "count": 3
+      },
+      "b": {
+        "id": "c6aG65b63KHNkb3VuZCk",
+        "name": "顺德(SDOUND)",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cZG91YmxlZw",
+        "name": "DoubleG",
+        "count": 1
+      },
+      "b": {
+        "id": "cZG91YmxlIHo",
+        "name": "Double Z",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYW50b255IGtpbGhvZmZlcg",
+        "name": "Antony Kilhoffer",
+        "count": 4
+      },
+      "b": {
+        "id": "cYW50aG9ueSBraWxob2ZmZXI",
+        "name": "Anthony Kilhoffer",
+        "count": 2
+      },
+      "proof": {
+        "trackId": "n1876182023",
+        "a": {
+          "catalog": "wangyitai",
+          "trackId": "n1876182023",
+          "title": "生而为人总错过",
+          "role": "制作人",
+          "raw": "制作人 : Antony Kilhoffer/Craig Williams/艾热 AIR/王以太",
+          "source": "https://music.163.com/song?id=1876182023"
+        },
+        "b": {
+          "catalog": "wangyitai",
+          "trackId": "n1876182023",
+          "title": "生而为人总错过",
+          "role": "编曲",
+          "raw": "编曲 : Anthony Kilhoffer/Craig J Williams",
+          "source": "https://music.163.com/song?id=1876182023"
+        },
+        "method": "same-track-context"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYW50b255IGtpbGhvZmZlcg",
+        "name": "Antony Kilhoffer",
+        "count": 4
+      },
+      "b": {
+        "id": "cYW50aG9ueSBraWxsaG9mZmVy",
+        "name": "Anthony Killhoffer",
+        "count": 6
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cY3JhaWcgd2lsbGlhbXM",
+        "name": "Craig Williams",
+        "count": 4
+      },
+      "b": {
+        "id": "cY3JhaWcgaiB3aWxsaWFtcw",
+        "name": "Craig J Williams",
+        "count": 7
+      },
+      "proof": {
+        "trackId": "n1876182023",
+        "a": {
+          "catalog": "wangyitai",
+          "trackId": "n1876182023",
+          "title": "生而为人总错过",
+          "role": "制作人",
+          "raw": "制作人 : Antony Kilhoffer/Craig Williams/艾热 AIR/王以太",
+          "source": "https://music.163.com/song?id=1876182023"
+        },
+        "b": {
+          "catalog": "wangyitai",
+          "trackId": "n1876182023",
+          "title": "生而为人总错过",
+          "role": "编曲",
+          "raw": "编曲 : Anthony Kilhoffer/Craig J Williams",
+          "source": "https://music.163.com/song?id=1876182023"
+        },
+        "method": "same-track-context"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cY3JhaWcgd2lsbGlhbXM",
+        "name": "Craig Williams",
+        "count": 4
+      },
+      "b": {
+        "id": "cY3JhaWcgai4gd2lsbGlhbXM",
+        "name": "Craig J. Williams",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYW50aG9ueSBraWxob2ZmZXI",
+        "name": "Anthony Kilhoffer",
+        "count": 2
+      },
+      "b": {
+        "id": "cYW50aG9ueSBraWxsaG9mZmVy",
+        "name": "Anthony Killhoffer",
+        "count": 6
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "c6aG65b63KHNkb3VuZCk",
+        "name": "顺德(SDOUND)",
+        "count": 3
+      },
+      "b": {
+        "id": "c6aG65b63KHNvdW5kKQ",
+        "name": "顺德（SOUND）",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cY2x1dGNo56a75ZCI",
+        "name": "Clutch离合",
+        "count": 1
+      },
+      "b": {
+        "id": "n34319290",
+        "name": "Clutch+离合",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n2141683852",
+        "a": {
+          "catalog": "gali",
+          "trackId": "n2141683852",
+          "title": "QUARTERBACK",
+          "role": "混音",
+          "raw": "混音：Clutch离合",
+          "source": "https://music.163.com/song?id=2141683852"
+        },
+        "method": "same-track-artist"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n222404",
+        "name": "卡斯Kas$",
+        "count": 3
+      },
+      "b": {
+        "id": "c5Y2h5pava2EkJA",
+        "name": "卡斯KA$$",
+        "count": 1
+      },
+      "proof": {
+        "trackId": "n1491237390",
+        "a": {
+          "catalog": "gali",
+          "trackId": "n1491237390",
+          "title": "天选之子 (Live)",
+          "role": "编曲",
+          "raw": "编曲 : 卡斯Kas$/Yoken_Official/YYKBZ",
+          "source": "https://music.163.com/song?id=1491237390"
+        },
+        "b": {
+          "catalog": "gali",
+          "trackId": "n1491237390",
+          "title": "天选之子 (Live)",
+          "role": "编曲",
+          "raw": "编曲：卡斯KA$$/YOKEN@YBM/YYKBZ@YBM",
+          "source": "https://music.163.com/song?id=1491237390"
+        },
+        "method": "same-track-role"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cc2ltb24gbWFyY3Vz",
+        "name": "Simon Marcus",
+        "count": 40
+      },
+      "b": {
+        "id": "cc2ltb25tYXJjdXNl",
+        "name": "SIMONMARCUSE",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cc2ltb24gbWFyY3Vz",
+        "name": "Simon Marcus",
+        "count": 40
+      },
+      "b": {
+        "id": "cc2ltb24gbWFjdXM",
+        "name": "Simon Macus",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYWRlIOmZtuWFtOi9qQ",
+        "name": "ADE 陶兴轩",
+        "count": 2
+      },
+      "b": {
+        "id": "cYWRl5reY5YW06L2p",
+        "name": "ADE淘兴轩",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "ccm9rbyB0ZW5zaW8",
+        "name": "Roko Tensio",
+        "count": 1
+      },
+      "b": {
+        "id": "ccm9rbyB0ZW5zZWk",
+        "name": "Roko Tensei",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cbWl4ZWRieXNvdXJl",
+        "name": "Mixedbysoure",
+        "count": 1
+      },
+      "b": {
+        "id": "cbWl4ZWRieXNvdXJjZQ",
+        "name": "Mixedbysource",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n12897263",
+        "name": "drippinshawty",
+        "count": 27
+      },
+      "b": {
+        "id": "cZHJpcHBpbmdzaGF3dHk",
+        "name": "drippingshawty",
+        "count": 6
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "ccm9sbWVham9pbnR5ZWxsYQ",
+        "name": "ROLMEAJOINTYELLA",
+        "count": 1
+      },
+      "b": {
+        "id": "ccm9sbG1lYWpvaW50eWVsbGE",
+        "name": "ROLLMEAJOINTYELLA",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cd29uZGVybHVzdCBiZWF0cw",
+        "name": "Wonderlust Beats",
+        "count": 1
+      },
+      "b": {
+        "id": "cd29uZGVybHVzYmVhdHM",
+        "name": "wonderlusbeats",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cZ2VvZ290YmFuZHM",
+        "name": "GeoGotBands",
+        "count": 1
+      },
+      "b": {
+        "id": "cZ2VvZ290YmFuZA",
+        "name": "geogotband",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYmVjayBiZWF0",
+        "name": "Beck Beat",
+        "count": 1
+      },
+      "b": {
+        "id": "cYmVjayBiZWF0eg",
+        "name": "Beck Beatz",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cZnJvenJuaGVhcnQ",
+        "name": "FrozrnHeart",
+        "count": 1
+      },
+      "b": {
+        "id": "n12762192",
+        "name": "FrozenHeart",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cZnJvenJuaGVhcnQ",
+        "name": "FrozrnHeart",
+        "count": 1
+      },
+      "b": {
+        "id": "cZnJvemVuaGVhcnQ",
+        "name": "Frozenheart",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n13528028",
+        "name": "FANTASYLAND",
+        "count": 8
+      },
+      "b": {
+        "id": "cZmFudGFzeWFsbmQ",
+        "name": "FANTASYALND",
+        "count": 2
+      },
+      "proof": {
+        "method": "platform-discography",
+        "a": {
+          "catalog": "cashtrippy",
+          "trackId": "n1446922081",
+          "title": "Soho",
+          "role": "混音",
+          "raw": "mix&master:FANTASYALND",
+          "source": "https://music.163.com/song?id=1446922081"
+        },
+        "trackId": "n1446922081",
+        "profileSource": "https://music.163.com/artist?id=13528028"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n13528028",
+        "name": "FANTASYLAND",
+        "count": 8
+      },
+      "b": {
+        "id": "cZmFudGF5c2xhbmQ",
+        "name": "FANTAYSLAND",
+        "count": 2
+      },
+      "proof": {
+        "method": "platform-discography",
+        "a": {
+          "catalog": "cashtrippy",
+          "trackId": "n1444517326",
+          "title": "丝绒",
+          "role": "混音",
+          "raw": "mix&master：FANTAYSLAND",
+          "source": "https://music.163.com/song?id=1444517326"
+        },
+        "trackId": "n1444517326",
+        "profileSource": "https://music.163.com/artist?id=13528028"
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cZG91YmxlX2c",
+        "name": "Double_G",
+        "count": 7
+      },
+      "b": {
+        "id": "cZG91YmxlIHo",
+        "name": "Double Z",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cc2ltb25tYXJjdXNl",
+        "name": "SIMONMARCUSE",
+        "count": 1
+      },
+      "b": {
+        "id": "cc2ltb24gbWFjdXM",
+        "name": "Simon Macus",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYmVjdSBiZWF0eg",
+        "name": "BECU BEATZ",
+        "count": 1
+      },
+      "b": {
+        "id": "cYmVjayBiZWF0eg",
+        "name": "Beck Beatz",
+        "count": 1
+      },
+      "status": "pending",
+      "reason": "相似或同名不足以确认，保留独立身份"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "cYmlnIGJsb29vZHkgYmFsZGU",
+        "name": "Big blooody balde",
+        "count": 1
+      },
+      "b": {
+        "id": "cYmlnIGJsb29vZHkgYmxhZGU",
+        "name": "Big blooody blade",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "已归入经过审定的署名组"
+    }
+  ]
+}

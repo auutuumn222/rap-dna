@@ -1,0 +1,252 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 14,
+    "hlWords": [
+      "BOBBYNOPEACE"
+    ],
+    "artists": [
+      {
+        "id": 48277407,
+        "name": "BOBBYNOPEACE",
+        "picUrl": "https://p2.music.126.net/PJ_pEPnz1bP7-AIITS6gVA==/109951166062555979.jpg",
+        "alias": [],
+        "albumSize": 29,
+        "musicSize": 169,
+        "picId": 109951166062555980,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 493774,
+        "img1v1Url": "https://p2.music.126.net/yA8Yg7smOSUbPL68lqzMuQ==/109951173913716164.jpg",
+        "accountId": 484655763,
+        "img1v1": 109951173913716160,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 13451886,
+        "name": "JinJiBeWater_隼",
+        "picUrl": "https://p2.music.126.net/ZUoltERaDfCrXMVuWjoxkg==/109951165781191908.jpg",
+        "alias": [],
+        "albumSize": 12,
+        "musicSize": 97,
+        "picId": 109951165781191900,
+        "fansGroup": null,
+        "recommendText": "与BOBBYNOPEACE合唱歌曲《六月九日阴Ft.JinJiBeWater隼》",
+        "appendRecText": "",
+        "fansSize": 701839,
+        "img1v1Url": "https://p2.music.126.net/lwzDVFpq_4wKUzJURdwijQ==/109951174131325219.jpg",
+        "accountId": 1343120532,
+        "img1v1": 109951174131325220,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 7,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 53597603,
+        "name": "迪诺哥",
+        "picUrl": "https://p2.music.126.net/t4Ne_7FExcxWTlZhsPHlfg==/109951167751389315.jpg",
+        "alias": [
+          "DinoSuperfast    ",
+          "DINOVA"
+        ],
+        "albumSize": 8,
+        "musicSize": 70,
+        "picId": 109951167751389310,
+        "fansGroup": null,
+        "recommendText": "与BOBBYNOPEACE合唱歌曲《灰色头发》",
+        "appendRecText": "",
+        "fansSize": 56236,
+        "img1v1Url": "https://p2.music.126.net/f8x5mB0WPNLQaTyNVEmuag==/109951174157222389.jpg",
+        "accountId": 7976447570,
+        "img1v1": 109951174157222380,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "DinoSuperfast    ",
+          "DINOVA"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12563131,
+        "name": "Rapeter",
+        "picUrl": "https://p2.music.126.net/iE55pjgSNPJMMmBFYN4c-A==/109951163557090605.jpg",
+        "alias": [],
+        "albumSize": 29,
+        "musicSize": 149,
+        "picId": 109951163557090610,
+        "fansGroup": null,
+        "recommendText": "与BOBBYNOPEACE合唱歌曲《两年后》",
+        "appendRecText": "",
+        "fansSize": 1185981,
+        "img1v1Url": "https://p2.music.126.net/-14yOGYmESuvaPbXGintKg==/109951170489763444.jpg",
+        "accountId": 115248616,
+        "img1v1": 109951170489763440,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 16,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 49406467,
+        "name": "Lil Asian",
+        "picUrl": "https://p2.music.126.net/KyAeP4Zs_LxRauAQogjNNA==/109951166310070210.jpg",
+        "alias": [
+          "里尔爱夏",
+          "小亚洲"
+        ],
+        "albumSize": 14,
+        "musicSize": 121,
+        "picId": 109951166310070200,
+        "fansGroup": null,
+        "recommendText": "与BOBBYNOPEACE合唱歌曲《N9“天使”》",
+        "appendRecText": "",
+        "fansSize": 154996,
+        "img1v1Url": "https://p2.music.126.net/X7u05eURHRUPDJ9Osf2TRQ==/109951172325962977.jpg",
+        "accountId": 621635311,
+        "img1v1": 109951172325962980,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 6,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "里尔爱夏",
+          "小亚洲"
+        ],
+        "trans": null
+      },
+      {
+        "id": 99115248,
+        "name": "bobbynopeace",
+        "picUrl": "https://p1.music.126.net/uGYxBZRsAyqBrHLJF_ak0g==/109951171407502978.jpg",
+        "alias": [],
+        "albumSize": 2,
+        "musicSize": 2,
+        "picId": 109951171407502980,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 6,
+        "img1v1Url": "https://p1.music.126.net/eVQ4fbrF5S0Zqs9U_Jo7Ig==/109951172514250224.jpg",
+        "accountId": 645085305,
+        "img1v1": 109951172514250220,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 123305089,
+        "name": "bobbynopeace",
+        "picUrl": "https://p1.music.126.net/dogwvx5DiGzzTHPNTrBgHA==/109951172855641447.jpg",
+        "alias": [
+          "吴涵"
+        ],
+        "albumSize": 1,
+        "musicSize": 2,
+        "picId": 109951172855641440,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 19,
+        "img1v1Url": "https://p1.music.126.net/_-4gGABV7boBQGAKmO7g3A==/109951173882655185.jpg",
+        "accountId": 8296969999,
+        "img1v1": 109951173882655180,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "吴涵"
+        ],
+        "trans": null
+      },
+      {
+        "id": 52635635,
+        "name": "BOBBYNOPEACE",
+        "picUrl": "https://p1.music.126.net/Vr5Gj5B0hqf46wEK7POOeA==/109951167412386965.jpg",
+        "alias": [],
+        "albumSize": 1,
+        "musicSize": 1,
+        "picId": 109951167412386960,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 9,
+        "img1v1Url": "https://p1.music.126.net/AiuQ5GbUwrc66K_N5NY_2g==/109951167415031614.jpg",
+        "accountId": 1647452563,
+        "img1v1": 109951167415031620,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 46921476,
+        "name": "Uzzy",
+        "picUrl": "https://p1.music.126.net/fn_p64RurrS3PaIc-tlcUA==/109951167573527153.jpg",
+        "alias": [
+          "乌泽"
+        ],
+        "albumSize": 14,
+        "musicSize": 118,
+        "picId": 109951167573527150,
+        "fansGroup": null,
+        "recommendText": "与BOBBYNOPEACE合唱歌曲《街头爱Ghetto Hate Ft.Uzzy》",
+        "appendRecText": "",
+        "fansSize": 95170,
+        "img1v1Url": "https://p1.music.126.net/S8wLPRtqkCKHKxCaFiuuHQ==/109951172563300735.jpg",
+        "accountId": 1508054721,
+        "img1v1": 109951172563300740,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 16,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "乌泽"
+        ],
+        "trans": null
+      },
+      {
+        "id": 33097968,
+        "name": "LSGCsikoriot",
+        "picUrl": "https://p1.music.126.net/RpbP04i9fQ3nDhlKBAmpDA==/109951165055716458.jpg",
+        "alias": [
+          "四口"
+        ],
+        "albumSize": 74,
+        "musicSize": 232,
+        "picId": 109951165055716460,
+        "fansGroup": null,
+        "recommendText": "与BOBBYNOPEACE合唱歌曲《琳》",
+        "appendRecText": "",
+        "fansSize": 178989,
+        "img1v1Url": "https://p1.music.126.net/gubm-zDHSIj4aZJwdqiNcQ==/109951171443067525.jpg",
+        "accountId": 1963804377,
+        "img1v1": 109951171443067520,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 10,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "四口"
+        ],
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

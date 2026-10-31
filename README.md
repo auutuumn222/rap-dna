@@ -384,3 +384,7 @@ pm run test:rapeter浏览器检查。
 ## 万妮达Vinida Weng
 
 网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/VINIDA-DISCOGRAPHY.md。
+
+## BOBBYNOPEACE
+
+网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/BOBBYNOPEACE-DISCOGRAPHY.md。

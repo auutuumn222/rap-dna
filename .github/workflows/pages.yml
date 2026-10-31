@@ -25,7 +25,7 @@ jobs:
       - name: Build the cross-artist creator index
         run: node scripts/build-creators.mjs
       - name: Check cross-artist credit evidence
-        run: node --test tests/creators.test.mjs tests/navigation.test.mjs
+        run: node --test tests/identity.test.mjs tests/creators.test.mjs tests/navigation.test.mjs
       - name: Check the catalog and relationship evidence
         run: npm test
       - name: Check album gallery ordering

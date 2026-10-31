@@ -8,7 +8,7 @@ export function filterTracks(catalog,{query='',year='all',kind='all',albumId='al
   if(kind==='solo'&&t.artistIds.length!==1)return false;
   if(kind==='collaboration'&&t.artistIds.length<2)return false;
   if(['instrumental','remix','live'].includes(kind)&&t.kind!==kind)return false;
-  if(q&&![t.title,...t.aliases,albums.get(t.albumId),...t.artistIds.map(id=>people.get(id)),...(t.artistIds.includes(catalog.artist.id)?catalog.artist.aliases||[]:[]),...t.credits.map(c=>people.get(c.personId))].filter(Boolean).join(' ').toLocaleLowerCase().includes(q))return false;
+  if(q&&![t.title,...t.aliases,albums.get(t.albumId),...t.artistIds.map(id=>people.get(id)),...(t.artistIds.includes(catalog.artist.id)?catalog.artist.aliases||[]:[]),...t.credits.flatMap(c=>[people.get(c.personId),c.originalName])].filter(Boolean).join(' ').toLocaleLowerCase().includes(q))return false;
   return true;
  });
 }
@@ -23,5 +23,5 @@ export function connections(catalog,{mode='artists',year='all',albumId='all',que
    if(!item.evidence.some(e=>e.trackId===t.id&&e.role===role))item.evidence.push({trackId:t.id,role,source:t.source});
   }
  }
- const q=query.trim().toLocaleLowerCase();return [...result.values()].filter(r=>!q||r.name.toLocaleLowerCase().includes(q)).sort((a,b)=>b.trackIds.length-a.trackIds.length||a.name.localeCompare(b.name));
+ const q=query.trim().toLocaleLowerCase();return [...result.values()].filter(r=>!q||[r.name,...(r.aliases||[])].join(' ').toLocaleLowerCase().includes(q)).sort((a,b)=>b.trackIds.length-a.trackIds.length||a.name.localeCompare(b.name));
 }

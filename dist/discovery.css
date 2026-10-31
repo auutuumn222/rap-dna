@@ -250,6 +250,8 @@ body:not(.discovery-page) .hero{padding-top:45px}
 @media(max-width:360px){.site-header nav[aria-label="主导航"]{gap:12px}.site-header nav[aria-label="主导航"] a{font-size:9px}.site-header .nav-wrap{gap:8px;padding:0 13px}.dna-start-steps{gap:7px;font-size:8px}.dna-start-steps li{gap:4px}body[data-discovery-page="discover"] .dna-hero h1{font-size:30px}.dna-fold-label{font-size:8px}.dna-directory-fold summary b{font-size:12px}.dna-directory-fold summary small{font-size:9px}.archive-section-nav{gap:20px;font-size:9px}}
 
 /* A single artist introduction, with the record collection in the first view. */
+.dna-identity-details{margin-top:26px;border-top:1px solid #e6dfef;padding-top:18px;color:#8b789c;font-size:11px;line-height:1.9}
+.dna-identity-details summary{cursor:pointer;color:#89719f}.dna-identity-details>p{color:#9e8eac}.dna-identity-details>div{padding:12px 0;border-bottom:1px solid #ebe5f0}.dna-identity-details small{display:block;color:#a18eae}.dna-identity-details a{color:#8c6da6;text-decoration:none}.dna-identity-details p{margin:6px 0}
 .archive-guide{padding:23px 34px 0}
 .archive-guide .dna-breadcrumb{margin:0;font-size:10px}
 body:not(.discovery-page) .hero.archive-hero{padding-top:22px;background:radial-gradient(ellipse 580px 280px at 50% 61%,#e0ddf64f,transparent),#f5f5f7}

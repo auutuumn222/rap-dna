@@ -1,6 +1,8 @@
+import {resolvePersonId} from './identity.js';
 export const backstageRoles=['制作人','编曲','混音','母带'];
 
 export function creatorWorks(index,id,{artist='all',role='all',query='',year='all'}={}){
+ id=resolvePersonId(id);
  const q=query.trim().toLocaleLowerCase();
  return index.tracks.filter(t=>t.credits.some(c=>c.personId===id&&(role==='all'||c.role===role))&&(artist==='all'||t.artistKeys.includes(artist))&&(year==='all'||t.date.startsWith(year))&&(!q||[t.title,t.album,...t.artistNames].join(' ').toLocaleLowerCase().includes(q))).sort((a,b)=>b.date.localeCompare(a.date)||a.id.localeCompare(b.id));
 }

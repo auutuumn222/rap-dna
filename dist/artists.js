@@ -1,4 +1,5 @@
 export const artistProfiles={
+ daojiao:{key:'daojiao',file:'./catalog-daojiao.json',archive:'033',english:'DAOJIAO',tagline:'FOLLOW THE FOOTPRINTS.',intro:'从大脚颂到脚殺传，沿着刀脚的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'同名账号分别待核；合作发行按逐曲参与收录，早期和下架作品仍待补证。'},
  luoyan:{key:'luoyan',file:'./catalog-luoyan.json',archive:'031',english:'ROLLFLASH',tagline:'FROM MOON BABY TO EXIT.',intro:'从 When the world is came，take it！、泪海，到 MOON BABY、我的雷雨季电台与 EXIT。沿着罗言 RollFlash 的作品和逐曲署名认识共同创作的音乐人。',gapSummary:'仅收网易云主账号33863232；其他同名账号及跨平台身份分别待核，合作发行按逐曲署名收录。'},
 
  jonyj:{key:'jonyj',file:'./catalog-jonyj.json',archive:'027',english:'JONY J',tagline:'FROM J HOOD TO 24 HOURS.',intro:'从 J HOOD Mixtape、物女金、喜新恋旧，到 24時 系列。沿着 Jony J 的作品与逐曲署名，认识共同创作的音乐人。',gapSummary:'早期和下架作品仍待补证；合作发行按逐曲署名收录，一条早期日期与一条无日期记录待核。'},

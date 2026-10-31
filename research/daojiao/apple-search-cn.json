@@ -1,0 +1,39 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "刀脚",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%88%80%E8%84%9A/1684566993?uo=4",
+      "artistId": 1684566993,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "刀脚",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%88%80%E8%84%9A/1835499757?uo=4",
+      "artistId": 1835499757
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "连麻",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%BF%9E%E9%BA%BBswimming/1577300746?uo=4",
+      "artistId": 1577300746,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SKAI ISYOURGOD",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%8F%BD%E4%BD%ACskai-isyourgod/1663437158?uo=4",
+      "artistId": 1663437158,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

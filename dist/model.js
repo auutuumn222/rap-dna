@@ -1,7 +1,7 @@
 export const coreRoles=['制作人','编曲','混音','母带'];
 export function filterTracks(catalog,{query='',year='all',kind='all',albumId='all'}={}){
  albumId=catalog.albumAliases?.[albumId]||albumId;
- const q=query.trim().toLocaleLowerCase(),people=new Map(catalog.people.map(p=>[p.id,p.name])),albums=new Map(catalog.albums.map(a=>[a.id,a.title]));
+ const q=query.trim().toLocaleLowerCase(),people=new Map(catalog.people.map(p=>[p.id,[p.name,...(p.aliases||[])].join(' ')])),albums=new Map(catalog.albums.map(a=>[a.id,a.title]));
  return catalog.tracks.filter(t=>{
   if(year!=='all'&&!t.date.startsWith(year))return false;
   if(albumId!=='all'&&t.albumId!==albumId)return false;

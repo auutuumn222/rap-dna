@@ -7,6 +7,11 @@ import {creatorWorks,sharedCreators} from '../dist/creator-model.js';
 import {buildCreatorIndex} from '../scripts/build-creators.mjs';
 import {artistProfiles} from '../dist/artists.js';
 import {createPortraits} from '../dist/portraits.js';
+import {filterTracks} from '../dist/model.js';
+test('song search accepts every reviewed alias, even when this song used the canonical spelling',()=>{
+ const catalog=identities.catalog({artist:{id:'rapper'},people:[{id:'n13911452',name:'ATM Hanson'}],albums:[],tracks:[{id:'song',date:'2025',aliases:[],artistIds:[],credits:[{personId:'n13911452',role:'编曲',raw:'编曲 : ATM Hanson'}]}]});
+ assert.equal(filterTracks(catalog,{query:'ATMHanson'}).length,1);assert.equal(filterTracks(catalog,{query:'ATM Hanson，'}).length,1);
+});
 test('reviewed aliases share the same avatar even when only an old alias has a registered image',()=>{
  const portraits=createPortraits({cYXRtaGFuc29u:{image:'./assets/people/atm.jpg'}});
  assert.equal(portraits.imageFor('n13911452'),'./assets/people/atm.jpg');assert.equal(portraits.imageFor('cYXRtIGhhbnNvbg'),'./assets/people/atm.jpg');assert.equal(portraits.imageFor('unknown'),null);

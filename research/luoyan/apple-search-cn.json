@@ -1,0 +1,97 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "罗言",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BD%97%E8%A8%80/1556188208?uo=4",
+      "artistId": 1556188208,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "罗言",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BD%97%E8%A8%80/6827971469?uo=4",
+      "artistId": 6827971469,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "罗言R",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BD%97%E8%A8%80r/1765756175?uo=4",
+      "artistId": 1765756175,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "罗嫣",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BD%97%E5%AB%A3/1455392364?uo=4",
+      "artistId": 1455392364,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "珞岩",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%8F%9E%E5%B2%A9/1438749571?uo=4",
+      "artistId": 1438749571,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81/1449028292?uo=4",
+      "artistId": 1449028292,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Miyuki Nakajima",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%B8%AD%E5%B2%9B%E7%BE%8E%E9%9B%AA/41759082?uo=4",
+      "artistId": 41759082,
+      "amgArtistId": 358580,
+      "primaryGenreName": "J-Pop",
+      "primaryGenreId": 27
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Capper",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/capper/1574279636?uo=4",
+      "artistId": 1574279636,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "马思唯",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/masiwei/1095181798?uo=4",
+      "artistId": 1095181798,
+      "amgArtistId": 3595225,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "江雪左文字(CV:佐藤拓也)",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B1%9F%E9%9B%AA%E5%B7%A6%E6%96%87%E5%AD%97-cv-%E4%BD%90%E8%97%A4%E6%8B%93%E4%B9%9F/1340016909?uo=4",
+      "artistId": 1340016909,
+      "primaryGenreName": "动画",
+      "primaryGenreId": 29
+    }
+  ]
+}

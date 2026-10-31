@@ -1,6 +1,6 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太、TizzyT、KEY.L 刘聪、Jony J，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太、TizzyT、KEY.L 刘聪、Jony J、罗言，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
@@ -388,3 +388,8 @@ pm run test:rapeter浏览器检查。
 ## BOBBYNOPEACE
 
 网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/BOBBYNOPEACE-DISCOGRAPHY.md。
+
+
+## 罗言 数据范围
+
+目标为 rapper 罗言 RollFlash，网易云艺人 ID 33863232。主账号完整返回149条，105条取得明确署名行。同名及其他 RollFlash 账号不自动合并，Apple Music候选仍待核验；合作发行按逐曲艺人署名收录。五个主要个人项目，历史下架作品不宣称完整。

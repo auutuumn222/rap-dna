@@ -1,3 +1,4 @@
+import {createPortraits} from './portraits.js';
 import {resolvePersonId} from './identity.js';
 import {backstageRoles,creatorWorks,creatorStats,sharedCreators,discoveryStories} from './creator-model.js';
 import {createNeteasePlayer,neteaseSongId} from './player.js';
@@ -5,6 +6,7 @@ import {mountMainNavigation,creatorReturn} from './navigation.js';
 const $=(s,root=document)=>root.querySelector(s),esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const app=$('#app'),dialog=$('#detail-dialog');
 let index,portraits={},artists,creators,tracks,stats,stories,player,timer;
+let portraitImages=createPortraits();
 let directory={query:'',role:'all',limit:12,open:false},works={artist:'all',role:'all',query:'',year:'all',limit:12},compare={query:'',role:'all',limit:8};
 const href=(values={})=>'./'+(Object.keys(values).length?'?'+new URLSearchParams(values):'');
 function creatorLink(id){
@@ -18,7 +20,7 @@ const artistLink=key=>href({artist:key});
 const link=(url,label,cls='')=>`<a class="${cls}" href="${esc(url)}">${label}</a>`;
 const external=(url,label)=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`;
 const initials=name=>/^[\x00-\x7F]/.test(name)?name.split(/[\s._-]+/).map(x=>x[0]).join('').slice(0,2).toUpperCase():name.slice(0,2);
-function portrait(person,size=''){const src=person.portrait||portraits[person.id]?.image;return `<span class="dna-avatar ${size}" aria-hidden="true"><span>${esc(initials(person.name))}</span>${src?`<img src="${esc(src)}" alt="" loading="lazy">`:''}</span>`;}
+function portrait(person,size=''){const src=person.portrait||portraitImages.imageFor(person.id);return `<span class="dna-avatar ${size}" aria-hidden="true"><span>${esc(initials(person.name))}</span>${src?`<img src="${esc(src)}" alt="" loading="lazy">`:''}</span>`;}
 function rolesFor(t,id){return [...new Set(t.credits.filter(c=>c.personId===id).map(c=>c.role))];}
 const pills=roles=>roles.map(r=>`<span class="dna-pill">${esc(r)}</span>`).join('');
 function toast(message){$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(timer);timer=setTimeout(()=>$('#toast').classList.remove('visible'),2600);}
@@ -113,7 +115,7 @@ addEventListener('popstate',()=>{render();});
 $('.dialog-close').onclick=()=>dialog.close();dialog.onclick=e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}};
 async function boot(){try{
  const response=await fetch('./creator-index.json');if(!response.ok)throw Error('Creator index HTTP '+response.status);index=await response.json();
- const portraitResponse=await fetch('./people-portraits.json').catch(()=>null);if(portraitResponse?.ok)portraits=(await portraitResponse.json()).people||{};
+ const portraitResponse=await fetch('./people-portraits.json').catch(()=>null);if(portraitResponse?.ok)portraits=(await portraitResponse.json()).people||{};portraitImages=createPortraits(portraits);
  artists=new Map(index.artists.map(a=>[a.key,a]));creators=new Map(index.creators.map(p=>[p.id,p]));tracks=new Map(index.tracks.map(t=>[t.id,t]));stats=new Map(index.creators.map(p=>[p.id,creatorStats(index,p.id)]));stories=discoveryStories(index);
  const albums=new Map(index.tracks.map(t=>[t.albumId,{title:t.album,artwork:t.artwork}]));player=createNeteasePlayer({tracks,albums,names:t=>t.artistNames.join(' / '),beforeOpen:()=>dialog.close()});
  document.body.classList.add('discovery-page');document.title='RAP DNA · 发现声音背后的人';

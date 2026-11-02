@@ -1,16 +1,12 @@
 # RAP DNA · 中文说唱作品与关系档案
 
-现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD、法老和连麻Swimming、MULA SAKEE、Capper、贝贝、mac ova seas、PSY.P、KnowKnow、GALI、王以太、TizzyT、KEY.L 刘聪、Jony J、罗言、刀脚，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
+现已收录 Asen、马思唯、张方钊（河南说唱之神）、SASIOVERLXRD 和连麻Swimming、Capper、贝贝（ljz329）、mac ova seas，可在导航栏切换。各份档案共享：浅色玻璃导航、渐变标题、浮动唱片封面、作品年表、可搜索歌曲目录和可追溯的署名网络。原生 HTML/CSS/JavaScript，无运行时依赖；所有封面与肖像已本地缓存。
 
 ## 在线预览与更新
 
 Asen：https://auutuumn222.github.io/rap-dna/
 
 马思唯：https://auutuumn222.github.io/rap-dna/?artist=masiwei
-
-张方钊：https://auutuumn222.github.io/rap-dna/?artist=zhangfangzhao
-
-法老：https://auutuumn222.github.io/rap-dna/?artist=pharaoh
 
 音乐人参数随作品分享链接保留；原有 Asen 链接继续有效。
 
@@ -95,39 +91,6 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 采集：`node scripts/collect-zhangfangzhao.mjs`，然后 `node scripts/harvest-zhangfangzhao.mjs`。离线重建：`npm run catalog:zhangfangzhao`。目录与署名校验已接入 `npm test`；浏览器检查：`npm run test:zhangfangzhao`，截图在 `qa/zhangfangzhao/`。
 
-
-
-## 法老 Pharaoh（2026-10-29 核查）
-
-入口：`?artist=pharaoh`，或在导航中选择“法老”。复用作品年表、搜索、共同署名与幕后关系网、分享导出和网易云官方播放器。支持法老、Pharaoh、MC法老、孙权搜索。
-
-- 网易云艺人 ID 865007，三页 250 个不同歌曲 ID，平台报告 250，末页 more=false；215 条取得明确逐曲署名。
-- Apple 中国区 23 项发行交叉对照；从经作品核实的 ID 1449028292 补充 In 10 Years, Pt. 1 的 3 条记录，共 253 条平台记录。
-- 7 个核心项目：MC法老的Demo、东海岸、生于未来、上学嗨mixtape、科幻小说、退潮、健将mixtape。联合项目健将mixtape 共 11 条，仅计法老明确署名的 9 条；Apple 版本为 10 条，保留差异。
-- 活死人 Woken Day 计入 2 / 11 条；上海站现场计入 11 / 14 条，不因成员身份或专场标题补齐全曲单。Apple 理想国的发行级 featuring 不自动归入每首歌。
-- 143 个关联发行容器（140 个网易云发行、2 个待核占位、1 个 Apple 补充发行）。家有儿女PLUS (Live)、重返街头的发行与日期为空，保留为待核；有日期记录为 2014-12-01 至 2026-08-25。
-- Apple 另一个同名 ID 1441077319 待逐曲核验，不自动合并。早期、下架与视频作品尚未证明历史全量。
-
-[完整核查报告](research/PHARAOH-DISCOGRAPHY.md)，结构化数据 `dist/catalog-pharaoh.json`，来源快照 `research/pharaoh/`。仅保存公开元数据、署名与识别图片，不保存歌词或音频。
-
-采集：`node scripts/collect-pharaoh.mjs` → `node scripts/harvest-pharaoh.mjs`；离线重建：`npm run catalog:pharaoh`；浏览器检查：`npm run test:pharaoh`。数据检查已接入 `npm test`，截图在 `qa/pharaoh/`。
-
-## 连麻Swimming 数据范围（2026-10-29 核查）
-
-本地启动后访问 `http://127.0.0.1:4173/?artist=lianma`，或在导航中选择“连麻Swimming”。作品年表、搜索、逐曲署名关系、分享、导出和官方播放器沿用现有档案。
-
-- 网易云主艺人 ID 12064019，两页共 158 条，末页 more=false；其他同名账号不自动合并。
-- CHUNGHWA 官方发行页补入 8 条艺人 ID 为零但逐曲姓名明确署名的歌曲，另补 Apple Music《比心》《My Universe》，共 168 条平台记录、90 个关联发行容器。
-- 7 个核心项目：Wake Up、YELLER、Yuppie“雅痞”、CHUNGHWA、真假美猴王、邻家小丈夫、斩鸭线。Wake Up 保留 4/5 条主账号署名，另一首复合艺人账号待核；其他 6 个项目当前曲单完整。
-- 132 条记录取得单曲明确署名；有日期的范围为 2017-08-05 至 2026-10-24，不代表历史全量。Apple 中国/美国区 4/7 项发行分别保留；部分发行未返回逐曲资料。
-- 部分网易云详情接口返回 -462，记录在采集日志中；保留已取得的发行列表和歌曲分页，不绕过平台限制。图片均已本地缓存。
-
-采集依次运行 `node scripts/collect-lianma.mjs`、`node scripts/harvest-lianma.mjs`、`node scripts/supplement-lianma.mjs`；离线重建：`npm run catalog:lianma`。目录检查已接入 `npm test`，浏览器检查 `npm run test:lianma`。
-
-核查报告：[LIANMA-DISCOGRAPHY.md](research/LIANMA-DISCOGRAPHY.md)。来源快照：`research/lianma/`，页面数据：`dist/catalog-lianma.json`。
-
-
-
 ## SASIOVERLXRD 数据范围（2026-10-29 核查）
 
 本地启动后访问 `http://127.0.0.1:4173/?artist=sasioverlxrd`，也可从导航切换。
@@ -144,6 +107,19 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 `npm run catalog:sasioverlxrd` 从快照重建；`npm test` 检查完整分页的收录 / 隔离、关系证据和资源；`npm run test:sasioverlxrd` 检查页面、深链接、播放器、音乐人切换及 390 / 320px 布局，截图在 `qa/sasioverlxrd/`。
 
+## 连麻Swimming 数据范围（2026-10-29 核查）
+
+本地启动后访问 `http://127.0.0.1:4173/?artist=lianma`，或在导航中选择“连麻Swimming”。作品年表、搜索、逐曲署名关系、分享、导出和官方播放器沿用现有档案。
+
+- 网易云主艺人 ID 12064019，两页共 158 条，末页 more=false；其他同名账号不自动合并。
+- CHUNGHWA 官方发行页补入 8 条艺人 ID 为零但逐曲姓名明确署名的歌曲，另补 Apple Music《比心》《My Universe》，共 168 条平台记录、90 个关联发行容器。
+- 7 个核心项目：Wake Up、YELLER、Yuppie“雅痞”、CHUNGHWA、真假美猴王、邻家小丈夫、斩鸭线。Wake Up 保留 4/5 条主账号署名，另一首复合艺人账号待核；其他 6 个项目当前曲单完整。
+- 132 条记录取得单曲明确署名；有日期的范围为 2017-08-05 至 2026-10-24，不代表历史全量。Apple 中国/美国区 4/7 项发行分别保留；部分发行未返回逐曲资料。
+- 部分网易云详情接口返回 -462，记录在采集日志中；保留已取得的发行列表和歌曲分页，不绕过平台限制。图片均已本地缓存。
+
+采集依次运行 `node scripts/collect-lianma.mjs`、`node scripts/harvest-lianma.mjs`、`node scripts/supplement-lianma.mjs`；离线重建：`npm run catalog:lianma`。目录检查已接入 `npm test`，浏览器检查 `npm run test:lianma`。
+
+核查报告：[LIANMA-DISCOGRAPHY.md](research/LIANMA-DISCOGRAPHY.md)。来源快照：`research/lianma/`，页面数据：`dist/catalog-lianma.json`。
 
 
 ## MULA SAKEE 数据范围（2026-10-29 核查）
@@ -160,6 +136,21 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 采集：`node scripts/collect-mulasakee.mjs`，随后 `node scripts/harvest-mulasakee.mjs`；离线重建：`npm run catalog:mulasakee`。`npm test` 已纳入目录、曲单参与范围、关系证据及资源校验；`npm run test:mulasakee` 检查页面交互、分享深链接、导出、播放器、音乐人切换及 390 / 320px 布局，截图在 `qa/mulasakee/`。浏览器测试可使用 README 前述的 Playwright 和浏览器路径环境变量。
 
+
+## 法老 Pharaoh（2026-10-29 核查）
+
+入口：`?artist=pharaoh`，或在导航中选择“法老”。复用作品年表、搜索、共同署名与幕后关系网、分享导出和网易云官方播放器。支持法老、Pharaoh、MC法老、孙权搜索。
+
+- 网易云艺人 ID 865007，三页 250 个不同歌曲 ID，平台报告 250，末页 more=false；215 条取得明确逐曲署名。
+- Apple 中国区 23 项发行交叉对照；从经作品核实的 ID 1449028292 补充 In 10 Years, Pt. 1 的 3 条记录，共 253 条平台记录。
+- 7 个核心项目：MC法老的Demo、东海岸、生于未来、上学嗨mixtape、科幻小说、退潮、健将mixtape。联合项目健将mixtape 共 11 条，仅计法老明确署名的 9 条；Apple 版本为 10 条，保留差异。
+- 活死人 Woken Day 计入 2 / 11 条；上海站现场计入 11 / 14 条，不因成员身份或专场标题补齐全曲单。Apple 理想国的发行级 featuring 不自动归入每首歌。
+- 143 个关联发行容器（140 个网易云发行、2 个待核占位、1 个 Apple 补充发行）。家有儿女PLUS (Live)、重返街头的发行与日期为空，保留为待核；有日期记录为 2014-12-01 至 2026-08-25。
+- Apple 另一个同名 ID 1441077319 待逐曲核验，不自动合并。早期、下架与视频作品尚未证明历史全量。
+
+[完整核查报告](research/PHARAOH-DISCOGRAPHY.md)，结构化数据 `dist/catalog-pharaoh.json`，来源快照 `research/pharaoh/`。仅保存公开元数据、署名与识别图片，不保存歌词或音频。
+
+采集：`node scripts/collect-pharaoh.mjs` → `node scripts/harvest-pharaoh.mjs`；离线重建：`npm run catalog:pharaoh`；浏览器检查：`npm run test:pharaoh`。数据检查已接入 `npm test`，截图在 `qa/pharaoh/`。
 
 
 ## Capper 数据范围（2026-10-29 核查）
@@ -246,8 +237,6 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 [完整核查报告](research/KEYNG-DISCOGRAPHY.md)，目录 `dist/catalog-keyng.json`，来源快照 `research/keyng/`。采集：`node scripts/collect-keyng.mjs` → `node scripts/harvest-keyng.mjs`；离线重建：`npm run catalog:keyng`；浏览器检查：`npm run test:keyng`。支持杨和苏、杨和苏KeyNG、KeyNG 搜索，复用年表、关系网、播放器、分享及导出。
 
-线上入口：https://auutuumn222.github.io/rap-dna/?artist=keyng
-
 ## Vansdaddy / VD（2026-10-29 核查）
 
 导航选择 Vansdaddy，或访问 `?artist=vansdaddy`。支持艺人官方别名 VD 搜索，年表、歌曲目录、逐曲署名关系、分享、导出与官方播放器沿用现有页面。
@@ -294,15 +283,13 @@ Asen：https://auutuumn222.github.io/rap-dna/
 
 访问 `?artist=gai`。网易云ID1211046，四页387条；QQ歌手mid004LV0lb4fOw89，五页442条，发行分页109项。Apple官方艺人ID1522410451，网页核对REAL G、G-BLOCK Mixtape、底层逻辑、杜康、烻、光宗耀祖六项发行；接口403/429没有绕过。
 
-共829条平台歌曲记录、299个合并后发行条目（原469个平台发行容器），含跨平台重合，不是独立原创作品总数。六个核心项目：QQ的REAL G 16首，以及网易云五项17/9/13/11/14首。Apple光宗耀祖9首与网易云17首版本差异分别保留。275条取得明确单曲署名；QQ制作字段未采得则留空。QQ共同署名账号不凭名字与网易云同行账号合并。
+共829条平台歌曲记录、469个关联发行容器，含跨平台重合，不是独立原创作品总数。六个核心项目：QQ的REAL G 16首，以及网易云五项17/9/13/11/14首。Apple光宗耀祖9首与网易云17首版本差异分别保留。275条取得明确单曲署名；QQ制作字段未采得则留空。QQ共同署名账号不凭名字与网易云同行账号合并。
 
 有日期范围2015-07-21至2026-05-15。四条网易云记录缺失发行ID和日期；QQ空发行记录逐曲保留占位；占位图使用艺人肖像，不声称是专辑封面。当前公开目录不保证历史全量，实际版权、会员与收听限制由平台决定。
 
 QQ记录只提供官方页面入口，不猜网易云ID。QQ搜索报告449首而歌曲目录报告442条，保留差异。详见 [GAI-DISCOGRAPHY.md](research/GAI-DISCOGRAPHY.md)，来源快照 `research/gai/`。
 
 采集：collect-gai.mjs、harvest-gai.mjs、collect-gai-platforms.mjs、supplement-gai.mjs、cache-gai-platforms.mjs。离线重建 `npm run catalog:gai`；目录测试 `npm test`，浏览器 `npm run test:gai`。
-
-GAI专辑展示已去除跨平台重复：同名网易云/QQ发行合为一张卡片；原始日期、曲单和链接保留在sourceEditions。年表按最早取得的平台日期排序，详情默认参考曲单，其余平台曲单单独展开，旧QQ专辑深链接继续有效。歌曲仍保留829条平台记录。
 
 
 ## GALI 数据范围（2026-10-30 核查）
@@ -331,13 +318,12 @@ MY FRIEND WANNA TRAP只展示一张专辑，网易云0/22与Apple22条合并，�
 报告：[WANGYITAI-DISCOGRAPHY.md](research/WANGYITAI-DISCOGRAPHY.md)。数据 `dist/catalog-wangyitai.json`；来源 `research/wangyitai/`。采集 `node scripts/collect-wangyitai.mjs`、`node scripts/harvest-wangyitai.mjs`；离线重建 `npm run catalog:wangyitai`；浏览器检查 `npm run test:wangyitai`。
 
 
-
-
 ## Top Barry / 掰瑞（2026-10-30）
 
 入口 `?artist=topbarry`。网易云 ID 49141872，三页241条，末页more=false；Apple ID1701059577，中国区20项发行作对照，没有额外补算歌曲，总241条平台记录、184个发行容器、208条有明确署名。主线Teen King（7）、How I Shine（10）、不停的（7）当前曲单完整；FANTASY WORLD只计2/9条。日期2021-02-23至2026-10-30，不代表历史全量。
 
 [完整核查报告](research/TOPBARRY-DISCOGRAPHY.md)。`node scripts/collect-topbarry.mjs` → `node scripts/harvest-topbarry.mjs`；`npm run catalog:topbarry`离线重建，`npm run test:topbarry`浏览器检查。
+
 ## Rapeter（2026-10-30）
 
 入口 ?artist=rapeter。网易云 ID 12563131，149 条目录记录；Apple Music 对照补入独有署名 Royal Blue (feat. Rapeter)，共150条平台记录、4张核心专辑。
@@ -349,13 +335,11 @@ pm run catalog:rapeter离线重建，
 pm run test:rapeter浏览器检查。
 
 
-
 ## TizzyT 数据范围（2026-10-30 核查）
 
 入口 `?artist=tizzyt`。网易云账号 1204010，Apple Music 1322388883。两页完整返回 190 条，Apple 补充 Winner Winner 1 条，共 191 条、111 个关联发行容器、177 条明确逐曲署名。9 个个人项目，合作发行仅按本人逐曲署名收录。Apple 中 / 美区 27 / 35 项发行分别保留；中国区未取得歌曲，美国区取得 19 条，未取得的曲单与早期下架作品保留待核。
 
 报告：[TIZZYT-DISCOGRAPHY.md](research/TIZZYT-DISCOGRAPHY.md)。数据 `dist/catalog-tizzyt.json`；来源 `research/tizzyt/`。采集 `node scripts/collect-tizzyt.mjs`、`node scripts/harvest-tizzyt.mjs`；离线重建 `npm run catalog:tizzyt`；浏览器检查 `npm run test:tizzyt`。
-
 
 ## KEY.L 刘聪 数据范围
 
@@ -381,24 +365,27 @@ pm run test:rapeter浏览器检查。
 
 部分网易云详情返回-462，保留采集日志，不绕过限制。来源 `research/huayunlong/`，报告 [HUAYUNLONG-DISCOGRAPHY.md](research/HUAYUNLONG-DISCOGRAPHY.md)。依次运行 collect-huayunlong、harvest-huayunlong、cache-huayunlong-art；离线重建 `npm run catalog:huayunlong`，再运行 `node scripts/build-creators.mjs` 更新发现页索引。
 
-## 万妮达Vinida Weng
-
-网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/VINIDA-DISCOGRAPHY.md。
-
-## BOBBYNOPEACE
-
-网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/BOBBYNOPEACE-DISCOGRAPHY.md。
-
 
 ## 罗言 数据范围
 
 目标为 rapper 罗言 RollFlash，网易云艺人 ID 33863232。主账号完整返回149条，105条取得明确署名行。同名及其他 RollFlash 账号不自动合并，Apple Music候选仍待核验；合作发行按逐曲艺人署名收录。五个主要个人项目，历史下架作品不宣称完整。
 
-## LSGCSIKORIOT
-
-网易云与 Apple Music 作品档案；跨平台专辑版本关联，发行资料缺失的记录标记待核。详细资料见 research/LSGCSIKORIOT-DISCOGRAPHY.md。
-
 
 ## 刀脚 数据范围
 
 锁定网易云刀脚主账号54247662，完整分页返回92条歌曲，其中83条取得明确单曲署名；大脚颂10首和脚殺传12首逐曲收录。其他同名账号与Apple Music候选未核验合并。合作发行以歌曲艺人ID确定实际参与，34个专辑详情接口受限请求保留日志，不宣称历史全量。
+
+## 布瑞吉Bridge（2026-11-02 核查）
+
+访问 `?artist=bridge`，或在导航中选择“布瑞吉Bridge”。复用作品年表、歌曲搜索、逐曲署名网络、分享、导出和网易云官方播放器。支持布瑞吉、Bridge、Young Bridge、程剑桥、老大搜索。
+
+- 网易云主账号 ID 12493701，两页完整返回 191 条不同歌曲 ID，平台报告 191，末页 more=false；141 条取得明确逐曲署名字段。
+- Apple Music 官方艺人 ID 1602857942，中国区 21 项发行对照，保留 72 条歌曲记录供跨平台交叉核验。其他同名候选账号未经核对保持隔离，不自动合并。
+- 7 个核心个人/联合项目：新大陆、ON DAT BRIDGE、奔跑孩子、ON DAT BRIDGE Ⅱ、023%、一脉相承Hood & Family、77%。56 个艺人页发行条目，107 个关联网易云发行容器。
+- 合作与节目合辑（如《说唱梦工厂》各期）仅按布瑞吉明确逐曲署名收录，不将整张合辑归为个人专辑。
+- 有日期记录跨度为 2015-09-30 至 2026-09-13；早期成名作《老大》（2017）及下架作品因当前各平台公开分页未返回，保留待补证，不凭空伪造。历史全量尚未证明。
+- 封面与肖像已全部本地缓存至 `dist/assets/`；仅保留元数据、署名与图片，不保存歌词或音频。部分受限请求保留在采集日志中。
+
+完整核查报告：[BRIDGE-DISCOGRAPHY.md](research/BRIDGE-DISCOGRAPHY.md)。结构化数据：`dist/catalog-bridge.json`；来源快照：`research/bridge/`。
+离线重建：`npm run catalog:bridge`；浏览器验证：`npm run test:bridge`；目录测试已接入 `npm test`，截图在 `qa/bridge/`。
+

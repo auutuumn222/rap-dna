@@ -19,6 +19,7 @@ function creatorLink(id){
 const artistLink=key=>href({artist:key});
 const link=(url,label,cls='')=>`<a class="${cls}" href="${esc(url)}">${label}</a>`;
 const external=(url,label)=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)} ↗</a>`;
+const formatFans=n=>Number(n)>=10000?(Number(n)/10000).toFixed(1).replace(/\.0$/,'')+'万':String(n||0);
 const initials=name=>/^[\x00-\x7F]/.test(name)?name.split(/[\s._-]+/).map(x=>x[0]).join('').slice(0,2).toUpperCase():name.slice(0,2);
 function portrait(person,size=''){const src=person.portrait||portraitImages.imageFor(person.id);return `<span class="dna-avatar ${size}" aria-hidden="true"><span>${esc(initials(person.name))}</span>${src?`<img src="${esc(src)}" alt="" loading="lazy">`:''}</span>`;}
 function rolesFor(t,id){return [...new Set(t.credits.filter(c=>c.personId===id).map(c=>c.role))];}
@@ -54,7 +55,15 @@ function home(){
 function rapperDirectory(){
  document.title='Rapper 档案 · 从熟悉的声音开始 | RAP DNA';
  app.innerHTML=`<section class="dna-rapper-directory" id="top"><nav class="dna-breadcrumb" aria-label="当前位置">${link('./','发现')}<span aria-hidden="true">/</span><span aria-current="page">Rapper 档案</span></nav><span class="dna-kicker">从一个你熟悉的人开始</span><h1>选一位喜欢的 Rapper。</h1><p class="dna-page-purpose">这里浏览歌手的专辑、歌曲与合作网络。打开档案后，点击「找 TA 的幕后创作者」，认识参与制作这些声音的人。</p><label class="dna-search dna-rapper-search"><span>⌕</span><input id="rapper-search" type="search" placeholder="搜索名字或艺名" aria-label="搜索 Rapper 档案"></label><p class="dna-result-note" id="rapper-count" aria-live="polite"></p><div class="dna-rapper-grid" id="rapper-archives"></div><p class="dna-directory-next">想直接比较两位 Rapper？${link(href({view:'common'}),'去找共同幕后 →','dna-text-link')}</p></section>`+scope();
- const refresh=()=>{const q=$('#rapper-search').value.trim().toLocaleLowerCase(),list=index.artists.filter(a=>[a.name,...a.aliases].join(' ').toLocaleLowerCase().includes(q));$('#rapper-count').textContent=`${list.length} 位已收录 Rapper`;$('#rapper-archives').innerHTML=list.map(a=>link(artistLink(a.key),portrait(a)+`<b>${esc(a.name)}</b><span>作品档案 · 合作网络 ↗</span>`,'dna-rapper-card')).join('')||'<div class="dna-empty"><h3>这位 Rapper 还没有进入档案。</h3><p>换一个名字或艺名继续找找。</p></div>';bindImages();};
+ const refresh=()=>{
+  const q=$('#rapper-search').value.trim().toLocaleLowerCase();
+  const list=index.artists
+   .filter(a=>[a.name,...a.aliases].join(' ').toLocaleLowerCase().includes(q))
+   .sort((a,b)=>(b.fans||0)-(a.fans||0));
+  $('#rapper-count').textContent=`${list.length} 位已收录 Rapper · 按网易云粉丝数从高到低排序`;
+  $('#rapper-archives').innerHTML=list.map(a=>link(artistLink(a.key),portrait(a)+`<b>${esc(a.name)}</b><span>${a.fans?formatFans(a.fans)+' 粉丝 · ':''}作品档案 · 合作网络 ↗</span>`,'dna-rapper-card')).join('')||'<div class="dna-empty"><h3>这位 Rapper 还没有进入档案。</h3><p>换一个名字或艺名继续找找。</p></div>';
+  bindImages();
+ };
  $('#rapper-search').oninput=refresh;refresh();
 }
 function identityMethodLabel(method){return ({'same-track-role':'同一作品、同一角色交叉核对','same-track-context':'同一作品不同署名字段核对','same-track-artist':'同曲平台艺人栏与角色署名核对','platform-discography':'平台艺人作品列表核对','reviewed-format':'空格、标点、全半角及排版写法核对','reviewed-profile-context':'平台标准名与作品合作上下文核对','reviewed-spelling':'拼写与合作署名人工核对','reviewed-affiliation':'团队后缀与同曲署名核对','reviewed-bilingual':'中英文完整姓名核对','trailing-punctuation':'姓名末尾标点差异核对'})[method]||'署名证据核对';}

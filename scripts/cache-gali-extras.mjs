@@ -1,0 +1,2 @@
+import {readFile,writeFile} from 'node:fs/promises';const apple=JSON.parse(await readFile('research/gali/apple-tracks-us.json','utf8')).results;
+for(const id of [1643662803,1697800479,1824378479]){const a=apple.find(a=>a.wrapperType==='collection'&&a.collectionId===id);if(!a)throw Error('Missing extra cover');const r=await fetch(a.artworkUrl100.replace('100x100bb','600x600bb'));if(!r.ok)throw Error('Extra cover HTTP '+r.status);await writeFile('dist/assets/apple-album-'+id+'.jpg',Buffer.from(await r.arrayBuffer()));}

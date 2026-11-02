@@ -1,0 +1,51 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "布瑞吉Bridge",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%B8%83%E7%91%9E%E5%90%89bridge/1602857942?uo=4",
+      "artistId": 1602857942,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "布瑞吉Bridge",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%B8%83%E7%91%9E%E5%90%89bridge/1620540145?uo=4",
+      "artistId": 1620540145,
+      "primaryGenreName": "原声音乐",
+      "primaryGenreId": 16
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "BRIDGE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/bridge/933315150?uo=4",
+      "artistId": 933315150,
+      "amgArtistId": 560584,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "布瑞吉",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%B8%83%E7%91%9E%E5%90%89/6806917872?uo=4",
+      "artistId": 6806917872,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "鬼卞",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%AC%BC%E5%8D%9E/1193178840?uo=4",
+      "artistId": 1193178840,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

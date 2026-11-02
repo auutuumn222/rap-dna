@@ -6,3 +6,5 @@ await snap('netease-artist',`https://music.163.com/api/artist/${id}`);
 let albums=[],pages=[];for(let offset=0;;offset+=100){const d=await snap(`netease-albums-${offset}`,`https://music.163.com/api/artist/albums/${id}?id=${id}&offset=${offset}&limit=100`);pages.push({offset,count:d.hotAlbums.length,more:d.more});albums.push(...d.hotAlbums);if(!d.more)break;if(!d.hotAlbums.length)throw Error('Empty album page');}await writeFile(`${base}/netease-albums.json`,JSON.stringify({hotAlbums:albums,pages},null,2)+'\n');
 for(let offset=0;;offset+=100){const d=await snap(`netease-songs-${offset}`,`https://music.163.com/api/v1/artist/songs?id=${id}&offset=${offset}&limit=100&order=time`);console.log(JSON.stringify({offset,count:d.songs.length,total:d.total,more:d.more}));if(!d.more)break;if(!d.songs.length)throw Error('Empty song page');}
 await snap('apple-search-cn','https://itunes.apple.com/search?term='+encodeURIComponent('KEY.L 刘聪')+'&entity=musicArtist&country=cn&limit=20');
+
+for(const country of ['cn','us'])await snap('apple-albums-'+country,'https://itunes.apple.com/lookup?id=1640856786&entity=album&country='+country+'&limit=200');

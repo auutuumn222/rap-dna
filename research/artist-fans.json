@@ -1,0 +1,348 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "totalArtists": 34,
+  "artists": [
+    {
+      "key": "pharaoh",
+      "file": "catalog-pharaoh.json",
+      "id": "865007",
+      "name": "法老",
+      "fullName": "法老 Pharaoh",
+      "fans": 5230296,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=865007",
+      "status": "ok"
+    },
+    {
+      "key": "masiwei",
+      "file": "catalog-masiwei.json",
+      "id": "1132392",
+      "name": "马思唯",
+      "fullName": "马思唯 Masiwei",
+      "fans": 4438758,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=1132392",
+      "status": "ok"
+    },
+    {
+      "key": "jonyj",
+      "file": "catalog-jonyj.json",
+      "id": "784257",
+      "name": "Jony J",
+      "fullName": "Jony J",
+      "fans": 3694708,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=784257",
+      "status": "ok"
+    },
+    {
+      "key": "tizzyt",
+      "file": "catalog-tizzyt.json",
+      "id": "1204010",
+      "name": "TizzyT",
+      "fullName": "TizzyT",
+      "fans": 2859151,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=1204010",
+      "status": "ok"
+    },
+    {
+      "key": "capper",
+      "file": "catalog-capper.json",
+      "id": "12193174",
+      "name": "Capper",
+      "fullName": "Capper",
+      "fans": 2028759,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12193174",
+      "status": "ok"
+    },
+    {
+      "key": "gai",
+      "file": "catalog-gai.json",
+      "id": "1211046",
+      "name": "GAI",
+      "fullName": "GAI周延",
+      "fans": 1943100,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=1211046",
+      "status": "ok"
+    },
+    {
+      "key": "keyng",
+      "file": "catalog-keyng.json",
+      "id": "13899303",
+      "name": "杨和苏",
+      "fullName": "杨和苏 KeyNG",
+      "fans": 1916370,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=13899303",
+      "status": "ok"
+    },
+    {
+      "key": "wangyitai",
+      "file": "catalog-wangyitai.json",
+      "id": "12236125",
+      "name": "王以太",
+      "fullName": "王以太",
+      "fans": 1903653,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12236125",
+      "status": "ok"
+    },
+    {
+      "key": "asen",
+      "file": "catalog.json",
+      "id": "12198387",
+      "name": "Asen",
+      "fullName": "艾志恒 Asen",
+      "fans": 1833084,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12198387",
+      "status": "ok"
+    },
+    {
+      "key": "keyl",
+      "file": "catalog-keyl.json",
+      "id": "12788674",
+      "name": "刘聪",
+      "fullName": "KEY.L刘聪",
+      "fans": 1761880,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12788674",
+      "status": "ok"
+    },
+    {
+      "key": "vinida",
+      "file": "catalog-vinida.json",
+      "id": "12001060",
+      "name": "万妮达",
+      "fullName": "万妮达Vinida Weng",
+      "fans": 1644956,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12001060",
+      "status": "ok"
+    },
+    {
+      "key": "luoyan",
+      "file": "catalog-luoyan.json",
+      "id": "33863232",
+      "name": "罗言",
+      "fullName": "罗言",
+      "fans": 1406078,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=33863232",
+      "status": "ok"
+    },
+    {
+      "key": "beibei",
+      "file": "catalog-beibei.json",
+      "id": "51957057",
+      "name": "贝贝",
+      "fullName": "贝贝（ljz329）",
+      "fans": 1402037,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=51957057",
+      "status": "ok"
+    },
+    {
+      "key": "gali",
+      "file": "catalog-gali.json",
+      "id": "12127362",
+      "name": "GALI",
+      "fullName": "GALI",
+      "fans": 1271505,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12127362",
+      "status": "ok"
+    },
+    {
+      "key": "knowknow",
+      "file": "catalog-knowknow.json",
+      "id": "27868624",
+      "name": "KnowKnow",
+      "fullName": "KnowKnow",
+      "fans": 1195778,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=27868624",
+      "status": "ok"
+    },
+    {
+      "key": "rapeter",
+      "file": "catalog-rapeter.json",
+      "id": "12563131",
+      "name": "Rapeter",
+      "fullName": "Rapeter",
+      "fans": 1187738,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12563131",
+      "status": "ok"
+    },
+    {
+      "key": "lianma",
+      "file": "catalog-lianma.json",
+      "id": "12064019",
+      "name": "连麻",
+      "fullName": "连麻Swimming",
+      "fans": 1104478,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12064019",
+      "status": "ok"
+    },
+    {
+      "key": "topbarry",
+      "file": "catalog-topbarry.json",
+      "id": "49141872",
+      "name": "Top Barry",
+      "fullName": "Top Barry",
+      "fans": 1065646,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=49141872",
+      "status": "ok"
+    },
+    {
+      "key": "sasioverlxrd",
+      "file": "catalog-sasioverlxrd.json",
+      "id": "14117457",
+      "name": "SASIOVERLXRD",
+      "fullName": "SASIOVERLXRD",
+      "fans": 1061511,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=14117457",
+      "status": "ok"
+    },
+    {
+      "key": "xiedi",
+      "file": "catalog-xiedi.json",
+      "id": "847107",
+      "name": "谢帝",
+      "fullName": "谢帝",
+      "fans": 929177,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=847107",
+      "status": "ok"
+    },
+    {
+      "key": "thome",
+      "file": "catalog-thome.json",
+      "id": "12110173",
+      "name": "Thome",
+      "fullName": "THOME",
+      "fans": 907221,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12110173",
+      "status": "ok"
+    },
+    {
+      "key": "zhangfangzhao",
+      "file": "catalog-zhangfangzhao.json",
+      "id": "15194340",
+      "name": "张方钊",
+      "fullName": "张方钊",
+      "fans": 793739,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=15194340",
+      "status": "ok"
+    },
+    {
+      "key": "macovaseas",
+      "file": "catalog-macovaseas.json",
+      "id": "30704161",
+      "name": "mac ova seas",
+      "fullName": "mac ova seas",
+      "fans": 792149,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=30704161",
+      "status": "ok"
+    },
+    {
+      "key": "jinji",
+      "file": "catalog-jinji.json",
+      "id": "13451886",
+      "name": "隼",
+      "fullName": "JinJiBeWater_隼",
+      "fans": 702828,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=13451886",
+      "status": "ok"
+    },
+    {
+      "key": "watchme",
+      "file": "catalog-watchme.json",
+      "id": "12320060",
+      "name": "王齐铭",
+      "fullName": "王齐铭WatchMe",
+      "fans": 636128,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12320060",
+      "status": "ok"
+    },
+    {
+      "key": "mulasakee",
+      "file": "catalog-mulasakee.json",
+      "id": "14925064",
+      "name": "MULA SAKEE",
+      "fullName": "MULA SAKEE",
+      "fans": 585206,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=14925064",
+      "status": "ok"
+    },
+    {
+      "key": "psyp",
+      "file": "catalog-psyp.json",
+      "id": "29303235",
+      "name": "PSY.P",
+      "fullName": "PSY.P",
+      "fans": 576935,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=29303235",
+      "status": "ok"
+    },
+    {
+      "key": "bridge",
+      "file": "catalog-bridge.json",
+      "id": "12493701",
+      "name": "布瑞吉",
+      "fullName": "布瑞吉Bridge",
+      "fans": 557909,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12493701",
+      "status": "ok"
+    },
+    {
+      "key": "bobbynopeace",
+      "file": "catalog-bobbynopeace.json",
+      "id": "48277407",
+      "name": "BOBBYNOPEACE",
+      "fullName": "BOBBYNOPEACE",
+      "fans": 494193,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=48277407",
+      "status": "ok"
+    },
+    {
+      "key": "cashtrippy",
+      "file": "catalog-cashtrippy.json",
+      "id": "33937972",
+      "name": "CashTrippy",
+      "fullName": "CashTrippy",
+      "fans": 472947,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=33937972",
+      "status": "ok"
+    },
+    {
+      "key": "vansdaddy",
+      "file": "catalog-vansdaddy.json",
+      "id": "35009085",
+      "name": "Vansdaddy",
+      "fullName": "Vansdaddy",
+      "fans": 340262,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=35009085",
+      "status": "ok"
+    },
+    {
+      "key": "huayunlong",
+      "file": "catalog-huayunlong.json",
+      "id": "33435403",
+      "name": "华云龙",
+      "fullName": "华云龙KLE",
+      "fans": 298096,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=33435403",
+      "status": "ok"
+    },
+    {
+      "key": "daojiao",
+      "file": "catalog-daojiao.json",
+      "id": "54247662",
+      "name": "刀脚",
+      "fullName": "刀脚",
+      "fans": 297331,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=54247662",
+      "status": "ok"
+    },
+    {
+      "key": "lsgcsikoriot",
+      "file": "catalog-lsgcsikoriot.json",
+      "id": "33097968",
+      "name": "LSGCsikoriot",
+      "fullName": "LSGCsikoriot",
+      "fans": 179448,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=33097968",
+      "status": "ok"
+    }
+  ]
+}

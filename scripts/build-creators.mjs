@@ -4,9 +4,9 @@ import path from 'node:path';
 import {resolveCatalogIdentities,identities} from '../dist/identity.js';
 import {backstageRoles} from '../dist/creator-model.js';
 
-export function buildCreatorIndex(entries){
+export function buildCreatorIndex(entries,fansMap=new Map()){
  entries=entries.map(e=>({...e,catalog:resolveCatalogIdentities(e.catalog)}));
- const artists=entries.map(({key,catalog:c})=>({key,id:c.artist.id,name:c.artist.short,aliases:c.artist.aliases||[],portrait:c.artist.portrait,checkedAt:c.checkedAt}));
+ const artists=entries.map(({key,catalog:c})=>({key,id:c.artist.id,name:c.artist.short,aliases:c.artist.aliases||[],portrait:c.artist.portrait,fans:fansMap.get(key)||0,checkedAt:c.checkedAt})).sort((a,b)=>(b.fans||0)-(a.fans||0));
  const people=new Map(),tracks=new Map(),creatorIds=new Set();
  for(const {key,catalog} of entries){
   const persons=new Map(catalog.people.map(p=>[p.id,p]));
@@ -34,7 +34,12 @@ export async function buildFromDirectory(directory){
  const text=await readFile(path.join(directory,'artists.js'),'utf8');
  const {artistProfiles}=await import('data:text/javascript;base64,'+Buffer.from(text).toString('base64'));
  const entries=await Promise.all(Object.values(artistProfiles).map(async p=>({key:p.key,catalog:JSON.parse(await readFile(path.join(directory,p.file),'utf8'))})));
- return buildCreatorIndex(entries);
+ const fansMap=new Map();
+ try{
+  const fansData=JSON.parse(await readFile(path.join(directory,'../research/artist-fans.json'),'utf8'));
+  for(const a of fansData.artists||[])fansMap.set(a.key,a.fans);
+ }catch{}
+ return buildCreatorIndex(entries,fansMap);
 }
 if(process.argv[1]&&pathToFileURL(path.resolve(process.argv[1])).href===import.meta.url){
  const directory=path.resolve(process.argv[2]||'dist'),index=await buildFromDirectory(directory);

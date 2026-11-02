@@ -1,0 +1,5891 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n2514",
+    "name": "蛋堡",
+    "short": "蛋堡",
+    "aliases": [
+      "蛋堡",
+      "Soft Lipa",
+      "SoftLipa",
+      "杜振熙",
+      "任性的人"
+    ],
+    "portrait": "./assets/danbao-portrait.jpg",
+    "portraitSource": "https://p1.music.126.net/7hJaoKjkzsPzKz5vK4qW9g==/109951169249111436.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=2514"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/403689551"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 117,
+    "neteaseCollected": 117,
+    "neteaseHasMore": false,
+    "listedReleases": 13,
+    "associatedNeteaseReleases": 38,
+    "appleComparedReleases": 10,
+    "appleExtraTracks": 0,
+    "coreAlbums": 6,
+    "from": "2009-07-03",
+    "through": "2025-12-16",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 117 条公开目录记录，涵盖《打包》、《收敛水》、《Winter Sweet》、《月光》、《踩.脚.踏.车》、《你所不知道的杜振熙之内部整修》等 6 个核心项目。合作发行按逐曲署名收录，早期及实体专享作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n33883143",
+      "name": "苏明渊",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33883143"
+    },
+    {
+      "id": "n2514",
+      "name": "蛋堡",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=2514",
+      "aliases": [
+        "蛋堡",
+        "Soft Lipa",
+        "SoftLipa",
+        "杜振熙",
+        "任性的人"
+      ]
+    },
+    {
+      "id": "n2947",
+      "name": "国蛋",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=2947"
+    },
+    {
+      "id": "n32214034",
+      "name": "Black MIC",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32214034"
+    },
+    {
+      "id": "n14586920",
+      "name": "孟起 Dream Ma",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14586920"
+    },
+    {
+      "id": "n13500447",
+      "name": "ØZI",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13500447"
+    },
+    {
+      "id": "n9548",
+      "name": "田馥甄",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=9548"
+    },
+    {
+      "id": "n187229",
+      "name": "吴青峰",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=187229"
+    },
+    {
+      "id": "n3700",
+      "name": "李泉",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=3700"
+    },
+    {
+      "id": "n3684",
+      "name": "林俊杰",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=3684"
+    },
+    {
+      "id": "n5379",
+      "name": "韦礼安",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=5379"
+    },
+    {
+      "id": "n954154",
+      "name": "孙盛希",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=954154"
+    },
+    {
+      "id": "n9611",
+      "name": "万芳",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=9611"
+    },
+    {
+      "id": "n33012152",
+      "name": "瘦子E.SO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33012152"
+    },
+    {
+      "id": "n9489",
+      "name": "谭维维",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=9489"
+    },
+    {
+      "id": "n9275",
+      "name": "苏慧伦",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=9275"
+    },
+    {
+      "id": "n12047599",
+      "name": "李英宏",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12047599"
+    },
+    {
+      "id": "n12202146",
+      "name": "Leo王",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12202146"
+    },
+    {
+      "id": "n12154330",
+      "name": "陈星翰",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12154330"
+    },
+    {
+      "id": "n4037",
+      "name": "Lu1",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=4037"
+    },
+    {
+      "id": "n31055",
+      "name": "Cee",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31055"
+    },
+    {
+      "id": "n3070",
+      "name": "黄玠",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=3070"
+    },
+    {
+      "id": "n19997",
+      "name": "JABBERLOOP",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=19997"
+    },
+    {
+      "id": "n10559",
+      "name": "张惠妹",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=10559"
+    },
+    {
+      "id": "n4479",
+      "name": "MC HotDog 热狗",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=4479"
+    },
+    {
+      "id": "n8320",
+      "name": "葛仲珊",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=8320"
+    },
+    {
+      "id": "n2738",
+      "name": "方大同",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=2738"
+    },
+    {
+      "id": "n100311",
+      "name": "ShinSight Trio",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=100311"
+    },
+    {
+      "id": "n12374",
+      "name": "马斯卡乐团",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12374"
+    },
+    {
+      "id": "n9940",
+      "name": "徐佳莹",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=9940"
+    },
+    {
+      "id": "n15303",
+      "name": "Shin-Ski",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=15303"
+    },
+    {
+      "id": "n140100",
+      "name": "Insight",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=140100"
+    },
+    {
+      "id": "n13995",
+      "name": "DJ RYOW a.k.a. smooth current",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13995"
+    },
+    {
+      "id": "n12284",
+      "name": "ManhanD",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12284"
+    },
+    {
+      "id": "n1919",
+      "name": "AP满人",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1919"
+    },
+    {
+      "id": "n187021",
+      "name": "Jnco",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=187021"
+    },
+    {
+      "id": "n10212",
+      "name": "阎韦伶",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=10212"
+    },
+    {
+      "id": "n12948",
+      "name": "叁劈",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12948"
+    },
+    {
+      "id": "c5p2o5Zu96Zq9",
+      "name": "杨国隽",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5buW5Yag6IO9",
+      "name": "廖冠能",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5pu-5oCh5b2s",
+      "name": "曾怡彬",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb3pp",
+      "name": "Ozi",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caWFuIGplZmZyZXkgdGhvbWFz",
+      "name": "Ian Jeffrey Thomas",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYW5kcmV3IGJlY2tuZXI",
+      "name": "Andrew Beckner",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5Yqb5a6P",
+      "name": "王力宏",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6Zm25ZaG",
+      "name": "陶喆",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ZmI6ZWH5bed",
+      "name": "陈镇川",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGogamlu",
+      "name": "DJ Jin",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6JuL5aChc29mdCBsaXBh",
+      "name": "蛋堡Soft Lipa",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5a-F",
+      "name": "王寅",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6buE6Iif",
+      "name": "黄舟",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5bq35Y-L6Z-m",
+      "name": "康友韦",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5a6L5ZSv5Yac",
+      "name": "宋唯农",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYW5kcmUgdG9kbWFu",
+      "name": "Andre Todman",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2hlbmcgaGlzIHR1",
+      "name": "Cheng His Tu",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hpbnN1a2UgdGFva2E",
+      "name": "Shinsuke Taoka",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGVsYWZhdA",
+      "name": "Delafat",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n353188212",
+      "title": "主题歌",
+      "date": "2025-12-16",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "苏明渊"
+      ],
+      "label": "索尼音乐",
+      "artwork": "./assets/album-353188212.jpg",
+      "artworkSource": "https://p1.music.126.net/ItLgxVJWqOk4NhakK3Z3Og==/109951172383500931.jpg",
+      "source": "https://music.163.com/album?id=353188212",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3324868073"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n350448298",
+      "title": "辩护",
+      "date": "2025-11-21",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "苏明渊",
+        "蛋堡"
+      ],
+      "label": "索尼音乐",
+      "artwork": "./assets/album-350448298.jpg",
+      "artworkSource": "https://p1.music.126.net/UJkwsjFcj0ws-Xx_A2yxSg==/109951172284403767.jpg",
+      "source": "https://music.163.com/album?id=350448298",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n3318040118"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n160054875",
+      "title": "GDNA",
+      "date": "2023-02-22",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "国蛋"
+      ],
+      "label": "发现梦想",
+      "artwork": "./assets/album-160054875.jpg",
+      "artworkSource": "https://p1.music.126.net/h0vFeJTlzW-zo6AsLmo5Vg==/109951168309419829.jpg",
+      "source": "https://music.163.com/album?id=160054875",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2022405540"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n153340707",
+      "title": "外面有点冷 feat. 蛋堡 Soft Lipa",
+      "date": "2022-10-21",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "国蛋"
+      ],
+      "label": "发现梦想",
+      "artwork": "./assets/album-153340707.jpg",
+      "artworkSource": "https://p2.music.126.net/cFozv1hRunj96uO50KDTEg==/109951167974775671.jpg",
+      "source": "https://music.163.com/album?id=153340707",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1990155433"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n140855409",
+      "title": "One Time",
+      "date": "2022-03-04",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "蛋堡",
+        "Black MIC",
+        "孟起 Dream Ma"
+      ],
+      "label": "一路向上股份有限公司",
+      "artwork": "./assets/album-140855409.jpg",
+      "artworkSource": "https://p1.music.126.net/7HWdGn4CcOB2l6zoiAGqjw==/109951167084435711.jpg",
+      "source": "https://music.163.com/album?id=140855409",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n1922929366"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n137634340",
+      "title": "跑马灯 DEATH TRIP",
+      "date": "2021-12-28",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ØZI",
+        "蛋堡"
+      ],
+      "label": "StreetVoice/新樂園 Forbidden Paradise",
+      "artwork": "./assets/album-137634340.jpg",
+      "artworkSource": "https://p1.music.126.net/7bzzscnNA_CyxXRmhRbMQw==/109951166739507565.jpg",
+      "source": "https://music.163.com/album?id=137634340",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n1904270001"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n149128752",
+      "title": "水哥 2020",
+      "date": "2020-03-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "李英宏"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-149128752.jpg",
+      "artworkSource": "https://p2.music.126.net/EzhxAB-rvCm2Gmpl5F0rBw==/109951167997359675.jpg",
+      "source": "https://music.163.com/album?id=149128752",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1969306411"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n80013183",
+      "title": "Warrior (Cinemax Original Series Soundtrack)",
+      "date": "2019-05-17",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 29,
+      "artistNames": [
+        "Reza Safinia",
+        "H. Scott Salinas"
+      ],
+      "label": null,
+      "artwork": "./assets/album-80013183.jpg",
+      "artworkSource": "https://p1.music.126.net/nAFpq0RBfkF6YMEL0j_FsA==/109951164174245316.jpg",
+      "source": "https://music.163.com/album?id=80013183",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n1374176187"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n79191122",
+      "title": "无病呻吟有情抒情",
+      "date": "2018-12-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "Leo王"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-79191122.jpg",
+      "artworkSource": "https://p2.music.126.net/NY3RM_snQtc_Z_RPebl89w==/109951167986948594.jpg",
+      "source": "https://music.163.com/album?id=79191122",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1365893260"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n35934656",
+      "title": "中国有嘻哈 第9期",
+      "date": "2017-08-19",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "中国有嘻哈"
+      ],
+      "label": "爱奇艺",
+      "artwork": "./assets/album-35934656.jpg",
+      "artworkSource": "https://p1.music.126.net/yyma-PSMJuZPoj9VULfcZg==/109951168208176670.jpg",
+      "source": "https://music.163.com/album?id=35934656",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n499793087"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n35113913",
+      "title": "Welcome To The Next Level",
+      "date": "2016-12-30",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "陈星翰"
+      ],
+      "label": "STARR CHEN",
+      "artwork": "./assets/album-35113913.jpg",
+      "artworkSource": "https://p2.music.126.net/qXzyI00_XwByKbpHzB7rKg==/109951163378954345.jpg",
+      "source": "https://music.163.com/album?id=35113913",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n452814735"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n34750053",
+      "title": "午夜列车上的告别",
+      "date": "2016-06-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "Lu1",
+        "Cee"
+      ],
+      "label": "明堂唱片",
+      "artwork": "./assets/album-34750053.jpg",
+      "artworkSource": "https://p2.music.126.net/SI1LbASpXJWALTTDivi7og==/3399689958970809.jpg",
+      "source": "https://music.163.com/album?id=34750053",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n419250237"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n34762501",
+      "title": "午夜列车上的告别/Farewell on A Midnight Train",
+      "date": "2016-06-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "Cee"
+      ],
+      "label": "明堂唱片",
+      "artwork": "./assets/album-34762501.jpg",
+      "artworkSource": "https://p1.music.126.net/8i1ajqWXKFPnUzeop7sJbg==/17990209253841695.jpg",
+      "source": "https://music.163.com/album?id=34762501",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n419877528"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n34721868",
+      "title": "在一片黑暗之中",
+      "date": "2016-06-09",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "黄玠"
+      ],
+      "label": "StreetVoice/風和日麗",
+      "artwork": "./assets/album-34721868.jpg",
+      "artworkSource": "https://p2.music.126.net/R2bRV2bea3NjEV5ECCZW6Q==/109951173109202532.jpg",
+      "source": "https://music.163.com/album?id=34721868",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n416531325"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n34686731",
+      "title": "台北直直撞",
+      "date": "2016-05-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "李英宏"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-34686731.jpg",
+      "artworkSource": "https://p2.music.126.net/yYrUwI95NurVh2u1KRoVrg==/109951168001990286.jpg",
+      "source": "https://music.163.com/album?id=34686731",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n412187171"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n3162241",
+      "title": "魂(台湾盤リリース記念)",
+      "date": "2014-12-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "JABBERLOOP"
+      ],
+      "label": null,
+      "artwork": "./assets/album-3162241.jpg",
+      "artworkSource": "https://p1.music.126.net/0u4XZgPkzZmxwWRa61siPQ==/2908208257392330.jpg",
+      "source": "https://music.163.com/album?id=3162241",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n32477904"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n3077605",
+      "title": "魂",
+      "date": "2014-12-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": null,
+      "artwork": "./assets/album-3077605.jpg",
+      "artworkSource": "https://p1.music.126.net/dWH4V2gLe_ZDtOj7kMWJKw==/3247957350407255.jpg",
+      "source": "https://music.163.com/album?id=3077605",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n29790409"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n2878422",
+      "title": "偏执面",
+      "date": "2014-07-02",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "张惠妹"
+      ],
+      "label": "Universal Music Taiwan",
+      "artwork": "./assets/album-2878422.jpg",
+      "artworkSource": "https://p2.music.126.net/vCfuilk3ErD1LGAJpLUt_w==/109951173488695196.jpg",
+      "source": "https://music.163.com/album?id=2878422",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n28754100"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n2767462",
+      "title": "有所畏",
+      "date": "2014-03-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "韦礼安"
+      ],
+      "label": "福茂唱片",
+      "artwork": "./assets/album-2767462.jpg",
+      "artworkSource": "https://p2.music.126.net/rfZ3AnswnDghb_XfMdZyqA==/109951168182124570.jpg",
+      "source": "https://music.163.com/album?id=2767462",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n28310965"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n3275736",
+      "title": "热门华语280",
+      "date": "2014-01-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 275,
+      "artistNames": [
+        "群星"
+      ],
+      "label": null,
+      "artwork": "./assets/album-3275736.jpg",
+      "artworkSource": "https://p1.music.126.net/cpoUinrExafBHL5Nv5iDHQ==/109951166361218466.jpg",
+      "source": "https://music.163.com/album?id=3275736",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n34532017"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n3010183",
+      "title": "热门华语240",
+      "date": "2014-01-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 53,
+      "artistNames": [
+        "群星"
+      ],
+      "label": null,
+      "artwork": "./assets/album-3010183.jpg",
+      "artworkSource": "https://p2.music.126.net/cpoUinrExafBHL5Nv5iDHQ==/109951166361218466.jpg",
+      "source": "https://music.163.com/album?id=3010183",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n29378746"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n2965013",
+      "title": "热门华语236",
+      "date": "2014-01-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 44,
+      "artistNames": [
+        "群星"
+      ],
+      "label": null,
+      "artwork": "./assets/album-2965013.jpg",
+      "artworkSource": "https://p2.music.126.net/cpoUinrExafBHL5Nv5iDHQ==/109951166361218466.jpg",
+      "source": "https://music.163.com/album?id=2965013",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n28977748"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n3014122",
+      "title": "大安森林公園",
+      "date": "2014-01-01",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Zaney"
+      ],
+      "label": "獨立",
+      "artwork": "./assets/album-3014122.jpg",
+      "artworkSource": "https://p1.music.126.net/H-JejKHY6y22lAnMO-aZ0g==/2578354767159258.jpg",
+      "source": "https://music.163.com/album?id=3014122",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n29371264"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n3279918",
+      "title": "Walk This Way",
+      "date": "2013-08-23",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "MC HotDog 热狗",
+        "蛋堡",
+        "葛仲珊"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-3279918.jpg",
+      "artworkSource": "https://p2.music.126.net/u3O9hQmfPddc1tojIXvBwQ==/109951168001990198.jpg",
+      "source": "https://music.163.com/album?id=3279918",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n34601748"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n2628001",
+      "title": "你所不知道的杜振熙之内部整修",
+      "date": "2013-07-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 24,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-2628001.jpg",
+      "artworkSource": "https://p1.music.126.net/BwvvtmT3pC5GbkE3T_l87w==/109951168001990864.jpg",
+      "source": "https://music.163.com/album?id=2628001",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n27533219",
+        "n27533218",
+        "n27533024",
+        "n27533023",
+        "n27533022",
+        "n27533020",
+        "n27533019",
+        "n27533018",
+        "n27533017",
+        "n27533016",
+        "n27533015",
+        "n27533014",
+        "n27533013",
+        "n27533012",
+        "n27533011",
+        "n27533010",
+        "n27533009",
+        "n27533008",
+        "n27533007",
+        "n27533006",
+        "n27533005",
+        "n27533003",
+        "n27533002",
+        "n27533001"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n2698077",
+      "title": "热门华语184",
+      "date": "2013-01-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 28,
+      "artistNames": [
+        "群星"
+      ],
+      "label": null,
+      "artwork": "./assets/album-2698077.jpg",
+      "artworkSource": "https://p1.music.126.net/cpoUinrExafBHL5Nv5iDHQ==/109951166361218466.jpg",
+      "source": "https://music.163.com/album?id=2698077",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n27937666"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n25350",
+      "title": "Knock Out（葛屁）",
+      "date": "2012-08-15",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "葛仲珊"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-25350.jpg",
+      "artworkSource": "https://p2.music.126.net/NOfFlibgUypeGFIJSzIDWA==/109951168001987851.jpg",
+      "source": "https://music.163.com/album?id=25350",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n253769"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n13352",
+      "title": "贫民百万歌星",
+      "date": "2012-07-13",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 17,
+      "artistNames": [
+        "MC HotDog 热狗"
+      ],
+      "label": "滚石唱片",
+      "artwork": "./assets/album-13352.jpg",
+      "artworkSource": "https://p2.music.126.net/Js-ZQub2-4_RA176YXwm5g==/119846767440816.jpg",
+      "source": "https://music.163.com/album?id=13352",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n135023"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n9168",
+      "title": "放个假",
+      "date": "2012-07-06",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 2,
+      "artistNames": [
+        "黄玠",
+        "蛋堡"
+      ],
+      "label": "StreetVoice/風和日麗",
+      "artwork": "./assets/album-9168.jpg",
+      "artworkSource": "https://p2.music.126.net/_LP0bhhfnrKVmbaz6yiW1Q==/109951163177901805.jpg",
+      "source": "https://music.163.com/album?id=9168",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n93405",
+        "n93401"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n7539",
+      "title": "踩.脚.踏.车",
+      "date": "2011-10-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-7539.jpg",
+      "artworkSource": "https://p1.music.126.net/7_AJN7ZAJrpaPmAAU968hg==/109951168001991680.jpg",
+      "source": "https://music.163.com/album?id=7539",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n76829",
+        "n76828",
+        "n76827",
+        "n76826",
+        "n76825",
+        "n76824",
+        "n76823",
+        "n76822",
+        "n76821",
+        "n76820"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n2096962",
+      "title": "Moonlight Sunrise",
+      "date": "2011-09-21",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "ShinSight Trio"
+      ],
+      "label": "Bad News",
+      "artwork": "./assets/album-2096962.jpg",
+      "artworkSource": "https://p1.music.126.net/ahUT6Nd0QEJIHLYo4xDktw==/109951166630686024.jpg",
+      "source": "https://music.163.com/album?id=2096962",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n22811478"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n36297",
+      "title": "Life Goes On & On",
+      "date": "2011-07-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "ManhanD"
+      ],
+      "label": "华宇世博",
+      "artwork": "./assets/album-36297.jpg",
+      "artworkSource": "https://p2.music.126.net/fC4ysQF7AHwwAOSD91zZYA==/18676304511662290.jpg",
+      "source": "https://music.163.com/album?id=36297",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n366870"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n7540",
+      "title": "你是我的梦想",
+      "date": "2011-05-16",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": null,
+      "artwork": "./assets/album-7540.jpg",
+      "artworkSource": "https://p2.music.126.net/7PAtFzxBrnWzkylKBqi7bA==/80264348841743.jpg",
+      "source": "https://music.163.com/album?id=7540",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n76830"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n7542",
+      "title": "月光",
+      "date": "2010-10-08",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-7542.jpg",
+      "artworkSource": "https://p2.music.126.net/cB5Cs8PPPkYbj4vwaaWcWw==/109951168001993115.jpg",
+      "source": "https://music.163.com/album?id=7542",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "联合项目",
+      "trackIds": [
+        "n76842",
+        "n76841",
+        "n76840",
+        "n76839",
+        "n76838",
+        "n76837",
+        "n76836",
+        "n76835",
+        "n76834",
+        "n76833",
+        "n76832"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n5962",
+      "title": "嘻哈世界",
+      "date": "2010-08-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "AP满人"
+      ],
+      "label": null,
+      "artwork": "./assets/album-5962.jpg",
+      "artworkSource": "https://p2.music.126.net/lTb9Qfxoqfj--p33C7HMtg==/113249697661643.jpg",
+      "source": "https://music.163.com/album?id=5962",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n61255"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n7543",
+      "title": "Winter Sweet",
+      "date": "2009-12-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-7543.jpg",
+      "artworkSource": "https://p2.music.126.net/bYaCDH15n4rU3BXBeZCwlA==/109951168001994128.jpg",
+      "source": "https://music.163.com/album?id=7543",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n76862",
+        "n76860",
+        "n76858",
+        "n76856",
+        "n76854",
+        "n76853",
+        "n76852",
+        "n76851",
+        "n76849",
+        "n76848",
+        "n76847",
+        "n76846",
+        "n76845",
+        "n76844",
+        "n76843"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n7547",
+      "title": "收敛水",
+      "date": "2009-07-22",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": "颜社企业有限公司",
+      "artwork": "./assets/album-7547.jpg",
+      "artworkSource": "https://p1.music.126.net/YuS3GrLcE7PIi_3s-62ZQA==/109951168001997012.jpg",
+      "source": "https://music.163.com/album?id=7547",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n76904",
+        "n76901",
+        "n76899",
+        "n76897",
+        "n76894",
+        "n76891",
+        "n76888",
+        "n76885",
+        "n76883",
+        "n76881",
+        "n76879",
+        "n76877",
+        "n76875",
+        "n76873"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n7546",
+      "title": "打包",
+      "date": "2009-07-03",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 9,
+      "artistNames": [
+        "蛋堡"
+      ],
+      "label": null,
+      "artwork": "./assets/album-7546.jpg",
+      "artworkSource": "https://p1.music.126.net/BWbiOPu29IZkxQN7sxpGPw==/84662395344387.jpg",
+      "source": "https://music.163.com/album?id=7546",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n29343277",
+        "n29343276",
+        "n29343275",
+        "n29343274",
+        "n29343273",
+        "n29343271",
+        "n29343270",
+        "n29343269",
+        "n76867"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "unknown-n1852213575",
+      "title": "发行资料待核",
+      "date": "",
+      "type": "待核发行",
+      "edition": null,
+      "totalTracks": null,
+      "artistNames": [
+        "田馥甄",
+        "吴青峰",
+        "李泉",
+        "林俊杰",
+        "韦礼安",
+        "孙盛希",
+        "蛋堡",
+        "万芳",
+        "瘦子E.SO",
+        "谭维维",
+        "苏慧伦"
+      ],
+      "label": null,
+      "artwork": "./assets/danbao-portrait.jpg",
+      "artworkSource": null,
+      "source": "https://music.163.com/song?id=1852213575",
+      "sourceLabel": "网易云音乐（单曲页）",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "待核发行",
+      "trackIds": [
+        "n1852213575"
+      ],
+      "listedOnArtist": false
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3324868073",
+      "platformId": 3324868073,
+      "title": "辩护",
+      "aliases": [],
+      "albumId": "n353188212",
+      "date": "2025-12-16",
+      "trackNumber": 1,
+      "duration": 256026,
+      "artistIds": [
+        "n33883143",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n33883143",
+          "role": "作曲",
+          "raw": "作曲 : 苏明渊/蛋堡",
+          "source": "https://music.163.com/song?id=3324868073",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 苏明渊/蛋堡",
+          "source": "https://music.163.com/song?id=3324868073",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作曲 : 苏明渊/蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=3324868073",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3318040118",
+      "platformId": 3318040118,
+      "title": "辩护",
+      "aliases": [],
+      "albumId": "n350448298",
+      "date": "2025-11-21",
+      "trackNumber": 1,
+      "duration": 256026,
+      "artistIds": [
+        "n33883143",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n33883143",
+          "role": "作曲",
+          "raw": "作曲 : 苏明渊/蛋堡",
+          "source": "https://music.163.com/song?id=3318040118",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 苏明渊/蛋堡",
+          "source": "https://music.163.com/song?id=3318040118",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作曲 : 苏明渊/蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=3318040118",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2022405540",
+      "platformId": 2022405540,
+      "title": "White Noise ft. 蛋堡 Soft Lipa",
+      "aliases": [],
+      "albumId": "n160054875",
+      "date": "2023-02-22",
+      "trackNumber": 6,
+      "duration": 242569,
+      "artistIds": [
+        "n2947",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "c5p2o5Zu96Zq9",
+          "role": "作词",
+          "raw": "作词 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=2022405540",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=2022405540",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o5Zu96Zq9",
+          "role": "作曲",
+          "raw": "作曲 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=2022405540",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=2022405540",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 杨国隽/杜振熙",
+        "作曲 : 杨国隽/杜振熙"
+      ],
+      "source": "https://music.163.com/song?id=2022405540",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1990155433",
+      "platformId": 1990155433,
+      "title": "外面有点冷 feat. 蛋堡 Soft Lipa",
+      "aliases": [],
+      "albumId": "n153340707",
+      "date": "2022-10-21",
+      "trackNumber": 1,
+      "duration": 267272,
+      "artistIds": [
+        "n2947",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "c5p2o5Zu96Zq9",
+          "role": "作词",
+          "raw": "作词 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=1990155433",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=1990155433",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o5Zu96Zq9",
+          "role": "作曲",
+          "raw": "作曲 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=1990155433",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 杨国隽/杜振熙",
+          "source": "https://music.163.com/song?id=1990155433",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 杨国隽/杜振熙",
+        "作曲 : 杨国隽/杜振熙"
+      ],
+      "source": "https://music.163.com/song?id=1990155433",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1922929366",
+      "platformId": 1922929366,
+      "title": "One Time",
+      "aliases": [],
+      "albumId": "n140855409",
+      "date": "2022-03-04",
+      "trackNumber": 1,
+      "duration": 255000,
+      "artistIds": [
+        "n2514",
+        "n32214034",
+        "n14586920"
+      ],
+      "credits": [
+        {
+          "personId": "c5buW5Yag6IO9",
+          "role": "作词",
+          "raw": "作词 : 廖冠能/曾怡彬/杜振熙",
+          "source": "https://music.163.com/song?id=1922929366",
+          "level": "track"
+        },
+        {
+          "personId": "c5pu-5oCh5b2s",
+          "role": "作词",
+          "raw": "作词 : 廖冠能/曾怡彬/杜振熙",
+          "source": "https://music.163.com/song?id=1922929366",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 廖冠能/曾怡彬/杜振熙",
+          "source": "https://music.163.com/song?id=1922929366",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 杜振熙",
+          "source": "https://music.163.com/song?id=1922929366",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 廖冠能/曾怡彬/杜振熙",
+        "作曲 : 杜振熙"
+      ],
+      "source": "https://music.163.com/song?id=1922929366",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1904270001",
+      "platformId": 1904270001,
+      "title": "跑马灯 DEATH TRIP",
+      "aliases": [],
+      "albumId": "n137634340",
+      "date": "2021-12-28",
+      "trackNumber": 1,
+      "duration": 224650,
+      "artistIds": [
+        "n13500447",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "cb3pp",
+          "role": "作词",
+          "raw": "作词 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "caWFuIGplZmZyZXkgdGhvbWFz",
+          "role": "作词",
+          "raw": "作词 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "cYW5kcmV3IGJlY2tuZXI",
+          "role": "作词",
+          "raw": "作词 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "cb3pp",
+          "role": "作曲",
+          "raw": "作曲 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "caWFuIGplZmZyZXkgdGhvbWFz",
+          "role": "作曲",
+          "raw": "作曲 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        },
+        {
+          "personId": "cYW5kcmV3IGJlY2tuZXI",
+          "role": "作曲",
+          "raw": "作曲 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+          "source": "https://music.163.com/song?id=1904270001",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner",
+        "作曲 : Ozi/杜振熙/Ian Jeffrey Thomas/Andrew Beckner"
+      ],
+      "source": "https://music.163.com/song?id=1904270001",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1969306411",
+      "platformId": 1969306411,
+      "title": "水哥 ft. 蛋堡",
+      "aliases": [],
+      "albumId": "n149128752",
+      "date": "2020-03-27",
+      "trackNumber": 1,
+      "duration": 211174,
+      "artistIds": [
+        "n12047599",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/李英宏",
+          "source": "https://music.163.com/song?id=1969306411",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/李英宏",
+          "source": "https://music.163.com/song?id=1969306411",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/李英宏",
+          "source": "https://music.163.com/song?id=1969306411",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/李英宏",
+          "source": "https://music.163.com/song?id=1969306411",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/李英宏",
+        "作曲 : 蛋堡/李英宏"
+      ],
+      "source": "https://music.163.com/song?id=1969306411",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1374176187",
+      "platformId": 1374176187,
+      "title": "An Epic",
+      "aliases": [],
+      "albumId": "n80013183",
+      "date": "2019-05-17",
+      "trackNumber": 21,
+      "duration": 206262,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1374176187",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1365893260",
+      "platformId": 1365893260,
+      "title": "无病呻吟 feat. 蛋堡",
+      "aliases": [],
+      "albumId": "n79191122",
+      "date": "2018-12-31",
+      "trackNumber": 4,
+      "duration": 211304,
+      "artistIds": [
+        "n12202146",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n12202146",
+          "role": "作词",
+          "raw": "作词 : Leo王/蛋堡",
+          "source": "https://music.163.com/song?id=1365893260",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : Leo王/蛋堡",
+          "source": "https://music.163.com/song?id=1365893260",
+          "level": "track"
+        },
+        {
+          "personId": "n12202146",
+          "role": "作曲",
+          "raw": "作曲 : Leo王/蛋堡",
+          "source": "https://music.163.com/song?id=1365893260",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : Leo王/蛋堡",
+          "source": "https://music.163.com/song?id=1365893260",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Leo王/蛋堡",
+        "作曲 : Leo王/蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=1365893260",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n499793087",
+      "platformId": 499793087,
+      "title": "收敛水 (Live)",
+      "aliases": [],
+      "albumId": "n35934656",
+      "date": "2017-08-19",
+      "trackNumber": 2,
+      "duration": 203659,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=499793087",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "编曲",
+          "raw": "编曲 : 蛋堡/DJ Jin",
+          "source": "https://music.163.com/song?id=499793087",
+          "level": "track"
+        },
+        {
+          "personId": "cZGogamlu",
+          "role": "编曲",
+          "raw": "编曲 : 蛋堡/DJ Jin",
+          "source": "https://music.163.com/song?id=499793087",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "编曲",
+          "raw": "编曲：蛋堡/DJ Jin",
+          "source": "https://music.163.com/song?id=499793087",
+          "level": "track"
+        },
+        {
+          "personId": "cZGogamlu",
+          "role": "编曲",
+          "raw": "编曲：蛋堡/DJ Jin",
+          "source": "https://music.163.com/song?id=499793087",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "编曲 : 蛋堡/DJ Jin",
+        "编曲：蛋堡/DJ Jin"
+      ],
+      "source": "https://music.163.com/song?id=499793087",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n452814735",
+      "platformId": 452814735,
+      "title": "噹噹噹 Feat. SoftLipa 蛋堡",
+      "aliases": [
+        "Dang Dang Dang"
+      ],
+      "albumId": "n35113913",
+      "date": "2016-12-30",
+      "trackNumber": 4,
+      "duration": 246100,
+      "artistIds": [
+        "n12154330",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : Soft Lipa/陈星翰",
+          "source": "https://music.163.com/song?id=452814735",
+          "level": "track"
+        },
+        {
+          "personId": "n12154330",
+          "role": "作词",
+          "raw": "作词 : Soft Lipa/陈星翰",
+          "source": "https://music.163.com/song?id=452814735",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : Soft Lipa/陈星翰",
+          "source": "https://music.163.com/song?id=452814735",
+          "level": "track"
+        },
+        {
+          "personId": "n12154330",
+          "role": "作曲",
+          "raw": "作曲 : Soft Lipa/陈星翰",
+          "source": "https://music.163.com/song?id=452814735",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Soft Lipa/陈星翰",
+        "作曲 : Soft Lipa/陈星翰"
+      ],
+      "source": "https://music.163.com/song?id=452814735",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n419250237",
+      "platformId": 419250237,
+      "title": "焦点 / Highlight ",
+      "aliases": [],
+      "albumId": "n34750053",
+      "date": "2016-06-29",
+      "trackNumber": 7,
+      "duration": 260500,
+      "artistIds": [
+        "n4037",
+        "n31055",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n4037",
+          "role": "作词",
+          "raw": "作词 : Lu1/ Cee/ 蛋堡",
+          "source": "https://music.163.com/song?id=419250237",
+          "level": "track"
+        },
+        {
+          "personId": "n31055",
+          "role": "作词",
+          "raw": "作词 : Lu1/ Cee/ 蛋堡",
+          "source": "https://music.163.com/song?id=419250237",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : Lu1/ Cee/ 蛋堡",
+          "source": "https://music.163.com/song?id=419250237",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=419250237",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Lu1/ Cee/ 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=419250237",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n419877528",
+      "platformId": 419877528,
+      "title": "07 焦点 Highlight feat. 蛋堡",
+      "aliases": [],
+      "albumId": "n34762501",
+      "date": "2016-06-29",
+      "trackNumber": 7,
+      "duration": 260500,
+      "artistIds": [
+        "n31055",
+        "n4037",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n4037",
+          "role": "作词",
+          "raw": "作词 : Lu1/Cee/蛋堡",
+          "source": "https://music.163.com/song?id=419877528",
+          "level": "track"
+        },
+        {
+          "personId": "n31055",
+          "role": "作词",
+          "raw": "作词 : Lu1/Cee/蛋堡",
+          "source": "https://music.163.com/song?id=419877528",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : Lu1/Cee/蛋堡",
+          "source": "https://music.163.com/song?id=419877528",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=419877528",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Lu1/Cee/蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=419877528",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n416531325",
+      "platformId": 416531325,
+      "title": "Party到天亮",
+      "aliases": [
+        "Party Until Dawn"
+      ],
+      "albumId": "n34721868",
+      "date": "2016-06-09",
+      "trackNumber": 9,
+      "duration": 272942,
+      "artistIds": [
+        "n3070",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/黄玠",
+          "source": "https://music.163.com/song?id=416531325",
+          "level": "track"
+        },
+        {
+          "personId": "n3070",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/黄玠",
+          "source": "https://music.163.com/song?id=416531325",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/黄玠",
+          "source": "https://music.163.com/song?id=416531325",
+          "level": "track"
+        },
+        {
+          "personId": "n3070",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/黄玠",
+          "source": "https://music.163.com/song?id=416531325",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/黄玠",
+        "作曲 : 蛋堡/黄玠"
+      ],
+      "source": "https://music.163.com/song?id=416531325",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n412187171",
+      "platformId": 412187171,
+      "title": "什么时候她 feat. 蛋堡 Soft Lipa",
+      "aliases": [
+        "She"
+      ],
+      "albumId": "n34686731",
+      "date": "2016-05-10",
+      "trackNumber": 5,
+      "duration": 298636,
+      "artistIds": [
+        "n12047599",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n12047599",
+          "role": "作词",
+          "raw": "作词 : 李英宏",
+          "source": "https://music.163.com/song?id=412187171",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "作曲",
+          "raw": "作曲 : 李英宏",
+          "source": "https://music.163.com/song?id=412187171",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "作词",
+          "raw": "作词：李英宏 / 蛋堡Soft Lipa",
+          "source": "https://music.163.com/song?id=412187171",
+          "level": "track"
+        },
+        {
+          "personId": "c6JuL5aChc29mdCBsaXBh",
+          "role": "作词",
+          "raw": "作词：李英宏 / 蛋堡Soft Lipa",
+          "source": "https://music.163.com/song?id=412187171",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "作曲",
+          "raw": "作曲：李英宏",
+          "source": "https://music.163.com/song?id=412187171",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "编曲",
+          "raw": "编曲：李英宏",
+          "source": "https://music.163.com/song?id=412187171",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 李英宏",
+        "作曲 : 李英宏",
+        "作词：李英宏 / 蛋堡Soft Lipa",
+        "作曲：李英宏",
+        "编曲：李英宏"
+      ],
+      "source": "https://music.163.com/song?id=412187171",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n32477904",
+      "platformId": 32477904,
+      "title": "恍惚",
+      "aliases": [],
+      "albumId": "n3162241",
+      "date": "2014-12-09",
+      "trackNumber": 1,
+      "duration": 288835,
+      "artistIds": [
+        "n19997",
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=32477904",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29790409",
+      "platformId": 29790409,
+      "title": "恍惚",
+      "aliases": [],
+      "albumId": "n3077605",
+      "date": "2014-12-09",
+      "trackNumber": 1,
+      "duration": 288835,
+      "artistIds": [
+        "n2514",
+        "n19997"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29790409",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n28754100",
+      "platformId": 28754100,
+      "title": "偏执面",
+      "aliases": [],
+      "albumId": "n2878422",
+      "date": "2014-07-02",
+      "trackNumber": 5,
+      "duration": 254186,
+      "artistIds": [
+        "n10559",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=28754100",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5a-F",
+          "role": "作曲",
+          "raw": "作曲 : 王寅/黄舟",
+          "source": "https://music.163.com/song?id=28754100",
+          "level": "track"
+        },
+        {
+          "personId": "c6buE6Iif",
+          "role": "作曲",
+          "raw": "作曲 : 王寅/黄舟",
+          "source": "https://music.163.com/song?id=28754100",
+          "level": "track"
+        },
+        {
+          "personId": "n12154330",
+          "role": "编曲",
+          "raw": "编曲 : 陈星翰/康友韦",
+          "source": "https://music.163.com/song?id=28754100",
+          "level": "track"
+        },
+        {
+          "personId": "c5bq35Y-L6Z-m",
+          "role": "编曲",
+          "raw": "编曲 : 陈星翰/康友韦",
+          "source": "https://music.163.com/song?id=28754100",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 王寅/黄舟",
+        "编曲 : 陈星翰/康友韦"
+      ],
+      "source": "https://music.163.com/song?id=28754100",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n28310965",
+      "platformId": 28310965,
+      "title": "迷路",
+      "aliases": [],
+      "albumId": "n2767462",
+      "date": "2014-03-25",
+      "trackNumber": 8,
+      "duration": 258120,
+      "artistIds": [
+        "n5379",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n5379",
+          "role": "作词",
+          "raw": "作词 : 韦礼安/蛋堡",
+          "source": "https://music.163.com/song?id=28310965",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 韦礼安/蛋堡",
+          "source": "https://music.163.com/song?id=28310965",
+          "level": "track"
+        },
+        {
+          "personId": "n5379",
+          "role": "作曲",
+          "raw": "作曲 : 韦礼安/蛋堡",
+          "source": "https://music.163.com/song?id=28310965",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 韦礼安/蛋堡",
+          "source": "https://music.163.com/song?id=28310965",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 韦礼安/蛋堡",
+        "作曲 : 韦礼安/蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=28310965",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29371264",
+      "platformId": 29371264,
+      "title": "大安森林公園 (Live)",
+      "aliases": [],
+      "albumId": "n3014122",
+      "date": "2014-01-01",
+      "trackNumber": 0,
+      "duration": 1105000,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29371264",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n34532017",
+      "platformId": 34532017,
+      "title": "晚安曲",
+      "aliases": [],
+      "albumId": "n3275736",
+      "date": "2014-01-01",
+      "trackNumber": 1,
+      "duration": 214857,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=34532017",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29378746",
+      "platformId": 29378746,
+      "title": "忧愁",
+      "aliases": [],
+      "albumId": "n3010183",
+      "date": "2014-01-01",
+      "trackNumber": 1,
+      "duration": 225306,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29378746",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n28977748",
+      "platformId": 28977748,
+      "title": "爱简单",
+      "aliases": [],
+      "albumId": "n2965013",
+      "date": "2014-01-01",
+      "trackNumber": 1,
+      "duration": 289645,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=28977748",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n34601748",
+      "platformId": 34601748,
+      "title": "Walk This Way",
+      "aliases": [],
+      "albumId": "n3279918",
+      "date": "2013-08-23",
+      "trackNumber": 1,
+      "duration": 188571,
+      "artistIds": [
+        "n4479",
+        "n2514",
+        "n8320"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/MC HotDog 热狗/葛仲珊",
+          "source": "https://music.163.com/song?id=34601748",
+          "level": "track"
+        },
+        {
+          "personId": "n4479",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/MC HotDog 热狗/葛仲珊",
+          "source": "https://music.163.com/song?id=34601748",
+          "level": "track"
+        },
+        {
+          "personId": "n8320",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/MC HotDog 热狗/葛仲珊",
+          "source": "https://music.163.com/song?id=34601748",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/MC HotDog 热狗/葛仲珊",
+          "source": "https://music.163.com/song?id=34601748",
+          "level": "track"
+        },
+        {
+          "personId": "n4479",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/MC HotDog 热狗/葛仲珊",
+          "source": "https://music.163.com/song?id=34601748",
+          "level": "track"
+        },
+        {
+          "personId": "n8320",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/MC HotDog 热狗/葛仲珊",
+          "source": "https://music.163.com/song?id=34601748",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/MC HotDog 热狗/葛仲珊",
+        "作曲 : 蛋堡/MC HotDog 热狗/葛仲珊"
+      ],
+      "source": "https://music.163.com/song?id=34601748",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533003",
+      "platformId": 27533003,
+      "title": "内部整修（Intro）",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 1,
+      "duration": 201004,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533003",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533003",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533003",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533002",
+      "platformId": 27533002,
+      "title": "如梦似幻",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 2,
+      "duration": 300991,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533002",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533002",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533002",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533001",
+      "platformId": 27533001,
+      "title": "冰河时期",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 3,
+      "duration": 164840,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533001",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533001",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533001",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533005",
+      "platformId": 27533005,
+      "title": "绑架我",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 4,
+      "duration": 224742,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533005",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533005",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533005",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533006",
+      "platformId": 27533006,
+      "title": "当我来到这里 feat. MISS KO",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 5,
+      "duration": 281640,
+      "artistIds": [
+        "n2514",
+        "n8320"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/葛仲珊",
+          "source": "https://music.163.com/song?id=27533006",
+          "level": "track"
+        },
+        {
+          "personId": "n8320",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/葛仲珊",
+          "source": "https://music.163.com/song?id=27533006",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/葛仲珊",
+          "source": "https://music.163.com/song?id=27533006",
+          "level": "track"
+        },
+        {
+          "personId": "n8320",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/葛仲珊",
+          "source": "https://music.163.com/song?id=27533006",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/葛仲珊",
+        "作曲 : 蛋堡/葛仲珊"
+      ],
+      "source": "https://music.163.com/song?id=27533006",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533009",
+      "platformId": 27533009,
+      "title": "您所拨的电话",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 7,
+      "duration": 160003,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533009",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533010",
+      "platformId": 27533010,
+      "title": "AhhYeah",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 8,
+      "duration": 310612,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533010",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533010",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533010",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533008",
+      "platformId": 27533008,
+      "title": "空袭与庇护所",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 9,
+      "duration": 149721,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533008",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533016",
+      "platformId": 27533016,
+      "title": "雨没停过",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 10,
+      "duration": 285851,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533016",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533016",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533016",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533012",
+      "platformId": 27533012,
+      "title": "仇人的孩子",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 11,
+      "duration": 316564,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533012",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533012",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533012",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533007",
+      "platformId": 27533007,
+      "title": "7楼的钢琴老师",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 12,
+      "duration": 34690,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533007",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533011",
+      "platformId": 27533011,
+      "title": "坠落",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 13,
+      "duration": 249053,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533011",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533011",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533011",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533013",
+      "platformId": 27533013,
+      "title": "落幕",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 14,
+      "duration": 185087,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533013",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533022",
+      "platformId": 27533022,
+      "title": "演员",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 15,
+      "duration": 293863,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533022",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533022",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533022",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533015",
+      "platformId": 27533015,
+      "title": "我们都有问题 feat. N.CHEN",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 16,
+      "duration": 286175,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533015",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533015",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533015",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533014",
+      "platformId": 27533014,
+      "title": "台北市大安区",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 17,
+      "duration": 91311,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533014",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533014",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533024",
+      "platformId": 27533024,
+      "title": "房间",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 18,
+      "duration": 407020,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533024",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533024",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533024",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533019",
+      "platformId": 27533019,
+      "title": "Deep Sleep",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 19,
+      "duration": 294803,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533019",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533017",
+      "platformId": 27533017,
+      "title": "梦的作者",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 20,
+      "duration": 249069,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533017",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533017",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533017",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533018",
+      "platformId": 27533018,
+      "title": "写一首歌 feat. 方大同",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 21,
+      "duration": 211914,
+      "artistIds": [
+        "n2514",
+        "n2738"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/方大同",
+          "source": "https://music.163.com/song?id=27533018",
+          "level": "track"
+        },
+        {
+          "personId": "n2738",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/方大同",
+          "source": "https://music.163.com/song?id=27533018",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/方大同",
+          "source": "https://music.163.com/song?id=27533018",
+          "level": "track"
+        },
+        {
+          "personId": "n2738",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/方大同",
+          "source": "https://music.163.com/song?id=27533018",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/方大同",
+        "作曲 : 蛋堡/方大同"
+      ],
+      "source": "https://music.163.com/song?id=27533018",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533023",
+      "platformId": 27533023,
+      "title": "伊尔的移动",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 22,
+      "duration": 423998,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533023",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533020",
+      "platformId": 27533020,
+      "title": "Rewind",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 24,
+      "duration": 245853,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533020",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533218",
+      "platformId": 27533218,
+      "title": "Hohoho 2006",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 25,
+      "duration": 22705,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27533218",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27533219",
+      "platformId": 27533219,
+      "title": "史诗",
+      "aliases": [],
+      "albumId": "n2628001",
+      "date": "2013-07-31",
+      "trackNumber": 26,
+      "duration": 210000,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533219",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=27533219",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=27533219",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n27937666",
+      "platformId": 27937666,
+      "title": "未曾改变",
+      "aliases": [],
+      "albumId": "n2698077",
+      "date": "2013-01-01",
+      "trackNumber": 1,
+      "duration": 224731,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=27937666",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n253769",
+      "platformId": 253769,
+      "title": "太阳下 feat. Gordon & Soft Lipa",
+      "aliases": [],
+      "albumId": "n25350",
+      "date": "2012-08-15",
+      "trackNumber": 6,
+      "duration": 270720,
+      "artistIds": [
+        "n8320",
+        "n2514",
+        "n2947"
+      ],
+      "credits": [
+        {
+          "personId": "n8320",
+          "role": "作词",
+          "raw": "作词 : 葛仲珊/蛋堡/国蛋",
+          "source": "https://music.163.com/song?id=253769",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 葛仲珊/蛋堡/国蛋",
+          "source": "https://music.163.com/song?id=253769",
+          "level": "track"
+        },
+        {
+          "personId": "n2947",
+          "role": "作词",
+          "raw": "作词 : 葛仲珊/蛋堡/国蛋",
+          "source": "https://music.163.com/song?id=253769",
+          "level": "track"
+        },
+        {
+          "personId": "n8320",
+          "role": "作曲",
+          "raw": "作曲 : 葛仲珊/蛋堡/国蛋",
+          "source": "https://music.163.com/song?id=253769",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 葛仲珊/蛋堡/国蛋",
+          "source": "https://music.163.com/song?id=253769",
+          "level": "track"
+        },
+        {
+          "personId": "n2947",
+          "role": "作曲",
+          "raw": "作曲 : 葛仲珊/蛋堡/国蛋",
+          "source": "https://music.163.com/song?id=253769",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 葛仲珊/蛋堡/国蛋",
+        "作曲 : 葛仲珊/蛋堡/国蛋"
+      ],
+      "source": "https://music.163.com/song?id=253769",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n135023",
+      "platformId": 135023,
+      "title": "不吃早餐才是一件很嘻哈的事",
+      "aliases": [],
+      "albumId": "n13352",
+      "date": "2012-07-13",
+      "trackNumber": 3,
+      "duration": 257506,
+      "artistIds": [
+        "n4479",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n4479",
+          "role": "作词",
+          "raw": "作词 : MC HotDog 热狗",
+          "source": "https://music.163.com/song?id=135023",
+          "level": "track"
+        },
+        {
+          "personId": "n4479",
+          "role": "作曲",
+          "raw": "作曲 : MC HotDog 热狗",
+          "source": "https://music.163.com/song?id=135023",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : MC HotDog 热狗",
+        "作曲 : MC HotDog 热狗"
+      ],
+      "source": "https://music.163.com/song?id=135023",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n93401",
+      "platformId": 93401,
+      "title": "放个假",
+      "aliases": [],
+      "albumId": "n9168",
+      "date": "2012-07-06",
+      "trackNumber": 1,
+      "duration": 263906,
+      "artistIds": [
+        "n3070",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/黄玠",
+          "source": "https://music.163.com/song?id=93401",
+          "level": "track"
+        },
+        {
+          "personId": "n3070",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/黄玠",
+          "source": "https://music.163.com/song?id=93401",
+          "level": "track"
+        },
+        {
+          "personId": "n3070",
+          "role": "作曲",
+          "raw": "作曲 : 黄玠",
+          "source": "https://music.163.com/song?id=93401",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/黄玠",
+        "作曲 : 黄玠"
+      ],
+      "source": "https://music.163.com/song?id=93401",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n93405",
+      "platformId": 93405,
+      "title": "少年维持着烦恼",
+      "aliases": [],
+      "albumId": "n9168",
+      "date": "2012-07-06",
+      "trackNumber": 2,
+      "duration": 300786,
+      "artistIds": [
+        "n3070",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=93405",
+          "level": "track"
+        },
+        {
+          "personId": "n3070",
+          "role": "作曲",
+          "raw": "作曲 : 黄玠",
+          "source": "https://music.163.com/song?id=93405",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 黄玠"
+      ],
+      "source": "https://music.163.com/song?id=93405",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76820",
+      "platformId": 76820,
+      "title": "ShinLip",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 1,
+      "duration": 102213,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76820",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76820",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76820",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76821",
+      "platformId": 76821,
+      "title": "踩.脚.踏.车",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 2,
+      "duration": 245426,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76821",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76821",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76821",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76822",
+      "platformId": 76822,
+      "title": "Day by Day (interlude)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 3,
+      "duration": 129093,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76822",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76823",
+      "platformId": 76823,
+      "title": "嘘… (ft.徐佳莹)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 4,
+      "duration": 308946,
+      "artistIds": [
+        "n2514",
+        "n9940"
+      ],
+      "credits": [
+        {
+          "personId": "n9940",
+          "role": "作词",
+          "raw": "作词 : 徐佳莹/蛋堡",
+          "source": "https://music.163.com/song?id=76823",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 徐佳莹/蛋堡",
+          "source": "https://music.163.com/song?id=76823",
+          "level": "track"
+        },
+        {
+          "personId": "n9940",
+          "role": "作曲",
+          "raw": "作曲 : 徐佳莹/蛋堡",
+          "source": "https://music.163.com/song?id=76823",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 徐佳莹/蛋堡",
+          "source": "https://music.163.com/song?id=76823",
+          "level": "track"
+        },
+        {
+          "personId": "n15303",
+          "role": "编曲",
+          "raw": "编曲 : Shin-Ski",
+          "source": "https://music.163.com/song?id=76823",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 徐佳莹/蛋堡",
+        "作曲 : 徐佳莹/蛋堡",
+        "编曲 : Shin-Ski"
+      ],
+      "source": "https://music.163.com/song?id=76823",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76824",
+      "platformId": 76824,
+      "title": "黄昏滨海 (interlude)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 5,
+      "duration": 62640,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76824",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76825",
+      "platformId": 76825,
+      "title": "听一首歌 (ft.Matzka)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 6,
+      "duration": 403760,
+      "artistIds": [
+        "n2514",
+        "n12374"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/宋唯农",
+          "source": "https://music.163.com/song?id=76825",
+          "level": "track"
+        },
+        {
+          "personId": "c5a6L5ZSv5Yac",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/宋唯农",
+          "source": "https://music.163.com/song?id=76825",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/宋唯农",
+          "source": "https://music.163.com/song?id=76825",
+          "level": "track"
+        },
+        {
+          "personId": "c5a6L5ZSv5Yac",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/宋唯农",
+          "source": "https://music.163.com/song?id=76825",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/宋唯农",
+        "作曲 : 蛋堡/宋唯农"
+      ],
+      "source": "https://music.163.com/song?id=76825",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76826",
+      "platformId": 76826,
+      "title": "MPC,Turntables and Mic (Skit)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 7,
+      "duration": 103320,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76826",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76826",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作曲 : 蛋堡",
+        "作词 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76826",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76827",
+      "platformId": 76827,
+      "title": "找王A",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 8,
+      "duration": 252586,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76827",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76827",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76827",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76828",
+      "platformId": 76828,
+      "title": "未完待续(outro)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 9,
+      "duration": 60106,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76828",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76829",
+      "platformId": 76829,
+      "title": "Bonus Track:Music is Magic (ft.ShinSight Trio)",
+      "aliases": [],
+      "albumId": "n7539",
+      "date": "2011-10-25",
+      "trackNumber": 10,
+      "duration": 246000,
+      "artistIds": [
+        "n2514",
+        "n100311"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/ShinSight Trio",
+          "source": "https://music.163.com/song?id=76829",
+          "level": "track"
+        },
+        {
+          "personId": "n100311",
+          "role": "作词",
+          "raw": "作词 : 蛋堡/ShinSight Trio",
+          "source": "https://music.163.com/song?id=76829",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/ShinSight Trio",
+          "source": "https://music.163.com/song?id=76829",
+          "level": "track"
+        },
+        {
+          "personId": "n100311",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/ShinSight Trio",
+          "source": "https://music.163.com/song?id=76829",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡/ShinSight Trio",
+        "作曲 : 蛋堡/ShinSight Trio"
+      ],
+      "source": "https://music.163.com/song?id=76829",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n22811478",
+      "platformId": 22811478,
+      "title": "Music Is Magic feat. Soft Lipa",
+      "aliases": [],
+      "albumId": "n2096962",
+      "date": "2011-09-21",
+      "trackNumber": 11,
+      "duration": 244826,
+      "artistIds": [
+        "n100311",
+        "n15303",
+        "n140100",
+        "n13995",
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "cYW5kcmUgdG9kbWFu",
+          "role": "作词",
+          "raw": "作词 : Andre Todman / Cheng His Tu",
+          "source": "https://music.163.com/song?id=22811478",
+          "level": "track"
+        },
+        {
+          "personId": "cY2hlbmcgaGlzIHR1",
+          "role": "作词",
+          "raw": "作词 : Andre Todman / Cheng His Tu",
+          "source": "https://music.163.com/song?id=22811478",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hpbnN1a2UgdGFva2E",
+          "role": "作曲",
+          "raw": "作曲 : Shinsuke Taoka",
+          "source": "https://music.163.com/song?id=22811478",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Andre Todman / Cheng His Tu",
+        "作曲 : Shinsuke Taoka"
+      ],
+      "source": "https://music.163.com/song?id=22811478",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n366870",
+      "platformId": 366870,
+      "title": "慢轻颂",
+      "aliases": [],
+      "albumId": "n36297",
+      "date": "2011-07-06",
+      "trackNumber": 14,
+      "duration": 276613,
+      "artistIds": [
+        "n12284",
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=366870",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76830",
+      "platformId": 76830,
+      "title": "你是我的梦想",
+      "aliases": [],
+      "albumId": "n7540",
+      "date": "2011-05-16",
+      "trackNumber": 1,
+      "duration": 76261,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76830",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76830",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76832",
+      "platformId": 76832,
+      "title": "We Got Jazz",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 1,
+      "duration": 251958,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76832",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76832",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76832",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76832",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76833",
+      "platformId": 76833,
+      "title": "经典!",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 2,
+      "duration": 235797,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76833",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76833",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76833",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76833",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76834",
+      "platformId": 76834,
+      "title": "I Want You",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 3,
+      "duration": 246408,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76834",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76834",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76834",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76834",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76835",
+      "platformId": 76835,
+      "title": "钻牙者",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 4,
+      "duration": 227879,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76835",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76835",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76835",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76835",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76836",
+      "platformId": 76836,
+      "title": "她和时间跳华尔兹",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 5,
+      "duration": 381873,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76836",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76836",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76836",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76836",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76837",
+      "platformId": 76837,
+      "title": "过程",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 6,
+      "duration": 288320,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76837",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76837",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76837",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76837",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76838",
+      "platformId": 76838,
+      "title": "月光下",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 7,
+      "duration": 262546,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76838",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76838",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76838",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76838",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76839",
+      "platformId": 76839,
+      "title": "夜间漫游",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 8,
+      "duration": 261269,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76839",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76839",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76839",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76839",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76840",
+      "platformId": 76840,
+      "title": "经典 ! (Blu-Swing remix)",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 9,
+      "duration": 240928,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76840",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76840",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76840",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76840",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "remix",
+      "status": "platform"
+    },
+    {
+      "id": "n76841",
+      "platformId": 76841,
+      "title": "过程 (14? remix)",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 10,
+      "duration": 268769,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76841",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76841",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76841",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76841",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "remix",
+      "status": "platform"
+    },
+    {
+      "id": "n76842",
+      "platformId": 76842,
+      "title": "过程 (Shin-Ski’s Still In Progress remix)",
+      "aliases": [],
+      "albumId": "n7542",
+      "date": "2010-10-08",
+      "trackNumber": 11,
+      "duration": 284977,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76842",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76842",
+          "level": "track"
+        },
+        {
+          "personId": "n19997",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/JABBERLOOP",
+          "source": "https://music.163.com/song?id=76842",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/JABBERLOOP"
+      ],
+      "source": "https://music.163.com/song?id=76842",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "remix",
+      "status": "platform"
+    },
+    {
+      "id": "n61255",
+      "platformId": 61255,
+      "title": "十年 Feature(Feat. SoftLipa.Jnco)",
+      "aliases": [],
+      "albumId": "n5962",
+      "date": "2010-08-06",
+      "trackNumber": 10,
+      "duration": 307305,
+      "artistIds": [
+        "n1919",
+        "n187021",
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=61255",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76843",
+      "platformId": 76843,
+      "title": "Soft Lintro",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 1,
+      "duration": 88706,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76843",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76844",
+      "platformId": 76844,
+      "title": "少年维持着烦恼",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 2,
+      "duration": 329840,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76844",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76844",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76844",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76845",
+      "platformId": 76845,
+      "title": "新生活",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 3,
+      "duration": 94080,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76845",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76846",
+      "platformId": 76846,
+      "title": "后来的切片 之一",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 4,
+      "duration": 121866,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76846",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76847",
+      "platformId": 76847,
+      "title": "白天自由, 夜晚寂寞",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 5,
+      "duration": 183533,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76847",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76848",
+      "platformId": 76848,
+      "title": "夜聊 (你说, 我说) [feat. 李英宏]",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 6,
+      "duration": 309640,
+      "artistIds": [
+        "n2514",
+        "n12047599"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76848",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/李英宏",
+          "source": "https://music.163.com/song?id=76848",
+          "level": "track"
+        },
+        {
+          "personId": "n12047599",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/李英宏",
+          "source": "https://music.163.com/song?id=76848",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/李英宏"
+      ],
+      "source": "https://music.163.com/song?id=76848",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76849",
+      "platformId": 76849,
+      "title": "你还记得吗?",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 7,
+      "duration": 143266,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76849",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76851",
+      "platformId": 76851,
+      "title": "后来的切片 之二",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 8,
+      "duration": 201973,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76851",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76852",
+      "platformId": 76852,
+      "title": "偷偷 (feat. 阎韦伶)",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 9,
+      "duration": 248213,
+      "artistIds": [
+        "n2514",
+        "n10212"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76852",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/阎韦伶",
+          "source": "https://music.163.com/song?id=76852",
+          "level": "track"
+        },
+        {
+          "personId": "n10212",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/阎韦伶",
+          "source": "https://music.163.com/song?id=76852",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/阎韦伶"
+      ],
+      "source": "https://music.163.com/song?id=76852",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76853",
+      "platformId": 76853,
+      "title": "慢慢来",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 10,
+      "duration": 165866,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76853",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76854",
+      "platformId": 76854,
+      "title": "后来的切片 之三",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 11,
+      "duration": 153026,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76854",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76856",
+      "platformId": 76856,
+      "title": "Winter Morning Sounds",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 12,
+      "duration": 235666,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76856",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76858",
+      "platformId": 76858,
+      "title": "Winter Sweet",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 13,
+      "duration": 350000,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76858",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76858",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76858",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76860",
+      "platformId": 76860,
+      "title": "旅途愉快",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 14,
+      "duration": 201413,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76860",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76862",
+      "platformId": 76862,
+      "title": "再做一次好梦",
+      "aliases": [],
+      "albumId": "n7543",
+      "date": "2009-12-31",
+      "trackNumber": 15,
+      "duration": 198453,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76862",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76862",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76862",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76873",
+      "platformId": 76873,
+      "title": "关键字: Intro",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 1,
+      "duration": 114026,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76873",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76875",
+      "platformId": 76875,
+      "title": "Hit the Rhyme",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 2,
+      "duration": 300840,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76875",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/Delafat",
+          "source": "https://music.163.com/song?id=76875",
+          "level": "track"
+        },
+        {
+          "personId": "cZGVsYWZhdA",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡/Delafat",
+          "source": "https://music.163.com/song?id=76875",
+          "level": "track"
+        },
+        {
+          "personId": "cZGVsYWZhdA",
+          "role": "编曲",
+          "raw": "编曲 : Delafat",
+          "source": "https://music.163.com/song?id=76875",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "制作人",
+          "raw": "制作人 : 蛋堡",
+          "source": "https://music.163.com/song?id=76875",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡/Delafat",
+        "编曲 : Delafat",
+        "制作人 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76875",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76877",
+      "platformId": 76877,
+      "title": "嘶! Bamboo Holla",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 3,
+      "duration": 201960,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76877",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76877",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76877",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76879",
+      "platformId": 76879,
+      "title": "乡愁",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 4,
+      "duration": 272120,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76879",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76879",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76879",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76881",
+      "platformId": 76881,
+      "title": "关于小熊",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 5,
+      "duration": 316920,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "编曲",
+          "raw": "编曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76881",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76881",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76881",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "制作人",
+          "raw": "制作人 : 蛋堡",
+          "source": "https://music.163.com/song?id=76881",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "编曲",
+          "raw": "编曲：蛋堡",
+          "source": "https://music.163.com/song?id=76881",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 蛋堡",
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡",
+        "制作人 : 蛋堡",
+        "编曲：蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76881",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76883",
+      "platformId": 76883,
+      "title": "给你一个吻",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 6,
+      "duration": 99040,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76883",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76883",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76883",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76885",
+      "platformId": 76885,
+      "title": "遇见",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 7,
+      "duration": 233053,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76885",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76885",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76885",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76888",
+      "platformId": 76888,
+      "title": "Start It Underground",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 8,
+      "duration": 279933,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76888",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76888",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76888",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76891",
+      "platformId": 76891,
+      "title": "金赌兰",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 9,
+      "duration": 271053,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76891",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76891",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76891",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76894",
+      "platformId": 76894,
+      "title": "烟雾弥漫: 软嘴唇 (Remix)",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 10,
+      "duration": 240360,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76894",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76894",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76894",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "remix",
+      "status": "platform"
+    },
+    {
+      "id": "n76897",
+      "platformId": 76897,
+      "title": "热水澡",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 11,
+      "duration": 181600,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76897",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76897",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76897",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76899",
+      "platformId": 76899,
+      "title": "收敛水",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 12,
+      "duration": 237320,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76899",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76899",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76899",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76901",
+      "platformId": 76901,
+      "title": "SL Beat-137 (Outro)",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 13,
+      "duration": 84773,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76901",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76904",
+      "platformId": 76904,
+      "title": "烟雾弥漫 (Bonus Track)",
+      "aliases": [],
+      "albumId": "n7547",
+      "date": "2009-07-22",
+      "trackNumber": 14,
+      "duration": 244320,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=76904",
+          "level": "track"
+        },
+        {
+          "personId": "n2514",
+          "role": "作曲",
+          "raw": "作曲 : 蛋堡",
+          "source": "https://music.163.com/song?id=76904",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡",
+        "作曲 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=76904",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n76867",
+      "platformId": 76867,
+      "title": "打包",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 1,
+      "duration": 279910,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=76867",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343269",
+      "platformId": 29343269,
+      "title": "未曾改变",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 2,
+      "duration": 224313,
+      "artistIds": [
+        "n2514",
+        "n187021"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343269",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343270",
+      "platformId": 29343270,
+      "title": "你是我的梦想",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 3,
+      "duration": 274000,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [
+        {
+          "personId": "n2514",
+          "role": "作词",
+          "raw": "作词 : 蛋堡",
+          "source": "https://music.163.com/song?id=29343270",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 蛋堡"
+      ],
+      "source": "https://music.163.com/song?id=29343270",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343271",
+      "platformId": 29343271,
+      "title": "寻找",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 4,
+      "duration": 239647,
+      "artistIds": [
+        "n2514",
+        "n12948"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343271",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343273",
+      "platformId": 29343273,
+      "title": "纯正好货",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 6,
+      "duration": 301348,
+      "artistIds": [
+        "n2514",
+        "n1919",
+        "n187021"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343273",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343274",
+      "platformId": 29343274,
+      "title": "欲望",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 7,
+      "duration": 174915,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343274",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343275",
+      "platformId": 29343275,
+      "title": "雨没停过",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 8,
+      "duration": 177423,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343275",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343276",
+      "platformId": 29343276,
+      "title": "回到",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 9,
+      "duration": 326556,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343276",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n29343277",
+      "platformId": 29343277,
+      "title": "爱简单",
+      "aliases": [],
+      "albumId": "n7546",
+      "date": "2009-07-03",
+      "trackNumber": 10,
+      "duration": 290560,
+      "artistIds": [
+        "n2514"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=29343277",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1852213575",
+      "platformId": 1852213575,
+      "title": "手牵手2021",
+      "aliases": [],
+      "albumId": "unknown-n1852213575",
+      "date": "",
+      "trackNumber": 0,
+      "duration": 399229,
+      "artistIds": [
+        "n9548",
+        "n187229",
+        "n3700",
+        "n3684",
+        "n5379",
+        "n954154",
+        "n2514",
+        "n9611",
+        "n33012152",
+        "n9489",
+        "n9275"
+      ],
+      "credits": [
+        {
+          "personId": "c546L5Yqb5a6P",
+          "role": "作词",
+          "raw": "作词 : 王力宏/陶喆/陈镇川",
+          "source": "https://music.163.com/song?id=1852213575",
+          "level": "track"
+        },
+        {
+          "personId": "c6Zm25ZaG",
+          "role": "作词",
+          "raw": "作词 : 王力宏/陶喆/陈镇川",
+          "source": "https://music.163.com/song?id=1852213575",
+          "level": "track"
+        },
+        {
+          "personId": "c6ZmI6ZWH5bed",
+          "role": "作词",
+          "raw": "作词 : 王力宏/陶喆/陈镇川",
+          "source": "https://music.163.com/song?id=1852213575",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5Yqb5a6P",
+          "role": "作曲",
+          "raw": "作曲 : 王力宏/陶喆",
+          "source": "https://music.163.com/song?id=1852213575",
+          "level": "track"
+        },
+        {
+          "personId": "c6Zm25ZaG",
+          "role": "作曲",
+          "raw": "作曲 : 王力宏/陶喆",
+          "source": "https://music.163.com/song?id=1852213575",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 王力宏/陶喆/陈镇川",
+        "作曲 : 王力宏/陶喆"
+      ],
+      "source": "https://music.163.com/song?id=1852213575",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform",
+      "note": "平台返回的发行 ID 和发布日期为空，保留单曲记录；不把零时间戳解释为 1970 年发行。"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1178538439",
+      "title": "收斂水",
+      "date": "2009-07-05",
+      "trackCount": 14,
+      "artist": "蛋堡",
+      "source": "https://music.apple.com/cn/album/%E6%94%B6%E6%96%82%E6%B0%B4/1178538439?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/25/1b/d9251b28-53dd-9518-79e4-98b941e51cf0/4712862000017.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1600449325",
+      "title": "DEATH TRIP (feat. Soft Lipa) - Single",
+      "date": "2021-12-28",
+      "trackCount": 1,
+      "artist": "ØZI",
+      "source": "https://music.apple.com/cn/album/death-trip-feat-soft-lipa-single/1600449325?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/96/21/e0/9621e08b-3d25-3d9c-5172-a1b634c24441/193017053760.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1448339502",
+      "title": "你所不知道的杜振熙之內部整修",
+      "date": "2013-07-31",
+      "trackCount": 26,
+      "artist": "蛋堡",
+      "source": "https://music.apple.com/cn/album/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%9D%9C%E6%8C%AF%E7%86%99%E4%B9%8B%E5%85%A7%E9%83%A8%E6%95%B4%E4%BF%AE/1448339502?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/7e/a6/eb/7ea6ebb7-f738-1172-a1d6-36c7e5c9d73d/4710255644312.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1895815273",
+      "title": "放個假 - Single",
+      "date": "2012-07-06",
+      "trackCount": 2,
+      "artist": "蛋堡 & 黄玠",
+      "source": "https://music.apple.com/cn/album/%E6%94%BE%E5%80%8B%E5%81%87-single/1895815273?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/a7/27/3da727f2-e77c-8180-3032-a264d2e693d0/888003856035.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1069241103",
+      "title": "月光",
+      "date": "2010-10-08",
+      "trackCount": 11,
+      "artist": "蛋堡",
+      "source": "https://music.apple.com/cn/album/%E6%9C%88%E5%85%89/1069241103?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/06/98/e8/0698e837-7113-dd0e-0918-c39f5aa5575f/4712523870799.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a677031309",
+      "title": "踩.腳.踏.車",
+      "date": "2011-10-25",
+      "trackCount": 9,
+      "artist": "蛋堡",
+      "source": "https://music.apple.com/cn/album/%E8%B8%A9-%E8%85%B3-%E8%B8%8F-%E8%BB%8A/677031309?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d4/a9/7f/d4a97f6b-191a-cb16-4a0d-cff5e67a75c8/asset.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1172719989",
+      "title": "Winter Sweet",
+      "date": "2009-12-31",
+      "trackCount": 15,
+      "artist": "蛋堡",
+      "source": "https://music.apple.com/cn/album/winter-sweet/1172719989?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/40/e5/3a/40e53a4b-ffd5-89ff-4302-e4fdde891867/4712477450016.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1448338644",
+      "title": "Walk This Way - Single",
+      "date": "2013-08-23",
+      "trackCount": 1,
+      "artist": "MC HOTDOG, 蛋堡 & Miss Ko 葛仲珊",
+      "source": "https://music.apple.com/cn/album/walk-this-way-single/1448338644?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/97/33/45/97334550-baa5-5f15-e470-cc64c9da3307/4710255644329.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1650170787",
+      "title": "外面有點冷 (feat. 蛋堡) - Single",
+      "date": "2022-10-21",
+      "trackCount": 1,
+      "artist": "国蛋",
+      "source": "https://music.apple.com/cn/album/%E5%A4%96%E9%9D%A2%E6%9C%89%E9%BB%9E%E5%86%B7-feat-%E8%9B%8B%E5%A0%A1-single/1650170787?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/29/80/66/29806610-7914-8cf2-c73c-d38541ff8de4/4712862000499.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1818858777",
+      "title": "One Time - Single",
+      "date": "2022-03-04",
+      "trackCount": 1,
+      "artist": "蛋堡, Black MIC & Yappy",
+      "source": "https://music.apple.com/cn/album/one-time-single/1818858777?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/78/b5/8978b5e1-11a8-e617-ce89-6fe17113f427/4711232791470.png/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期、实体专享与经典作品",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 117 首歌曲记录。2020年金曲奖最佳国语专辑《家常音乐》因采用个人官网与实体专享发行模式，未上架常规流媒体平台公开主页；部分早期地下录音与合作单曲亦未列入公开分页，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=2514"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/403689551"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "网易云及 Apple Music 存在其他同名“蛋堡”或衍生账号，未经逐曲核查前保持隔离，不因拼写相同合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=2514"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/403689551"
+        }
+      ]
+    },
+    {
+      "title": "合辑与合作发行逐曲参与",
+      "year": "合作发行",
+      "status": "按逐曲参与收录",
+      "detail": "与葛仲珊、国蛋、李英宏、方大同、张震岳等合作单曲及合辑仅收录蛋堡明确逐曲参与的曲目，不把整张他人专辑算作个人作品。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=2514"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "蛋堡 / Soft Lipa / 杜振熙 姓名与别名",
+      "detail": "网易云主账号为“蛋堡”，官方别名为“Soft Lipa”，支持蛋堡、Soft Lipa、SoftLipa、杜振熙、任性的人搜索；Apple 官方主页为“蛋堡”(ID 403689551)，美区展示名为 Soft Lipa。",
+      "sources": [
+        "https://music.163.com/artist?id=2514",
+        "https://music.apple.com/cn/artist/403689551"
+      ]
+    },
+    {
+      "title": "个人核心项目与跨界合作",
+      "detail": "收录《打包》、《收敛水》、《Winter Sweet》、《月光》（与 JABBERLOOP 合作）、《踩.脚.踏.车》、《你所不知道的杜振熙之内部整修》6 个核心项目。",
+      "sources": [
+        "https://music.163.com/artist?id=2514"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 117 条平台记录包含录音室版、合作曲及伴奏，不等于独立原创作品总数；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=2514"
+      ]
+    }
+  ]
+}

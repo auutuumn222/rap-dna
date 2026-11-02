@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 2514,
+  "reportedTracks": 117,
+  "returnedTracks": 117,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 17,
+      "more": false
+    }
+  ],
+  "listedReleases": 13,
+  "associatedReleases": 38,
+  "explicitCredits": 2480,
+  "albumDetails": 476,
+  "appleCnReleases": 10,
+  "appleUsReleases": 12,
+  "appleSongRecords": 93,
+  "failures": []
+}

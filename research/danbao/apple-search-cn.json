@@ -1,0 +1,101 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "蛋堡",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%9B%8B%E5%A0%A1/403689551?uo=4",
+      "artistId": 403689551,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "方大同",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%96%B9%E5%A4%A7%E5%90%8C/201549024?uo=4",
+      "artistId": 201549024,
+      "amgArtistId": 1060800,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JENNIE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jennie/913944?uo=4",
+      "artistId": 913944,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SEVENTEEN",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/seventeen/999644772?uo=4",
+      "artistId": 999644772,
+      "amgArtistId": 3211326,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Dua Lipa",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dua-lipa/1031397873?uo=4",
+      "artistId": 1031397873,
+      "amgArtistId": 3128482,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Sam Smith",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sam-smith/156488786?uo=4",
+      "artistId": 156488786,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Camila Cabello",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/camila-cabello/935727853?uo=4",
+      "artistId": 935727853,
+      "amgArtistId": 3094960,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Calvin Harris",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/calvin-harris/201955086?uo=4",
+      "artistId": 201955086,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Mark Ronson",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mark-ronson/14400049?uo=4",
+      "artistId": 14400049,
+      "amgArtistId": 534790,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Martin Garrix",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/martin-garrix/430932944?uo=4",
+      "artistId": 430932944,
+      "amgArtistId": 2714537,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    }
+  ]
+}

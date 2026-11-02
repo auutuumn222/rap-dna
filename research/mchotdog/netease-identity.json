@@ -1,0 +1,168 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 6,
+    "hlWords": [
+      "MC HotDog"
+    ],
+    "artists": [
+      {
+        "id": 4479,
+        "name": "MC HotDog 热狗",
+        "picUrl": "https://p2.music.126.net/jrfo3gr6B8nXBzU5e6FetA==/109951169161437096.jpg",
+        "alias": [
+          "热狗",
+          "姚中仁",
+          "哈狗帮"
+        ],
+        "albumSize": 36,
+        "musicSize": 240,
+        "picId": 109951169161437090,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 659354,
+        "img1v1Url": "https://p2.music.126.net/5ViEXoj1xti2RzahxIMzZQ==/109951169161434274.jpg",
+        "accountId": 7817784451,
+        "img1v1": 109951169161434270,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 71,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "热狗",
+          "姚中仁",
+          "哈狗帮"
+        ],
+        "trans": null
+      },
+      {
+        "id": 7214,
+        "name": "蔡健雅",
+        "picUrl": "https://p2.music.126.net/xn8-WqOP6bATCd4awXEV6A==/109951169487516949.jpg",
+        "alias": [
+          "Tanya Chua"
+        ],
+        "albumSize": 39,
+        "musicSize": 586,
+        "picId": 109951169487516940,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 3955726,
+        "img1v1Url": "https://p2.music.126.net/Z0BJgIIvL4ELo7epACRX1g==/109951169487525151.jpg",
+        "accountId": 2287435,
+        "img1v1": 109951169487525150,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 130,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Tanya Chua"
+        ],
+        "trans": null
+      },
+      {
+        "id": 1132392,
+        "name": "马思唯",
+        "picUrl": "https://p2.music.126.net/bRHsTqcAX6mpZCylq_GIzQ==/109951170646726907.jpg",
+        "alias": [
+          "Masiwei"
+        ],
+        "albumSize": 43,
+        "musicSize": 318,
+        "picId": 109951170646726910,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 4438801,
+        "img1v1Url": "https://p2.music.126.net/WDPjjeAunxIC8DVGWjG6Lw==/109951170646736523.jpg",
+        "accountId": 6964899,
+        "img1v1": 109951170646736530,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 86,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Masiwei"
+        ],
+        "trans": null
+      },
+      {
+        "id": 6453,
+        "name": "张震岳",
+        "picUrl": "https://p2.music.126.net/Ac9FX01IRldHV999yt6BaQ==/109951170927213650.jpg",
+        "alias": [
+          "阿岳",
+          "Chang chen-yue"
+        ],
+        "albumSize": 30,
+        "musicSize": 375,
+        "picId": 109951170927213650,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1159235,
+        "img1v1Url": "https://p2.music.126.net/lZkH6tfmc9de2skBTfNNng==/109951170927210866.jpg",
+        "accountId": 5158334,
+        "img1v1": 109951170927210860,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 113,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "阿岳",
+          "Chang chen-yue"
+        ],
+        "trans": null
+      },
+      {
+        "id": 27868624,
+        "name": "KnowKnow",
+        "picUrl": "https://p2.music.126.net/ElneB1jqAX9vFeyf7Xb2-w==/109951169035741223.jpg",
+        "alias": [],
+        "albumSize": 40,
+        "musicSize": 336,
+        "picId": 109951169035741220,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1195802,
+        "img1v1Url": "https://p2.music.126.net/EI-opdeBAR11phjG14fwbg==/109951172883193186.jpg",
+        "accountId": 265841584,
+        "img1v1": 109951172883193180,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 69,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 1156315,
+        "name": "兄弟本色",
+        "picUrl": "https://p2.music.126.net/RydwSePosrzblVlGoumHZQ==/18538865557660692.jpg",
+        "alias": [
+          "G.U.T.S"
+        ],
+        "albumSize": 5,
+        "musicSize": 24,
+        "picId": 18538865557660692,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 40587,
+        "img1v1Url": "https://p2.music.126.net/_8FOapbjvtrsNw1NVGmaZA==/18765364952984699.jpg",
+        "img1v1": 18765364952984700,
+        "mvSize": 14,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "G.U.T.S"
+        ],
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

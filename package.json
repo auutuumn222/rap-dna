@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/lianma.test.mjs tests/pharaoh.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs tests/psyp.test.mjs tests/knowknow.test.mjs tests/cashtrippy.test.mjs tests/gai.test.mjs tests/gali.test.mjs tests/xiedi.test.mjs tests/wangyitai.test.mjs tests/topbarry.test.mjs tests/rapeter.test.mjs tests/tizzyt.test.mjs tests/keyl.test.mjs tests/watchme.test.mjs tests/jonyj.test.mjs tests/huayunlong.test.mjs tests/vinida.test.mjs tests/bobbynopeace.test.mjs tests/luoyan.test.mjs tests/lsgcsikoriot.test.mjs tests/daojiao.test.mjs tests/bridge.test.mjs",
+    "test": "node --test tests/catalog.test.mjs tests/masiwei.test.mjs tests/zhangfangzhao.test.mjs tests/sasioverlxrd.test.mjs tests/mulasakee.test.mjs tests/lianma.test.mjs tests/pharaoh.test.mjs tests/capper.test.mjs tests/thome.test.mjs tests/beibei.test.mjs tests/jinji.test.mjs tests/macovaseas.test.mjs tests/keyng.test.mjs tests/vansdaddy.test.mjs tests/psyp.test.mjs tests/knowknow.test.mjs tests/cashtrippy.test.mjs tests/gai.test.mjs tests/gali.test.mjs tests/xiedi.test.mjs tests/wangyitai.test.mjs tests/topbarry.test.mjs tests/rapeter.test.mjs tests/tizzyt.test.mjs tests/keyl.test.mjs tests/watchme.test.mjs tests/jonyj.test.mjs tests/huayunlong.test.mjs tests/vinida.test.mjs tests/bobbynopeace.test.mjs tests/luoyan.test.mjs tests/lsgcsikoriot.test.mjs tests/daojiao.test.mjs tests/bridge.test.mjs tests/kungfupen.test.mjs tests/melo.test.mjs tests/shengyu.test.mjs tests/danbao.test.mjs tests/mchotdog.test.mjs tests/wudu.test.mjs tests/kiv.test.mjs tests/danko.test.mjs tests/ar.test.mjs tests/pact.test.mjs",
     "test:browser": "node tests/asen-browser.mjs",
     "test:player": "node tests/player-browser.mjs",
     "test:masiwei": "node tests/masiwei-browser.mjs",
@@ -71,6 +71,22 @@
     "catalog:daojiao": "node scripts/build-daojiao.mjs",
     "test:daojiao": "node tests/daojiao-browser.mjs",
     "catalog:bridge": "node scripts/build-bridge.mjs",
-    "test:bridge": "node tests/bridge-browser.mjs"
+    "test:bridge": "node tests/bridge-browser.mjs",
+    "catalog:kungfupen": "node scripts/build-kungfupen.mjs",
+    "test:kungfupen": "node tests/kungfupen-browser.mjs",
+    "catalog:melo": "node scripts/build-melo.mjs",
+    "catalog:shengyu": "node scripts/build-shengyu.mjs",
+    "test:shengyu": "node tests/shengyu-browser.mjs",
+    "catalog:danbao": "node scripts/build-danbao.mjs",
+    "test:danbao": "node tests/danbao-browser.mjs",
+    "catalog:mchotdog": "node scripts/build-mchotdog.mjs",
+    "test:mchotdog": "node tests/mchotdog-browser.mjs",
+    "catalog:wudu": "node scripts/build-wudu.mjs",
+    "catalog:kiv": "node scripts/build-kiv.mjs",
+    "test:kiv": "node tests/kiv-browser.mjs",
+    "catalog:danko": "node scripts/build-danko.mjs",
+    "catalog:ar": "node scripts/build-ar.mjs",
+    "catalog:pact": "node scripts/build-pact.mjs",
+    "test:ar": "node tests/ar-browser.mjs"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "MC HotDog",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mc-hotdog/151611994?uo=4",
+      "artistId": 151611994,
+      "amgArtistId": 1019151,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "MC HotDog 热狗",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mc-hotdog-%E7%83%AD%E7%8B%97/1726894515?uo=4",
+      "artistId": 1726894515,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Pinkfong",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/pinkfong/1264976426?uo=4",
+      "artistId": 1264976426,
+      "amgArtistId": 3494382,
+      "primaryGenreName": "儿童音乐",
+      "primaryGenreId": 4
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "LMFAO",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lmfao/284482668?uo=4",
+      "artistId": 284482668,
+      "amgArtistId": 1107987,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lauren Bennett",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lauren-bennett/414714370?uo=4",
+      "artistId": 414714370,
+      "amgArtistId": 2287053,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    }
+  ]
+}

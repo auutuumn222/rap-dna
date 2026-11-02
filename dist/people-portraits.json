@@ -192,13 +192,12 @@
     },
     "n12529648": {
       "name": "KIV",
-      "catalogName": "KIV",
-      "aliases": [],
-      "image": "./assets/people/n12529648.jpg",
+      "image": "./assets/kiv-portrait.jpg",
       "source": "https://music.163.com/artist?id=12529648",
       "imageSource": "https://p2.music.126.net/L2IegKgopP9WLDpepkHQqA==/109951170020234818.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n51088331": {
       "name": "付思遥",
@@ -320,12 +319,16 @@
     "n29304235": {
       "name": "Melo",
       "catalogName": "Melo",
-      "aliases": [],
-      "image": "./assets/people/n29304235.jpg",
+      "aliases": [
+        "谢宇杰",
+        "MELO"
+      ],
+      "image": "./assets/melo-portrait.jpg",
       "source": "https://music.163.com/artist?id=29304235",
       "imageSource": "https://p2.music.126.net/XWX1ZKCTVt9y9mkoBwQMhg==/109951173446925721.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n12277473": {
       "name": "李大奔BENZO",
@@ -502,12 +505,19 @@
     "n12119618": {
       "name": "派克特（PACT）",
       "catalogName": "派克特（PACT）",
-      "aliases": [],
-      "image": "./assets/people/n12119618.jpg",
+      "aliases": [
+        "派克特",
+        "PACT",
+        "王瑀",
+        "PACT派克特",
+        "Pact"
+      ],
+      "image": "./assets/pact-portrait.jpg",
       "source": "https://music.163.com/artist?id=12119618",
-      "imageSource": "https://p1.music.126.net/SxsbX2OTJ4k5-7LJAdgbjg==/109951168995763263.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "imageSource": "https://p2.music.126.net/SxsbX2OTJ4k5-7LJAdgbjg==/109951168995763263.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n27910761": {
       "name": "Green Soldier",
@@ -879,13 +889,12 @@
     },
     "n35784564": {
       "name": "弹壳Danko",
-      "catalogName": "弹壳Danko",
-      "aliases": [],
-      "image": "./assets/people/n35784564.jpg",
+      "image": "./assets/danko-portrait.jpg",
       "source": "https://music.163.com/artist?id=35784564",
-      "imageSource": "https://p1.music.126.net/Gc4qmlH3l2olNuPH9xtwHA==/109951173028746722.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "imageSource": "https://p2.music.126.net/Gc4qmlH3l2olNuPH9xtwHA==/109951173028746722.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n1086078": {
       "name": "Ty.",
@@ -1118,17 +1127,12 @@
     },
     "n4479": {
       "name": "MC HotDog 热狗",
-      "catalogName": "MC HotDog 热狗",
-      "aliases": [
-        "热狗",
-        "姚中仁",
-        "哈狗帮"
-      ],
-      "image": "./assets/people/n4479.jpg",
+      "image": "./assets/mchotdog-portrait.jpg",
       "source": "https://music.163.com/artist?id=4479",
-      "imageSource": "https://p1.music.126.net/5ViEXoj1xti2RzahxIMzZQ==/109951169161434274.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "imageSource": "https://p2.music.126.net/5ViEXoj1xti2RzahxIMzZQ==/109951169161434274.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n12288442": {
       "name": "AnsrJ",
@@ -2117,34 +2121,12 @@
     },
     "n12002184": {
       "name": "AR刘夫阳",
-      "image": "./assets/people/n12002184.jpg",
+      "image": "./assets/ar-portrait.jpg",
       "source": "https://music.163.com/artist?id=12002184",
-      "imageSource": "https://p1.music.126.net/bgGGRnbZ1pj0AD640qRgog==/109951165525342459.jpg?param=300y300",
-      "platform": "netease",
-      "checkedAt": "2026-10-30",
-      "evidence": {
-        "method": "exact-platform-id",
-        "artistId": 12002184,
-        "works": [
-          {
-            "id": 2055024607,
-            "title": "直播带货"
-          },
-          {
-            "id": 2636250351,
-            "title": "大天才"
-          },
-          {
-            "id": 2638210629,
-            "title": "孩子，当你长大"
-          }
-        ],
-        "creditSources": [
-          "https://music.163.com/song?id=1912875128",
-          "https://music.163.com/song?id=2055024607",
-          "https://music.163.com/song?id=2635384543"
-        ]
-      }
+      "imageSource": "https://p2.music.126.net/bgGGRnbZ1pj0AD640qRgog==/109951165525342459.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n12001209": {
       "name": "SanJin",
@@ -5455,6 +5437,52 @@
       "source": "https://music.163.com/artist?id=12320060",
       "imageSource": "https://p2.music.126.net/2NkqRM-esPbSjYR0freJYg==/109951172165801367.jpg",
       "checkedAt": "2026-10-30",
+      "kind": "person",
+      "reused": true
+    },
+    "n12453329": {
+      "name": "功夫胖KUNGFU-PEN",
+      "image": "./assets/kungfupen-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12453329",
+      "imageSource": "https://p2.music.126.net/ANXf31eNT7NTmY4_OWesxQ==/109951172802605277.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n12605500": {
+      "name": "盛宇D-SHINE",
+      "image": "./assets/shengyu-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12605500",
+      "imageSource": "https://p1.music.126.net/SUz_YVh0pA9wWmM1CXgdqg==/109951170040821218.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n2514": {
+      "name": "蛋堡",
+      "image": "./assets/danbao-portrait.jpg",
+      "source": "https://music.163.com/artist?id=2514",
+      "imageSource": "https://p1.music.126.net/7hJaoKjkzsPzKz5vK4qW9g==/109951169249111436.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n12488150": {
+      "name": "雾都L4WUDU",
+      "catalogName": "雾都L4WUDU",
+      "aliases": [
+        "雾都",
+        "WUDU",
+        "L4WUDU",
+        "游宇童",
+        "WUDU MONTANA",
+        "霧都L4WUDU",
+        "L4Wudu"
+      ],
+      "image": "./assets/wudu-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12488150",
+      "imageSource": "https://p1.music.126.net/dtRQ0TyDlfCY-9ko8Rtrog==/109951166009032502.jpg",
+      "checkedAt": "2026-11-02",
       "kind": "person",
       "reused": true
     }

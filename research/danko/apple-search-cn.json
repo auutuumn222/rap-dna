@@ -1,0 +1,99 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "弹壳Danko",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%BC%B9%E5%A3%B3danko/1556605586?uo=4",
+      "artistId": 1556605586,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Danke",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/danke/65502305?uo=4",
+      "artistId": 65502305,
+      "amgArtistId": 2778985,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Vinz-T",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/vinz-t/1822236612?uo=4",
+      "artistId": 1822236612
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tones And I",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tones-and-i/1488123516?uo=4",
+      "artistId": 1488123516,
+      "amgArtistId": 3564658,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Sarah Connor",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sarah-connor/5237267?uo=4",
+      "artistId": 5237267,
+      "amgArtistId": 525165,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lucenzo",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lucenzo/258095253?uo=4",
+      "artistId": 258095253,
+      "amgArtistId": 2189701,
+      "primaryGenreName": "舞曲",
+      "primaryGenreId": 17
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "O'Bros",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/obros/1049850751?uo=4",
+      "artistId": 1049850751,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Ulf Leo Sommer",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/ulf-leo-sommer/21847438?uo=4",
+      "artistId": 21847438,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Simone Sommerland",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/simone-sommerland/397732566?uo=4",
+      "artistId": 397732566,
+      "amgArtistId": 2543173,
+      "primaryGenreName": "儿童音乐",
+      "primaryGenreId": 4
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "LEA",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lea/1060070791?uo=4",
+      "artistId": 1060070791,
+      "amgArtistId": 3177935,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    }
+  ]
+}

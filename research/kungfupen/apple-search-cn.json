@@ -1,0 +1,43 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Kungfu-Pen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8A%9F%E5%A4%AB%E8%83%96/1347778392?uo=4",
+      "artistId": 1347778392,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "功夫胖KungFuPen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8A%9F%E5%A4%AB%E8%83%96kungfupen/1696078031?uo=4",
+      "artistId": 1696078031,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Hans Zimmer",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B1%89%E6%96%AF-%E5%AD%A3%E9%BB%98/454295032?uo=4",
+      "artistId": 454295032,
+      "amgArtistId": 140996,
+      "primaryGenreName": "原声音乐",
+      "primaryGenreId": 16
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Cordae",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/cordae/1384072011?uo=4",
+      "artistId": 1384072011,
+      "amgArtistId": 3464373,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

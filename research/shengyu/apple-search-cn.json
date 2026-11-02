@@ -1,0 +1,96 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "盛宇",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%9B%9B%E5%AE%87/1699190695?uo=4",
+      "artistId": 1699190695,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "盛宇",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%9B%9B%E5%AE%87/1847248390?uo=4",
+      "artistId": 1847248390,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "蔡盛宇",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%94%A1%E7%9B%9B%E5%AE%87/1145516311?uo=4",
+      "artistId": 1145516311,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "胜屿",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%83%9C%E5%B1%BF/911419362?uo=4",
+      "artistId": 911419362,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Ding shengyu",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/ding-shengyu/1893222651?uo=4",
+      "artistId": 1893222651,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "圣裕",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%9C%A3%E8%A3%95/1835394420?uo=4",
+      "artistId": 1835394420,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "周杰倫",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743?uo=4",
+      "artistId": 300117743,
+      "amgArtistId": 761143,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "GAI",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gai/1522410451?uo=4",
+      "artistId": 1522410451,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "刘聪",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%88%98%E8%81%AA/1586357104?uo=4",
+      "artistId": 1586357104,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Kungfu-Pen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8A%9F%E5%A4%AB%E8%83%96/1347778392?uo=4",
+      "artistId": 1347778392,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    }
+  ]
+}

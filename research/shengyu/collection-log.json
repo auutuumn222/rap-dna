@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 12605500,
+  "reportedTracks": 166,
+  "returnedTracks": 166,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 66,
+      "more": false
+    }
+  ],
+  "listedReleases": 61,
+  "associatedReleases": 121,
+  "explicitCredits": 2404,
+  "albumDetails": 439,
+  "appleCnReleases": 18,
+  "appleUsReleases": 18,
+  "appleSongRecords": 56,
+  "failures": []
+}

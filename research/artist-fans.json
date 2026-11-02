@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "checkedAt": "2026-11-02",
   "timezone": "Asia/Shanghai",
-  "totalArtists": 34,
+  "totalArtists": 44,
   "artists": [
     {
       "key": "pharaoh",
@@ -145,6 +145,16 @@
       "status": "ok"
     },
     {
+      "key": "danbao",
+      "file": "catalog-danbao.json",
+      "id": "2514",
+      "name": "蛋堡",
+      "fullName": "蛋堡 Soft Lipa",
+      "fans": 1226858,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=2514",
+      "status": "ok"
+    },
+    {
       "key": "knowknow",
       "file": "catalog-knowknow.json",
       "id": "27868624",
@@ -215,6 +225,16 @@
       "status": "ok"
     },
     {
+      "key": "shengyu",
+      "file": "catalog-shengyu.json",
+      "id": "12605500",
+      "name": "盛宇",
+      "fullName": "盛宇D-SHINE",
+      "fans": 833127,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12605500",
+      "status": "ok"
+    },
+    {
       "key": "zhangfangzhao",
       "file": "catalog-zhangfangzhao.json",
       "id": "15194340",
@@ -235,6 +255,16 @@
       "status": "ok"
     },
     {
+      "key": "danko",
+      "file": "catalog-danko.json",
+      "id": "35784564",
+      "name": "弹壳",
+      "fullName": "弹壳Danko",
+      "fans": 745651,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=35784564",
+      "status": "ok"
+    },
+    {
       "key": "jinji",
       "file": "catalog-jinji.json",
       "id": "13451886",
@@ -245,6 +275,16 @@
       "status": "ok"
     },
     {
+      "key": "mchotdog",
+      "file": "catalog-mchotdog.json",
+      "id": "4479",
+      "name": "MC HotDog 热狗",
+      "fullName": "MC HotDog 热狗",
+      "fans": 659354,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=4479",
+      "status": "ok"
+    },
+    {
       "key": "watchme",
       "file": "catalog-watchme.json",
       "id": "12320060",
@@ -252,6 +292,16 @@
       "fullName": "王齐铭WatchMe",
       "fans": 636128,
       "source": "https://music.163.com/api/artist/follow/count/get?id=12320060",
+      "status": "ok"
+    },
+    {
+      "key": "kungfupen",
+      "file": "catalog-kungfupen.json",
+      "id": "12453329",
+      "name": "功夫胖",
+      "fullName": "功夫胖KUNGFU-PEN",
+      "fans": 604911,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12453329",
       "status": "ok"
     },
     {
@@ -305,6 +355,26 @@
       "status": "ok"
     },
     {
+      "key": "pact",
+      "file": "catalog-pact.json",
+      "id": "12119618",
+      "name": "派克特",
+      "fullName": "派克特（PACT）",
+      "fans": 373617,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12119618",
+      "status": "ok"
+    },
+    {
+      "key": "ar",
+      "file": "catalog-ar.json",
+      "id": "12002184",
+      "name": "AR刘夫阳",
+      "fullName": "AR刘夫阳",
+      "fans": 368960,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12002184",
+      "status": "ok"
+    },
+    {
       "key": "vansdaddy",
       "file": "catalog-vansdaddy.json",
       "id": "35009085",
@@ -312,6 +382,16 @@
       "fullName": "Vansdaddy",
       "fans": 340262,
       "source": "https://music.163.com/api/artist/follow/count/get?id=35009085",
+      "status": "ok"
+    },
+    {
+      "key": "melo",
+      "file": "catalog-melo.json",
+      "id": "29304235",
+      "name": "Melo",
+      "fullName": "Melo",
+      "fans": 321400,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=29304235",
       "status": "ok"
     },
     {
@@ -335,6 +415,16 @@
       "status": "ok"
     },
     {
+      "key": "kiv",
+      "file": "catalog-kiv.json",
+      "id": "12529648",
+      "name": "KIV",
+      "fullName": "KIV",
+      "fans": 198607,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12529648",
+      "status": "ok"
+    },
+    {
       "key": "lsgcsikoriot",
       "file": "catalog-lsgcsikoriot.json",
       "id": "33097968",
@@ -342,6 +432,16 @@
       "fullName": "LSGCsikoriot",
       "fans": 179448,
       "source": "https://music.163.com/api/artist/follow/count/get?id=33097968",
+      "status": "ok"
+    },
+    {
+      "key": "wudu",
+      "file": "catalog-wudu.json",
+      "id": "12488150",
+      "name": "雾都",
+      "fullName": "雾都L4WUDU",
+      "fans": 178687,
+      "source": "https://music.163.com/api/artist/follow/count/get?id=12488150",
       "status": "ok"
     }
   ]

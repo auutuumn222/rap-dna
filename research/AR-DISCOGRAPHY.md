@@ -1,0 +1,326 @@
+# AR刘夫阳 作品档案核查
+
+核查日期：2026-11-02（北京时间）。
+
+已读取网易云全部 281 条公开目录记录，涵盖《校园寓言故事》、《流行说唱》、《非流行说唱》、《phone project.》、《P.M.》、《phone project 2: G.O.A.T.》、《广东 Stand Up Vol.1 Mixtape》、《神曲.mp3》、《叉燒 GANG》、《餐盘里的汉尼拔》等 10 个核心项目。合作发行按逐曲署名收录，早期精气神作品历史全量仍待补证。
+
+网易云艺人 ID 12002184；Apple Music 艺人 ID 1459429029。57 项艺人页发行条目，82 个关联网易云发行容器；Apple 中国区 30 项发行对照；共 281 条平台歌曲记录，包含版本，不等于独立原创总数。
+
+[网易云官方主页](https://music.163.com/artist?id=12002184) · [Apple Music 官方主页](https://music.apple.com/cn/artist/1459429029)
+
+## 核心个人与联合项目
+
+|日期|发行|类别|平台总曲数|本人署名记录|来源|
+|---|---|---|---:|---:|---|
+|2019-01-11|校园寓言故事|个人项目|11|11|[来源](https://music.163.com/album?id=75122263)|
+|2019-11-30|流行说唱|个人项目|10|10|[来源](https://music.163.com/album?id=155705000)|
+|2020-05-29|非流行说唱|个人项目|15|15|[来源](https://music.163.com/album?id=89764408)|
+|2021-05-26|phone project.|个人项目|26|26|[来源](https://music.163.com/album?id=127871856)|
+|2021-11-17|P.M.|个人项目|12|12|[来源](https://music.163.com/album?id=136199503)|
+|2022-09-13|phone project 2: G.O.A.T.|个人项目|26|26|[来源](https://music.163.com/album?id=151450577)|
+|2024-01-10|广东 Stand Up Vol.1 Mixtape|团队/联合项目|21|21|[来源](https://music.163.com/album?id=182912740)|
+|2024-07-15|神曲.mp3|个人项目|10|10|[来源](https://music.163.com/album?id=195825317)|
+|2024-10-23|叉燒 GANG|团队/联合项目|21|21|[来源](https://music.163.com/album?id=251292609)|
+|2025-12-18|餐盘里的汉尼拔|个人项目|7|7|[来源](https://music.163.com/album?id=354734557)|
+
+## 差异与统计边界
+
+- **AR刘夫阳 / AR / 刘夫阳 姓名与别名**：网易云主账号为“AR刘夫阳”，支持 AR、刘夫阳、押韵狂魔、校长搜索；Apple 官方主页为“AR刘夫阳”(ID 1459429029)，美区展示名为 AR。
+- **个人核心项目与团队呈现**：收录《校园寓言故事》、《流行说唱》、《非流行说唱》、《phone project.》、《P.M.》、《phone project 2: G.O.A.T.》、《广东 Stand Up Vol.1 Mixtape》、《神曲.mp3》、《叉燒 GANG》、《餐盘里的汉尼拔》10 个核心全长项目。
+- **平台总量与伴奏录音**：收录的 281 条平台记录包含录音室版、伴奏版、Remix 及现场录音，平台发布日期按来源保留，不作为艺人出道或首次发行证明。
+
+## 待补资料与缺口
+
+- **早期精气神时期与下架作品**：当前公开分页已完整取得 281 首歌曲记录。早年精气神团队早期作品、部分Mixtape地下发行及由于版权或平台变动下架的曲目未包含在当前主账号公开分页中，保留待补证，不凭空伪造。 [官方网易云主页](https://music.163.com/artist?id=12002184) [Apple 音乐人页](https://music.apple.com/cn/artist/1459429029)
+- **多平台与同名账号隔离**：Apple Music 与网易云存在其他大写字母 AR 候选账号，未经逐曲核查前保持隔离，不因简短缩写相同合并。 [官方网易云主页](https://music.163.com/artist?id=12002184) [Apple 音乐人页](https://music.apple.com/cn/artist/1459429029)
+- **团队合辑与节目录制逐曲参与**：《中国好歌曲》、《广东 Stand Up》、《叉燒 GANG》等合辑或节目专辑仅收录 AR刘夫阳 明确逐曲参与的曲目。 [官方网易云主页](https://music.163.com/artist?id=12002184)
+
+## 全部收录歌曲记录
+
+|发行日期|歌曲|发行|平台共同署名|来源|
+|---|---|---|---|---|
+|2016-01-27|刷刷刷刷|中国好歌曲第三季 抢听曲|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=405599623)|
+|2016-01-29|刷刷刷刷 (Live)|中国好歌曲第三季 第一期|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=406037106)|
+|2016-03-11|Only you|中国好歌曲第三季 第七期|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=406347942)|
+|2016-03-25|I don't care|中国好歌曲第三季 第九期|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=408055475)|
+|2016-04-08|刷刷刷刷 (Live)|中国好歌曲第三季 总决赛|AR刘夫阳 / 温岚 / 范晓萱|[网易云音乐](https://music.163.com/song?id=1967699042)|
+|2016-07-02|Brand New Hits|Brand New Hits|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=419374826)|
+|2016-10-09|Real Rap Shit|失神者亡|精气神制作 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=434052706)|
+|2016-10-18|I Don't Care|第三季中国好歌曲导师大碟——范晓萱组|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=436046979)|
+|2016-10-18|OnlyYou|第三季中国好歌曲导师大碟——范晓萱组|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=436147591)|
+|2016-10-18|刷刷刷刷|第三季中国好歌曲导师大碟——范晓萱组|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=436046983)|
+|2017-06-27|零界点 (On fire) (feat.AR)|I|鹿晗 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=486837949)|
+|2017-07-28|Real Rap Shit Pt.2 (Lu Remix)|Real Rap **** Pt.2 (Lu Remix)|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=493713126)|
+|2017-09-20|时差 (AR Remix)|XXVII+|鹿晗 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=507364459)|
+|2017-11-23|耐心 (Patience Pt.2)|耐心 (Patience Pt.2)|AR刘夫阳 / 肥宝|[网易云音乐](https://music.163.com/song?id=520274146)|
+|2017-12-13|乱标价|乱标价|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=523951941)|
+|2018-01-22|消失的爱人(Used to Love H.E.R.)|消失的爱人(Used to Love H.E.R.)|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=532405678)|
+|2018-02-09|对号入座 FT. AR|对号入座 FT. AR|Cee / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=536570055)|
+|2018-02-18|狗年 Year Of the Dog|狗年 Year Of the Dog|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=539380175)|
+|2018-04-04|020|020|AR刘夫阳 / 瘦恒SoulHan / Clock J|[网易云音乐](https://music.163.com/song?id=550198956)|
+|2018-05-17|C位|C位|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=557581952)|
+|2018-06-20|020 Remix|020 Remix|AR刘夫阳 / Q.luv|[网易云音乐](https://music.163.com/song?id=574639897)|
+|2018-06-29|害臊|害臊|AR刘夫阳 / Q.luv|[网易云音乐](https://music.163.com/song?id=863514494)|
+|2018-07-06|粤语 Rap (Interlude)|粤语 Rap (Interlude)|AR刘夫阳 / 瘦恒SoulHan / ClockJ|[网易云音乐](https://music.163.com/song?id=864644278)|
+|2018-07-26|皇帝的新衣(Skr)|皇帝的新衣 (Skr)|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1296645941)|
+|2019-01-11|毕业典礼演讲|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338786897)|
+|2019-01-11|毕业照|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338789276)|
+|2019-01-11|押韵歌|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1319854361)|
+|2019-01-11|同龄人的代沟|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338789274)|
+|2019-01-11|Dangerous|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338789272)|
+|2019-01-11|Good Girl|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338789241)|
+|2019-01-11|校园寓言故事|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338786843)|
+|2019-01-11|ITM|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338789234)|
+|2019-01-11|学霸|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338786808)|
+|2019-01-11|开学典礼演讲|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1308631043)|
+|2019-01-11|All That|校园寓言故事|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1338786786)|
+|2019-03-21|押韵歌(All-Star Remix)|押韵歌(All-Star Remix)|AR刘夫阳 / Q.luv / Cee / 大笑 / Buzzy / Dough-Boy / 瘦恒SoulHan / 张千C.Jam / 深蓝儿童|[网易云音乐](https://music.163.com/song?id=1353236702)|
+|2019-05-19|椰林飘香 Freestyle|壹九|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1366115031)|
+|2019-07-31|乌合之众|第二个酒吧|直火帮 Straight Fire Gang / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1381368357)|
+|2019-08-06|Punchline No.1|Punchline No.1|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1382492177)|
+|2019-10-23|All That (Remix)|All That (Remix)|AR刘夫阳 / Mc光光 / 直火帮 Straight Fire Gang|[网易云音乐](https://music.163.com/song?id=1398237657)|
+|2019-11-30|自画像|流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2002726657)|
+|2019-11-30|Money|流行说唱|AR刘夫阳 / 艾热 AIR|[网易云音乐](https://music.163.com/song?id=2002726656)|
+|2019-11-30|合理怀疑|流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2002726655)|
+|2019-11-30|回家 Way Back|流行说唱|AR刘夫阳 / 盛宇D-SHINE|[网易云音乐](https://music.163.com/song?id=2002726654)|
+|2019-11-30|Trap 说话 (skit)|流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2002725744)|
+|2019-11-30|Pop Rap|流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2002726653)|
+|2019-11-30|长夜|流行说唱|AR刘夫阳 / Ice Paper|[网易云音乐](https://music.163.com/song?id=2002726652)|
+|2019-11-30|Forever Young|流行说唱|AR刘夫阳 / FOX胡天渝|[网易云音乐](https://music.163.com/song?id=2002725743)|
+|2019-11-30|日常练习|流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2002726651)|
+|2019-11-30|Intro|流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2002725742)|
+|2020-01-16|生命的交响|生来如此|FOX胡天渝 / 曹芙嘉 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1410798958)|
+|2020-01-27|希望|希望|AR刘夫阳 / Q.luv|[网易云音乐](https://music.163.com/song?id=1418906318)|
+|2020-02-12|The Box Remix|The Box Remix|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1422651894)|
+|2020-04-24|Heat Of The Night|Heat Of The Night|Sihan / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1443109511)|
+|2020-05-29|Always on the Road|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449876056)|
+|2020-05-29|House|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873567)|
+|2020-05-29|ABC (feat. Buzzy, Cee)|非流行说唱|AR刘夫阳 / Buzzy / Cee|[网易云音乐](https://music.163.com/song?id=1449876055)|
+|2020-05-29|粤 A 在北京|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873564)|
+|2020-05-29|模拟人生|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449876050)|
+|2020-05-29|寄生虫 (feat. 杨和苏KeyNG)|非流行说唱|AR刘夫阳 / 杨和苏KeyNG|[网易云音乐](https://music.163.com/song?id=1449876047)|
+|2020-05-29|嗯|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449876039)|
+|2020-05-29|选择 (feat. 余佳运)|非流行说唱|AR刘夫阳 / 余佳运|[网易云音乐](https://music.163.com/song?id=1449871980)|
+|2020-05-29|AnotheR|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873500)|
+|2020-05-29|我 Pt.2|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873498)|
+|2020-05-29|我|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873493)|
+|2020-05-29|一丢丢（feat. 法老）|非流行说唱|AR刘夫阳 / 法老|[网易云音乐](https://music.163.com/song?id=1449873414)|
+|2020-05-29|非流行说唱|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873488)|
+|2020-05-29|一丢丢（伴奏）|非流行说唱|AR刘夫阳 / 法老|[网易云音乐](https://music.163.com/song?id=1449871869)|
+|2020-05-29|？|非流行说唱|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1449873468)|
+|2020-07-08|给宋岳庭的信|给宋岳庭的信|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1460643095)|
+|2020-08-11|北野武|北野武|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1470156417)|
+|2020-09-08|这圈子是个trap|The Light In The Dark|Mc光光 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1477562583)|
+|2020-09-19|着火(Remix)|着火|AR刘夫阳 / 艾热 AIR|[网易云音乐](https://music.163.com/song?id=1480188842)|
+|2020-09-19|着火|着火|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1480189910)|
+|2020-09-28|向左向右 (feat.AR刘夫阳)|Han’s in the Air|瘦恒SoulHan / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1479279849)|
+|2020-10-21|辣吗?辣|辣吗?辣|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1488560699)|
+|2020-11-19|WAP Remix|WAP Remix|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1496538234)|
+|2021-03-15|空壳|Couple Hunnid Mixtape Vol.2|谢帝 / ljz329 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1827059566)|
+|2021-03-30|仅余权利2021（Ft.AR刘夫阳）|元神归位|肥宝 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1833610455)|
+|2021-05-26|广东 Stand Up (ft. Tizzy T, ODD陈思键, Yamy郭颖, 廖效浓, 徐真真, 瘦恒SoulHan, Vyan, 肥宝, 大雕Roc, JR Fog)|phone project.|AR刘夫阳 / TizzyT / ODD陈思键 / Yamy郭颖 / 廖效浓 / 徐真真 / 瘦恒SoulHan / Vyan / 肥宝 / 大雕Roc / JR Fog|[网易云音乐](https://music.163.com/song?id=1847534609)|
+|2021-05-26|广东 Stand Up (ft. Tizzy T, ODD陈思键, Yamy郭颖, 廖效浓, 徐真真, 瘦恒SoulHan, Vyan, 肥宝, 大雕Roc, JR Fog) (伴奏)|phone project.（伴奏）|AR刘夫阳 / TizzyT / ODD陈思键 / Yamy郭颖 / 廖效浓 / 徐真真 / 瘦恒SoulHan / Vyan / 肥宝 / 大雕Roc / JR Fog|[网易云音乐](https://music.163.com/song?id=1847537536)|
+|2021-05-26|For Mo' (Outro 伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1845989352)|
+|2021-05-26|For Mo' (Outro)|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1845989926)|
+|2021-05-26|不简单|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1844252209)|
+|2021-05-26|不简单（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1844252210)|
+|2021-05-26|简单 (ft. 孔令奇, Wes Chen)（伴奏）|phone project.（伴奏）|AR刘夫阳 / 孔令奇 / Wes Chen|[网易云音乐](https://music.163.com/song?id=1842547023)|
+|2021-05-26|简单 (ft. 孔令奇, Wes Chen)|phone project.|AR刘夫阳 / 孔令奇 / Wes Chen|[网易云音乐](https://music.163.com/song?id=1842549719)|
+|2021-05-26|一周一首的说唱歌手 (F’d Up)|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1840752015)|
+|2021-05-26|一周一首的说唱歌手 (F’d Up)（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1840752016)|
+|2021-05-26|YQ Interlude / 说唱从业规范守则 (ft. YoungQueenz)|phone project.|AR刘夫阳 / YoungQueenz|[网易云音乐](https://music.163.com/song?id=1838999268)|
+|2021-05-26|YQ Interlude : 说唱从业规范守则 (ft. YoungQueenz)（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1838999269)|
+|2021-05-26|二胡|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1837255429)|
+|2021-05-26|二胡 (伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1837255430)|
+|2021-05-26|No One（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1835621306)|
+|2021-05-26|No One|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1835624688)|
+|2021-05-26|RESPECT|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1832459359)|
+|2021-05-26|RESPECT（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1832464693)|
+|2021-05-26|94 Wu-Tang|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1832171932)|
+|2021-05-26|94 Wu-Tang（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1832171933)|
+|2021-05-26|Hustle 经济学 (伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1830174412)|
+|2021-05-26|Hustle 经济学|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1830176275)|
+|2021-05-26|Life's Beautiful|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1826199739)|
+|2021-05-26|Life's Beautiful (伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1826199740)|
+|2021-05-26|弹道 (伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1824478420)|
+|2021-05-26|弹道|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1824480118)|
+|2021-05-26|Fuxk Type Beat (伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1822761286)|
+|2021-05-26|Fuxk Type Beat|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1822764804)|
+|2021-05-26|悟空 Flow (ft. Ice Paper)|phone project.|AR刘夫阳 / Ice Paper|[网易云音乐](https://music.163.com/song?id=1820802170)|
+|2021-05-26|悟空 Flow (ft. Ice Paper) （伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1820802902)|
+|2021-05-26|十|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1819103976)|
+|2021-05-26|十（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1819103977)|
+|2021-05-26|南北淘金路 (ft. 瘦恒SoulHan)|phone project.|AR刘夫阳 / 瘦恒SoulHan|[网易云音乐](https://music.163.com/song?id=1817125668)|
+|2021-05-26|南北淘金路 (ft. 瘦恒SoulHan 伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1817125669)|
+|2021-05-26|Crazy World (伴奏)|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1814930255)|
+|2021-05-26|Crazy World|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1814932892)|
+|2021-05-26|扫盲 Freestyle|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1812856480)|
+|2021-05-26|扫盲 Freestyle（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1812856482)|
+|2021-05-26|SHUT UP|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1811456505)|
+|2021-05-26|SHUT UP（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1811460001)|
+|2021-05-26|哈里路亚|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1809332560)|
+|2021-05-26|哈里路亚（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1809332561)|
+|2021-05-26|Ego|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1807782912)|
+|2021-05-26|Ego（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1807784888)|
+|2021-05-26|Oh Baby|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1806354130)|
+|2021-05-26|Oh Baby（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1806354905)|
+|2021-05-26|星星会说话 (ft. Q.luv)|phone project.|AR刘夫阳 / Q.luv|[网易云音乐](https://music.163.com/song?id=1804380176)|
+|2021-05-26|星星会说话（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1804381995)|
+|2021-05-26|Rapstar|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1501247106)|
+|2021-05-26|Rapstar（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1501673429)|
+|2021-05-26|iPhone Freestyle|phone project.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1499310958)|
+|2021-05-26|iPhone Freestyle（伴奏）|phone project.（伴奏）|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1499310959)|
+|2021-06-25|Michael（Ft.AR刘夫阳）|MICHAEL|Q.luv / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1855761600)|
+|2021-07-05|GOD|荒诞故事|杨和苏KeyNG / AR刘夫阳 / 谢帝|[网易云音乐](https://music.163.com/song?id=1858696232)|
+|2021-07-07|毕业典礼演讲 Pt.2|毕业三部曲：phone project. 特别篇|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1859408324)|
+|2021-07-07|985废物|毕业三部曲：phone project. 特别篇|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1857546423)|
+|2021-07-07|毕业歌|毕业三部曲：phone project. 特别篇|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1855788035)|
+|2021-07-14|广东 Stand Up Remix (ft. 精气神Deeway, 万花筒CHOCKEY, 大D, KT, 艾斯猴子, LegoG, 灵山村帮爆G)|广东 Stand Up Remix (ft. 精气神Deeway, 万花筒CHOCKEY, 大D, KT, 艾斯猴子, LegoG, 灵山村帮爆G)|AR刘夫阳 / 精气神制作 / Deeway / 万花筒Artascope / 有三 / 大D(DLyn) / KT / 耶鸡音乐ChikenpestMusic / 艾斯猴子 / LegoG / 灵山村帮|[网易云音乐](https://music.163.com/song?id=1861119089)|
+|2021-08-13|叙-序 (Feat.AR刘夫阳)|星月物语Zodiac|NINEONE#乃万 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1867949653)|
+|2021-08-18|WE SMOKE WE DRINK/THEY DON‘T CARE|WE SMOKE WE DRINK/THEY DON’T CARE|阿克江Akin / yocho / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1870573361)|
+|2021-09-08|珠江夜游|phone project 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1876454703)|
+|2021-09-08|嘘|phone project 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1868562512)|
+|2021-09-08|Off Beat 哥们|phone project 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1870413663)|
+|2021-09-08|Alive|phone project 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1872721021)|
+|2021-09-08|David Foster|phone project 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1874632354)|
+|2021-09-08|写一首歌|phone project 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1876454702)|
+|2021-11-17|23:59 (Dreams)|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895457166)|
+|2021-11-17|22:17|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895455267)|
+|2021-11-17|21:21 (ft. YoungQueenz)|P.M.|AR刘夫阳 / YoungQueenz|[网易云音乐](https://music.163.com/song?id=1895457177)|
+|2021-11-17|20:30|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895455274)|
+|2021-11-17|19:36 (ft. 谢帝)|P.M.|AR刘夫阳 / 谢帝|[网易云音乐](https://music.163.com/song?id=1895457179)|
+|2021-11-17|18:00|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895457162)|
+|2021-11-17|17:33|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895457175)|
+|2021-11-17|16:05|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895455278)|
+|2021-11-17|15:07 (ft. 瘦恒 SoulHan)|P.M.|AR刘夫阳 / 瘦恒SoulHan|[网易云音乐](https://music.163.com/song?id=1895457149)|
+|2021-11-17|14:42|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895455279)|
+|2021-11-17|13:25|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895455272)|
+|2021-11-17|12:10 (Wake Up)|P.M.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1895455276)|
+|2022-01-21|三人行|上天注定|肥宝 / 王波 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1912642443)|
+|2022-01-25|蓝狮阿明|蓝狮阿明|新乐府 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1914684365)|
+|2022-02-15|贝多芬|流行说唱 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1923210030)|
+|2022-02-15|Lonely|流行说唱 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1920623044)|
+|2022-02-15|健身歌 (ft. 杨和苏KeyNG)|流行说唱 1.5|AR刘夫阳 / 杨和苏KeyNG|[网易云音乐](https://music.163.com/song?id=1912875128)|
+|2022-02-15|lalala|流行说唱 1.5|AR刘夫阳 / NINEONE#乃万|[网易云音乐](https://music.163.com/song?id=1908049318)|
+|2022-02-15|人生如戏|流行说唱 1.5|AR刘夫阳 / Q.luv / 阿克江Akin|[网易云音乐](https://music.163.com/song?id=1906294641)|
+|2022-02-15|#8个Bars挑战|流行说唱 1.5|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1903991864)|
+|2022-09-09|即兴(Cee Version)|即兴(Cee Version)|Cee / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1979715728)|
+|2022-09-13|Rebirth|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812026)|
+|2022-09-13|一个明星的诞生|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812025)|
+|2022-09-13|蓝调陷阱|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980813709)|
+|2022-09-13|Book Smart, Street Smart|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980813708)|
+|2022-09-13|I'll Be Back (南北淘金路 pt.2)|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812024)|
+|2022-09-13|MENU|phone project 2: G.O.A.T.|AR刘夫阳 / 芙蓉 / 有三 / KIV / 瘦恒SoulHan|[网易云音乐](https://music.163.com/song?id=1980813707)|
+|2022-09-13|Bodied|phone project 2: G.O.A.T.|AR刘夫阳 / 瘦恒SoulHan|[网易云音乐](https://music.163.com/song?id=1980813706)|
+|2022-09-13|灵魂乐|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812023)|
+|2022-09-13|当幸福来敲门|phone project 2: G.O.A.T.|AR刘夫阳 / Jony J|[网易云音乐](https://music.163.com/song?id=1980813705)|
+|2022-09-13|不得不|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812022)|
+|2022-09-13|020 Garage|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980813704)|
+|2022-09-13|松饼|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980813703)|
+|2022-09-13|Reconsider|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812021)|
+|2022-09-13|Feel Like G.O.A.T.|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812020)|
+|2022-09-13|Road to Greatness|phone project 2: G.O.A.T.|AR刘夫阳 / 肥宝 / Cee|[网易云音乐](https://music.163.com/song?id=1980812019)|
+|2022-09-13|即兴|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1976514435)|
+|2022-09-13|Tommy的回信|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812018)|
+|2022-09-13|Jimmy & Tommy|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812017)|
+|2022-09-13|FIGHT!!!|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980813702)|
+|2022-09-13|Gotta Run|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812016)|
+|2022-09-13|十三行|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812015)|
+|2022-09-13|热搜榜|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812014)|
+|2022-09-13|黑昼，白夜|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812013)|
+|2022-09-13|每当我梦见|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980813701)|
+|2022-09-13|5G|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1976514434)|
+|2022-09-13|Reset|phone project 2: G.O.A.T.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1980812012)|
+|2022-11-01|5G (Live版)|行星跳跃 说唱派对LIVE专辑|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1994172747)|
+|2022-11-01|Sade Freestyle|行星跳跃 说唱派对LIVE专辑|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=1994172746)|
+|2022-12-19|年度专辑 Freestyle|年度专辑 Freestyle|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2007375727)|
+|2023-06-13|做一个伴奏|"小"大于一切|Double Zhuo / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2051341828)|
+|2023-06-15|直播带货|直播带货|AR刘夫阳 / 法老|[网易云音乐](https://music.163.com/song?id=2055024607)|
+|2023-07-25|Blabbermouth|Revival|滇声气 / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2065550539)|
+|2023-07-29|Chines Underground HipHop All School Cypher 2023|Chines Underground HipHop All School Cypher 2023|王波 / AR刘夫阳 / 肥宝 / Keyso寿君超 / 贰万 / 滇声气大辉Daphe / 鱼头_killa4nia / KIGGA / 中俄艾迪AIDI RUSCHINO / 黄硕N-Bomb / 白路COIN / 天山摇摆客DyoSeLF / DropScience还魂散 / JahurrySun孙佳睿 / 派克特（PACT） / 此号作废 / Metro Clan / Riddim|[网易云音乐](https://music.163.com/song?id=2066701491)|
+|2023-08-02|一首给你治愈的Drill|一首给你治愈的Drill|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2069020272)|
+|2024-01-10|夜静思|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 噔哚 / 阿龙 / 肥宝|[网易云音乐](https://music.163.com/song?id=2116150041)|
+|2024-01-10|HomeComing|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2116150127)|
+|2024-01-10|72 家房客 Pt.2 (新血 Version)|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / Teddy@LOCOFAMILY / MC aRBOW / BadKidsClub / 卡顿黄 / Siri / KILLERT / KevinGee / CccJ / BANDIT262|[网易云音乐](https://music.163.com/song?id=2092538494)|
+|2024-01-10|陶街 (模拟人生 Pt.2)|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 瘦恒SoulHan / 肥宝 / Deeway|[网易云音乐](https://music.163.com/song?id=2116148263)|
+|2024-01-10|华强北 Remix / 三和 Rage|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 大雕Roc / JR Fog / 愚月FoolMoon|[网易云音乐](https://music.163.com/song?id=2096130987)|
+|2024-01-10|旧城故事|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / Teochew Clan|[网易云音乐](https://music.163.com/song?id=2116148111)|
+|2024-01-10|未满足 Freestyle|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2108259023)|
+|2024-01-10|九声六调|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 瘦恒SoulHan|[网易云音乐](https://music.163.com/song?id=2099939531)|
+|2024-01-10|72 家房客|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 瘦恒SoulHan / 愚月FoolMoon / Doggie / 肥宝 / Dough-Boy / Deeway / 芙蓉|[网易云音乐](https://music.163.com/song?id=2091668949)|
+|2024-01-10|北上|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 瘦恒SoulHan / 揽佬SKAI ISYOURGOD / Player J / 阿牛 / 步步高先生|[网易云音乐](https://music.163.com/song?id=2106055465)|
+|2024-01-10|020的守护神|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2111987274)|
+|2024-01-10|孙阳 Interlude|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 孙阳_Sunnysun|[网易云音乐](https://music.163.com/song?id=2116150111)|
+|2024-01-10|白天鹅宾馆|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / Deeway|[网易云音乐](https://music.163.com/song?id=2116149972)|
+|2024-01-10|边个|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 广东说唱王|[网易云音乐](https://music.163.com/song?id=2116150085)|
+|2024-01-10|Sound From 020|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2089113688)|
+|2024-01-10|72 家房客 (伴奏)|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 瘦恒SoulHan / 愚月FoolMoon / Doggie / 肥宝 / Dough-Boy / Deeway / 芙蓉|[网易云音乐](https://music.163.com/song?id=2093260430)|
+|2024-01-10|新客家 / Rep Your City|广东 Stand Up Vol.1 Mixtape|AR刘夫阳 / 揽佬SKAI ISYOURGOD|[网易云音乐](https://music.163.com/song?id=2116150075)|
+|2024-01-10|前文再续|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2089112893)|
+|2024-01-10|华强北|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2096131914)|
+|2024-01-10|数码时代 (Chapter 2 Intro)|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2116148212)|
+|2024-01-10|INTROduction|广东 Stand Up Vol.1 Mixtape|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2116149947)|
+|2024-07-15|老人与海.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2605969210)|
+|2024-07-15|大风吹.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2165518375)|
+|2024-07-15|秋天不回来.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2161965060)|
+|2024-07-15|如果我是DJ.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2160320088)|
+|2024-07-15|老鼠爱大米.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2155817057)|
+|2024-07-15|2002年的第一场雪.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2601560179)|
+|2024-07-15|香水有毒.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2604173718)|
+|2024-07-15|月亮之上.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2605966718)|
+|2024-07-15|最炫民族风.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2605966712)|
+|2024-07-15|我的滑板鞋.mp3|神曲.mp3|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2605966716)|
+|2024-08-20|大展鸿图|八方来财|揽佬SKAI ISYOURGOD / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2618710188)|
+|2024-10-14|Da South|Da South|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2635384543)|
+|2024-10-17|大天才|大天才|KnowKnow / AR刘夫阳 / 盛宇D-SHINE|[网易云音乐](https://music.163.com/song?id=2636250351)|
+|2024-10-23|孩子，当你长大|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210629)|
+|2024-10-23|叉烧乐园灯光秀 (Outro)|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210633)|
+|2024-10-23|写给我没红的歌|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214178)|
+|2024-10-23|Da South|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210628)|
+|2024-10-23|Don’t Stop Believin’|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214185)|
+|2024-10-23|Double Double|叉燒 GANG|KnowKnow / AR刘夫阳 / 王以太 / 艾热 AIR|[网易云音乐](https://music.163.com/song?id=2638210627)|
+|2024-10-23|On The Low|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210632)|
+|2024-10-23|珠光路的凌晨|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210626)|
+|2024-10-23|太古汇到太古里|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210631)|
+|2024-10-23|时间滑板|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210625)|
+|2024-10-23|DatRightThere!!!|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214184)|
+|2024-10-23|童年遥控器|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210624)|
+|2024-10-23|不用打折|叉燒 GANG|KnowKnow / AR刘夫阳 / 盛宇D-SHINE|[网易云音乐](https://music.163.com/song?id=2638214183)|
+|2024-10-23|Excuse Me 唔该|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210630)|
+|2024-10-23|世间始终叉烧 Gang 最好|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214177)|
+|2024-10-23|Holiday|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214176)|
+|2024-10-23|大天才|叉燒 GANG|KnowKnow / AR刘夫阳 / 盛宇D-SHINE|[网易云音乐](https://music.163.com/song?id=2638214181)|
+|2024-10-23|叉烧 GANG|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214175)|
+|2024-10-23|N.Word.Pass?|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214180)|
+|2024-10-23|叉烧乐园 (Intro)|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638210623)|
+|2024-10-23|叉烧组曲中段 (Interlude)|叉燒 GANG|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2638214179)|
+|2025-02-21|On The Low|2025說唱新势力|KnowKnow / AR刘夫阳|[网易云音乐](https://music.163.com/song?id=2704286208)|
+|2025-02-21|Double Double|2025說唱新势力|KnowKnow / AR刘夫阳 / 王以太 / 艾热 AIR|[网易云音乐](https://music.163.com/song?id=2704286205)|
+|2025-12-18|粤 A 在北京 Pt.2|餐盘里的汉尼拔|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3328923144)|
+|2025-12-18|体育西路地铁站|餐盘里的汉尼拔|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3328923143)|
+|2025-12-18|火车站的广场前|餐盘里的汉尼拔|AR刘夫阳 / 肥宝|[网易云音乐](https://music.163.com/song?id=3328923142)|
+|2025-12-18|985996211|餐盘里的汉尼拔|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3328921669)|
+|2025-12-18|假面舞会|餐盘里的汉尼拔|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3328921668)|
+|2025-12-18|人吃人的世界|餐盘里的汉尼拔|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3328921666)|
+|2025-12-18|汉尼拔|餐盘里的汉尼拔|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3328921665)|
+|2026-07-02|观察者 Freestyle|观察者 Freestyle|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3400287743)|
+|2026-09-09|betheflow. (伴奏)|betheflow.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3432333248)|
+|2026-09-09|betheflow.|betheflow.|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3432332631)|
+|2026-09-16|家人们谁懂啊 (伴奏)|家人们谁懂啊|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3436111629)|
+|2026-09-16|家人们谁懂啊|家人们谁懂啊|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3436110730)|
+|2026-09-23|深夜调频 (伴奏)|深夜调频|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3439157740)|
+|2026-09-23|深夜调频|深夜调频|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3439157739)|
+|2026-09-30|雨后珠江 City Walk 4K HDR (伴奏)|雨后珠江 City Walk 4K HDR|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3441805386)|
+|2026-09-30|雨后珠江 City Walk 4K HDR|雨后珠江 City Walk 4K HDR|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3441802775)|
+|2026-10-07|Y2K Love (伴奏)|Y2K Love|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3442226712)|
+|2026-10-07|Y2K Love|Y2K Love|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3442226711)|
+|2026-10-14|为了短视频 (伴奏)|为了短视频|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3447047566)|
+|2026-10-14|为了短视频|为了短视频|AR刘夫阳 / 揽佬SKAI ISYOURGOD|[网易云音乐](https://music.163.com/song?id=3447046711)|
+|2026-10-21|别混帮派 (伴奏)|别混帮派|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3450853072)|
+|2026-10-21|别混帮派|别混帮派|AR刘夫阳 / Player J|[网易云音乐](https://music.163.com/song?id=3450852677)|
+|2026-10-28|纸飞机 (伴奏)|纸飞机|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3453937724)|
+|2026-10-28|纸飞机|纸飞机|AR刘夫阳|[网易云音乐](https://music.163.com/song?id=3453937723)|
+
+## 采集与署名
+
+234 条收录记录取得明确署名字段。仅保留元数据与单曲署名，不保存歌词或音频。采集有 0 个请求失败，详见 research/ar/collection-log.json；未绕过平台限制。封面与肖像已缓存至 dist/assets，权利归相应权利人。

@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 12002184,
+  "reportedTracks": 281,
+  "returnedTracks": 281,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 200,
+      "count": 81,
+      "more": false
+    }
+  ],
+  "listedReleases": 57,
+  "associatedReleases": 82,
+  "explicitCredits": 2706,
+  "albumDetails": 554,
+  "appleCnReleases": 30,
+  "appleUsReleases": 32,
+  "appleSongRecords": 136,
+  "failures": []
+}

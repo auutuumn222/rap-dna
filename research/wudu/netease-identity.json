@@ -1,0 +1,123 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 5,
+    "hlWords": [
+      "雾都L4WUDU"
+    ],
+    "artists": [
+      {
+        "id": 12488150,
+        "name": "雾都L4WUDU",
+        "picUrl": "https://p2.music.126.net/dtRQ0TyDlfCY-9ko8Rtrog==/109951166009032502.jpg",
+        "alias": [],
+        "albumSize": 23,
+        "musicSize": 102,
+        "picId": 109951166009032500,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 178687,
+        "img1v1Url": "https://p2.music.126.net/aHW4oJkgxKkHQ4-7CR0vcg==/109951166009026727.jpg",
+        "accountId": 306660052,
+        "img1v1": 109951166009026720,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 6,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 14117457,
+        "name": "SASIOVERLXRD",
+        "picUrl": "https://p2.music.126.net/JJ6gBBBOfX4i00pwNMqZ_g==/109951165474404264.jpg",
+        "alias": [],
+        "albumSize": 25,
+        "musicSize": 244,
+        "picId": 109951165474404260,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1061654,
+        "img1v1Url": "https://p2.music.126.net/VSWNU8cLz6arkK6L2Dh3HA==/109951173348504450.jpg",
+        "accountId": 101586477,
+        "img1v1": 109951173348504450,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 4,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 33097968,
+        "name": "LSGCsikoriot",
+        "picUrl": "https://p2.music.126.net/RpbP04i9fQ3nDhlKBAmpDA==/109951165055716458.jpg",
+        "alias": [
+          "四口"
+        ],
+        "albumSize": 74,
+        "musicSize": 232,
+        "picId": 109951165055716460,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 179468,
+        "img1v1Url": "https://p2.music.126.net/gubm-zDHSIj4aZJwdqiNcQ==/109951171443067525.jpg",
+        "accountId": 1963804377,
+        "img1v1": 109951171443067520,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 10,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "四口"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12320060,
+        "name": "王齐铭WatchMe",
+        "picUrl": "https://p2.music.126.net/rVsG5YoYN5xPASaCCnzVqA==/109951164858747318.jpg",
+        "alias": [],
+        "albumSize": 42,
+        "musicSize": 181,
+        "picId": 109951164858747310,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 636190,
+        "img1v1Url": "https://p2.music.126.net/2NkqRM-esPbSjYR0freJYg==/109951172165801367.jpg",
+        "accountId": 419624345,
+        "img1v1": 109951172165801360,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 25,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12072073,
+        "name": "Gosh Music",
+        "picUrl": "https://p2.music.126.net/JoV5nEWCxmJ7GHwduxc3Gw==/109951163104153826.jpg",
+        "alias": [],
+        "albumSize": 4,
+        "musicSize": 180,
+        "picId": 109951163104153820,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 159517,
+        "img1v1Url": "https://p2.music.126.net/_Mv6nmc8S6O5mPZxnJrRGQ==/109951163104160083.jpg",
+        "accountId": 107664262,
+        "img1v1": 109951163104160080,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 23,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

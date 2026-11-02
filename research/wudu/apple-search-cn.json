@@ -1,0 +1,23 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "霧都L4WUDU",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%9B%BE%E9%83%BDl4wudu/1573916677?uo=4",
+      "artistId": 1573916677,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "雾都L4WUDU",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%9B%BE%E9%83%BDl4wudu/1718348803?uo=4",
+      "artistId": 1718348803,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    }
+  ]
+}

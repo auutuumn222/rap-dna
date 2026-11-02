@@ -1,0 +1,92 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KIV",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv/1463828929?uo=4",
+      "artistId": 1463828929,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KIV",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv/1819307969?uo=4",
+      "artistId": 1819307969
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KIV",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv/1819083166?uo=4",
+      "artistId": 1819083166,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KivΛ",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv%CE%BB/1108534791?uo=4",
+      "artistId": 1108534791,
+      "primaryGenreName": "电子音乐",
+      "primaryGenreId": 7
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Eric Kivnick",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/eric-kivnick/396713725?uo=4",
+      "artistId": 396713725,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KIVΛ",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv%CE%BB/1482747532?uo=4",
+      "artistId": 1482747532,
+      "primaryGenreName": "电子音乐",
+      "primaryGenreId": 7
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "THOME",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/thome/1811532140?uo=4",
+      "artistId": 1811532140,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "DJ KIV",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dj-kiv/1159038637?uo=4",
+      "artistId": 1159038637,
+      "primaryGenreName": "迷幻舞曲",
+      "primaryGenreId": 1051
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "kiv",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv/1881446147?uo=4",
+      "artistId": 1881446147
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "YNW Melly",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/ynw-melly/1294478827?uo=4",
+      "artistId": 1294478827,
+      "amgArtistId": 3436639,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

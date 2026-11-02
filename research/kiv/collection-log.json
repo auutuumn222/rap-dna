@@ -1,0 +1,122 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 12529648,
+  "reportedTracks": 91,
+  "returnedTracks": 91,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 91,
+      "more": false
+    }
+  ],
+  "listedReleases": 22,
+  "associatedReleases": 54,
+  "explicitCredits": 6066,
+  "albumDetails": 1303,
+  "appleCnReleases": 7,
+  "appleUsReleases": 9,
+  "appleSongRecords": 4,
+  "failures": [
+    {
+      "item": 360125463,
+      "error": "API -462"
+    },
+    {
+      "item": 406112381,
+      "error": "API -462"
+    },
+    {
+      "item": 275935380,
+      "error": "API -462"
+    },
+    {
+      "item": 273487736,
+      "error": "API -462"
+    },
+    {
+      "item": 267210312,
+      "error": "API -462"
+    },
+    {
+      "item": 256810762,
+      "error": "API -462"
+    },
+    {
+      "item": 255917378,
+      "error": "API -462"
+    },
+    {
+      "item": 165848011,
+      "error": "API -462"
+    },
+    {
+      "item": 150546317,
+      "error": "API -462"
+    },
+    {
+      "item": 147042559,
+      "error": "API -462"
+    },
+    {
+      "item": 85659564,
+      "error": "API -462"
+    },
+    {
+      "item": 73386568,
+      "error": "API -462"
+    },
+    {
+      "item": 378165478,
+      "error": "API -462"
+    },
+    {
+      "item": 371925844,
+      "error": "API -462"
+    },
+    {
+      "item": 275305641,
+      "error": "API -462"
+    },
+    {
+      "item": 265441491,
+      "error": "API -462"
+    },
+    {
+      "item": 263622289,
+      "error": "API -462"
+    },
+    {
+      "item": 181309265,
+      "error": "API -462"
+    },
+    {
+      "item": 131937255,
+      "error": "API -462"
+    },
+    {
+      "item": 94075403,
+      "error": "API -462"
+    },
+    {
+      "item": 90063438,
+      "error": "API -462"
+    },
+    {
+      "item": 79687569,
+      "error": "API -462"
+    },
+    {
+      "item": 83575924,
+      "error": "API -462"
+    },
+    {
+      "item": 75350575,
+      "error": "API -462"
+    },
+    {
+      "item": 79385972,
+      "error": "API -462"
+    }
+  ]
+}

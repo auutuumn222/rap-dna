@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 35784564,
+  "reportedTracks": 139,
+  "returnedTracks": 139,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 39,
+      "more": false
+    }
+  ],
+  "listedReleases": 43,
+  "associatedReleases": 92,
+  "explicitCredits": 5709,
+  "albumDetails": 1241,
+  "appleCnReleases": 29,
+  "appleUsReleases": 29,
+  "appleSongRecords": 61,
+  "failures": []
+}

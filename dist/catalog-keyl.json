@@ -1,16 +1,15 @@
 {
   "schemaVersion": 2,
-  "checkedAt": "2026-10-31",
+  "checkedAt": "2026-10-30",
   "artist": {
     "id": "n12788674",
     "name": "KEY.L刘聪",
-    "short": "刘聪",
+    "short": "KEY.L刘聪",
     "aliases": [
       "KEY.L刘聪",
-      "KEY.L",
-      "Key.L",
+      "KEY.L劉聰",
       "刘聪",
-      "劉聰"
+      "刘聪KEY.L"
     ],
     "portrait": "./assets/keyl-portrait.jpg",
     "portraitSource": "https://p1.music.126.net/l9wMo8vk2k3gOaN1zA3yLQ==/109951169838626318.jpg",
@@ -21,54 +20,36 @@
       },
       {
         "label": "Apple Music",
-        "url": "https://music.apple.com/cn/artist/1586357104"
+        "url": "https://music.apple.com/cn/artist/key-l%E5%88%98%E8%81%AA/1640856786?uo=4"
       }
     ]
   },
   "coverage": {
-    "neteaseReported": 143,
-    "neteaseCollected": 143,
+    "neteaseReported": 142,
+    "neteaseCollected": 142,
     "neteaseHasMore": false,
-    "listedReleases": 54,
-    "associatedNeteaseReleases": 90,
-    "appleComparedReleases": 7,
+    "listedReleases": 53,
+    "associatedNeteaseReleases": 89,
+    "appleComparedReleases": 0,
     "appleExtraTracks": 0,
     "coreAlbums": 3,
     "from": "2017-03-15",
-    "through": "2026-10-31",
+    "through": "2025-11-03",
     "historicallyComplete": false,
-    "description": "已读取网易云全部 143 条公开记录；合作发行按本人逐曲署名收录，Apple 发行作版本对照，历史全量待核。"
+    "description": "网易云歌曲接口报告 142 条并完整返回 142 条。按逐曲艺人署名记录，专辑/合辑不自动视为全员参与；作品历史范围不宣称完整。"
   },
   "people": [
     {
-      "id": "n12024274",
-      "name": "KAFE.HU胡懿",
+      "id": "n1124093",
+      "name": "西奥Sio",
       "kind": "person",
-      "source": "https://music.163.com/artist?id=12024274"
-    },
-    {
-      "id": "n14018235",
-      "name": "黄之仪Kyra Zilver",
-      "kind": "person",
-      "source": "https://music.163.com/artist?id=14018235"
+      "source": "https://music.163.com/artist?id=1124093"
     },
     {
       "id": "n12788674",
       "name": "KEY.L刘聪",
       "kind": "person",
       "source": "https://music.163.com/artist?id=12788674"
-    },
-    {
-      "id": "n12453329",
-      "name": "功夫胖KUNGFU-PEN",
-      "kind": "person",
-      "source": "https://music.163.com/artist?id=12453329"
-    },
-    {
-      "id": "n1124093",
-      "name": "西奥Sio",
-      "kind": "person",
-      "source": "https://music.163.com/artist?id=1124093"
     },
     {
       "id": "n12127712",
@@ -81,6 +62,12 @@
       "name": "哥哥妹妹",
       "kind": "person",
       "source": "https://music.163.com/artist?id=11952"
+    },
+    {
+      "id": "n12453329",
+      "name": "功夫胖KUNGFU-PEN",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12453329"
     },
     {
       "id": "n1211046",
@@ -383,6 +370,12 @@
       "source": "https://music.163.com/artist?id=865007"
     },
     {
+      "id": "n12024274",
+      "name": "KAFE.HU胡懿",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12024274"
+    },
+    {
       "id": "n12785088",
       "name": "网易音乐人",
       "kind": "person",
@@ -549,36 +542,6 @@
       "name": "派克特（PACT）",
       "kind": "person",
       "source": "https://music.163.com/artist?id=12119618"
-    },
-    {
-      "id": "cYWljaGVu",
-      "name": "AiChen",
-      "kind": "credit",
-      "source": null
-    },
-    {
-      "id": "c6Zi_5aeG5pav54m55pyX",
-      "name": "阿姆斯特朗",
-      "kind": "credit",
-      "source": null
-    },
-    {
-      "id": "c5YWo55u45b2mKGplb24",
-      "name": "全相彦(Jeon",
-      "kind": "credit",
-      "source": null
-    },
-    {
-      "id": "cc2FuZ2V1bik",
-      "name": "Sangeun)",
-      "kind": "credit",
-      "source": null
-    },
-    {
-      "id": "cY3lydXM",
-      "name": "CYrus",
-      "kind": "credit",
-      "source": null
     },
     {
       "id": "c6ZmI5b-g5LmJ",
@@ -853,12 +816,6 @@
     {
       "id": "ccmlja3nnkZ7lpYc",
       "name": "Ricky瑞奇",
-      "kind": "credit",
-      "source": null
-    },
-    {
-      "id": "ca2V5Lmw",
-      "name": "KEY.L",
       "kind": "credit",
       "source": null
     },
@@ -1151,6 +1108,12 @@
       "source": null
     },
     {
+      "id": "cYWljaGVu",
+      "name": "AiChen",
+      "kind": "credit",
+      "source": null
+    },
+    {
       "id": "c6ZmI5Luk6Z-s",
       "name": "陈令韬",
       "kind": "credit",
@@ -1321,32 +1284,6 @@
   ],
   "albums": [
     {
-      "id": "n406728119",
-      "title": "永恒少年",
-      "date": "2026-10-31",
-      "type": "Single",
-      "edition": "录音室版",
-      "totalTracks": 1,
-      "artistNames": [
-        "KAFE.HU胡懿",
-        "黄之仪Kyra Zilver",
-        "KEY.L刘聪",
-        "功夫胖KUNGFU-PEN"
-      ],
-      "label": "1520Vandal Music",
-      "artwork": "./assets/album-406728119.jpg",
-      "artworkSource": "https://p2.music.126.net/4civ6x3ct9aa4q3xpjfekg==/109951174189886051.jpg",
-      "source": "https://music.163.com/album?id=406728119",
-      "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
-      "core": false,
-      "chapter": "合作项目",
-      "trackIds": [
-        "n3455163809"
-      ],
-      "listedOnArtist": true
-    },
-    {
       "id": "n348740294",
       "title": "七印杀",
       "date": "2025-11-03",
@@ -1361,7 +1298,7 @@
       "artworkSource": "https://p1.music.126.net/1jSMfJ1O8sQsijQ7H27CKg==/109951172218465749.jpg",
       "source": "https://music.163.com/album?id=348740294",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1385,9 +1322,9 @@
       "artworkSource": "https://p2.music.126.net/CdElLe14tgz5IMWCU5bcHQ==/109951171495477716.jpg",
       "source": "https://music.163.com/album?id=278577177",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2726563109"
       ],
@@ -1411,9 +1348,9 @@
       "artworkSource": "https://p2.music.126.net/_aAi9WloeOAgOx96pmwIZQ==/109951171415121736.jpg",
       "source": "https://music.163.com/album?id=274706820",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2713977625",
         "n2713977624",
@@ -1445,7 +1382,7 @@
       "artworkSource": "https://p2.music.126.net/rh5oAjHCpAWgpNRLhJWhew==/109951170717990055.jpg",
       "source": "https://music.163.com/album?id=268868478",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1466,12 +1403,12 @@
       ],
       "label": "索尼音乐",
       "artwork": "./assets/album-259642649.jpg",
-      "artworkSource": "https://p1.music.126.net/6w3i5b-O4yo94KLu8ezloA==/109951170376647151.jpg",
+      "artworkSource": "https://p2.music.126.net/6w3i5b-O4yo94KLu8ezloA==/109951170376647151.jpg",
       "source": "https://music.163.com/album?id=259642649",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2665886120"
       ],
@@ -1493,9 +1430,9 @@
       "artworkSource": "https://p2.music.126.net/s-olUSa2vk80dXr_30ZVNg==/109951170303451167.jpg",
       "source": "https://music.163.com/album?id=257830438",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2659654589"
       ],
@@ -1518,12 +1455,12 @@
       ],
       "label": "SUP MUSIC",
       "artwork": "./assets/album-249293400.jpg",
-      "artworkSource": "https://p2.music.126.net/esYBeA3xche-yJWFrJ4ciw==/109951170043336739.jpg",
+      "artworkSource": "https://p1.music.126.net/esYBeA3xche-yJWFrJ4ciw==/109951170043336739.jpg",
       "source": "https://music.163.com/album?id=249293400",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2631925209",
         "n2631923684"
@@ -1542,10 +1479,10 @@
       ],
       "label": "种梦音乐",
       "artwork": "./assets/album-240274929.jpg",
-      "artworkSource": "https://p1.music.126.net/Xf7g6Q9FUJ0IowHLduGWvg==/109951169721286296.jpg",
+      "artworkSource": "https://p2.music.126.net/Xf7g6Q9FUJ0IowHLduGWvg==/109951169721286296.jpg",
       "source": "https://music.163.com/album?id=240274929",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1568,7 +1505,7 @@
       "artworkSource": "https://p2.music.126.net/UoSEJ4_7eKXv5DZsvIqQ4w==/109951169608220877.jpg",
       "source": "https://music.163.com/album?id=196258994",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1588,10 +1525,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-189968868.jpg",
-      "artworkSource": "https://p1.music.126.net/-0KZ-lHqATz-R_LgMmsdxQ==/109951169484139288.jpg",
+      "artworkSource": "https://p2.music.126.net/-0KZ-lHqATz-R_LgMmsdxQ==/109951169484139288.jpg",
       "source": "https://music.163.com/album?id=189968868",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1614,12 +1551,12 @@
       ],
       "label": null,
       "artwork": "./assets/album-183087681.jpg",
-      "artworkSource": "https://p2.music.126.net/lNijwEMtnosPZQoUTSAfrQ==/109951169259262714.jpg",
+      "artworkSource": "https://p1.music.126.net/lNijwEMtnosPZQoUTSAfrQ==/109951169259262714.jpg",
       "source": "https://music.163.com/album?id=183087681",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2116798541"
       ],
@@ -1641,9 +1578,9 @@
       "artworkSource": "https://p2.music.126.net/2FwP19FHMOm-AYM90vWxSA==/109951169196896916.jpg",
       "source": "https://music.163.com/album?id=181640668",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2110777947"
       ],
@@ -1666,9 +1603,9 @@
       "artworkSource": "https://p2.music.126.net/i3xST4Wuwu0HRgLlKBntDA==/109951169069857398.jpg",
       "source": "https://music.163.com/album?id=179266029",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2100624065"
       ],
@@ -1686,10 +1623,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-179265360.jpg",
-      "artworkSource": "https://p2.music.126.net/FrumdhABUrgzU9Nxr5Mv0w==/109951169063749590.jpg",
+      "artworkSource": "https://p1.music.126.net/FrumdhABUrgzU9Nxr5Mv0w==/109951169063749590.jpg",
       "source": "https://music.163.com/album?id=179265360",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1712,7 +1649,7 @@
       "artworkSource": "https://p2.music.126.net/Z-p5v52fbVIG0BE7ZsYC8g==/109951168834821680.jpg",
       "source": "https://music.163.com/album?id=172054725",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": true,
       "chapter": "个人项目",
       "trackIds": [
@@ -1756,9 +1693,9 @@
       "artworkSource": "https://p2.music.126.net/jI_CVaKbzT1W7XI_hxKrRg==/109951168571535838.jpg",
       "source": "https://music.163.com/album?id=164464029",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2042583512"
       ],
@@ -1783,9 +1720,9 @@
       "artworkSource": "https://p2.music.126.net/AWwd5SB1oCJympi9d3lPOQ==/109951169092398084.jpg",
       "source": "https://music.163.com/album?id=160396168",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2023954106"
       ],
@@ -1807,9 +1744,9 @@
       "artworkSource": "https://p2.music.126.net/ebkP2YczFbH4ILASAyKqyg==/109951168299094272.jpg",
       "source": "https://music.163.com/album?id=159831321",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n2021363719"
       ],
@@ -1830,7 +1767,7 @@
       "artworkSource": "https://p2.music.126.net/_7Us7haaQUMMbIA9cAq9qw==/109951168171492553.jpg",
       "source": "https://music.163.com/album?id=157096514",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1850,10 +1787,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-151387777.jpg",
-      "artworkSource": "https://p1.music.126.net/afasI3UOTaJ2Xv6Esj3-Lw==/109951167865802615.jpg",
+      "artworkSource": "https://p2.music.126.net/afasI3UOTaJ2Xv6Esj3-Lw==/109951167865802615.jpg",
       "source": "https://music.163.com/album?id=151387777",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1873,10 +1810,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-151300431.jpg",
-      "artworkSource": "https://p2.music.126.net/H-4ybs8j5Kqu3lAQLr5t_A==/109951167861143715.jpg",
+      "artworkSource": "https://p1.music.126.net/H-4ybs8j5Kqu3lAQLr5t_A==/109951167861143715.jpg",
       "source": "https://music.163.com/album?id=151300431",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1900,9 +1837,9 @@
       "artworkSource": "https://p2.music.126.net/hiFWudnAvJd9VXiOFB_yeg==/109951167850852270.jpg",
       "source": "https://music.163.com/album?id=151068651",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1978963059"
       ],
@@ -1920,10 +1857,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-150943750.jpg",
-      "artworkSource": "https://p2.music.126.net/NtCQN6ZRNzcaFagcJDzQig==/109951167841990789.jpg",
+      "artworkSource": "https://p1.music.126.net/NtCQN6ZRNzcaFagcJDzQig==/109951167841990789.jpg",
       "source": "https://music.163.com/album?id=150943750",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1947,7 +1884,7 @@
       "artworkSource": "https://p1.music.126.net/bfzLr5KwPXmQry8Q30qPcw==/109951167840556929.jpg",
       "source": "https://music.163.com/album?id=150895378",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1967,10 +1904,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-150434119.jpg",
-      "artworkSource": "https://p1.music.126.net/coLFZLjJ1RLCXyI44BQKZg==/109951167819228414.jpg",
+      "artworkSource": "https://p2.music.126.net/coLFZLjJ1RLCXyI44BQKZg==/109951167819228414.jpg",
       "source": "https://music.163.com/album?id=150434119",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -1990,10 +1927,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-150019064.jpg",
-      "artworkSource": "https://p1.music.126.net/crKNUUNZOpqOQWzeGn94EA==/109951167797488296.jpg",
+      "artworkSource": "https://p2.music.126.net/crKNUUNZOpqOQWzeGn94EA==/109951167797488296.jpg",
       "source": "https://music.163.com/album?id=150019064",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2013,10 +1950,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-149268133.jpg",
-      "artworkSource": "https://p1.music.126.net/fou6lBW5Bies-rDIlWBxjw==/109951167751155303.jpg",
+      "artworkSource": "https://p2.music.126.net/fou6lBW5Bies-rDIlWBxjw==/109951167751155303.jpg",
       "source": "https://music.163.com/album?id=149268133",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2036,10 +1973,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-148901685.jpg",
-      "artworkSource": "https://p1.music.126.net/ah33d2gO-ME12q0Y_iBpIQ==/109951167729449555.jpg",
+      "artworkSource": "https://p2.music.126.net/ah33d2gO-ME12q0Y_iBpIQ==/109951167729449555.jpg",
       "source": "https://music.163.com/album?id=148901685",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2062,7 +1999,7 @@
       "artworkSource": "https://p2.music.126.net/2zPVcwqXizlU2X4f1YDxjw==/109951167721279931.jpg",
       "source": "https://music.163.com/album?id=148756782",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2082,10 +2019,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-148191532.jpg",
-      "artworkSource": "https://p1.music.126.net/CbNBpIJ2FTXDWwbrJUIGkg==/109951167678761254.jpg",
+      "artworkSource": "https://p2.music.126.net/CbNBpIJ2FTXDWwbrJUIGkg==/109951167678761254.jpg",
       "source": "https://music.163.com/album?id=148191532",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2105,10 +2042,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-147820753.jpg",
-      "artworkSource": "https://p1.music.126.net/ySbtqoWlCm_7yyhd-qybYA==/109951167643229897.jpg",
+      "artworkSource": "https://p2.music.126.net/ySbtqoWlCm_7yyhd-qybYA==/109951167643229897.jpg",
       "source": "https://music.163.com/album?id=147820753",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2131,7 +2068,7 @@
       "artworkSource": "https://p2.music.126.net/iVhmk4XU77Vl5k92EyLiCg==/109951167588379188.jpg",
       "source": "https://music.163.com/album?id=147091091",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2155,9 +2092,9 @@
       "artworkSource": "https://p2.music.126.net/LailDokgJvCTiwwEjqIogg==/109951167076610783.jpg",
       "source": "https://music.163.com/album?id=140737417",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1922296982"
       ],
@@ -2178,7 +2115,7 @@
       "artworkSource": "https://p2.music.126.net/LRxNPPEil2IpfHnHPKNRlw==/109951166954521581.jpg",
       "source": "https://music.163.com/album?id=139044391",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2204,12 +2141,12 @@
       ],
       "label": null,
       "artwork": "./assets/album-137967160.jpg",
-      "artworkSource": "https://p1.music.126.net/-U8dgDbF_SadQ0UHOiUgPg==/109951166788924250.jpg",
+      "artworkSource": "https://p2.music.126.net/-U8dgDbF_SadQ0UHOiUgPg==/109951166788924250.jpg",
       "source": "https://music.163.com/album?id=137967160",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1906281609"
       ],
@@ -2227,10 +2164,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-135435188.jpg",
-      "artworkSource": "https://p1.music.126.net/gPC_e9k5Mt8oVnOY08p1ng==/109951166567241034.jpg",
+      "artworkSource": "https://p2.music.126.net/gPC_e9k5Mt8oVnOY08p1ng==/109951166567241034.jpg",
       "source": "https://music.163.com/album?id=135435188",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2253,7 +2190,7 @@
       "artworkSource": "https://p2.music.126.net/oNKE30S9Z_iScQZZYuXmOw==/109951166567184809.jpg",
       "source": "https://music.163.com/album?id=135434990",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2277,9 +2214,9 @@
       "artworkSource": "https://p1.music.126.net/in5GBzLwvtOgmxUSH83toQ==/109951166537362688.jpg",
       "source": "https://music.163.com/album?id=135010521",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1888363877"
       ],
@@ -2297,10 +2234,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-134687963.jpg",
-      "artworkSource": "https://p1.music.126.net/cvfOEz3TH4Zkb7U4QJfFgw==/109951166514646284.jpg",
+      "artworkSource": "https://p2.music.126.net/cvfOEz3TH4Zkb7U4QJfFgw==/109951166514646284.jpg",
       "source": "https://music.163.com/album?id=134687963",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2323,7 +2260,7 @@
       "artworkSource": "https://p2.music.126.net/Yxcw0ztrcSZv6HsN0EpEKg==/109951166497513366.jpg",
       "source": "https://music.163.com/album?id=134330823",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2346,7 +2283,7 @@
       "artworkSource": "https://p2.music.126.net/-Ek0O-TgG2Avq9iQpcMc8A==/109951168664958599.jpg",
       "source": "https://music.163.com/album?id=167206923",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2369,7 +2306,7 @@
       "artworkSource": "https://p2.music.126.net/NzaJ7ipCNkAMkXgdHTZbiw==/109951166444634903.jpg",
       "source": "https://music.163.com/album?id=133590391",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2389,10 +2326,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-132926937.jpg",
-      "artworkSource": "https://p1.music.126.net/Nlkh9QJkvNNaJJU0x0Vc4g==/109951166366314012.jpg",
+      "artworkSource": "https://p2.music.126.net/Nlkh9QJkvNNaJJU0x0Vc4g==/109951166366314012.jpg",
       "source": "https://music.163.com/album?id=132926937",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2412,10 +2349,10 @@
       ],
       "label": "芒果TV",
       "artwork": "./assets/album-405584497.jpg",
-      "artworkSource": "https://p2.music.126.net/SX5yUljpJredYqE3lN6gdQ==/109951174155249911.jpg",
+      "artworkSource": "https://p1.music.126.net/SX5yUljpJredYqE3lN6gdQ==/109951174155249911.jpg",
       "source": "https://music.163.com/album?id=405584497",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2435,10 +2372,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-131744908.jpg",
-      "artworkSource": "https://p2.music.126.net/_P0SkRBK-BGkU73tdtTkXA==/109951166280381667.jpg",
+      "artworkSource": "https://p1.music.126.net/_P0SkRBK-BGkU73tdtTkXA==/109951166280381667.jpg",
       "source": "https://music.163.com/album?id=131744908",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2458,10 +2395,10 @@
       ],
       "label": "芒果TV",
       "artwork": "./assets/album-167208230.jpg",
-      "artworkSource": "https://p2.music.126.net/AFLE0Y_g5iFpDBIZNApFgQ==/109951168664975696.jpg",
+      "artworkSource": "https://p1.music.126.net/AFLE0Y_g5iFpDBIZNApFgQ==/109951168664975696.jpg",
       "source": "https://music.163.com/album?id=167208230",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2484,7 +2421,7 @@
       "artworkSource": "https://p1.music.126.net/Ei1m4aAfMgDjfhyxy9yd5A==/109951172952774992.jpg",
       "source": "https://music.163.com/album?id=133895907",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2504,10 +2441,10 @@
       ],
       "label": "网易云音乐",
       "artwork": "./assets/album-129317671.jpg",
-      "artworkSource": "https://p1.music.126.net/S4ePo_3Lds0RQ5AAJmSxOA==/109951166108569107.jpg",
+      "artworkSource": "https://p2.music.126.net/S4ePo_3Lds0RQ5AAJmSxOA==/109951166108569107.jpg",
       "source": "https://music.163.com/album?id=129317671",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2540,9 +2477,9 @@
       "artworkSource": "https://p1.music.126.net/udQY2KreDhB8a6gi6ZjTMQ==/109951165931429158.jpg",
       "source": "https://music.163.com/album?id=126689020",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1841001980"
       ],
@@ -2564,9 +2501,9 @@
       "artworkSource": "https://p2.music.126.net/P8aOSqrpU4gIZS6B10XTkg==/109951165852247800.jpg",
       "source": "https://music.163.com/album?id=125450433",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1834075703"
       ],
@@ -2589,9 +2526,9 @@
       "artworkSource": "https://p1.music.126.net/yKxULy8mhm-68ojQo9FdCA==/109951165740944041.jpg",
       "source": "https://music.163.com/album?id=123277748",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1821465431"
       ],
@@ -2609,10 +2546,10 @@
       ],
       "label": "刍音文化",
       "artwork": "./assets/album-121002634.jpg",
-      "artworkSource": "https://p1.music.126.net/YAbHWbtGlngg6Rhqk8bVJA==/109951165589626811.jpg",
+      "artworkSource": "https://p2.music.126.net/YAbHWbtGlngg6Rhqk8bVJA==/109951165589626811.jpg",
       "source": "https://music.163.com/album?id=121002634",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2659,9 +2596,9 @@
       "artworkSource": "https://p2.music.126.net/NN36AKpbS6VNuTQadMJahw==/109951165142620148.jpg",
       "source": "https://music.163.com/album?id=92518299",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1463220054"
       ],
@@ -2683,9 +2620,9 @@
       "artworkSource": "https://p1.music.126.net/fEOnFVVXSAe2LThsNfx0XA==/109951165432413857.jpg",
       "source": "https://music.163.com/album?id=97722841",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1492049185"
       ],
@@ -2706,7 +2643,7 @@
       "artworkSource": "https://p1.music.126.net/4pb6Z041lTpUjTs3tE8bOA==/109951167893582411.jpg",
       "source": "https://music.163.com/album?id=96057849",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": true,
       "chapter": "个人项目",
       "trackIds": [
@@ -2740,7 +2677,7 @@
       "artworkSource": "https://p1.music.126.net/VK_nYXMIy8FnZQ0ho35WwA==/109951164691286939.jpg",
       "source": "https://music.163.com/album?id=85583092",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2763,7 +2700,7 @@
       "artworkSource": "https://p1.music.126.net/zxlFF5SXMX9YEy8UD37Pkw==/109951164321783020.jpg",
       "source": "https://music.163.com/album?id=81143738",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2786,7 +2723,7 @@
       "artworkSource": "https://p2.music.126.net/Ph6JJLpUXUXweJn6CcvgAQ==/109951164316259744.jpg",
       "source": "https://music.163.com/album?id=81106864",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2810,7 +2747,7 @@
       "artworkSource": "https://p2.music.126.net/6_bZAvi7pi7V9U0JnvS8uQ==/109951164298338067.jpg",
       "source": "https://music.163.com/album?id=80986146",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2834,7 +2771,7 @@
       "artworkSource": "https://p2.music.126.net/Q1HwzbhGO8GB_1QaNciYTQ==/109951164279479954.jpg",
       "source": "https://music.163.com/album?id=80869633",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2858,7 +2795,7 @@
       "artworkSource": "https://p2.music.126.net/H1Pp14OxzuK6dkWee74U_w==/109951164260686679.jpg",
       "source": "https://music.163.com/album?id=80754481",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2883,7 +2820,7 @@
       "artworkSource": "https://p1.music.126.net/DgkF0jAV8AcLTbXQw3Ra1w==/109951164246419969.jpg",
       "source": "https://music.163.com/album?id=80629968",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2903,10 +2840,10 @@
       ],
       "label": "爱奇艺",
       "artwork": "./assets/album-80623898.jpg",
-      "artworkSource": "https://p2.music.126.net/jU5VtEU-LuModxG9GKbzRA==/109951164241432576.jpg",
+      "artworkSource": "https://p1.music.126.net/jU5VtEU-LuModxG9GKbzRA==/109951164241432576.jpg",
       "source": "https://music.163.com/album?id=80623898",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2932,9 +2869,9 @@
       "artworkSource": "https://p1.music.126.net/_U4T44cfd3hCpsp-YG-fBQ==/109951164215888104.jpg",
       "source": "https://music.163.com/album?id=80406210",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n1378103322"
       ],
@@ -2952,10 +2889,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-80359821.jpg",
-      "artworkSource": "https://p1.music.126.net/suC7GrPVoOqXzoTQvi_xzQ==/109951164211758390.jpg",
+      "artworkSource": "https://p2.music.126.net/suC7GrPVoOqXzoTQvi_xzQ==/109951164211758390.jpg",
       "source": "https://music.163.com/album?id=80359821",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2978,7 +2915,7 @@
       "artworkSource": "https://p1.music.126.net/goFL7rOu49_NQ5imu-QEBA==/109951164179260614.jpg",
       "source": "https://music.163.com/album?id=80067973",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -2998,10 +2935,10 @@
       ],
       "label": "爱奇艺",
       "artwork": "./assets/album-79919480.jpg",
-      "artworkSource": "https://p2.music.126.net/F7eWoFBMuMPsIJ6hACdRdQ==/109951164162852825.jpg",
+      "artworkSource": "https://p1.music.126.net/F7eWoFBMuMPsIJ6hACdRdQ==/109951164162852825.jpg",
       "source": "https://music.163.com/album?id=79919480",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3021,10 +2958,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-75810869.jpg",
-      "artworkSource": "https://p1.music.126.net/3Xu8Ij_k9mpI3orVuzUtsg==/109951163919109640.jpg",
+      "artworkSource": "https://p2.music.126.net/3Xu8Ij_k9mpI3orVuzUtsg==/109951163919109640.jpg",
       "source": "https://music.163.com/album?id=75810869",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3044,10 +2981,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-75019219.jpg",
-      "artworkSource": "https://p2.music.126.net/4jpN-o0sAL22KqYCXWtY3Q==/109951163861489398.jpg",
+      "artworkSource": "https://p1.music.126.net/4jpN-o0sAL22KqYCXWtY3Q==/109951163861489398.jpg",
       "source": "https://music.163.com/album?id=75019219",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3070,7 +3007,7 @@
       "artworkSource": "https://p1.music.126.net/athuOAfuOasWvz4Xrvcitg==/109951163787349721.jpg",
       "source": "https://music.163.com/album?id=75017719",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": true,
       "chapter": "个人项目",
       "trackIds": [
@@ -3103,7 +3040,7 @@
       "artworkSource": "https://p1.music.126.net/UbO01nsi_9U8AbVQndapBw==/109951163637582638.jpg",
       "source": "https://music.163.com/album?id=74173877",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3123,10 +3060,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-73861866.jpg",
-      "artworkSource": "https://p1.music.126.net/yYbEFyXMY7slC8WKbWdA0Q==/109951163599016770.jpg",
+      "artworkSource": "https://p2.music.126.net/yYbEFyXMY7slC8WKbWdA0Q==/109951163599016770.jpg",
       "source": "https://music.163.com/album?id=73861866",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3146,10 +3083,10 @@
       ],
       "label": "幼龙音乐",
       "artwork": "./assets/album-71852086.jpg",
-      "artworkSource": "https://p1.music.126.net/IOsVXR5nNuBS3VXocKXUag==/109951163424748912.jpg",
+      "artworkSource": "https://p2.music.126.net/IOsVXR5nNuBS3VXocKXUag==/109951163424748912.jpg",
       "source": "https://music.163.com/album?id=71852086",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3172,7 +3109,7 @@
       "artworkSource": "https://p1.music.126.net/Dnf3d0vpTvaXhI4I4m1n3A==/109951163420050721.jpg",
       "source": "https://music.163.com/album?id=71895492",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3192,10 +3129,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-71847375.jpg",
-      "artworkSource": "https://p2.music.126.net/tjs6JyPbZFFSvlkLbSqJzw==/109951163412049985.jpg",
+      "artworkSource": "https://p1.music.126.net/tjs6JyPbZFFSvlkLbSqJzw==/109951163412049985.jpg",
       "source": "https://music.163.com/album?id=71847375",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3219,9 +3156,9 @@
       "artworkSource": "https://p1.music.126.net/-Tlkhbn60pS1mOD5Yc9_-w==/109951163378925938.jpg",
       "source": "https://music.163.com/album?id=71611785",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n862102679"
       ],
@@ -3242,7 +3179,7 @@
       "artworkSource": "https://p1.music.126.net/uxtYtHb1mVFPHZUBQtiMfg==/109951163243651867.jpg",
       "source": "https://music.163.com/album?id=38293282",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3265,7 +3202,7 @@
       "artworkSource": "https://p1.music.126.net/JOVl-CPbyZHAp-ce4tTL4w==/109951163175774335.jpg",
       "source": "https://music.163.com/album?id=37862138",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3285,10 +3222,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-37745036.jpg",
-      "artworkSource": "https://p1.music.126.net/j_jK6XZPFbNIRM81zofJuA==/109951163163533295.jpg",
+      "artworkSource": "https://p2.music.126.net/j_jK6XZPFbNIRM81zofJuA==/109951163163533295.jpg",
       "source": "https://music.163.com/album?id=37745036",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3308,10 +3245,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-37587264.jpg",
-      "artworkSource": "https://p1.music.126.net/ac-OMlYfX1eYAV6FL7vOpQ==/109951163185030117.jpg",
+      "artworkSource": "https://p2.music.126.net/ac-OMlYfX1eYAV6FL7vOpQ==/109951163185030117.jpg",
       "source": "https://music.163.com/album?id=37587264",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3335,7 +3272,7 @@
       "artworkSource": "https://p1.music.126.net/C8ov6ZcqncOerKNVUq6qHA==/109951163115151022.jpg",
       "source": "https://music.163.com/album?id=37354535",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3355,10 +3292,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-37272338.jpg",
-      "artworkSource": "https://p2.music.126.net/qELZdvpF_8dBCGLdLTr8IA==/109951163108462516.jpg",
+      "artworkSource": "https://p1.music.126.net/qELZdvpF_8dBCGLdLTr8IA==/109951163108462516.jpg",
       "source": "https://music.163.com/album?id=37272338",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3383,9 +3320,9 @@
       "artworkSource": "https://p1.music.126.net/1fGMV4ZKxXYBBhQP4Y_Jeg==/109951163097352392.jpg",
       "source": "https://music.163.com/album?id=37094995",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
-      "chapter": "合作项目",
+      "chapter": "合作与其他发行",
       "trackIds": [
         "n527625395"
       ],
@@ -3403,10 +3340,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-37046317.jpg",
-      "artworkSource": "https://p1.music.126.net/kvn_qdkxOhgYHZeyNMzVvg==/109951163092045469.jpg",
+      "artworkSource": "https://p2.music.126.net/kvn_qdkxOhgYHZeyNMzVvg==/109951163092045469.jpg",
       "source": "https://music.163.com/album?id=37046317",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3426,10 +3363,10 @@
       ],
       "label": null,
       "artwork": "./assets/album-36917689.jpg",
-      "artworkSource": "https://p1.music.126.net/7ObIi-K-Exs1-NkDClN5VA==/109951163079233652.jpg",
+      "artworkSource": "https://p2.music.126.net/7ObIi-K-Exs1-NkDClN5VA==/109951163079233652.jpg",
       "source": "https://music.163.com/album?id=36917689",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3452,7 +3389,7 @@
       "artworkSource": "https://p1.music.126.net/6Z5d_BHfmOiFV3mR7EsUFQ==/109951163074916197.jpg",
       "source": "https://music.163.com/album?id=36877755",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3475,7 +3412,7 @@
       "artworkSource": "https://p1.music.126.net/52rLhBNVfT1wZJW0eYcvpQ==/109951162938499438.jpg",
       "source": "https://music.163.com/album?id=35571093",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3498,7 +3435,7 @@
       "artworkSource": "https://p1.music.126.net/Gri3LadlYArhk4CVLnctVw==/109951168730610343.jpg",
       "source": "https://music.163.com/album?id=35513921",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3521,7 +3458,7 @@
       "artworkSource": "https://p1.music.126.net/_vI_P0pbiFAzxsKuSI_7yQ==/109951162877749659.jpg",
       "source": "https://music.163.com/album?id=35289072",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "core": false,
       "chapter": "合作与其他发行",
       "trackIds": [
@@ -3531,109 +3468,6 @@
     }
   ],
   "tracks": [
-    {
-      "id": "n3455163809",
-      "platformId": 3455163809,
-      "title": "永恒少年",
-      "aliases": [],
-      "albumId": "n406728119",
-      "date": "2026-10-31",
-      "trackNumber": 1,
-      "duration": 278125,
-      "artistIds": [
-        "n12024274",
-        "n14018235",
-        "n12788674",
-        "n12453329"
-      ],
-      "credits": [
-        {
-          "personId": "n12024274",
-          "role": "作曲",
-          "raw": "作曲 : KAFE.HU胡懿",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "n12024274",
-          "role": "作词",
-          "raw": "作词 : KAFE.HU胡懿",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "cYWljaGVu",
-          "role": "编曲",
-          "raw": "编曲 : AiChen",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "cYWljaGVu",
-          "role": "制作人",
-          "raw": "制作人 : AiChen",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "n14018235",
-          "role": "和声编写",
-          "raw": "和声编写 : 黄之仪Kyra Zilver",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "c6Zi_5aeG5pav54m55pyX",
-          "role": "混音",
-          "raw": "混音 : 阿姆斯特朗/AiChen",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "cYWljaGVu",
-          "role": "混音",
-          "raw": "混音 : 阿姆斯特朗/AiChen",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "c5YWo55u45b2mKGplb24",
-          "role": "母带",
-          "raw": "母带 : 全相彦(Jeon/Sangeun)",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "cc2FuZ2V1bik",
-          "role": "母带",
-          "raw": "母带 : 全相彦(Jeon/Sangeun)",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        },
-        {
-          "personId": "cY3lydXM",
-          "role": "吉他",
-          "raw": "吉他 : CYrus",
-          "source": "https://music.163.com/song?id=3455163809",
-          "level": "track"
-        }
-      ],
-      "creditLines": [
-        "作曲 : KAFE.HU胡懿",
-        "作词 : KAFE.HU胡懿",
-        "编曲 : AiChen",
-        "制作人 : AiChen",
-        "和声编写 : 黄之仪Kyra Zilver",
-        "混音 : 阿姆斯特朗/AiChen",
-        "母带 : 全相彦(Jeon/Sangeun)",
-        "吉他 : CYrus"
-      ],
-      "source": "https://music.163.com/song?id=3455163809",
-      "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
-      "kind": "recording",
-      "status": "platform"
-    },
     {
       "id": "n2759470634",
       "platformId": 2759470634,
@@ -3652,7 +3486,7 @@
       "creditLines": [],
       "source": "https://music.163.com/song?id=2759470634",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -3736,7 +3570,7 @@
       ],
       "source": "https://music.163.com/song?id=2726563109",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -3842,7 +3676,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976727",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -3949,7 +3783,7 @@
       ],
       "source": "https://music.163.com/song?id=2713977622",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4078,7 +3912,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976729",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4177,7 +4011,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976731",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4268,7 +4102,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976730",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4368,7 +4202,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976732",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4475,7 +4309,7 @@
       ],
       "source": "https://music.163.com/song?id=2713977624",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4537,7 +4371,7 @@
       ],
       "source": "https://music.163.com/song?id=2713977625",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4615,7 +4449,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976733",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4751,7 +4585,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976734",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -4894,7 +4728,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976735",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5015,7 +4849,7 @@
       ],
       "source": "https://music.163.com/song?id=2713976736",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5068,7 +4902,7 @@
       ],
       "source": "https://music.163.com/song?id=2694367060",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5129,7 +4963,7 @@
       ],
       "source": "https://music.163.com/song?id=2665886120",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5184,7 +5018,7 @@
       ],
       "source": "https://music.163.com/song?id=2659654589",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5234,7 +5068,7 @@
       ],
       "source": "https://music.163.com/song?id=2631925209",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5283,7 +5117,7 @@
       ],
       "source": "https://music.163.com/song?id=2631923684",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "instrumental",
       "status": "platform"
     },
@@ -5383,7 +5217,7 @@
       ],
       "source": "https://music.163.com/song?id=2156885206",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5445,7 +5279,7 @@
       ],
       "source": "https://music.163.com/song?id=2156912944",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5499,7 +5333,7 @@
       ],
       "source": "https://music.163.com/song?id=2116167805",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5539,7 +5373,7 @@
       ],
       "source": "https://music.163.com/song?id=2138933973",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5655,7 +5489,7 @@
       ],
       "source": "https://music.163.com/song?id=2049502613",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5732,7 +5566,7 @@
       ],
       "source": "https://music.163.com/song?id=2116798541",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5809,7 +5643,7 @@
       ],
       "source": "https://music.163.com/song?id=2110777947",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5877,7 +5711,7 @@
       ],
       "source": "https://music.163.com/song?id=2100624065",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5932,7 +5766,7 @@
       ],
       "source": "https://music.163.com/song?id=2100620991",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -5995,7 +5829,7 @@
       ],
       "source": "https://music.163.com/song?id=2072614086",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6057,7 +5891,7 @@
       ],
       "source": "https://music.163.com/song?id=2072301451",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6120,7 +5954,7 @@
       ],
       "source": "https://music.163.com/song?id=2072610413",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6182,7 +6016,7 @@
       ],
       "source": "https://music.163.com/song?id=1960903012",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6236,7 +6070,7 @@
       ],
       "source": "https://music.163.com/song?id=2072614138",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6330,7 +6164,7 @@
       ],
       "source": "https://music.163.com/song?id=2072614148",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6400,7 +6234,7 @@
       ],
       "source": "https://music.163.com/song?id=2072614166",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6493,7 +6327,7 @@
       ],
       "source": "https://music.163.com/song?id=2072610460",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6564,7 +6398,7 @@
       ],
       "source": "https://music.163.com/song?id=2072610467",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6651,7 +6485,7 @@
       ],
       "source": "https://music.163.com/song?id=2065905084",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6751,7 +6585,7 @@
       ],
       "source": "https://music.163.com/song?id=2042583512",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6813,7 +6647,7 @@
       ],
       "source": "https://music.163.com/song?id=2023954106",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6891,7 +6725,7 @@
       ],
       "source": "https://music.163.com/song?id=2021363719",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -6938,7 +6772,7 @@
       ],
       "source": "https://music.163.com/song?id=2009011340",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -7089,7 +6923,7 @@
       ],
       "source": "https://music.163.com/song?id=1980392101",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7158,7 +6992,7 @@
       ],
       "source": "https://music.163.com/song?id=1980024398",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7273,7 +7107,7 @@
       ],
       "source": "https://music.163.com/song?id=1978963059",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -7374,7 +7208,7 @@
       ],
       "source": "https://music.163.com/song?id=1978173961",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7525,7 +7359,7 @@
       ],
       "source": "https://music.163.com/song?id=1978175843",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7632,7 +7466,7 @@
       ],
       "source": "https://music.163.com/song?id=1978015978",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7733,7 +7567,7 @@
       ],
       "source": "https://music.163.com/song?id=1975799630",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7889,7 +7723,7 @@
       ],
       "source": "https://music.163.com/song?id=1973741060",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -7981,7 +7815,7 @@
       ],
       "source": "https://music.163.com/song?id=1969922569",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -8160,7 +7994,7 @@
       ],
       "source": "https://music.163.com/song?id=1968156067",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -8223,7 +8057,7 @@
       ],
       "source": "https://music.163.com/song?id=1967457117",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -8373,7 +8207,7 @@
       ],
       "source": "https://music.163.com/song?id=1964443044",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -8494,7 +8328,7 @@
       ],
       "source": "https://music.163.com/song?id=1962364509",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -8586,7 +8420,7 @@
       ],
       "source": "https://music.163.com/song?id=1958954250",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -8671,7 +8505,7 @@
       ],
       "source": "https://music.163.com/song?id=1922296982",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -8725,7 +8559,7 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "制作人",
           "raw": "制作人：KEY.L/$CC731/老道",
           "source": "https://music.163.com/song?id=1913073574",
@@ -8770,7 +8604,7 @@
       ],
       "source": "https://music.163.com/song?id=1913073574",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -8859,7 +8693,7 @@
       ],
       "source": "https://music.163.com/song?id=1906281609",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -8914,7 +8748,7 @@
       ],
       "source": "https://music.163.com/song?id=1890721249",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9021,7 +8855,7 @@
       ],
       "source": "https://music.163.com/song?id=1890718617",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9089,7 +8923,7 @@
       ],
       "source": "https://music.163.com/song?id=1888363877",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9128,7 +8962,7 @@
       ],
       "source": "https://music.163.com/song?id=1886571755",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9211,7 +9045,7 @@
       ],
       "source": "https://music.163.com/song?id=1884598815",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9355,7 +9189,7 @@
       ],
       "source": "https://music.163.com/song?id=2053889705",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -9442,7 +9276,7 @@
       ],
       "source": "https://music.163.com/song?id=1880216158",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9519,7 +9353,7 @@
       ],
       "source": "https://music.163.com/song?id=1876480955",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9540,7 +9374,7 @@
       "creditLines": [],
       "source": "https://music.163.com/song?id=3452814218",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -9756,7 +9590,7 @@
       ],
       "source": "https://music.163.com/song?id=1869263761",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -9899,7 +9733,7 @@
       ],
       "source": "https://music.163.com/song?id=2053891069",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -9919,7 +9753,7 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : Key.L/Kungfu-Pen/Kafe.Hu",
           "source": "https://music.163.com/song?id=1882091867",
@@ -9977,7 +9811,7 @@
       ],
       "source": "https://music.163.com/song?id=1882091867",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10039,7 +9873,7 @@
       ],
       "source": "https://music.163.com/song?id=1855121473",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10145,7 +9979,7 @@
       ],
       "source": "https://music.163.com/song?id=1841001980",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -10222,7 +10056,7 @@
       ],
       "source": "https://music.163.com/song?id=1834075703",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10291,7 +10125,7 @@
       ],
       "source": "https://music.163.com/song?id=1821465431",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10345,7 +10179,7 @@
       ],
       "source": "https://music.163.com/song?id=1808077867",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10383,7 +10217,7 @@
       ],
       "source": "https://music.163.com/song?id=1463220054",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -10483,7 +10317,7 @@
       ],
       "source": "https://music.163.com/song?id=1492049185",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10531,7 +10365,7 @@
       ],
       "source": "https://music.163.com/song?id=1482864953",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10586,7 +10420,7 @@
       ],
       "source": "https://music.163.com/song?id=1482864937",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10617,7 +10451,7 @@
       ],
       "source": "https://music.163.com/song?id=1482866140",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10656,7 +10490,7 @@
       ],
       "source": "https://music.163.com/song?id=1383954630",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10696,7 +10530,7 @@
       ],
       "source": "https://music.163.com/song?id=1482864955",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10736,7 +10570,7 @@
       ],
       "source": "https://music.163.com/song?id=1453599920",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10783,7 +10617,7 @@
       ],
       "source": "https://music.163.com/song?id=1395632515",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10822,7 +10656,7 @@
       ],
       "source": "https://music.163.com/song?id=1482864951",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10841,14 +10675,14 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=1430310822",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=1430310822",
@@ -10861,7 +10695,7 @@
       ],
       "source": "https://music.163.com/song?id=1430310822",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10916,7 +10750,7 @@
       ],
       "source": "https://music.163.com/song?id=1405135261",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -10955,7 +10789,7 @@
       ],
       "source": "https://music.163.com/song?id=1482864950",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11002,7 +10836,7 @@
       ],
       "source": "https://music.163.com/song?id=1485362497",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11021,14 +10855,14 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=1422046115",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=1422046115",
@@ -11049,7 +10883,7 @@
       ],
       "source": "https://music.163.com/song?id=1422046115",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11095,7 +10929,7 @@
       ],
       "source": "https://music.163.com/song?id=1386582919",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11149,7 +10983,7 @@
       ],
       "source": "https://music.163.com/song?id=1386079854",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -11211,7 +11045,7 @@
       ],
       "source": "https://music.163.com/song?id=1386080662",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -11273,7 +11107,7 @@
       ],
       "source": "https://music.163.com/song?id=1384562913",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -11327,7 +11161,7 @@
       ],
       "source": "https://music.163.com/song?id=1384570306",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -11421,7 +11255,7 @@
       ],
       "source": "https://music.163.com/song?id=1383211739",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -11443,7 +11277,7 @@
       "creditLines": [],
       "source": "https://music.163.com/song?id=2742496581",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "instrumental",
       "status": "platform"
     },
@@ -11586,7 +11420,7 @@
       ],
       "source": "https://music.163.com/song?id=1381764098",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11690,7 +11524,7 @@
       ],
       "source": "https://music.163.com/song?id=1381764127",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11776,7 +11610,7 @@
       ],
       "source": "https://music.163.com/song?id=1381764130",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11871,7 +11705,7 @@
       ],
       "source": "https://music.163.com/song?id=1380689048",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -11993,7 +11827,7 @@
       ],
       "source": "https://music.163.com/song?id=1380312742",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -12047,7 +11881,7 @@
       ],
       "source": "https://music.163.com/song?id=1380312787",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -12067,7 +11901,7 @@
       "creditLines": [],
       "source": "https://music.163.com/song?id=2742494151",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "instrumental",
       "status": "platform"
     },
@@ -12120,7 +11954,7 @@
       ],
       "source": "https://music.163.com/song?id=1378103322",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12207,7 +12041,7 @@
       ],
       "source": "https://music.163.com/song?id=1377785184",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12261,7 +12095,7 @@
       ],
       "source": "https://music.163.com/song?id=1374647512",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -12281,7 +12115,7 @@
       "creditLines": [],
       "source": "https://music.163.com/song?id=1373168822",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "live",
       "status": "platform"
     },
@@ -12314,7 +12148,7 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "词曲",
           "raw": "词曲：KEY.L",
           "source": "https://music.163.com/song?id=1351291806",
@@ -12336,7 +12170,7 @@
       ],
       "source": "https://music.163.com/song?id=1351291806",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12382,7 +12216,7 @@
       ],
       "source": "https://music.163.com/song?id=1336866896",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12403,7 +12237,7 @@
       "creditLines": [],
       "source": "https://music.163.com/song?id=1336856224",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12450,7 +12284,7 @@
       ],
       "source": "https://music.163.com/song?id=1336856193",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12505,7 +12339,7 @@
       ],
       "source": "https://music.163.com/song?id=1331448190",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12560,7 +12394,7 @@
       ],
       "source": "https://music.163.com/song?id=1333018503",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12607,7 +12441,7 @@
       ],
       "source": "https://music.163.com/song?id=1334473377",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12646,7 +12480,7 @@
       ],
       "source": "https://music.163.com/song?id=1336856225",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12693,7 +12527,7 @@
       ],
       "source": "https://music.163.com/song?id=516857815",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12740,7 +12574,7 @@
       ],
       "source": "https://music.163.com/song?id=518511084",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12773,14 +12607,14 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=1337032503",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=1337032503",
@@ -12811,7 +12645,7 @@
       ],
       "source": "https://music.163.com/song?id=1337032503",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12858,7 +12692,7 @@
       ],
       "source": "https://music.163.com/song?id=1329475622",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12905,7 +12739,7 @@
       ],
       "source": "https://music.163.com/song?id=1336864187",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -12968,7 +12802,7 @@
       ],
       "source": "https://music.163.com/song?id=1321841207",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13006,7 +12840,7 @@
       ],
       "source": "https://music.163.com/song?id=1317427127",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13084,7 +12918,7 @@
       ],
       "source": "https://music.163.com/song?id=1294899775",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13130,7 +12964,7 @@
       ],
       "source": "https://music.163.com/song?id=1295724562",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13185,7 +13019,7 @@
       ],
       "source": "https://music.163.com/song?id=1294467974",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13211,14 +13045,14 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : Vyan/Key.L",
           "source": "https://music.163.com/song?id=862102679",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : Key.L",
           "source": "https://music.163.com/song?id=862102679",
@@ -13247,7 +13081,7 @@
       ],
       "source": "https://music.163.com/song?id=862102679",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13266,14 +13100,14 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=552280516",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=552280516",
@@ -13294,7 +13128,7 @@
       ],
       "source": "https://music.163.com/song?id=552280516",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13320,14 +13154,14 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : 功夫胖KungFuPen/KEY.L",
           "source": "https://music.163.com/song?id=543698255",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=543698255",
@@ -13340,7 +13174,7 @@
       ],
       "source": "https://music.163.com/song?id=543698255",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13358,14 +13192,14 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=541277527",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=541277527",
@@ -13386,7 +13220,7 @@
       ],
       "source": "https://music.163.com/song?id=541277527",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13404,21 +13238,21 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=537327000",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=537327000",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "词曲",
           "raw": "词曲：KEY.L",
           "source": "https://music.163.com/song?id=537327000",
@@ -13440,7 +13274,7 @@
       ],
       "source": "https://music.163.com/song?id=537327000",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13459,14 +13293,14 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=544943143",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=544943143",
@@ -13487,7 +13321,7 @@
       ],
       "source": "https://music.163.com/song?id=544943143",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13506,7 +13340,7 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L/功夫胖KungFuPen",
           "source": "https://music.163.com/song?id=532364198",
@@ -13520,7 +13354,7 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L/功夫胖KungFuPen",
           "source": "https://music.163.com/song?id=532364198",
@@ -13540,7 +13374,7 @@
       ],
       "source": "https://music.163.com/song?id=532364198",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13558,14 +13392,14 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L",
           "source": "https://music.163.com/song?id=530623382",
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作曲",
           "raw": "作曲 : KEY.L",
           "source": "https://music.163.com/song?id=530623382",
@@ -13578,7 +13412,7 @@
       ],
       "source": "https://music.163.com/song?id=530623382",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13632,7 +13466,7 @@
       ],
       "source": "https://music.163.com/song?id=527625395",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13665,7 +13499,7 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词：KEY.L",
           "source": "https://music.163.com/song?id=525956078",
@@ -13687,7 +13521,7 @@
       ],
       "source": "https://music.163.com/song?id=525956078",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13734,7 +13568,7 @@
       ],
       "source": "https://music.163.com/song?id=523128664",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13754,7 +13588,7 @@
       ],
       "credits": [
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : KEY.L/西奥Sio",
           "source": "https://music.163.com/song?id=522029768",
@@ -13781,7 +13615,7 @@
       ],
       "source": "https://music.163.com/song?id=522029768",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13827,7 +13661,7 @@
       ],
       "source": "https://music.163.com/song?id=485508366",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13866,7 +13700,7 @@
       ],
       "source": "https://music.163.com/song?id=479174338",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     },
@@ -13908,7 +13742,7 @@
           "level": "track"
         },
         {
-          "personId": "ca2V5Lmw",
+          "personId": "n12788674",
           "role": "作词",
           "raw": "作词 : 辛巴/VICO/派克特（PACT）/KEY.L",
           "source": "https://music.163.com/song?id=466023457",
@@ -13928,122 +13762,37 @@
       ],
       "source": "https://music.163.com/song?id=466023457",
       "sourceLabel": "网易云音乐",
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-10-30",
       "kind": "recording",
       "status": "platform"
     }
   ],
-  "externalReleases": [
-    {
-      "id": "a1789783952",
-      "title": "沙漠之花 (feat. KEY.L刘聪) - Single",
-      "date": "2018-06-28",
-      "trackCount": 1,
-      "artist": "Vyan",
-      "source": "https://music.apple.com/cn/album/%E6%B2%99%E6%BC%A0%E4%B9%8B%E8%8A%B1-feat-key-l%E5%88%98%E8%81%AA-single/1789783952?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2a/76/c6/2a76c6eb-acc0-7f45-fe4a-30cc4c33c300/cover.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "a1823230368",
-      "title": "G-BLOCK Mixtape",
-      "date": "2025-07-08",
-      "trackCount": 14,
-      "artist": "GAI, 盛宇, 功夫胖 & 刘聪",
-      "source": "https://music.apple.com/cn/album/g-block-mixtape/1823230368?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/8c/aa/7a8caa2f-7bf3-3a3b-d4c0-c728182bc5b4/cover.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "a1643498064",
-      "title": "东方不败 - Single",
-      "date": "2022-09-09",
-      "trackCount": 1,
-      "artist": "李玟 & 刘聪",
-      "source": "https://music.apple.com/cn/album/%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5-single/1643498064?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/02/9c/89/029c8905-a1a2-dfe4-a012-7400efd8c01b/5054197344022.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "a1688680606",
-      "title": "Hey KONG - Single",
-      "date": "2020-10-10",
-      "trackCount": 1,
-      "artist": "刘聪",
-      "source": "https://music.apple.com/cn/album/hey-kong-single/1688680606?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/6b/dd/346bddf1-a2e5-6a54-36e2-5ebc3e385c46/liuchong.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "a1688667313",
-      "title": "十字路口 - Single",
-      "date": "2023-05-22",
-      "trackCount": 1,
-      "artist": "西奥Sio & 刘聪",
-      "source": "https://music.apple.com/cn/album/%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-single/1688667313?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d2/35/ab/d235abb3-ed4b-3c46-996c-499357edc776/cover.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "a1790349038",
-      "title": "下弦月 (feat. 刘聪) - Single",
-      "date": "2025-01-17",
-      "trackCount": 1,
-      "artist": "李玟",
-      "source": "https://music.apple.com/cn/album/%E4%B8%8B%E5%BC%A6%E6%9C%88-feat-%E5%88%98%E8%81%AA-single/1790349038?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b3/3a/1f/b33a1f6e-93e7-c2fe-79ab-89af0c0e2fe5/196872802122.jpg/100x100bb.jpg"
-    },
-    {
-      "id": "a1688697911",
-      "title": "经济舱 - Single",
-      "date": "2020-11-03",
-      "trackCount": 1,
-      "artist": "刘聪 & Kafe.Hu",
-      "source": "https://music.apple.com/cn/album/%E7%BB%8F%E6%B5%8E%E8%88%B1-single/1688697911?uo=4",
-      "sourceLabel": "Apple Music（中国区）",
-      "checkedAt": "2026-10-31",
-      "relatedAlbumId": null,
-      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/93/a4/75/93a4751a-5ae0-d6b0-159b-0131cc4ccd90/jingjicang.jpg/100x100bb.jpg"
-    }
-  ],
+  "externalReleases": [],
   "gaps": [
     {
-      "title": "历史与跨平台曲单",
-      "year": "历年",
-      "status": "历史全量待核",
-      "detail": "网易云公开分页已读完；早期、下架发行与其他 Apple 同名身份仍待核，Apple 本次仅作发行对照，不补算未核验的歌曲。",
+      "title": "历史范围",
+      "detail": "艺人歌曲接口分页完整返回 142 条，但艺人资料仍可能缺少下架歌曲、早期发行和视频作品；不宣称历史全量。",
       "sources": [
         {
-          "title": "网易云",
+          "title": "网易云艺人页",
+          "url": "https://music.163.com/artist?id=12788674"
+        }
+      ]
+    },
+    {
+      "title": "发行详情与 Apple Music 曲目",
+      "detail": "60 个发行详情请求受平台接口限制（API -462）；Apple Music 艺人身份已核对，但当前公开搜索/查询未提供曲目清单。按已返回的单曲艺人署名收录，不依据专辑封面或合集归属补造参与。",
+      "sources": [
+        {
+          "title": "网易云艺人页",
           "url": "https://music.163.com/artist?id=12788674"
         },
         {
-          "title": "Apple Music",
-          "url": "https://music.apple.com/cn/artist/1586357104"
+          "title": "Apple Music 艺人页",
+          "url": "https://music.apple.com/cn/artist/key-l%E5%88%98%E8%81%AA/1640856786?uo=4"
         }
       ]
     }
   ],
-  "discrepancies": [
-    {
-      "title": "C-BLOCK 与合作发行",
-      "detail": "C-BLOCK 团体身份不代替逐曲演唱署名。G-BLOCK Mixtape、节目与他人专辑仅保留平台明确列出刘聪的歌曲；个人主线为 KEY to L、街区故事、回到2000。",
-      "sources": [
-        "https://music.163.com/artist?id=12788674"
-      ]
-    }
-  ]
+  "discrepancies": []
 }

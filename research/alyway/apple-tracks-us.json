@@ -1,0 +1,26 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1803577824,
+      "collectionId": 1803593370,
+      "artistName": "Jahgen & Alyway",
+      "collectionName": "FLXR",
+      "collectionCensoredName": "FLXR",
+      "artistViewUrl": "https://music.apple.com/us/artist/jahgen/1803577824?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/flxr/1803593370?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/94/15/3a941507-59c5-d378-7149-3a1348a7ddd9/5021732753816.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/94/15/3a941507-59c5-d378-7149-3a1348a7ddd9/5021732753816.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 8,
+      "copyright": "℗ 2025 Chengdu Acid House Company",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2025-03-28T07:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

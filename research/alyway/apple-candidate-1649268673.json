@@ -1,0 +1,35 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Alyway",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/alyway/1649268673?uo=4",
+      "artistId": 1649268673,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1497007085,
+      "collectionId": 1709443663,
+      "artistName": "Young-Ken, Alyway & 小苗",
+      "collectionName": "底层自述",
+      "collectionCensoredName": "底层自述",
+      "artistViewUrl": "https://music.apple.com/cn/artist/young-ken/1497007085?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/%E5%BA%95%E5%B1%82%E8%87%AA%E8%BF%B0/1709443663?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/16/a0/b916a0f9-45a7-bf68-c6c5-a39cd908fb53/6941636784848.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/16/a0/b916a0f9-45a7-bf68-c6c5-a39cd908fb53/6941636784848.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 8,
+      "copyright": "℗ 2023 Young-Ken,distributed by 秀动发行 ShowStart Release",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2023-02-23T08:00:00Z",
+      "primaryGenreName": "嘻哈/说唱"
+    }
+  ]
+}

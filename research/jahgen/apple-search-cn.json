@@ -1,0 +1,98 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jahgen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%B4%BE%E7%9C%9F/1803577824?uo=4",
+      "artistId": 1803577824,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "贾真Jahgen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%B4%BE%E7%9C%9Fjahgen/1843061699?uo=4",
+      "artistId": 1843061699,
+      "primaryGenreName": "说唱",
+      "primaryGenreId": 1076
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jonah Kagen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jonah-kagen/1547525971?uo=4",
+      "artistId": 1547525971,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "H&C",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/h-c/6775900971?uo=4",
+      "artistId": 6775900971,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Luciano",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/luciano/1168706047?uo=4",
+      "artistId": 1168706047,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jalen Ngonda",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jalen-ngonda/1127697768?uo=4",
+      "artistId": 1127697768,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Capital Bra",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/capital-bra/1177984235?uo=4",
+      "artistId": 1177984235,
+      "amgArtistId": 3276176,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Nina Hagen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/nina-hagen/13501420?uo=4",
+      "artistId": 13501420,
+      "amgArtistId": 4424,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Kinderen Voor Kinderen",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kinderen-voor-kinderen/269270940?uo=4",
+      "artistId": 269270940,
+      "amgArtistId": 873809,
+      "primaryGenreName": "儿童音乐",
+      "primaryGenreId": 4
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Nina Hagen Band",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/nina-hagen-band/279838001?uo=4",
+      "artistId": 279838001,
+      "primaryGenreName": "German Pop",
+      "primaryGenreId": 50000066
+    }
+  ]
+}

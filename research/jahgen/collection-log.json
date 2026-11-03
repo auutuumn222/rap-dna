@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 55315624,
+  "reportedTracks": 61,
+  "returnedTracks": 61,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 61,
+      "more": false
+    }
+  ],
+  "listedReleases": 10,
+  "associatedReleases": 26,
+  "explicitCredits": 7327,
+  "albumDetails": 1731,
+  "appleCnReleases": 4,
+  "appleUsReleases": 4,
+  "appleSongRecords": 1,
+  "failures": [
+    {
+      "item": 350445489,
+      "error": "API -462"
+    },
+    {
+      "item": 269559123,
+      "error": "API -462"
+    },
+    {
+      "item": 364357655,
+      "error": "API -462"
+    },
+    {
+      "item": 188105819,
+      "error": "API -462"
+    },
+    {
+      "item": 366805974,
+      "error": "API -462"
+    },
+    {
+      "item": 360423768,
+      "error": "API -462"
+    },
+    {
+      "item": 286591314,
+      "error": "API -462"
+    },
+    {
+      "item": 161190066,
+      "error": "API -462"
+    },
+    {
+      "item": 274537222,
+      "error": "API -462"
+    }
+  ]
+}

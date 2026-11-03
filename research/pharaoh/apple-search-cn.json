@@ -13,15 +13,6 @@
     {
       "wrapperType": "artist",
       "artistType": "Artist",
-      "artistName": "法老",
-      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81/1441077319?uo=4",
-      "artistId": 1441077319,
-      "primaryGenreName": "国际流行",
-      "primaryGenreId": 14
-    },
-    {
-      "wrapperType": "artist",
-      "artistType": "Artist",
       "artistName": "法老老",
       "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81%E8%80%81/1722577172?uo=4",
       "artistId": 1722577172,
@@ -36,6 +27,15 @@
       "artistId": 1724128038,
       "primaryGenreName": "国语流行",
       "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81/1441077319?uo=4",
+      "artistId": 1441077319,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
     },
     {
       "wrapperType": "artist",
@@ -70,16 +70,6 @@
     {
       "wrapperType": "artist",
       "artistType": "Artist",
-      "artistName": "Lady Gaga",
-      "artistLinkUrl": "https://music.apple.com/cn/artist/lady-gaga/277293880?uo=4",
-      "artistId": 277293880,
-      "amgArtistId": 1055684,
-      "primaryGenreName": "国际流行",
-      "primaryGenreId": 14
-    },
-    {
-      "wrapperType": "artist",
-      "artistType": "Artist",
       "artistName": "周杰倫",
       "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%91%A8%E6%9D%B0%E4%BC%A6/300117743?uo=4",
       "artistId": 300117743,
@@ -95,6 +85,16 @@
       "artistId": 1636240804,
       "primaryGenreName": "中文嘻哈",
       "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lady Gaga",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lady-gaga/277293880?uo=4",
+      "artistId": 277293880,
+      "amgArtistId": 1055684,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
     }
   ]
 }

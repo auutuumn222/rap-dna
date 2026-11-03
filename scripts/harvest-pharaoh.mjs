@@ -1,5 +1,5 @@
 import {readFile,writeFile,mkdir,access} from 'node:fs/promises';
-const base='research/pharaoh',checkedAt='2026-10-29';
+const base='research/pharaoh',checkedAt='2026-11-03';
 const read=async file=>JSON.parse(await readFile(file,'utf8'));
 const pages=[];for(let offset=0;;offset+=100){const p=await read(`${base}/netease-songs-${offset}.json`);pages.push(p);if(!p.more)break;}
 const songs=[...new Map(pages.flatMap(p=>p.songs||[]).map(s=>[s.id,s])).values()];

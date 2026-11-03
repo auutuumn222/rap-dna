@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 94382459,
+  "reportedTracks": 25,
+  "returnedTracks": 25,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 25,
+      "more": false
+    }
+  ],
+  "listedReleases": 4,
+  "associatedReleases": 8,
+  "explicitCredits": 8041,
+  "albumDetails": 2031,
+  "appleCnReleases": 1,
+  "appleUsReleases": 1,
+  "appleSongRecords": 1,
+  "failures": [
+    {
+      "item": 242821726,
+      "error": "API -462"
+    },
+    {
+      "item": 242607529,
+      "error": "API -462"
+    },
+    {
+      "item": 262485456,
+      "error": "API -462"
+    }
+  ]
+}

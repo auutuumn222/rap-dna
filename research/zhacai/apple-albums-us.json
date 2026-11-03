@@ -1,0 +1,35 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "ZhaCai榨菜",
+      "artistLinkUrl": "https://music.apple.com/us/artist/zhacai%E6%A6%A8%E8%8F%9C/1796806371?uo=4",
+      "artistId": 1796806371,
+      "primaryGenreName": "Hip-Hop/Rap",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1637058522,
+      "collectionId": 1796806787,
+      "artistName": "RICHNOMADIC & ZhaCai榨菜",
+      "collectionName": "天使投资人 - Single",
+      "collectionCensoredName": "天使投资人 - Single",
+      "artistViewUrl": "https://music.apple.com/us/artist/richnomadic/1637058522?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B5%84%E4%BA%BA-single/1796806787?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/09/bd/4e09bdf5-9047-7a65-b1e3-6b6df38cac54/cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/09/bd/4e09bdf5-9047-7a65-b1e3-6b6df38cac54/cover.jpg/100x100bb.jpg",
+      "collectionPrice": 0.99,
+      "collectionExplicitness": "notExplicit",
+      "trackCount": 1,
+      "copyright": "℗ 2025 RICHNOMADIC",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2025-02-22T08:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

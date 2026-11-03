@@ -1,0 +1,250 @@
+{
+  "result": {
+    "hasMore": true,
+    "artistCount": 13,
+    "hlWords": [
+      "Young Cash Jason"
+    ],
+    "artists": [
+      {
+        "id": 37125681,
+        "name": "Young Cash Jason",
+        "picUrl": "https://p2.music.126.net/W_E8NmcNmVcknUbiDjp2CQ==/109951166549272881.jpg",
+        "alias": [],
+        "albumSize": 45,
+        "musicSize": 180,
+        "picId": 109951166549272880,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 218701,
+        "img1v1Url": "https://p2.music.126.net/AKTs3vgQSjamix1J09AD1Q==/109951173651478233.jpg",
+        "accountId": 1453049232,
+        "img1v1": 109951173651478240,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 94753015,
+        "name": "DD Ma Shawty",
+        "picUrl": "https://p2.music.126.net/bcx2VljzD1WyR3VogCNoiw==/109951169595116729.jpg",
+        "alias": [
+          "天选之人"
+        ],
+        "albumSize": 6,
+        "musicSize": 56,
+        "picId": 109951169595116740,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《Hard Time》",
+        "appendRecText": "",
+        "fansSize": 121640,
+        "img1v1Url": "https://p2.music.126.net/rgB254GED00pwR4vk4_Psg==/109951173970655484.jpg",
+        "accountId": 8988927332,
+        "img1v1": 109951173970655490,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "天选之人"
+        ],
+        "trans": null
+      },
+      {
+        "id": 34597980,
+        "name": "Three thousand***",
+        "picUrl": "https://p2.music.126.net/qEcieS_eYu8qggfyPxhQ7Q==/109951166643591236.jpg",
+        "alias": [
+          "三千"
+        ],
+        "albumSize": 11,
+        "musicSize": 54,
+        "picId": 109951166643591230,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《full smoke》",
+        "appendRecText": "",
+        "fansSize": 52141,
+        "img1v1Url": "https://p2.music.126.net/m1N9okLtVVTudMS1H3anNw==/109951173746631357.jpg",
+        "accountId": 430279046,
+        "img1v1": 109951173746631360,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 7,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "三千"
+        ],
+        "trans": null
+      },
+      {
+        "id": 53597603,
+        "name": "迪诺哥",
+        "picUrl": "https://p2.music.126.net/t4Ne_7FExcxWTlZhsPHlfg==/109951167751389315.jpg",
+        "alias": [
+          "DinoSuperfast    ",
+          "DINOVA"
+        ],
+        "albumSize": 8,
+        "musicSize": 70,
+        "picId": 109951167751389310,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《必吃榜》",
+        "appendRecText": "",
+        "fansSize": 56381,
+        "img1v1Url": "https://p2.music.126.net/f8x5mB0WPNLQaTyNVEmuag==/109951174157222389.jpg",
+        "accountId": 7976447570,
+        "img1v1": 109951174157222380,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "DinoSuperfast    ",
+          "DINOVA"
+        ],
+        "trans": null
+      },
+      {
+        "id": 53092067,
+        "name": "莽YouKnowDat",
+        "picUrl": "https://p2.music.126.net/RweXlQAalB-jZ27iYpvNlA==/109951167539952024.jpg",
+        "alias": [],
+        "albumSize": 15,
+        "musicSize": 70,
+        "picId": 109951167539952030,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《Rock Out4》",
+        "appendRecText": "",
+        "fansSize": 27401,
+        "img1v1Url": "https://p2.music.126.net/Xa0PQ5Izb1RX92e_ywwI_g==/109951173961122710.jpg",
+        "accountId": 7856234553,
+        "img1v1": 109951173961122700,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 51265187,
+        "name": "INDEcompany",
+        "picUrl": "https://p2.music.126.net/f0ZMICplniRa8ZOGqeBGbw==/109951166958509232.jpg",
+        "alias": [],
+        "albumSize": 0,
+        "musicSize": 227,
+        "picId": 109951166958509230,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《street angel（piano version）》",
+        "appendRecText": "",
+        "fansSize": 44249,
+        "img1v1Url": "https://p2.music.126.net/m80k0BkdsNqN1o_mjp6Rzw==/109951166958512603.jpg",
+        "accountId": 6370241519,
+        "img1v1": 109951166958512600,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 5,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 48436890,
+        "name": "Taisheng Music",
+        "picUrl": "https://p2.music.126.net/2_HFdmRSVvUnaueebuyNlg==/109951166077208955.jpg",
+        "alias": [],
+        "albumSize": 1,
+        "musicSize": 20351,
+        "picId": 109951166077208960,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《Already Got Dem》",
+        "appendRecText": "",
+        "fansSize": 36272,
+        "img1v1Url": "https://p2.music.126.net/H9qzuTVO0w0Xl16nuq1NPg==/109951166670095176.jpg",
+        "accountId": 1257848,
+        "img1v1": 109951166670095170,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4788940880/1a1f/68f5/b59a/b444b81b88567108ba88194fa29144f5.png",
+        "mvSize": 14,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 98724675,
+        "name": "WHICHWAY_MUSIC",
+        "picUrl": "https://p2.music.126.net/YkPRo-WbXRaPRFxK-cXdBQ==/109951171263592828.jpg",
+        "alias": [],
+        "albumSize": 1,
+        "musicSize": 80,
+        "picId": 109951171263592830,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 1856,
+        "img1v1Url": "https://p2.music.126.net/NAAT64iDSfBU60pf1UcrLQ==/109951171263595125.jpg",
+        "accountId": 13596914595,
+        "img1v1": 109951171263595120,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 47188401,
+        "name": "Grave",
+        "picUrl": "https://p2.music.126.net/SD939XObWhhES-x9N0rAoQ==/109951173389793312.jpg",
+        "alias": [
+          "Haka"
+        ],
+        "albumSize": 18,
+        "musicSize": 152,
+        "picId": 109951173389793310,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《It‘s You pt.2》",
+        "appendRecText": "",
+        "fansSize": 9077,
+        "img1v1Url": "https://p2.music.126.net/a5-ZYeRn956I3Cv5aNTi-w==/109951174186023610.jpg",
+        "accountId": 498699792,
+        "img1v1": 109951174186023620,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Haka"
+        ],
+        "trans": null
+      },
+      {
+        "id": 56054279,
+        "name": "Yxng Amiri",
+        "picUrl": "https://p2.music.126.net/MsENxE3wTC8K2dBBPzCAZQ==/109951168993783189.jpg",
+        "alias": [
+          "阿米日"
+        ],
+        "albumSize": 10,
+        "musicSize": 130,
+        "picId": 109951168993783180,
+        "fansGroup": null,
+        "recommendText": "与Young Cash Jason合唱歌曲《We Made Dat！》",
+        "appendRecText": "",
+        "fansSize": 10124,
+        "img1v1Url": "https://p2.music.126.net/706VkMTaHLPeYvcyJRlMUg==/109951170371235332.jpg",
+        "accountId": 8452466619,
+        "img1v1": 109951170371235330,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 3,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "阿米日"
+        ],
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

@@ -1,0 +1,146 @@
+{
+  "code": 200,
+  "message": "ok",
+  "data": {
+    "videoCount": 9,
+    "vipRights": {
+      "rightsInfoDetailDtoList": [
+        {
+          "vipCode": 220,
+          "expireTime": 1796313599000,
+          "iconUrl": null,
+          "dynamicIconUrl": null,
+          "vipLevel": 0,
+          "sign": false,
+          "signIapDeduct": false,
+          "signIap": false,
+          "signDeduct": false
+        },
+        {
+          "vipCode": 100,
+          "expireTime": 1796313599000,
+          "iconUrl": null,
+          "dynamicIconUrl": null,
+          "vipLevel": 0,
+          "sign": true,
+          "signIapDeduct": false,
+          "signIap": false,
+          "signDeduct": true
+        },
+        {
+          "vipCode": 300,
+          "expireTime": 1793375999000,
+          "iconUrl": null,
+          "dynamicIconUrl": null,
+          "vipLevel": 0,
+          "sign": false,
+          "signIapDeduct": false,
+          "signIap": false,
+          "signDeduct": false
+        }
+      ],
+      "oldProtocol": false,
+      "redVipAnnualCount": -1,
+      "redVipLevel": 7,
+      "now": 1793609387703
+    },
+    "identify": {
+      "imageUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+      "imageDesc": "网易音乐人、歌手、作词、作曲、编曲",
+      "actionUrl": "orpheus://rnpage?component=music-reactnative-artistwiki&split=index&artistId=34326822"
+    },
+    "artist": {
+      "id": 34326822,
+      "cover": "http://p2.music.126.net/wKHOoJWRfdAdVb-Om4ENyg==/109951165826274978.jpg",
+      "avatar": "http://p2.music.126.net/8CS4NFyBP_qvWK7cEh7JSQ==/109951173308393777.jpg",
+      "name": "Tlatre特雷西",
+      "transNames": [],
+      "alias": [],
+      "identities": [
+        "作词",
+        "作曲"
+      ],
+      "identifyTag": [
+        "网易音乐人"
+      ],
+      "briefDesc": "原名：张鑫（Zhang Xin） 出生于：浙江省嘉兴市平湖市 现Wake Up唤醒主理人，无签约独立音乐人 商务合作/Feat/演出请私信\n痛苦和狂躁本就相克相生，我希望我的音乐是救赎……",
+      "rank": null,
+      "albumSize": 18,
+      "musicSize": 115,
+      "mvSize": 9
+    },
+    "simpleUserIdentify": {
+      "imageUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+      "imageDesc": "网易音乐人、歌手、作词、作曲等",
+      "actionUrl": "orpheus://rnpage?component=music-reactnative-artistwiki&split=index&artistId=34326822"
+    },
+    "blacklist": false,
+    "preferShow": 5,
+    "showPriMsg": true,
+    "secondaryExpertIdentiy": [
+      {
+        "expertIdentiyId": 5,
+        "expertIdentiyName": "演唱",
+        "expertIdentiyCount": 115
+      },
+      {
+        "expertIdentiyId": 6,
+        "expertIdentiyName": "作词",
+        "expertIdentiyCount": 92
+      },
+      {
+        "expertIdentiyId": 7,
+        "expertIdentiyName": "作曲",
+        "expertIdentiyCount": 89
+      },
+      {
+        "expertIdentiyId": 10,
+        "expertIdentiyName": "编曲",
+        "expertIdentiyCount": 6
+      }
+    ],
+    "eventCount": 234,
+    "user": {
+      "backgroundUrl": "http://p1.music.126.net/KdjobvDOyzktwkpebNeEtw==/109951166599418570.jpg",
+      "birthday": 1101225600000,
+      "detailDescription": "",
+      "authenticated": true,
+      "gender": 1,
+      "city": 100,
+      "signature": "痛苦和狂躁本就相克相生，我希望我的音乐是救赎……Tlatre Call Tlatre Bee & Wake Up唤醒",
+      "description": "",
+      "remarkName": null,
+      "shortUserName": "Tl**re特雷西_WUG",
+      "accountStatus": 0,
+      "locationStatus": 20,
+      "avatarImgId": 109951173308393780,
+      "defaultAvatar": false,
+      "province": 0,
+      "nickname": "Tlatre特雷西_WUG",
+      "expertTags": null,
+      "djStatus": 10,
+      "avatarUrl": "http://p1.music.126.net/8CS4NFyBP_qvWK7cEh7JSQ==/109951173308393777.jpg",
+      "accountType": 1,
+      "authStatus": 1,
+      "vipType": 11,
+      "userName": "Tlatre特雷西_WUG",
+      "followed": false,
+      "userId": 563168625,
+      "lastLoginIP": "",
+      "lastLoginTime": 1793522871430,
+      "authenticationTypes": 4104,
+      "mutual": false,
+      "createTime": 1502338699446,
+      "anchor": true,
+      "authority": 0,
+      "backgroundImgId": 109951166599418580,
+      "userType": 4,
+      "experts": null,
+      "avatarDetail": {
+        "userType": 4,
+        "identityLevel": 1,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png"
+      }
+    }
+  }
+}

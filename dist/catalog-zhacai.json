@@ -1,0 +1,2505 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n94382459",
+    "name": "ZhaCai榨菜",
+    "short": "ZhaCai榨菜",
+    "aliases": [
+      "ZhaCai榨菜",
+      "ZhaCai",
+      "zhacai",
+      "榨菜",
+      "ZHACAI"
+    ],
+    "portrait": "./assets/zhacai-portrait.jpg",
+    "portraitSource": "https://p1.music.126.net/XQhz5C_31bzxvOFcTwCwMw==/109951174129629946.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=94382459"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1796806371"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 25,
+    "neteaseCollected": 25,
+    "neteaseHasMore": false,
+    "listedReleases": 4,
+    "associatedNeteaseReleases": 8,
+    "appleComparedReleases": 1,
+    "appleExtraTracks": 0,
+    "coreAlbums": 2,
+    "from": "2024-07-19",
+    "through": "2026-09-19",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 25 条公开目录记录，涵盖《酒鬼花生》、《藏族小伙子》等 2 个核心项目及与多位说唱音乐人的合作项目。合作发行按逐曲署名收录，早期及未上线作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n94382459",
+      "name": "ZhaCai榨菜",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94382459"
+    },
+    {
+      "id": "n12064019",
+      "name": "连麻Swimming",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12064019"
+    },
+    {
+      "id": "n35828758",
+      "name": "尼日体哈",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35828758"
+    },
+    {
+      "id": "n54247662",
+      "name": "刀脚",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=54247662"
+    },
+    {
+      "id": "n122242189",
+      "name": "2TONE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=122242189"
+    },
+    {
+      "id": "n12291707",
+      "name": "Z Shine",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12291707"
+    },
+    {
+      "id": "n12351306",
+      "name": "山吉SngJaay",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12351306"
+    },
+    {
+      "id": "n33937972",
+      "name": "CashTrippy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33937972"
+    },
+    {
+      "id": "n33165901",
+      "name": "RICHNOMADIC",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=33165901"
+    },
+    {
+      "id": "n94382457",
+      "name": "BabyBAKO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94382457"
+    },
+    {
+      "id": "n13112541",
+      "name": "Gibb-Z黄泽",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13112541"
+    },
+    {
+      "id": "n28642672",
+      "name": "kkluv",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=28642672"
+    },
+    {
+      "id": "n12536560",
+      "name": "Moseee",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12536560"
+    },
+    {
+      "id": "n14117457",
+      "name": "SASIOVERLXRD",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14117457"
+    },
+    {
+      "id": "n50275485",
+      "name": "KKECHO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50275485"
+    },
+    {
+      "id": "cYmRub2x1dg",
+      "name": "BDnoLuv",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cd2xhby50",
+      "name": "Wlao.t",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6I2o6bq755a5",
+      "name": "荨麻疹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cemFibyBtYWRlIHRoaXM",
+      "name": "Zabo Made This",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5bC85pel5o-Q5ZOI",
+      "name": "尼日提哈",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdmFpbmx5Ym9pYXNsYXnDq3Jy",
+      "name": "VainlyBoiAslayërr",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZGJ5dHJpY2s",
+      "name": "ProdByTrick",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hhZGVz",
+      "name": "Shades",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZW5hY3Jh",
+      "name": "Enacra",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGlsY2hlbnhtb21h",
+      "name": "LilChenXMoMa",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ZqG5Y6G5aWH",
+      "name": "隆历奇",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "canBiZWF0cw",
+      "name": "JpBeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhlc3NoYWJv",
+      "name": "thesshabo",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5a2Z5qyh6YOO",
+      "name": "孙次郎",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZC5reXh4eA",
+      "name": "Prod.KYXXX",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZmlzc2Jhc3NiZWF0cw",
+      "name": "FissBassBeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caG9yZWNl",
+      "name": "HORECE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhlc2t5YmVhdHM",
+      "name": "TheSkyBeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2VsbHMxMDg",
+      "name": "Cells108",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceWtmaXJldmliZXM",
+      "name": "YKFireVibes",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c44CK5ZOt5auB5q2M44CLLeWOn-mHjuS4iueahOWjsOmfsw",
+      "name": "《哭嫁歌》-原野上的声音",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5YWL5Yip5a6J55qE5bCP5bGL",
+      "name": "克利安的小屋",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXZhbnRv",
+      "name": "AVANTO",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHRha2VkZWVl",
+      "name": "TTAKEDEEE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGVwbyBvbiBkYSBiZWF0",
+      "name": "Depo On Da Beat",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n398934523",
+      "title": "酒鬼花生",
+      "date": "2026-09-19",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 9,
+      "artistNames": [
+        "ZhaCai榨菜",
+        "RICHNOMADIC"
+      ],
+      "label": "独立发行",
+      "artwork": "./assets/album-398934523.jpg",
+      "artworkSource": "https://p2.music.126.net/NIipLsJjU7q5SLx7j_o_Ew==/109951173955384095.jpg",
+      "source": "https://music.163.com/album?id=398934523",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3437624134",
+        "n3437624133",
+        "n3437624132",
+        "n3437624131",
+        "n3437624130",
+        "n3437624129",
+        "n3437621498",
+        "n3437621496",
+        "n3437621495"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n356827136",
+      "title": "天才在左 疯子在右",
+      "date": "2026-01-01",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "2TONE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-356827136.jpg",
+      "artworkSource": "https://p1.music.126.net/3WV-BzcFeJquOBaUDQmbkg==/109951172522732743.jpg",
+      "source": "https://music.163.com/album?id=356827136",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3335011830"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n276535367",
+      "title": "脚殺传",
+      "date": "2025-06-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "刀脚"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-276535367.jpg",
+      "artworkSource": "https://p1.music.126.net/nvOeEMcz0uY0yb_385-GTg==/109951171366674260.jpg",
+      "source": "https://music.163.com/album?id=276535367",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2720012702"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n266596790",
+      "title": "万古",
+      "date": "2025-03-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "CashTrippy"
+      ],
+      "label": "Nafia Culture/Believe Artist Service",
+      "artwork": "./assets/album-266596790.jpg",
+      "artworkSource": "https://p1.music.126.net/bnlU1kCImWOvUkRH-ijDHA==/109951170644659962.jpg",
+      "source": "https://music.163.com/album?id=266596790",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2686896008"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n262485456",
+      "title": "天使投资人",
+      "date": "2025-02-14",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC",
+        "ZhaCai榨菜"
+      ],
+      "label": null,
+      "artwork": "./assets/album-262485456.jpg",
+      "artworkSource": "https://p2.music.126.net/v1FBejgAsPU1VNffc8kOzw==/109951170473626033.jpg",
+      "source": "https://music.163.com/album?id=262485456",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2674116570"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n253557064",
+      "title": "都在",
+      "date": "2024-11-13",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 19,
+      "artistNames": [
+        "Gibb-Z黄泽"
+      ],
+      "label": "成都瑞奇黑怕文化传媒有限公司",
+      "artwork": "./assets/album-253557064.jpg",
+      "artworkSource": "https://p1.music.126.net/fjozOZdVdJWvGCui6eZfrQ==/109951170144192254.jpg",
+      "source": "https://music.163.com/album?id=253557064",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2645759409"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n242821726",
+      "title": "藏族小伙子",
+      "date": "2024-07-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "RICHNOMADIC",
+        "BabyBAKO",
+        "ZhaCai榨菜"
+      ],
+      "label": "Universal Music China",
+      "artwork": "./assets/album-242821726.jpg",
+      "artworkSource": "https://p2.music.126.net/qlahLqKJ5ljMT6WXE6gc1A==/109951169806047028.jpg",
+      "source": "https://music.163.com/album?id=242821726",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2610279465",
+        "n2610279464",
+        "n2610279463",
+        "n2610279462",
+        "n2610279461",
+        "n2610279460",
+        "n2610279459",
+        "n2610278763",
+        "n2610278762",
+        "n2610278761"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n242607529",
+      "title": "舞台",
+      "date": "2024-07-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ZhaCai榨菜"
+      ],
+      "label": null,
+      "artwork": "./assets/album-242607529.jpg",
+      "artworkSource": "https://p2.music.126.net/M8LD174JtwM414ERgkebUw==/109951169797965743.jpg",
+      "source": "https://music.163.com/album?id=242607529",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2609567629"
+      ],
+      "listedOnArtist": true
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3437624129",
+      "platformId": 3437624129,
+      "title": "OHANA",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 1,
+      "duration": 153045,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624129",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624129",
+          "level": "track"
+        },
+        {
+          "personId": "cYmRub2x1dg",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624129",
+          "level": "track"
+        },
+        {
+          "personId": "cd2xhby50",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624129",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437624129",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "制作人 : BDnoLuv/Wlao.t",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437624129",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437621495",
+      "platformId": 3437621495,
+      "title": "富贵病 Feat.刀脚",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 2,
+      "duration": 172070,
+      "artistIds": [
+        "n94382459",
+        "n54247662"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜/刀脚",
+          "source": "https://music.163.com/song?id=3437621495",
+          "level": "track"
+        },
+        {
+          "personId": "n54247662",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜/刀脚",
+          "source": "https://music.163.com/song?id=3437621495",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜/刀脚",
+          "source": "https://music.163.com/song?id=3437621495",
+          "level": "track"
+        },
+        {
+          "personId": "n54247662",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜/刀脚",
+          "source": "https://music.163.com/song?id=3437621495",
+          "level": "track"
+        },
+        {
+          "personId": "cYmRub2x1dg",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv",
+          "source": "https://music.163.com/song?id=3437621495",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437621495",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜/刀脚",
+        "作曲 : ZhaCai榨菜/刀脚",
+        "制作人 : BDnoLuv",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437621495",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437621496",
+      "platformId": 3437621496,
+      "title": "心绞痛",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 3,
+      "duration": 145910,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437621496",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437621496",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZGJ5dHJpY2s",
+          "role": "制作人",
+          "raw": "制作人 : ProdByTrick",
+          "source": "https://music.163.com/song?id=3437621496",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437621496",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "制作人 : ProdByTrick",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437621496",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437624130",
+      "platformId": 3437624130,
+      "title": "性感夜晚",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 4,
+      "duration": 149203,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624130",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624130",
+          "level": "track"
+        },
+        {
+          "personId": "cYmRub2x1dg",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv",
+          "source": "https://music.163.com/song?id=3437624130",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437624130",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "制作人 : BDnoLuv",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437624130",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437624131",
+      "platformId": 3437624131,
+      "title": "性感早晨 Feat.连麻Swimming",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 5,
+      "duration": 201434,
+      "artistIds": [
+        "n94382459",
+        "n12064019"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜/连麻Swimming",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜/连麻Swimming",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜/连麻Swimming",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜/连麻Swimming",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        },
+        {
+          "personId": "cYmRub2x1dg",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        },
+        {
+          "personId": "cd2xhby50",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437624131",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜/连麻Swimming",
+        "作曲 : ZhaCai榨菜/连麻Swimming",
+        "制作人 : BDnoLuv/Wlao.t",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437624131",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437624132",
+      "platformId": 3437624132,
+      "title": "完弄",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 6,
+      "duration": 130338,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624132",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624132",
+          "level": "track"
+        },
+        {
+          "personId": "cYmRub2x1dg",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624132",
+          "level": "track"
+        },
+        {
+          "personId": "cd2xhby50",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624132",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437624132",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "制作人 : BDnoLuv/Wlao.t",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437624132",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437624133",
+      "platformId": 3437624133,
+      "title": "老花",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 7,
+      "duration": 149621,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624133",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624133",
+          "level": "track"
+        },
+        {
+          "personId": "cemFibyBtYWRlIHRoaXM",
+          "role": "制作人",
+          "raw": "制作人 : Zabo Made This",
+          "source": "https://music.163.com/song?id=3437624133",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437624133",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "制作人 : Zabo Made This",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437624133",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437621498",
+      "platformId": 3437621498,
+      "title": "人世间 Feat.尼日体哈",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 8,
+      "duration": 186266,
+      "artistIds": [
+        "n94382459",
+        "n35828758"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜/尼日提哈",
+          "source": "https://music.163.com/song?id=3437621498",
+          "level": "track"
+        },
+        {
+          "personId": "c5bC85pel5o-Q5ZOI",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜/尼日提哈",
+          "source": "https://music.163.com/song?id=3437621498",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜/尼日提哈",
+          "source": "https://music.163.com/song?id=3437621498",
+          "level": "track"
+        },
+        {
+          "personId": "c5bC85pel5o-Q5ZOI",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜/尼日提哈",
+          "source": "https://music.163.com/song?id=3437621498",
+          "level": "track"
+        },
+        {
+          "personId": "cdmFpbmx5Ym9pYXNsYXnDq3Jy",
+          "role": "制作人",
+          "raw": "制作人 : VainlyBoiAslayërr",
+          "source": "https://music.163.com/song?id=3437621498",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437621498",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜/尼日提哈",
+        "作曲 : ZhaCai榨菜/尼日提哈",
+        "制作人 : VainlyBoiAslayërr",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437621498",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437624134",
+      "platformId": 3437624134,
+      "title": "NPC",
+      "aliases": [],
+      "albumId": "n398934523",
+      "date": "2026-09-19",
+      "trackNumber": 9,
+      "duration": 140618,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624134",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=3437624134",
+          "level": "track"
+        },
+        {
+          "personId": "cYmRub2x1dg",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624134",
+          "level": "track"
+        },
+        {
+          "personId": "cd2xhby50",
+          "role": "制作人",
+          "raw": "制作人 : BDnoLuv/Wlao.t",
+          "source": "https://music.163.com/song?id=3437624134",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3437624134",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "制作人 : BDnoLuv/Wlao.t",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3437624134",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3335011830",
+      "platformId": 3335011830,
+      "title": "风吹麦浪",
+      "aliases": [],
+      "albumId": "n356827136",
+      "date": "2026-01-01",
+      "trackNumber": 1,
+      "duration": 149356,
+      "artistIds": [
+        "n122242189",
+        "n12291707",
+        "n12351306",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n122242189",
+          "role": "作词",
+          "raw": "作词 : 2TONE/山吉SngJaay",
+          "source": "https://music.163.com/song?id=3335011830",
+          "level": "track"
+        },
+        {
+          "personId": "n12351306",
+          "role": "作词",
+          "raw": "作词 : 2TONE/山吉SngJaay",
+          "source": "https://music.163.com/song?id=3335011830",
+          "level": "track"
+        },
+        {
+          "personId": "n122242189",
+          "role": "作曲",
+          "raw": "作曲 : 2TONE/山吉SngJaay",
+          "source": "https://music.163.com/song?id=3335011830",
+          "level": "track"
+        },
+        {
+          "personId": "n12351306",
+          "role": "作曲",
+          "raw": "作曲 : 2TONE/山吉SngJaay",
+          "source": "https://music.163.com/song?id=3335011830",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 2TONE/山吉SngJaay",
+        "作曲 : 2TONE/山吉SngJaay"
+      ],
+      "source": "https://music.163.com/song?id=3335011830",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2720012702",
+      "platformId": 2720012702,
+      "title": "我们爽但他们PTSD",
+      "aliases": [],
+      "albumId": "n276535367",
+      "date": "2025-06-28",
+      "trackNumber": 12,
+      "duration": 169095,
+      "artistIds": [
+        "n54247662",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n54247662",
+          "role": "作词",
+          "raw": "作词 : 刀脚/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : 刀脚/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        },
+        {
+          "personId": "n54247662",
+          "role": "作曲",
+          "raw": "作曲 : 刀脚/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : 刀脚/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hhZGVz",
+          "role": "编曲",
+          "raw": "编曲 : Shades",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        },
+        {
+          "personId": "n54247662",
+          "role": "混音",
+          "raw": "混音 : 刀脚",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "母带",
+          "raw": "母带 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2720012702",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 刀脚/ZhaCai榨菜",
+        "作曲 : 刀脚/ZhaCai榨菜",
+        "编曲 : Shades",
+        "混音 : 刀脚",
+        "母带 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2720012702",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2686896008",
+      "platformId": 2686896008,
+      "title": "东巴",
+      "aliases": [],
+      "albumId": "n266596790",
+      "date": "2025-03-25",
+      "trackNumber": 14,
+      "duration": 184411,
+      "artistIds": [
+        "n33937972",
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "cZW5hY3Jh",
+          "role": "编曲",
+          "raw": "编曲 : Enacra",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "cbGlsY2hlbnhtb21h",
+          "role": "混音",
+          "raw": "混音 : LilChenXMoMa",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "c6ZqG5Y6G5aWH",
+          "role": "母带",
+          "raw": "母带 : 隆历奇",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : Enacra",
+        "混音 : LilChenXMoMa",
+        "母带 : 隆历奇"
+      ],
+      "source": "https://music.163.com/song?id=2686896008",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2674116570",
+      "platformId": 2674116570,
+      "title": "天使投资人",
+      "aliases": [],
+      "albumId": "n262485456",
+      "date": "2025-02-14",
+      "trackNumber": 1,
+      "duration": 140487,
+      "artistIds": [
+        "n33165901",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "canBiZWF0cw",
+          "role": "编曲",
+          "raw": "编曲 : JpBeats",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "母带",
+          "raw": "母带 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/ZhaCai榨菜",
+        "编曲 : JpBeats",
+        "混音 : 荨麻疹",
+        "母带 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2674116570",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2645759409",
+      "platformId": 2645759409,
+      "title": "动了情的痞子 ft zhacai榨菜",
+      "aliases": [],
+      "albumId": "n253557064",
+      "date": "2024-11-13",
+      "trackNumber": 4,
+      "duration": 203190,
+      "artistIds": [
+        "n13112541",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "cdGhlc3NoYWJv",
+          "role": "编曲",
+          "raw": "编曲 : thesshabo",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        },
+        {
+          "personId": "n13112541",
+          "role": "作词",
+          "raw": "作词 : Gibb-Z黄泽/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : Gibb-Z黄泽/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        },
+        {
+          "personId": "n13112541",
+          "role": "作曲",
+          "raw": "作曲 : Gibb-Z黄泽/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : Gibb-Z黄泽/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        },
+        {
+          "personId": "c5a2Z5qyh6YOO",
+          "role": "混音",
+          "raw": "混音 : 孙次郎",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        },
+        {
+          "personId": "c5a2Z5qyh6YOO",
+          "role": "母带",
+          "raw": "母带 : 孙次郎",
+          "source": "https://music.163.com/song?id=2645759409",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : thesshabo",
+        "作词 : Gibb-Z黄泽/ZhaCai榨菜",
+        "作曲 : Gibb-Z黄泽/ZhaCai榨菜",
+        "混音 : 孙次郎",
+        "母带 : 孙次郎"
+      ],
+      "source": "https://music.163.com/song?id=2645759409",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279459",
+      "platformId": 2610279459,
+      "title": "西风烈",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 1,
+      "duration": 184748,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "ceWtmaXJldmliZXM",
+          "role": "编曲",
+          "raw": "编曲 : YKFireVibes",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : YKFireVibes",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279459",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610278761",
+      "platformId": 2610278761,
+      "title": "馈赠",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 2,
+      "duration": 189563,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n33937972"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "cZGVwbyBvbiBkYSBiZWF0",
+          "role": "编曲",
+          "raw": "编曲 : Depo On Da Beat",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+        "编曲 : Depo On Da Beat",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610278761",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610278762",
+      "platformId": 2610278762,
+      "title": "零下八度",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 3,
+      "duration": 150560,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "cdHRha2VkZWVl",
+          "role": "编曲",
+          "raw": "编曲 : TTAKEDEEE",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : TTAKEDEEE",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610278762",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279460",
+      "platformId": 2610279460,
+      "title": "AMIRI",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 4,
+      "duration": 142856,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n14117457"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "c5YWL5Yip5a6J55qE5bCP5bGL",
+          "role": "编曲",
+          "raw": "编曲 : 克利安的小屋",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+        "编曲 : 克利安的小屋",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279460",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279461",
+      "platformId": 2610279461,
+      "title": "天之骄女",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 5,
+      "duration": 216190,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n12536560"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n12536560",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n12536560",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "cY2VsbHMxMDg",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/YKFireVibes",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "ceWtmaXJldmliZXM",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/YKFireVibes",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "c44CK5ZOt5auB5q2M44CLLeWOn-mHjuS4iueahOWjsOmfsw",
+          "role": "采样",
+          "raw": "采样 : 《哭嫁歌》-原野上的声音",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+        "编曲 : Cells108/YKFireVibes",
+        "混音 : 荨麻疹",
+        "采样 : 《哭嫁歌》-原野上的声音"
+      ],
+      "source": "https://music.163.com/song?id=2610279461",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279462",
+      "platformId": 2610279462,
+      "title": "拽娃",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 6,
+      "duration": 133548,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n28642672"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n28642672",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n28642672",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhlc2t5YmVhdHM",
+          "role": "编曲",
+          "raw": "编曲 : TheSkyBeats",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+        "编曲 : TheSkyBeats",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279462",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610278763",
+      "platformId": 2610278763,
+      "title": "得之不易",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 7,
+      "duration": 210627,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n50275485"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n50275485",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n50275485",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "cYXZhbnRv",
+          "role": "编曲",
+          "raw": "编曲 : AVANTO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+        "编曲 : AVANTO",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610278763",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279463",
+      "platformId": 2610279463,
+      "title": "路遥",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 8,
+      "duration": 160000,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "caG9yZWNl",
+          "role": "编曲",
+          "raw": "编曲 : HORECE",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : HORECE",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279463",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279464",
+      "platformId": 2610279464,
+      "title": "365天",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 9,
+      "duration": 173795,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "cZmlzc2Jhc3NiZWF0cw",
+          "role": "编曲",
+          "raw": "编曲 : FissBassBeats",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : FissBassBeats",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279464",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279465",
+      "platformId": 2610279465,
+      "title": "发财必发疯",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 10,
+      "duration": 150204,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZC5reXh4eA",
+          "role": "编曲",
+          "raw": "编曲 : Prod.KYXXX",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : Prod.KYXXX",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279465",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2609567629",
+      "platformId": 2609567629,
+      "title": "网易",
+      "aliases": [],
+      "albumId": "n242607529",
+      "date": "2024-07-19",
+      "trackNumber": 1,
+      "duration": 105674,
+      "artistIds": [
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2609567629",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2609567629",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "编曲",
+          "raw": "编曲 : ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2609567629",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ZhaCai榨菜",
+        "作曲 : ZhaCai榨菜",
+        "编曲 : ZhaCai榨菜"
+      ],
+      "source": "https://music.163.com/song?id=2609567629",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1796806787",
+      "title": "天使投资人 - Single",
+      "date": "2025-02-22",
+      "trackCount": 1,
+      "artist": "RICHNOMADIC & ZhaCai榨菜",
+      "source": "https://music.apple.com/cn/album/%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B5%84%E4%BA%BA-single/1796806787?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/09/bd/4e09bdf5-9047-7a65-b1e3-6b6df38cac54/cover.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期、下架与未正式上线录音",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 25 首歌曲记录。部分早期单曲及未上架版本因各平台版权变动，未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=94382459"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1796806371"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "Apple Music 存在其他同名或相近拼写候选账号（如 Apple ID 1564629785 Zacai 等），未经逐曲核查前保持隔离，不因拼写相同合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=94382459"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1796806371"
+        }
+      ]
+    },
+    {
+      "title": "合作项目逐曲参与",
+      "year": "历年合辑与合作",
+      "status": "按逐曲参与收录",
+      "detail": "与 刀脚（《脚殺传》）、CashTrippy（《万古》）等艺人的合辑及合作项目均按 ZhaCai榨菜 实际逐曲客串/演唱参与收录，不把整张合辑算作个人独唱。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=94382459"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "ZhaCai榨菜 艺名与别名",
+      "detail": "网易云主账号与 Apple 官方主页统一显示为“ZhaCai榨菜”(NetEase: 94382459, Apple: 1796806371)，支持 ZhaCai、榨菜 检索。",
+      "sources": [
+        "https://music.163.com/artist?id=94382459",
+        "https://music.apple.com/cn/artist/1796806371"
+      ]
+    },
+    {
+      "title": "个人核心项目与合作项目",
+      "detail": "收录《酒鬼花生》(9首)、《藏族小伙子》(10首) 2 个核心个人项目。与其他艺人的合作发行按逐曲参与收录。",
+      "sources": [
+        "https://music.163.com/artist?id=94382459"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 25 条平台记录包含录音室版、合作曲目及客串版本，不等于独立个人原创全量；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=94382459"
+      ]
+    }
+  ]
+}

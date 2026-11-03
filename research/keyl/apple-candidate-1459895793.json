@@ -1,0 +1,35 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Keyl",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%88%98%E8%81%AA/1459895793?uo=4",
+      "artistId": 1459895793,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1315938799,
+      "collectionId": 6828325686,
+      "artistName": "Kafe.Hu, Kyra Zilver, 刘聪 & 功夫胖",
+      "collectionName": "永恒少年 - Single",
+      "collectionCensoredName": "永恒少年 - Single",
+      "artistViewUrl": "https://music.apple.com/cn/artist/kafe-hu/1315938799?uo=4",
+      "collectionViewUrl": "https://music.apple.com/cn/album/%E6%B0%B8%E6%81%92%E5%B0%91%E5%B9%B4-single/6828325686?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/1a/6a/9d1a6a44-3914-b684-43ee-faeed62440bf/26UM1IM41201.rgb.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9d/1a/6a/9d1a6a44-3914-b684-43ee-faeed62440bf/26UM1IM41201.rgb.jpg/100x100bb.jpg",
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 1,
+      "copyright": "℗ 2026 1520Vandal Music",
+      "country": "CHN",
+      "currency": "CNY",
+      "releaseDate": "2026-10-31T07:00:00Z",
+      "primaryGenreName": "Hip-Hop"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jesse MargieLa",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jesse-margiela/1652274326?uo=4",
+      "artistId": 1652274326,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "卡力老虎",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8D%A1%E5%8A%9B%E8%80%81%E8%99%8E/1721317505?uo=4",
+      "artistId": 1721317505,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lil Maru",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lil-maru/1461087599?uo=4",
+      "artistId": 1461087599,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

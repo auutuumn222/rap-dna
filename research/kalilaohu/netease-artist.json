@@ -1,0 +1,8026 @@
+{
+  "artist": {
+    "img1v1Id": 109951173998104380,
+    "topicPerson": 0,
+    "followed": false,
+    "trans": "",
+    "picId": 109951163398383360,
+    "briefDesc": "来自wastedclub ",
+    "musicSize": 90,
+    "albumSize": 22,
+    "picUrl": "https://p2.music.126.net/UJxoGQOBaj7NTghEQvIeZA==/109951163398383358.jpg",
+    "img1v1Url": "https://p2.music.126.net/etnJ3zmTQB4ajXNc_TgSaw==/109951173998104388.jpg",
+    "alias": [],
+    "name": "卡力老虎",
+    "id": 12205952,
+    "publishTime": 1531108623911,
+    "accountId": 89573284,
+    "picId_str": "109951163398383358",
+    "img1v1Id_str": "109951173998104388",
+    "mvSize": 2
+  },
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8258917,
+        "vd": -73163,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1097223,
+        "fid": 0,
+        "size": 28314227,
+        "vd": -73139,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3303593,
+        "vd": -69217,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 11,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 206415,
+      "mark": 17180925952,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4955368,
+        "vd": -70704,
+        "sr": 44100
+      },
+      "name": "机会到了我们出",
+      "id": 3440172856,
+      "privilege": {
+        "id": 3440172856,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6268845,
+        "vd": -77503,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1119650,
+        "fid": 0,
+        "size": 21929393,
+        "vd": -77489,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1886579,
+        "fid": 0,
+        "size": 36948431,
+        "vd": -77489,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2507565,
+        "vd": -73449,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 156666,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3761325,
+        "vd": -74956,
+        "sr": 48000
+      },
+      "name": "高雅且隐晦",
+      "id": 3440172851,
+      "privilege": {
+        "id": 3440172851,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 12919519,
+          "name": "Matt吕彦良"
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7803885,
+        "vd": -73160,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1060582,
+        "fid": 0,
+        "size": 25860691,
+        "vd": -73164,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1830420,
+        "fid": 0,
+        "size": 44629417,
+        "vd": -73164,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3121581,
+        "vd": -69095,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 195040,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4682349,
+        "vd": -70626,
+        "sr": 48000
+      },
+      "name": "当你环绕我",
+      "id": 3440172853,
+      "privilege": {
+        "id": 3440172853,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6461693,
+        "vd": -80475,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1071931,
+        "fid": 0,
+        "size": 21640131,
+        "vd": -80447,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2584703,
+        "vd": -76668,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 161481,
+      "mark": 17180925952,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3877033,
+        "vd": -77976,
+        "sr": 44100
+      },
+      "name": "我真的还想再活500年",
+      "id": 3440172361,
+      "privilege": {
+        "id": 3440172361,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7132517,
+        "vd": -98621,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1180510,
+        "fid": 0,
+        "size": 26306556,
+        "vd": -98627,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2853033,
+        "vd": -94822,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 178250,
+      "mark": 17180925952,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4279528,
+        "vd": -96191,
+        "sr": 44100
+      },
+      "name": "球总会进的",
+      "id": 3440172364,
+      "privilege": {
+        "id": 3440172364,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12874853,
+          "name": "河北吴孟达"
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7657005,
+        "vd": -74603,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1171112,
+        "fid": 0,
+        "size": 28015840,
+        "vd": -74572,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1936468,
+        "fid": 0,
+        "size": 46322701,
+        "vd": -74572,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3062829,
+        "vd": -70832,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 191355,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4594221,
+        "vd": -72176,
+        "sr": 48000
+      },
+      "name": "堆太高",
+      "id": 3440172855,
+      "privilege": {
+        "id": 3440172855,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5831619,
+        "vd": -79240,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1118645,
+        "fid": 0,
+        "size": 20378674,
+        "vd": -79193,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2332674,
+        "vd": -75410,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 145718,
+      "mark": 17180925952,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3498989,
+        "vd": -76845,
+        "sr": 44100
+      },
+      "name": "乐色音乐",
+      "id": 3440172852,
+      "privilege": {
+        "id": 3440172852,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5703097,
+        "vd": -74733,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1078478,
+        "fid": 0,
+        "size": 19214646,
+        "vd": -74698,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2281265,
+        "vd": -71007,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 142511,
+      "mark": 17180925952,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3421875,
+        "vd": -72303,
+        "sr": 44100
+      },
+      "name": "太古飞",
+      "id": 3440172854,
+      "privilege": {
+        "id": 3440172854,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 50040751,
+          "name": "SABER徐天知",
+          "alia": [
+            "Saber然后"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 356574739,
+        "name": "HUSH",
+        "picUrl": "https://p1.music.126.net/KVxOjgWnI4HxMKiPNo94KA==/109951172516211467.jpg",
+        "pic_str": "109951172516211467",
+        "pic": 109951172516211470
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [
+        "Prod.REDBOI"
+      ],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6141165,
+        "vd": -63033,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1049214,
+        "fid": 0,
+        "size": 20131214,
+        "vd": -63029,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1819470,
+        "fid": 0,
+        "size": 34907952,
+        "vd": -63029,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2456493,
+        "vd": -58837,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 34724522,
+      "cd": "01",
+      "t": 0,
+      "v": 19,
+      "dt": 153473,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3684717,
+        "vd": -60453,
+        "sr": 48000
+      },
+      "name": "Why Not ft.卡力老虎&JesseMargiela",
+      "id": 3334255093,
+      "privilege": {
+        "id": 3334255093,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p2.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5041965,
+        "vd": -71310,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1178466,
+        "fid": 0,
+        "size": 18562404,
+        "vd": -71273,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1939217,
+        "fid": 0,
+        "size": 30543739,
+        "vd": -71273,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2016813,
+        "vd": -67268,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 26,
+      "dt": 125994,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3025197,
+        "vd": -68824,
+        "sr": 48000
+      },
+      "name": "哥哥的哥哥",
+      "id": 2690538585,
+      "privilege": {
+        "id": 2690538585,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 356551015,
+        "name": "跳跳男",
+        "picUrl": "https://p2.music.126.net/BnN_rsa80z0pdWuxe8gLgA==/109951172517442452.jpg",
+        "pic_str": "109951172517442452",
+        "pic": 109951172517442450
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5488365,
+        "vd": -72274,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1068066,
+        "fid": 0,
+        "size": 18312279,
+        "vd": -72257,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1837823,
+        "fid": 0,
+        "size": 31508109,
+        "vd": -72257,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2195373,
+        "vd": -68498,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 137142,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3293037,
+        "vd": -69791,
+        "sr": 48000
+      },
+      "name": "跳跳男",
+      "id": 3333973299,
+      "privilege": {
+        "id": 3333973299,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 35009085,
+          "name": "Vansdaddy",
+          "alia": [
+            "VD"
+          ]
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7908525,
+        "vd": -67218,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1042008,
+        "fid": 0,
+        "size": 25747385,
+        "vd": -67210,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1812220,
+        "fid": 0,
+        "size": 44776149,
+        "vd": -67210,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3163437,
+        "vd": -63032,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 12,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 197647,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4745133,
+        "vd": -64644,
+        "sr": 48000
+      },
+      "name": "我不是爷叔",
+      "id": 3440172366,
+      "privilege": {
+        "id": 3440172366,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5681325,
+        "vd": -61798,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 951646,
+        "fid": 0,
+        "size": 16891009,
+        "vd": -61788,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1718438,
+        "fid": 0,
+        "size": 30498866,
+        "vd": -61788,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2272557,
+        "vd": -57605,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 13,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 141971,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3408813,
+        "vd": -59218,
+        "sr": 48000
+      },
+      "name": "活在阳光下",
+      "id": 3440172857,
+      "privilege": {
+        "id": 3440172857,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5676525,
+        "vd": -81653,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1149093,
+        "fid": 0,
+        "size": 20376195,
+        "vd": -81642,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1919878,
+        "fid": 0,
+        "size": 34042295,
+        "vd": -81642,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2270637,
+        "vd": -77567,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 141840,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3405933,
+        "vd": -79100,
+        "sr": 48000
+      },
+      "name": "如鲠在喉",
+      "id": 3440172365,
+      "privilege": {
+        "id": 3440172365,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p2.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4863405,
+        "vd": -68940,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1099822,
+        "fid": 0,
+        "size": 16708452,
+        "vd": -68919,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1868398,
+        "fid": 0,
+        "size": 28383016,
+        "vd": -68919,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1945389,
+        "vd": -65130,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 121519,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2918061,
+        "vd": -66426,
+        "sr": 48000
+      },
+      "name": "邪恶的难以置信的",
+      "id": 2690538584,
+      "privilege": {
+        "id": 2690538584,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 400112541,
+        "name": "商业与玩法",
+        "picUrl": "https://p1.music.126.net/rt6_mInoqx0iqImk9qng2w==/109951173986994634.jpg",
+        "pic_str": "109951173986994634",
+        "pic": 109951173986994640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 4561965,
+        "vd": -82365,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1161130,
+        "fid": 0,
+        "size": 16548246,
+        "vd": -82339,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1931490,
+        "fid": 0,
+        "size": 27525868,
+        "vd": -82340,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 1824813,
+        "vd": -78508,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 114000,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 2737197,
+        "vd": -79860,
+        "sr": 48000
+      },
+      "name": "高朋满座",
+      "id": 3440172362,
+      "privilege": {
+        "id": 3440172362,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 50040751,
+          "name": "SABER徐天知",
+          "alia": [
+            "Saber然后"
+          ]
+        }
+      ],
+      "al": {
+        "id": 288270972,
+        "name": "古飞爱",
+        "picUrl": "https://p1.music.126.net/lEJkaq4PcknwOcxecuy0xQ==/109951172145182642.jpg",
+        "pic_str": "109951172145182642",
+        "pic": 109951172145182640
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5545965,
+        "vd": -69274,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1079594,
+        "fid": 0,
+        "size": 18706556,
+        "vd": -69267,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1850122,
+        "fid": 0,
+        "size": 32055964,
+        "vd": -69267,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2218413,
+        "vd": -64992,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 138600,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3327597,
+        "vd": -66679,
+        "sr": 48000
+      },
+      "name": "古飞爱",
+      "id": 2755061931,
+      "privilege": {
+        "id": 2755061931,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34279756,
+          "name": "李文"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 278950325,
+        "name": "那段时间",
+        "picUrl": "https://p1.music.126.net/yecImQvKmk7N1KpyzX2Now==/109951171495863260.jpg",
+        "pic_str": "109951171495863260",
+        "pic": 109951171495863260
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5572845,
+        "vd": -53275,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1073042,
+        "fid": 0,
+        "size": 18682119,
+        "vd": -53258,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1843761,
+        "fid": 0,
+        "size": 32098804,
+        "vd": -53258,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2229165,
+        "vd": -49536,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 139264,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3343725,
+        "vd": -50778,
+        "sr": 48000
+      },
+      "name": "韦东奕",
+      "id": 2728101210,
+      "privilege": {
+        "id": 2728101210,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15199355,
+          "name": "陷阱歌手克劳德",
+          "alia": [
+            "郭阳正"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 390737389,
+        "name": "Trap Boi Mixtape",
+        "picUrl": "https://p1.music.126.net/BLvOGCnP4NMo0CdUyFCVtA==/109951174097816102.jpg",
+        "pic_str": "109951174097816102",
+        "pic": 109951174097816100
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [
+        "Feat.卡力老虎"
+      ],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7372845,
+        "vd": -70115,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1206614,
+        "fid": 0,
+        "size": 27794477,
+        "vd": -70082,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2949165,
+        "vd": -66121,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 13,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 184258,
+      "mark": 17180925952,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4423725,
+        "vd": -67664,
+        "sr": 48000
+      },
+      "name": "Trap Boi",
+      "id": 3416374394,
+      "privilege": {
+        "id": 3416374394,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p1.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6811245,
+        "vd": -53740,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 973886,
+        "fid": 0,
+        "size": 20724157,
+        "vd": -53726,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1741031,
+        "fid": 0,
+        "size": 37046390,
+        "vd": -53726,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2724525,
+        "vd": -49858,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 170212,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4086765,
+        "vd": -51219,
+        "sr": 48000
+      },
+      "name": "你说",
+      "id": 2690540453,
+      "privilege": {
+        "id": 2690540453,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p1.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6959085,
+        "vd": -65281,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1057010,
+        "fid": 0,
+        "size": 22981711,
+        "vd": -65268,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1816820,
+        "fid": 0,
+        "size": 39499311,
+        "vd": -65268,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2783661,
+        "vd": -61447,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 25,
+      "dt": 173913,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4175469,
+        "vd": -62791,
+        "sr": 48000
+      },
+      "name": "什么鬼",
+      "id": 2690540449,
+      "privilege": {
+        "id": 2690540449,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12874853,
+          "name": "河北吴孟达"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 57505069,
+          "name": "WASTED CLUB"
+        }
+      ],
+      "al": {
+        "id": 172172163,
+        "name": "大牌走在东里路",
+        "picUrl": "https://p1.music.126.net/LFPTExq-CBoIKpNcn6dlGw==/109951174017872696.jpg",
+        "pic_str": "109951174017872696",
+        "pic": 109951174017872700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7836525,
+        "vd": -54094,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1069538,
+        "fid": 0,
+        "size": 26184601,
+        "vd": -54159,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1838970,
+        "fid": 0,
+        "size": 45021944,
+        "vd": -54216,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3134637,
+        "vd": -50082,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 14636680,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 195857,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4701933,
+        "vd": -51591,
+        "sr": 48000
+      },
+      "name": "花瓣儿",
+      "id": 2072637507,
+      "privilege": {
+        "id": 2072637507,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p1.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5665965,
+        "vd": -71585,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1064136,
+        "fid": 0,
+        "size": 18835554,
+        "vd": -71574,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1834255,
+        "fid": 0,
+        "size": 32465003,
+        "vd": -71574,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2266413,
+        "vd": -67729,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 25,
+      "dt": 141582,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3399597,
+        "vd": -69041,
+        "sr": 48000
+      },
+      "name": "露露柠檬",
+      "id": 2690540451,
+      "privilege": {
+        "id": 2690540451,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p1.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7323885,
+        "vd": -60499,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1206118,
+        "fid": 0,
+        "size": 27599371,
+        "vd": -60469,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1976486,
+        "fid": 0,
+        "size": 45225404,
+        "vd": -60469,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2929581,
+        "vd": -56523,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 25,
+      "dt": 183040,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4394349,
+        "vd": -58037,
+        "sr": 48000
+      },
+      "name": "高天佐",
+      "id": 2690540450,
+      "privilege": {
+        "id": 2690540450,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p2.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5625645,
+        "vd": -64885,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1137374,
+        "fid": 0,
+        "size": 19987922,
+        "vd": -64860,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1907560,
+        "fid": 0,
+        "size": 33521185,
+        "vd": -64860,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2250285,
+        "vd": -61431,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 26,
+      "dt": 140571,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3375405,
+        "vd": -62524,
+        "sr": 48000
+      },
+      "name": "我有几分像从前",
+      "id": 2690538587,
+      "privilege": {
+        "id": 2690538587,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 252576872,
+        "name": "地下的小众的",
+        "picUrl": "https://p1.music.126.net/cGNwiLjvud-gHwR-lIAkpg==/109951170104779985.jpg",
+        "pic_str": "109951170104779985",
+        "pic": 109951170104779980
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5579565,
+        "vd": -60674,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1066418,
+        "fid": 0,
+        "size": 18587218,
+        "vd": -60657,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1836515,
+        "fid": 0,
+        "size": 32009683,
+        "vd": -60649,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2231853,
+        "vd": -56721,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 139436,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3347757,
+        "vd": -58149,
+        "sr": 48000
+      },
+      "name": "地下的小众的",
+      "id": 2642283709,
+      "privilege": {
+        "id": 2642283709,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 15199355,
+          "name": "陷阱歌手克劳德",
+          "alia": [
+            "郭阳正"
+          ]
+        },
+        {
+          "id": 12874853,
+          "name": "河北吴孟达"
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p2.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6705645,
+        "vd": -81230,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1129863,
+        "fid": 0,
+        "size": 23670070,
+        "vd": -81209,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1900680,
+        "fid": 0,
+        "size": 39816178,
+        "vd": -81209,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2682285,
+        "vd": -77312,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 27,
+      "dt": 167573,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4023405,
+        "vd": -78768,
+        "sr": 48000
+      },
+      "name": "中国杰克",
+      "id": 2690538583,
+      "privilege": {
+        "id": 2690538583,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        },
+        {
+          "id": 12114249,
+          "name": "大D(DLyn)",
+          "alia": [
+            "林慧东"
+          ]
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        }
+      ],
+      "al": {
+        "id": 267784482,
+        "name": "幽默与笑话",
+        "picUrl": "https://p2.music.126.net/A_Wr1zYxHAU9bFt5wL6u6Q==/109951173753553418.jpg",
+        "pic_str": "109951173753553418",
+        "pic": 109951173753553420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8098605,
+        "vd": -75518,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1121318,
+        "fid": 0,
+        "size": 28374058,
+        "vd": -75501,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1891346,
+        "fid": 0,
+        "size": 47856456,
+        "vd": -75501,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3239469,
+        "vd": -71532,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 25,
+      "dt": 202407,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4859181,
+        "vd": -72991,
+        "sr": 48000
+      },
+      "name": "马斯克",
+      "id": 2690538586,
+      "privilege": {
+        "id": 2690538586,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 94851099,
+          "name": "UDG Records"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 284863885,
+        "name": "UDG FRESHMAN 2025 CYPHER",
+        "picUrl": "https://p1.music.126.net/1hZhMCW3My0D3aY_co0xmA==/109951172006702433.jpg",
+        "pic_str": "109951172006702433",
+        "pic": 109951172006702430
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3149805,
+        "vd": -82708,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1170726,
+        "fid": 0,
+        "size": 11515393,
+        "vd": -82717,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1940626,
+        "fid": 0,
+        "size": 19087218,
+        "vd": -82717,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1259949,
+        "vd": -78840,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 78678,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 1889901,
+        "vd": -80167,
+        "sr": 48000
+      },
+      "name": "冰冷手段",
+      "id": 2745695273,
+      "privilege": {
+        "id": 2745695273,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 51657163,
+          "name": "Sin酱",
+          "alia": [
+            "Sin4luv"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 247319520,
+        "name": "我考上大专了",
+        "picUrl": "https://p1.music.126.net/CPGHDNQ7Aqhpe0S3uhpHdQ==/109951169945335305.jpg",
+        "pic_str": "109951169945335305",
+        "pic": 109951169945335310
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5097645,
+        "vd": -66793,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 924639,
+        "fid": 0,
+        "size": 14723103,
+        "vd": -67212,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1690774,
+        "fid": 0,
+        "size": 26922338,
+        "vd": -66722,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2039085,
+        "vd": -62587,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 127384,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3058605,
+        "vd": -64194,
+        "sr": 48000
+      },
+      "name": "我考上大专了",
+      "id": 2625253268,
+      "privilege": {
+        "id": 2625253268,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13029082,
+          "name": "azazel"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 32870400,
+          "name": "heechoo"
+        }
+      ],
+      "al": {
+        "id": 366982260,
+        "name": "22&Winin",
+        "picUrl": "https://p1.music.126.net/Y4mNNUpSUP9dCXgVw4nXfQ==/109951172908860300.jpg",
+        "pic_str": "109951172908860300",
+        "pic": 109951172908860300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4296045,
+        "vd": -86069,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1140374,
+        "fid": 0,
+        "size": 15301461,
+        "vd": -86050,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1911175,
+        "fid": 0,
+        "size": 25642650,
+        "vd": -86050,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1718445,
+        "vd": -81886,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 16,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 107329,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2577645,
+        "vd": -83572,
+        "sr": 48000
+      },
+      "name": "说和唱",
+      "id": 3360881927,
+      "privilege": {
+        "id": 3360881927,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 35009085,
+          "name": "Vansdaddy",
+          "alia": [
+            "VD"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 351117737,
+        "name": "都市醉漢",
+        "picUrl": "https://p1.music.126.net/5an8DUwXGbDb0lWUdTl3ug==/109951172314748758.jpg",
+        "pic_str": "109951172314748758",
+        "pic": 109951172314748750
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5780205,
+        "vd": -49210,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1005921,
+        "fid": 0,
+        "size": 18164854,
+        "vd": -49199,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1776178,
+        "fid": 0,
+        "size": 32072024,
+        "vd": -49199,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2312109,
+        "vd": -45037,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 144441,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3468141,
+        "vd": -46630,
+        "sr": 48000
+      },
+      "name": "丢掉工作的丈夫",
+      "id": 3319813403,
+      "privilege": {
+        "id": 3319813403,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49800238,
+          "name": "绵阳STAR"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 32432915,
+          "name": "爱不过三年",
+          "alia": [
+            "王柄翰"
+          ]
+        }
+      ],
+      "al": {
+        "id": 244608795,
+        "name": "ENJOY DA PAIN",
+        "picUrl": "https://p1.music.126.net/9EGU0rRc-j3CwbYAXb7IHw==/109951169860726416.jpg",
+        "pic_str": "109951169860726416",
+        "pic": 109951169860726420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8284845,
+        "vd": -53996,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1012256,
+        "fid": 0,
+        "size": 26198560,
+        "vd": -54117,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1782606,
+        "fid": 0,
+        "size": 46136246,
+        "vd": -54241,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3313965,
+        "vd": -49780,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 207050,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4970925,
+        "vd": -51419,
+        "sr": 48000
+      },
+      "name": "ENJOY DA PAIN",
+      "id": 2616100782,
+      "privilege": {
+        "id": 2616100782,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 283080124,
+        "name": "钱专",
+        "picUrl": "https://p2.music.126.net/qHTjyT3VTl0tZyWnq9VaSA==/109951173955320630.jpg",
+        "pic_str": "109951173955320630",
+        "pic": 109951173955320620
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 7002,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8322285,
+        "vd": -16584,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 798828,
+        "fid": 0,
+        "size": 20773806,
+        "vd": -16584,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1568185,
+        "fid": 0,
+        "size": 40777517,
+        "vd": -16584,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3328941,
+        "vd": -12181,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "2 我得赚钱",
+      "t": 0,
+      "v": 13,
+      "dt": 208004,
+      "mark": 17716871168,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4993389,
+        "vd": -13956,
+        "sr": 48000
+      },
+      "name": "Re:Intro",
+      "id": 2740498014,
+      "privilege": {
+        "id": 2740498014,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 148817435,
+        "name": "答应我会幸福",
+        "picUrl": "https://p1.music.126.net/oX5o-Jww_qAj2IjnCi_aSQ==/109951173999073878.jpg",
+        "pic_str": "109951173999073878",
+        "pic": 109951173999073870
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5547885,
+        "vd": -65078,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1097616,
+        "fid": 0,
+        "size": 19022402,
+        "vd": -65064,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1867972,
+        "fid": 0,
+        "size": 32373185,
+        "vd": -65064,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2219181,
+        "vd": -61104,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 15,
+      "dt": 138645,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3328749,
+        "vd": -62556,
+        "sr": 48000
+      },
+      "name": "血freestyle（Ft.天神飞降小队）",
+      "id": 1967750135,
+      "privilege": {
+        "id": 1967750135,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 55586023,
+          "name": "Ken！",
+          "alia": [
+            "魔盗团长",
+            "李森"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 272165853,
+        "name": "Crazy Tape！",
+        "picUrl": "https://p1.music.126.net/TCzeXTddj1NygGOB5op_OA==/109951170989007467.jpg",
+        "pic_str": "109951170989007467",
+        "pic": 109951170989007470
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320004,
+        "fid": 0,
+        "size": 3644205,
+        "vd": -60058,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1156304,
+        "fid": 0,
+        "size": 13161929,
+        "vd": -60091,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1924929,
+        "fid": 0,
+        "size": 21909846,
+        "vd": -60090,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128004,
+        "fid": 0,
+        "size": 1457709,
+        "vd": -56086,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 91050,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192004,
+        "fid": 0,
+        "size": 2186541,
+        "vd": -57501,
+        "sr": 48000
+      },
+      "name": "地下魔盗团",
+      "id": 2705468664,
+      "privilege": {
+        "id": 2705468664,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12874853,
+          "name": "河北吴孟达"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 46356020,
+          "name": "周乘羽",
+          "alia": [
+            "杰西马吉拉"
+          ]
+        }
+      ],
+      "al": {
+        "id": 366639373,
+        "name": "气质流氓",
+        "picUrl": "https://p1.music.126.net/7Zz98Jhd4pISE-gzJmetgA==/109951172899880970.jpg",
+        "pic_str": "109951172899880970",
+        "pic": 109951172899880980
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6297645,
+        "vd": -51412,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1066977,
+        "fid": 0,
+        "size": 20992366,
+        "vd": -51376,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1836769,
+        "fid": 0,
+        "size": 36135631,
+        "vd": -51376,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2519085,
+        "vd": -47668,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 157375,
+      "mark": 17717796864,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3778605,
+        "vd": -48977,
+        "sr": 48000
+      },
+      "name": "坠入脑海",
+      "id": 3360104894,
+      "privilege": {
+        "id": 3360104894,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 53597603,
+          "name": "迪诺哥",
+          "alia": [
+            "DinoSuperfast    ",
+            "DINOVA"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 270801595,
+        "name": "事闹大了",
+        "picUrl": "https://p1.music.126.net/mPz94aplVAwjNqqSn13rXA==/109951170938602322.jpg",
+        "pic_str": "109951170938602322",
+        "pic": 109951170938602320
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6005805,
+        "vd": -68895,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1073373,
+        "fid": 0,
+        "size": 20139287,
+        "vd": -68890,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1844234,
+        "fid": 0,
+        "size": 34600635,
+        "vd": -68889,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2402349,
+        "vd": -64774,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 150080,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3603501,
+        "vd": -66305,
+        "sr": 48000
+      },
+      "name": "扇耳光比赛",
+      "id": 2701004457,
+      "privilege": {
+        "id": 2701004457,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15199355,
+          "name": "陷阱歌手克劳德",
+          "alia": [
+            "郭阳正"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 249363290,
+        "name": "高档饮品",
+        "picUrl": "https://p1.music.126.net/sl4oVt-hOelq-_SFg9cpIw==/109951170003219811.jpg",
+        "pic_str": "109951170003219811",
+        "pic": 109951170003219800,
+        "alia": [
+          "蜜雪冰城我最爱喝"
+        ]
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [
+        "蜜雪冰城我最爱喝"
+      ],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5957007,
+        "vd": -60317,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1515922,
+        "fid": 0,
+        "size": 28207673,
+        "vd": -60288,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2382829,
+        "vd": -55939,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 148860,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3574222,
+        "vd": -57687,
+        "sr": 44100
+      },
+      "name": "高档饮品",
+      "id": 2632241481,
+      "privilege": {
+        "id": 2632241481,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 30475296,
+          "name": "ksovii"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 12194053,
+          "name": "邢翰维",
+          "alia": [
+            "邢大人"
+          ]
+        }
+      ],
+      "al": {
+        "id": 381993991,
+        "name": "去哪儿？",
+        "picUrl": "https://p1.music.126.net/o3cqt34NFfy6yWFl3Y0Q_g==/109951173397788090.jpg",
+        "pic_str": "109951173397788090",
+        "pic": 109951173397788100
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4870125,
+        "vd": -53594,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1099619,
+        "fid": 0,
+        "size": 16730591,
+        "vd": -53577,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1870392,
+        "fid": 0,
+        "size": 28456222,
+        "vd": -53577,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1948077,
+        "vd": -49520,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 121702,
+      "mark": 536879104,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2922093,
+        "vd": -51040,
+        "sr": 48000
+      },
+      "name": "不解释",
+      "id": 3394402406,
+      "privilege": {
+        "id": 3394402406,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 30475296,
+          "name": "ksovii"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 36634815,
+          "name": "樊音悦动"
+        }
+      ],
+      "al": {
+        "id": 190360690,
+        "name": "钱多多",
+        "picUrl": "https://p1.music.126.net/xpGZln6Vr02Xm7GoKLXLuA==/109951169451071153.jpg",
+        "pic_str": "109951169451071153",
+        "pic": 109951169451071150
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5531565,
+        "vd": -54017,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 980692,
+        "fid": 0,
+        "size": 16946363,
+        "vd": -54780,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1749622,
+        "fid": 0,
+        "size": 30233476,
+        "vd": -54079,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2212653,
+        "vd": -49797,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 138240,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3318957,
+        "vd": -51434,
+        "sr": 48000
+      },
+      "name": "钱多多",
+      "id": 2140381730,
+      "privilege": {
+        "id": 2140381730,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12215165,
+          "name": "卡力鲨鱼"
+        },
+        {
+          "id": 27866110,
+          "name": "Louis 1520",
+          "alia": [
+            "1520"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 12874853,
+          "name": "河北吴孟达"
+        },
+        {
+          "id": 58030663,
+          "name": "卡力蛇"
+        },
+        {
+          "id": 57505069,
+          "name": "WASTED CLUB"
+        }
+      ],
+      "al": {
+        "id": 172172163,
+        "name": "大牌走在东里路",
+        "picUrl": "https://p1.music.126.net/LFPTExq-CBoIKpNcn6dlGw==/109951174017872696.jpg",
+        "pic_str": "109951174017872696",
+        "pic": 109951174017872700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4744365,
+        "vd": -64423,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1025792,
+        "fid": 0,
+        "size": 15200956,
+        "vd": -65452,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1795545,
+        "fid": 0,
+        "size": 26607742,
+        "vd": -64411,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1897773,
+        "vd": -60262,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 118550,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2846637,
+        "vd": -61866,
+        "sr": 48000
+      },
+      "name": "团员介绍",
+      "id": 2072643646,
+      "privilege": {
+        "id": 2072643646,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12215165,
+          "name": "卡力鲨鱼"
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 57505069,
+          "name": "WASTED CLUB"
+        },
+        {
+          "id": 58030663,
+          "name": "卡力蛇"
+        }
+      ],
+      "al": {
+        "id": 172172163,
+        "name": "大牌走在东里路",
+        "picUrl": "https://p1.music.126.net/LFPTExq-CBoIKpNcn6dlGw==/109951174017872696.jpg",
+        "pic_str": "109951174017872696",
+        "pic": 109951174017872700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10370925,
+        "vd": -65778,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 982852,
+        "fid": 0,
+        "size": 31844433,
+        "vd": -65866,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1753233,
+        "fid": 0,
+        "size": 56804758,
+        "vd": -65796,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4148397,
+        "vd": -61349,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 259200,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6222573,
+        "vd": -63138,
+        "sr": 48000
+      },
+      "name": "purr",
+      "id": 2072640087,
+      "privilege": {
+        "id": 2072640087,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12704500,
+          "name": "Chalky Wong",
+          "alia": [
+            "真龙"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 390942349,
+        "name": "BALDNESS",
+        "picUrl": "https://p1.music.126.net/Ta8-Unle3sQKOj0YyOn62g==/109951173699155483.jpg",
+        "pic_str": "109951173699155483",
+        "pic": 109951173699155490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 4584648,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 3371565,
+        "vd": -56637,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1067976,
+        "fid": 0,
+        "size": 11244479,
+        "vd": -56617,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1826379,
+        "fid": 0,
+        "size": 19228389,
+        "vd": -56617,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1348653,
+        "vd": -52500,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 24,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 84218,
+      "mark": 536879104,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2022957,
+        "vd": -54107,
+        "sr": 48000
+      },
+      "name": "对不起有用还要法律做什么",
+      "id": 3416789384,
+      "privilege": {
+        "id": 3416789384,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46757100,
+          "name": "A1 TRIP"
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 94423216,
+          "name": "范小勤（小马云）"
+        }
+      ],
+      "al": {
+        "id": 242599834,
+        "name": "小马云Flow Pt.2",
+        "picUrl": "https://p1.music.126.net/UAT4lGWgLT_DY44k5HVMKA==/109951169796449679.jpg",
+        "pic_str": "109951169796449679",
+        "pic": 109951169796449680
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 1419026,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4116525,
+        "vd": -68915,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 963645,
+        "fid": 0,
+        "size": 12389729,
+        "vd": -69097,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1733199,
+        "fid": 0,
+        "size": 22283989,
+        "vd": -68912,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1646637,
+        "vd": -64681,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 102857,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2469933,
+        "vd": -66314,
+        "sr": 48000
+      },
+      "name": "小马云Flow Pt.2",
+      "id": 2609419909,
+      "privilege": {
+        "id": 2609419909,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 55701379,
+          "name": "柴行敏",
+          "alia": [
+            "郑州人"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 270037164,
+        "name": "Read Me",
+        "picUrl": "https://p1.music.126.net/3UWLf4rtbAqWZsB9INFzRg==/109951170861266107.jpg",
+        "pic_str": "109951170861266107",
+        "pic": 109951170861266110
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6154605,
+        "vd": -40269,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 998656,
+        "fid": 0,
+        "size": 19203704,
+        "vd": -40270,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 2964830,
+        "fid": 0,
+        "size": 57006704,
+        "vd": -40292,
+        "sr": 96000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2461869,
+        "vd": -35909,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 153813,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3692781,
+        "vd": -37647,
+        "sr": 48000
+      },
+      "name": "郑州没有爱",
+      "id": 2698491685,
+      "privilege": {
+        "id": 2698491685,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 12114249,
+          "name": "大D(DLyn)",
+          "alia": [
+            "林慧东"
+          ]
+        }
+      ],
+      "al": {
+        "id": 180629675,
+        "name": "小马云Flow",
+        "picUrl": "https://p1.music.126.net/q814AWhD7tNPDHdKYWCBMw==/109951169143667644.jpg",
+        "pic_str": "109951169143667644",
+        "pic": 109951169143667650
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5299245,
+        "vd": -48262,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 904515,
+        "fid": 0,
+        "size": 14973274,
+        "vd": -48261,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2119725,
+        "vd": -43965,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 132409,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3179565,
+        "vd": -45655,
+        "sr": 48000
+      },
+      "name": "小马云Flow",
+      "id": 2106421373,
+      "privilege": {
+        "id": 2106421373,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 57505069,
+          "name": "WASTED CLUB"
+        },
+        {
+          "id": 58030663,
+          "name": "卡力蛇"
+        },
+        {
+          "id": 12215165,
+          "name": "卡力鲨鱼"
+        }
+      ],
+      "al": {
+        "id": 172172163,
+        "name": "大牌走在东里路",
+        "picUrl": "https://p1.music.126.net/LFPTExq-CBoIKpNcn6dlGw==/109951174017872696.jpg",
+        "pic_str": "109951174017872696",
+        "pic": 109951174017872700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4942125,
+        "vd": -57274,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1029185,
+        "fid": 0,
+        "size": 15886323,
+        "vd": -57262,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1799781,
+        "fid": 0,
+        "size": 27781109,
+        "vd": -57262,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1976877,
+        "vd": -52905,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 123486,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2965293,
+        "vd": -54693,
+        "sr": 48000
+      },
+      "name": "看门狗",
+      "id": 2072639648,
+      "privilege": {
+        "id": 2072639648,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        },
+        {
+          "id": 31055231,
+          "name": "揽佬SKAI ISYOURGOD",
+          "alia": [
+            "揽佬"
+          ]
+        }
+      ],
+      "al": {
+        "id": 251906426,
+        "name": "实在亲戚",
+        "picUrl": "https://p1.music.126.net/aABfYtMRDdY3u3-oNUW5Tg==/109951170076420944.jpg",
+        "pic_str": "109951170076420944",
+        "pic": 109951170076420940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5378133,
+        "vd": -63593,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1523185,
+        "fid": 0,
+        "size": 25589521,
+        "vd": -63591,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2151279,
+        "vd": -59297,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 134400,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3226897,
+        "vd": -60974,
+        "sr": 44100
+      },
+      "name": "实在亲戚",
+      "id": 2640158529,
+      "privilege": {
+        "id": 2640158529,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12730339,
+          "name": "Darksaveworld",
+          "alia": [
+            "達克"
+          ]
+        },
+        {
+          "id": 12205952,
+          "name": "卡力老虎"
+        }
+      ],
+      "al": {
+        "id": 246380277,
+        "name": "有时也很emo",
+        "picUrl": "https://p1.music.126.net/klH2nqufuZ0YN17i7d63BA==/109951169914304724.jpg",
+        "pic_str": "109951169914304724",
+        "pic": 109951169914304720
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7515885,
+        "vd": -48393,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 959568,
+        "fid": 0,
+        "size": 22530826,
+        "vd": -49204,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1728762,
+        "fid": 0,
+        "size": 40591642,
+        "vd": -48384,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3006381,
+        "vd": -44160,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "rtype": 0,
+      "rurl": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 187841,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4509549,
+        "vd": -45817,
+        "sr": 48000
+      },
+      "name": "有时也很emo",
+      "id": 2622051108,
+      "privilege": {
+        "id": 2622051108,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "more": true,
+  "code": 200
+}

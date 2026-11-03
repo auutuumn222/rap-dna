@@ -1,0 +1,252 @@
+{
+  "resultCount": 25,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Young Cash Jason",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/young-cash-jason/1660181642?uo=4",
+      "artistId": 1660181642,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Johnny Cash",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/johnny-cash/70936?uo=4",
+      "artistId": 70936,
+      "amgArtistId": 1548,
+      "primaryGenreName": "乡村",
+      "primaryGenreId": 6
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "i-dle",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/i-dle/1378887586?uo=4",
+      "artistId": 1378887586,
+      "amgArtistId": 3512818,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Babyface",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/babyface/12113?uo=4",
+      "artistId": 12113,
+      "amgArtistId": 3602,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Gracie Abrams",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/gracie-abrams/1450554836?uo=4",
+      "artistId": 1450554836,
+      "amgArtistId": 3583836,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jack Harlow",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jack-harlow/1047679432?uo=4",
+      "artistId": 1047679432,
+      "amgArtistId": 3465864,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Christina Perri",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/christina-perri/378346343?uo=4",
+      "artistId": 378346343,
+      "amgArtistId": 2211530,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "6LACK",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/6lack/1016633280?uo=4",
+      "artistId": 1016633280,
+      "amgArtistId": 3248914,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Maren Morris",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/maren-morris/262260873?uo=4",
+      "artistId": 262260873,
+      "amgArtistId": 724738,
+      "primaryGenreName": "乡村",
+      "primaryGenreId": 6
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Dan + Shay",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dan-shay/690319057?uo=4",
+      "artistId": 690319057,
+      "amgArtistId": 2902475,
+      "primaryGenreName": "乡村",
+      "primaryGenreId": 6
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Robert Plant",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/robert-plant/288062?uo=4",
+      "artistId": 288062,
+      "amgArtistId": 5152,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "A$AP Ferg",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/a%24ap-ferg/582346993?uo=4",
+      "artistId": 582346993,
+      "amgArtistId": 2746329,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Florence + the Machine",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/florence-the-machine/281070699?uo=4",
+      "artistId": 281070699,
+      "amgArtistId": 1062562,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "John Denver",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/john-denver/208469?uo=4",
+      "artistId": 208469,
+      "amgArtistId": 4070,
+      "primaryGenreName": "乡村",
+      "primaryGenreId": 6
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Lady A",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/lady-a/215542909?uo=4",
+      "artistId": 215542909,
+      "amgArtistId": 997587,
+      "primaryGenreName": "乡村",
+      "primaryGenreId": 6
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jay Sean",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jay-sean/23172423?uo=4",
+      "artistId": 23172423,
+      "amgArtistId": 669204,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Bryan Adams",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/bryan-adams/85932?uo=4",
+      "artistId": 85932,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jack Johnson",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jack-johnson/909253?uo=4",
+      "artistId": 909253,
+      "amgArtistId": 468749,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Louis Armstrong",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/louis-armstrong/518462?uo=4",
+      "artistId": 518462,
+      "amgArtistId": 52456,
+      "primaryGenreName": "爵士乐",
+      "primaryGenreId": 11
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Fridayy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/fridayy/1491583681?uo=4",
+      "artistId": 1491583681,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Marilyn Manson",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/marilyn-manson/251375?uo=4",
+      "artistId": 251375,
+      "amgArtistId": 45021,
+      "primaryGenreName": "硬摇滚",
+      "primaryGenreId": 1152
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Dire Straits",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dire-straits/648427?uo=4",
+      "artistId": 648427,
+      "amgArtistId": 4101,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Luther Vandross",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/luther-vandross/23393?uo=4",
+      "artistId": 23393,
+      "amgArtistId": 5743,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "John Fogerty",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/john-fogerty/147445?uo=4",
+      "artistId": 147445,
+      "amgArtistId": 4288,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Jackson Browne",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jackson-browne/388900?uo=4",
+      "artistId": 388900,
+      "amgArtistId": 3784,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    }
+  ]
+}

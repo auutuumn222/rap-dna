@@ -1,0 +1,151 @@
+{
+  "code": 200,
+  "message": "ok",
+  "data": {
+    "videoCount": 8,
+    "vipRights": {
+      "rightsInfoDetailDtoList": [
+        {
+          "vipCode": 220,
+          "expireTime": 1796054399000,
+          "iconUrl": null,
+          "dynamicIconUrl": null,
+          "vipLevel": 0,
+          "signIap": false,
+          "signDeduct": false,
+          "signIapDeduct": false,
+          "sign": false
+        },
+        {
+          "vipCode": 100,
+          "expireTime": 1796054399000,
+          "iconUrl": null,
+          "dynamicIconUrl": null,
+          "vipLevel": 0,
+          "signIap": false,
+          "signDeduct": true,
+          "signIapDeduct": false,
+          "sign": true
+        },
+        {
+          "vipCode": 300,
+          "expireTime": 1793807999000,
+          "iconUrl": null,
+          "dynamicIconUrl": null,
+          "vipLevel": 0,
+          "signIap": false,
+          "signDeduct": false,
+          "signIapDeduct": false,
+          "sign": false
+        }
+      ],
+      "oldProtocol": false,
+      "redVipAnnualCount": -1,
+      "redVipLevel": 7,
+      "now": 1793608659821
+    },
+    "identify": {
+      "imageUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+      "imageDesc": "网易音乐人、歌手、作词、作曲、编曲、制作人、Beat Maker",
+      "actionUrl": "orpheus://rnpage?component=music-reactnative-artistwiki&split=index&artistId=52410166"
+    },
+    "artist": {
+      "id": 52410166,
+      "cover": "http://p2.music.126.net/HSJ5of5SL_m_yue2CMIcEg==/109951167163470888.jpg",
+      "avatar": "http://p2.music.126.net/xRGFy4uFy3c0ivSZWcJo7A==/109951173375707378.jpg",
+      "name": "泰格西",
+      "transNames": [],
+      "alias": [],
+      "identities": [
+        "作词",
+        "作曲"
+      ],
+      "identifyTag": [
+        "网易音乐人"
+      ],
+      "briefDesc": "IG：seematag223",
+      "rank": null,
+      "albumSize": 25,
+      "musicSize": 89,
+      "mvSize": 7
+    },
+    "simpleUserIdentify": {
+      "imageUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+      "imageDesc": "网易音乐人、歌手、作词、作曲等",
+      "actionUrl": "orpheus://rnpage?component=music-reactnative-artistwiki&split=index&artistId=52410166"
+    },
+    "blacklist": false,
+    "preferShow": 5,
+    "showPriMsg": true,
+    "secondaryExpertIdentiy": [
+      {
+        "expertIdentiyId": 5,
+        "expertIdentiyName": "演唱",
+        "expertIdentiyCount": 89
+      },
+      {
+        "expertIdentiyId": 6,
+        "expertIdentiyName": "作词",
+        "expertIdentiyCount": 53
+      },
+      {
+        "expertIdentiyId": 7,
+        "expertIdentiyName": "作曲",
+        "expertIdentiyCount": 53
+      },
+      {
+        "expertIdentiyId": 10,
+        "expertIdentiyName": "编曲",
+        "expertIdentiyCount": 6
+      },
+      {
+        "expertIdentiyId": 11,
+        "expertIdentiyName": "制作",
+        "expertIdentiyCount": 17
+      }
+    ],
+    "eventCount": 3,
+    "user": {
+      "backgroundUrl": "http://p1.music.126.net/AcYHUR99sItA-QwL_BAvuw==/109951166689418438.jpg",
+      "birthday": -2209017600000,
+      "detailDescription": "",
+      "authenticated": true,
+      "gender": 1,
+      "city": 100,
+      "signature": "商务+V：dbcteam（注明来意）",
+      "description": "",
+      "remarkName": null,
+      "shortUserName": "泰格西",
+      "accountStatus": 0,
+      "locationStatus": 30,
+      "avatarImgId": 109951173375707380,
+      "defaultAvatar": false,
+      "province": 0,
+      "nickname": "泰格西",
+      "expertTags": null,
+      "djStatus": 10,
+      "avatarUrl": "http://p2.music.126.net/xRGFy4uFy3c0ivSZWcJo7A==/109951173375707378.jpg",
+      "accountType": 1,
+      "authStatus": 1,
+      "vipType": 11,
+      "userName": "泰格西",
+      "followed": false,
+      "userId": 531380776,
+      "lastLoginIP": "",
+      "lastLoginTime": 1793539523000,
+      "authenticationTypes": 8,
+      "mutual": false,
+      "createTime": 1499067435864,
+      "anchor": false,
+      "authority": 0,
+      "backgroundImgId": 109951166689418430,
+      "userType": 4,
+      "experts": null,
+      "avatarDetail": {
+        "userType": 4,
+        "identityLevel": 1,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png"
+      }
+    }
+  }
+}

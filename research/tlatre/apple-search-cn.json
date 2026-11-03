@@ -1,0 +1,21 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tlatre特雷西",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tlatre%E7%89%B9%E9%9B%B7%E8%A5%BF/1639092701?uo=4",
+      "artistId": 1639092701,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tlatre特雷西",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tlatre%E7%89%B9%E9%9B%B7%E8%A5%BF/1889101584?uo=4",
+      "artistId": 1889101584
+    }
+  ]
+}

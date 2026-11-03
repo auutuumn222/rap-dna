@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 34326822,
+  "reportedTracks": 115,
+  "returnedTracks": 115,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 15,
+      "more": false
+    }
+  ],
+  "listedReleases": 18,
+  "associatedReleases": 46,
+  "explicitCredits": 6142,
+  "albumDetails": 1501,
+  "appleCnReleases": 5,
+  "appleUsReleases": 5,
+  "appleSongRecords": 25,
+  "failures": []
+}

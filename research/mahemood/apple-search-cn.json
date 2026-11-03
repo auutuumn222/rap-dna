@@ -1,0 +1,21 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "马赫Mood",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mood/1362713362?uo=4",
+      "artistId": 1362713362,
+      "primaryGenreName": "另类音乐",
+      "primaryGenreId": 20
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "马赫mood",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%A9%AC%E8%B5%ABmood/1819308062?uo=4",
+      "artistId": 1819308062
+    }
+  ]
+}

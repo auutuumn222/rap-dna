@@ -38,7 +38,7 @@ function buildPage(){
  <section class="content-section reveal" aria-label="关于这份档案"><div class="editorial-card"><div class="editorial-image"><img src="${catalog.artist.portrait}" alt="网易云音乐艺人页中的 ${esc(catalog.artist.short)} 肖像" loading="lazy" width="1000" height="1000"></div><div class="editorial-copy"><div class="section-eyebrow">MORE THAN A NAME</div><h2>从一个名字，<br>认识一段音乐历程。</h2><p>${esc(profile.intro)}</p><a class="text-link" href="#sources">每一个连接，都能追溯 ${icon('arrow')}</a></div></div></section>
  <section class="content-section reveal" id="sources">${sectionHeader('04 / THE SOURCES MATTER','认真记录，<span>也坦诚留白。</span>','这份档案持续生长。已经找到的与仍待确认的，都在这里。')}<div class="coverage-banner"><span><strong>公开在架目录已读取，历史完整性仍待补齐。</strong><br>${esc(profile.gapSummary)}</span><button class="text-link" id="open-research">查看核查说明 ${icon('external')}</button></div><div class="sources-grid"><article class="source-card"><div class="source-number">${catalog.coverage.neteaseCollected} <small>/ ${catalog.coverage.neteaseReported}</small></div><h3>网易云公开歌曲目录</h3><p>已读取当前艺人目录的全部返回页。包含个人作品、客串与版本记录；${catalog.coverage.listedReleases} 个艺人页发行条目，关联 ${catalog.coverage.associatedNeteaseReleases} 个发行容器。${catalog.coverage.neteaseExcluded?`其中 ${catalog.coverage.neteaseExcluded} 条身份待核记录已隔离，实际收录 ${catalog.coverage.neteaseIncluded} 条。`:""}</p><a class="text-link" href="${esc(catalog.artist.links[0].url)}" target="_blank" rel="noopener noreferrer">前往网易云艺人页 ${icon('external')}</a></article><article class="source-card"><div class="source-number">${catalog.externalReleases.length} <small>项发行对照</small></div><h3>跨平台发行 跨平台核对</h3><p>核对专辑日期与曲目数，补充 ${catalog.coverage.appleExtraTracks} 条歌曲记录。不同地区、版本和上架日期分别保留，不强行统一。</p><button class="text-link" id="open-external">查看 ${catalog.externalReleases.length} 项发行记录 ${icon('arrow')}</button></article></div><div class="source-accordions"><details><summary>已发现的版本差异与统计规则</summary><div class="details-content">${catalog.discrepancies.map(d=>`<div class="gap-item"><b>${esc(d.title)}</b><p>${esc(d.detail)}</p><div class="source-links">${d.sources.map((s,i)=>sourceLink(s,`来源 ${i+1}`)).join('')}</div></div>`).join('')}</div></details><details><summary>仍在寻找的作品与早期资料</summary><div class="details-content">${catalog.gaps.map(g=>`<div class="gap-item"><b>${esc(g.year)} · ${esc(g.title)}</b><p>${esc(g.detail)}</p><div class="source-links">${g.sources.map(s=>sourceLink(s.url,s.title)).join('')}</div></div>`).join('')}</div></details><details><summary>署名、图片与使用说明</summary><div class="details-content">作品数据及图片来自网易云音乐、Apple Music 的公开作品资料。单曲署名只保留明确出现的角色，不把专辑级署名下放到每首歌；尚未核验的别名不自动合并。平台内容可能调整，原始发行资料优先于本档案。封面与肖像用于识别音乐人及作品，权利归相应权利人。试听使用网易云官方外链播放器，按需加载且不自动播放；可播范围由平台权限决定。这里不提供音频下载，无法播放时可前往原音乐平台。</div></details></div><div class="source-check-date"><span>最近核查：${esc(catalog.checkedAt)} · 按北京时间处理发行日期</span><span>ARCHIVE ${profile.archive} / ${esc(profile.english)} · MADE FOR THE CULTURE.</span></div></section>`;
  renderGallery();renderJourney();renderArchive();renderNetwork();
- $('#hero-prev').onclick=()=>{state.gallery=Math.max(0,state.gallery-1);renderGallery();};$('#hero-next').onclick=()=>{state.gallery=Math.min(galleryIds.length-1,state.gallery+1);renderGallery();};bindGallerySwipe();
+ $('#hero-prev').onclick=()=>{state.gallery=(state.gallery-1+galleryIds.length)%galleryIds.length;renderGallery();};$('#hero-next').onclick=()=>{state.gallery=(state.gallery+1)%galleryIds.length;renderGallery();};bindGallerySwipe();
  $('#albums-prev').onclick=()=>$('#album-rail').scrollBy({left:-$('#album-rail').clientWidth*.8,behavior:'smooth'});$('#albums-next').onclick=()=>$('#album-rail').scrollBy({left:$('#album-rail').clientWidth*.8,behavior:'smooth'});
  $$('[data-scope]').forEach(b=>b.onclick=()=>{state.journey.scope=b.dataset.scope;$$('[data-scope]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',x===b);});renderJourney();});
  $$('[data-journey-year]').forEach(b=>b.onclick=()=>{state.journey.year=b.dataset.journeyYear;$$('[data-journey-year]').forEach(x=>x.classList.toggle('active',x===b));renderJourney();});
@@ -65,30 +65,36 @@ function renderGallery(){
  existing.forEach(b=>b.remove());nodes.forEach(b=>host.appendChild(b));
  const a=albumMap.get(galleryIds[state.gallery]);$('#hero-album-title').textContent=a.title;$('#hero-album-date').textContent=a.date.slice(0,4)+' · '+a.totalTracks+' 首';
  $('#hero-dots').innerHTML=galleryIds.map((id,i)=>'<button class="'+(state.gallery===i?'active':'')+'" data-gallery="'+i+'" aria-label="展示 '+esc(albumMap.get(id).title)+'" aria-pressed="'+(state.gallery===i)+'"></button>').join('');
- $('#hero-prev').disabled=state.gallery===0;$('#hero-next').disabled=state.gallery===galleryIds.length-1;
+ $('#hero-prev').disabled=galleryIds.length<=1;$('#hero-next').disabled=galleryIds.length<=1;
  $$('[data-gallery]').forEach(b=>b.onclick=()=>{state.gallery=Number(b.dataset.gallery);renderGallery();});bindContent($('#hero-albums'));
 }
 // Drag / swipe / horizontal-wheel control for the hero cover flow.
 function bindGallerySwipe(){
  const scene=$('#hero-scene'),host=$('#hero-albums');if(!scene||scene.dataset.swipe)return;scene.dataset.swipe='1';
  let drag=null,suppressClick=false,wheelAcc=0,wheelLock=0;
- const go=to=>{const next=Math.max(0,Math.min(galleryIds.length-1,to));if(next!==state.gallery){state.gallery=next;renderGallery();}};
+ const go=to=>{
+  const n=galleryIds.length;if(!n)return;
+  const next=((to%n)+n)%n;
+  if(next!==state.gallery){state.gallery=next;renderGallery();}
+  else{renderGallery();}
+ };
  const stepWidth=()=>{const c=$('.floating-album.center',host),n=$('.floating-album[data-offset="1"],.floating-album[data-offset="-1"]',host);if(!c||!n)return 150;const a=c.getBoundingClientRect(),b=n.getBoundingClientRect();return Math.max(60,Math.abs((b.left+b.width/2)-(a.left+a.width/2)))||150;};
  const paint=shift=>{$$('.floating-album',host).forEach(b=>{const o=Number(b.dataset.offset)+shift;b.style.setProperty('--offset',o.toFixed(3));b.style.setProperty('--abs',Math.abs(o).toFixed(3));});};
  scene.addEventListener('pointerdown',e=>{if(e.button!==0||galleryIds.length<2)return;drag={id:e.pointerId,x:e.clientX,y:e.clientY,t:performance.now(),step:stepWidth(),moved:false};});
  scene.addEventListener('pointermove',e=>{
   if(!drag||e.pointerId!==drag.id)return;const dx=e.clientX-drag.x,dy=e.clientY-drag.y;
   if(!drag.moved){if(Math.abs(dx)<8)return;if(Math.abs(dy)>Math.abs(dx)){drag=null;return;}drag.moved=true;scene.setPointerCapture(e.pointerId);host.classList.add('dragging');}
-  let shift=dx/drag.step;const min=-(galleryIds.length-1-state.gallery),max=state.gallery;
-  if(shift>max)shift=max+(shift-max)*.3;if(shift<min)shift=min+(shift-min)*.3; // rubber-band at the ends
+  const shift=dx/drag.step;
   drag.shift=shift;paint(shift);
  });
  const end=e=>{
   if(!drag||e.pointerId!==drag.id)return;const d=drag;drag=null;if(!d.moved)return;
   host.classList.remove('dragging');suppressClick=true;setTimeout(()=>suppressClick=false,0);
   const dx=e.clientX-d.x,velocity=dx/Math.max(1,performance.now()-d.t);let steps=Math.round(d.shift||0);
-  if(steps===0&&Math.abs(velocity)>.35)steps=velocity>0?1:-1; // quick flick moves at least one album
-  const target=state.gallery-steps;if(target===state.gallery||target<0||target>galleryIds.length-1)renderGallery();else go(target);
+  if(steps===0&&Math.abs(velocity)>.3)steps=velocity>0?1:-1;
+  const n=galleryIds.length;if(n<=1){renderGallery();return;}
+  const target=((state.gallery-steps)%n+n)%n;
+  if(target===state.gallery)renderGallery();else go(target);
  };
  scene.addEventListener('pointerup',end);scene.addEventListener('pointercancel',e=>{if(drag&&drag.moved){host.classList.remove('dragging');renderGallery();}drag=null;});
  scene.addEventListener('click',e=>{if(suppressClick){e.stopPropagation();e.preventDefault();}},true);

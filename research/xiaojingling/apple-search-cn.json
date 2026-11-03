@@ -1,0 +1,69 @@
+{
+  "resultCount": 7,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "小精灵",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%B0%8F%E7%B2%BE%E7%81%B5/1236661024?uo=4",
+      "artistId": 1236661024,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "音樂小精靈",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%9F%B3%E4%B9%90%E5%B0%8F%E7%B2%BE%E7%81%B5/1695006929?uo=4",
+      "artistId": 1695006929,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "法老",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%95%E8%80%81/1449028292?uo=4",
+      "artistId": 1449028292,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "万妮达",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%B8%87%E5%A6%AE%E8%BE%BE/1185461302?uo=4",
+      "artistId": 1185461302,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "TFBOYS",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tfboys/1146683407?uo=4",
+      "artistId": 1146683407,
+      "amgArtistId": 3248174,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "ZZZ小精灵",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/zzz%E5%B0%8F%E7%B2%BE%E7%81%B5/1722014645?uo=4",
+      "artistId": 1722014645,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "造梦精灵小慧慧",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%80%A0%E6%A2%A6%E7%B2%BE%E7%81%B5%E5%B0%8F%E6%85%A7%E6%85%A7/1829874056?uo=4",
+      "artistId": 1829874056,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

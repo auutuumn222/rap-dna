@@ -1,0 +1,51 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "那奇沃夫",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%82%A3%E5%A5%87%E6%B2%83%E5%A4%AB/1548298768?uo=4",
+      "artistId": 1548298768,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "kkluv",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kkluv/1698673364?uo=4",
+      "artistId": 1698673364,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KKECHO",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kkecho/1626501361?uo=4",
+      "artistId": 1626501361,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Yamy郭颖",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/yamy%E9%83%AD%E9%A2%96/1705917853?uo=4",
+      "artistId": 1705917853,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Oz",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/o-z/3310006?uo=4",
+      "artistId": 3310006,
+      "amgArtistId": 1181117,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 4,
+    "hlWords": [
+      "DD Ma Shawty"
+    ],
+    "artists": [
+      {
+        "id": 94753015,
+        "name": "DD Ma Shawty",
+        "picUrl": "https://p2.music.126.net/bcx2VljzD1WyR3VogCNoiw==/109951169595116729.jpg",
+        "alias": [
+          "天选之人"
+        ],
+        "albumSize": 6,
+        "musicSize": 56,
+        "picId": 109951169595116740,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 121640,
+        "img1v1Url": "https://p2.music.126.net/rgB254GED00pwR4vk4_Psg==/109951173970655484.jpg",
+        "accountId": 8988927332,
+        "img1v1": 109951173970655490,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "天选之人"
+        ],
+        "trans": null
+      },
+      {
+        "id": 37125681,
+        "name": "Young Cash Jason",
+        "picUrl": "https://p2.music.126.net/W_E8NmcNmVcknUbiDjp2CQ==/109951166549272881.jpg",
+        "alias": [],
+        "albumSize": 45,
+        "musicSize": 180,
+        "picId": 109951166549272880,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 218701,
+        "img1v1Url": "https://p2.music.126.net/AKTs3vgQSjamix1J09AD1Q==/109951173651478233.jpg",
+        "accountId": 1453049232,
+        "img1v1": 109951173651478240,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 1,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 94851099,
+        "name": "UDG Records",
+        "picUrl": "https://p2.music.126.net/u8ZQNePYywagVhMKW750cQ==/109951169871909554.jpg",
+        "alias": [],
+        "albumSize": 3,
+        "musicSize": 35,
+        "picId": 109951169871909550,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 20099,
+        "img1v1Url": "https://p2.music.126.net/_RgePWPe_Jkcl6dh6YpdTA==/109951169869496467.jpg",
+        "img1v1": 109951169869496460,
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 29235058,
+        "name": "云嘎",
+        "picUrl": "https://p2.music.126.net/LGRr8p7JT9yvQeR5iU-Mcg==/109951165846840455.jpg",
+        "alias": [],
+        "albumSize": 10,
+        "musicSize": 36,
+        "picId": 109951165846840450,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 6086,
+        "img1v1Url": "https://p2.music.126.net/84rm0rmLUxOi7jD1UxJyTw==/109951170251348057.jpg",
+        "accountId": 262041133,
+        "img1v1": 109951170251348060,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 6,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

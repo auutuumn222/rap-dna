@@ -1,0 +1,6672 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n33165901",
+    "name": "RICHNOMADIC",
+    "short": "RICHNOMADIC",
+    "aliases": [
+      "RICHNOMADIC",
+      "RichNomadic",
+      "richnomadic",
+      "Rich Nomadic",
+      "RICH NOMADIC"
+    ],
+    "portrait": "./assets/richnomadic-portrait.jpg",
+    "portraitSource": "https://p1.music.126.net/ZSO6K-AV3AndfuaOt0rXMA==/109951174129635366.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=33165901"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1637058522"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 79,
+    "neteaseCollected": 79,
+    "neteaseHasMore": false,
+    "listedReleases": 18,
+    "associatedNeteaseReleases": 36,
+    "appleComparedReleases": 4,
+    "appleExtraTracks": 0,
+    "coreAlbums": 5,
+    "from": "2019-09-10",
+    "through": "2026-09-26",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 79 条公开目录记录，涵盖《DIRTY SNOW》、《游牧主义》、《藏族小伙子》、《酒鬼花生》、《Smoke/Music》等 5 个核心项目。合作发行按逐曲署名收录，早期及下架作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n94382457",
+      "name": "BabyBAKO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94382457"
+    },
+    {
+      "id": "n33165901",
+      "name": "RICHNOMADIC",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33165901"
+    },
+    {
+      "id": "n13451886",
+      "name": "JinJiBeWater_隼",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13451886"
+    },
+    {
+      "id": "n14117457",
+      "name": "SASIOVERLXRD",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14117457"
+    },
+    {
+      "id": "n33937972",
+      "name": "CashTrippy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33937972"
+    },
+    {
+      "id": "n50275485",
+      "name": "KKECHO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50275485"
+    },
+    {
+      "id": "n94382459",
+      "name": "ZhaCai榨菜",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94382459"
+    },
+    {
+      "id": "n51829833",
+      "name": "说唱教官qasa",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51829833"
+    },
+    {
+      "id": "n28642672",
+      "name": "kkluv",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=28642672"
+    },
+    {
+      "id": "n12536560",
+      "name": "Moseee",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12536560"
+    },
+    {
+      "id": "n12064019",
+      "name": "连麻Swimming",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12064019"
+    },
+    {
+      "id": "n31915435",
+      "name": "Capella Luv",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31915435"
+    },
+    {
+      "id": "n49320722",
+      "name": "加木",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49320722"
+    },
+    {
+      "id": "n27872031",
+      "name": "Wings",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=27872031"
+    },
+    {
+      "id": "n46318577",
+      "name": "SenGe森格",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46318577"
+    },
+    {
+      "id": "n50450378",
+      "name": "Zekyi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50450378"
+    },
+    {
+      "id": "n13796374",
+      "name": "Crazy C",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13796374"
+    },
+    {
+      "id": "n1217028",
+      "name": "Daavaa",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1217028"
+    },
+    {
+      "id": "n47964939",
+      "name": "LASHIBOI",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=47964939"
+    },
+    {
+      "id": "u6L-e6bq7c3dpbW1pbmc",
+      "name": "连麻Swimming",
+      "kind": "person",
+      "source": null
+    },
+    {
+      "id": "uamluamliZXdhdGVyX-mavA",
+      "name": "JinJiBeWater_隼",
+      "kind": "person",
+      "source": null
+    },
+    {
+      "id": "n12123014",
+      "name": "KOG",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12123014"
+    },
+    {
+      "id": "n28185321",
+      "name": "dopeYsoul",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=28185321"
+    },
+    {
+      "id": "n31917832",
+      "name": "小宝lil-Bae",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31917832"
+    },
+    {
+      "id": "n31049343",
+      "name": "G Sauce",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31049343"
+    },
+    {
+      "id": "cc2V5ZQ",
+      "name": "seye",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6I2o6bq755a5",
+      "name": "荨麻疹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYmVjayBiZWF0",
+      "name": "Beck Beat",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2F0aGFyc2lz",
+      "name": "KATHARSIS",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbG9hZGluZ2dnMTAxNg",
+      "name": "loadinggg1016",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceWtmaXJldmliZXM",
+      "name": "YKFireVibes",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceXJjIG1hY28",
+      "name": "YRC Maco",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHJlemJvaQ",
+      "name": "TrezBoi",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWRl6Zm25YW06L2p",
+      "name": "ADE陶兴轩",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWxsZW7okpnmn68",
+      "name": "Allen蒙柯",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZW5hY3Jh",
+      "name": "Enacra",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGlsY2hlbnhtb21h",
+      "name": "LilChenXMoMa",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ZqG5Y6G5aWH",
+      "name": "隆历奇",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "canBiZWF0cw",
+      "name": "JpBeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "canJyNGxs",
+      "name": "JRR4ll",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbG9jYWxib2k",
+      "name": "Localboi",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5pS_5YW4",
+      "name": "王政典",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZC5reXh4eA",
+      "name": "Prod.KYXXX",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZmlzc2Jhc3NiZWF0cw",
+      "name": "FissBassBeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caG9yZWNl",
+      "name": "HORECE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhlc2t5YmVhdHM",
+      "name": "TheSkyBeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2VsbHMxMDg",
+      "name": "Cells108",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c44CK5ZOt5auB5q2M44CLLeWOn-mHjuS4iueahOWjsOmfsw",
+      "name": "《哭嫁歌》-原野上的声音",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5YWL5Yip5a6J55qE5bCP5bGL",
+      "name": "克利安的小屋",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXZhbnRv",
+      "name": "AVANTO",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHRha2VkZWVl",
+      "name": "TTAKEDEEE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGVwbyBvbiBkYSBiZWF0",
+      "name": "Depo On Da Beat",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdmFpbmx5Ym9pYXNsYXnDq3Jy",
+      "name": "VainlyBoiAslayërr",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6auY5a6H6LGq",
+      "name": "高宇豪",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6YO95oiQaGlwaG9w5bel5L2c5a6k",
+      "name": "都成hiphop工作室",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5rKI5a2Q5oGC",
+      "name": "沈子恂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hvY2tpZQ",
+      "name": "SHOCKIE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHJlemJvaWdyb3V0",
+      "name": "TrezBOIGrout",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGFrZXpv",
+      "name": "takezo",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caG9vZGll",
+      "name": "hoodie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceXZuZyBheGVuIHJpY2hub21hZGlj",
+      "name": "Yvng Axen RICHNOMADIC",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZG91Ymxleg",
+      "name": "DoubleZ",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5bqf54mp6LaF5biC",
+      "name": "废物超市",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceXZuZyBheGVu",
+      "name": "Yvng Axen",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJhZ29u",
+      "name": "DRAGON",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5aWH6IW-5Yqb",
+      "name": "奇腾力",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhybA",
+      "name": "THRL",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdmV6IGJlYXRz",
+      "name": "Vez Beats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW5nZmxhbQ",
+      "name": "yngflam",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca3lvbg",
+      "name": "Kyon",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2t5aWU",
+      "name": "Skyie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJzbGF5",
+      "name": "DrSlay",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6I2o6bq755a5eG16",
+      "name": "荨麻疹XMZ",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZnVyeWw",
+      "name": "Furyl",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n400140065",
+      "title": "Smoke/Music",
+      "date": "2026-09-26",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "BabyBAKO",
+        "RICHNOMADIC"
+      ],
+      "label": "Tinfoil Music/Believe Artist Service",
+      "artwork": "./assets/album-400140065.jpg",
+      "artworkSource": "https://p1.music.126.net/jE6vrgmR8BMVvKYzpnofeA==/109951173987572819.jpg",
+      "source": "https://music.163.com/album?id=400140065",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "联合项目",
+      "trackIds": [
+        "n3440230872",
+        "n3440230871",
+        "n3440230870",
+        "n3440230869",
+        "n3440230868",
+        "n3440230867",
+        "n3440230866",
+        "n3440230865",
+        "n3440229575",
+        "n3440229574",
+        "n3440229573"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n398934523",
+      "title": "酒鬼花生",
+      "date": "2026-09-19",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 9,
+      "artistNames": [
+        "ZhaCai榨菜",
+        "RICHNOMADIC"
+      ],
+      "label": "独立发行",
+      "artwork": "./assets/album-398934523.jpg",
+      "artworkSource": "https://p2.music.126.net/NIipLsJjU7q5SLx7j_o_Ew==/109951173955384095.jpg",
+      "source": "https://music.163.com/album?id=398934523",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "联合项目",
+      "trackIds": [],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n284759930",
+      "title": "Living Lavish",
+      "date": "2025-09-15",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "KKECHO"
+      ],
+      "label": null,
+      "artwork": "./assets/album-284759930.jpg",
+      "artworkSource": "https://p2.music.126.net/USu1RywsckKX5LnNcArFag==/109951172006883090.jpg",
+      "source": "https://music.163.com/album?id=284759930",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2745423978"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n266596790",
+      "title": "万古",
+      "date": "2025-03-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "CashTrippy"
+      ],
+      "label": "Nafia Culture/Believe Artist Service",
+      "artwork": "./assets/album-266596790.jpg",
+      "artworkSource": "https://p1.music.126.net/bnlU1kCImWOvUkRH-ijDHA==/109951170644659962.jpg",
+      "source": "https://music.163.com/album?id=266596790",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2686896008"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n262485456",
+      "title": "天使投资人",
+      "date": "2025-02-14",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC",
+        "ZhaCai榨菜"
+      ],
+      "label": null,
+      "artwork": "./assets/album-262485456.jpg",
+      "artworkSource": "https://p1.music.126.net/v1FBejgAsPU1VNffc8kOzw==/109951170473626033.jpg",
+      "source": "https://music.163.com/album?id=262485456",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2674116570"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n245042041",
+      "title": "水滴筹",
+      "date": "2024-09-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "说唱教官qasa"
+      ],
+      "label": null,
+      "artwork": "./assets/album-245042041.jpg",
+      "artworkSource": "https://p1.music.126.net/RW0n_0r9-ucO-1CqMXkTBw==/109951169946946878.jpg",
+      "source": "https://music.163.com/album?id=245042041",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2625409501"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n242821726",
+      "title": "藏族小伙子",
+      "date": "2024-07-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "RICHNOMADIC",
+        "BabyBAKO",
+        "ZhaCai榨菜"
+      ],
+      "label": "Universal Music China",
+      "artwork": "./assets/album-242821726.jpg",
+      "artworkSource": "https://p1.music.126.net/qlahLqKJ5ljMT6WXE6gc1A==/109951169806047028.jpg",
+      "source": "https://music.163.com/album?id=242821726",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "团体项目",
+      "trackIds": [
+        "n2610279465",
+        "n2610279464",
+        "n2610279463",
+        "n2610279462",
+        "n2610279461",
+        "n2610279460",
+        "n2610279459",
+        "n2610278763",
+        "n2610278762",
+        "n2610278761"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n242627384",
+      "title": "新说唱2024 第十二期 (上)",
+      "date": "2024-07-20",
+      "type": "专辑",
+      "edition": "现场版",
+      "totalTracks": 13,
+      "artistNames": [
+        "说唱巅峰对决2026"
+      ],
+      "label": null,
+      "artwork": "./assets/album-242627384.jpg",
+      "artworkSource": "https://p1.music.126.net/NuY0j0zYwRnV8Jop4X6VeQ==/109951169797385377.jpg",
+      "source": "https://music.163.com/album?id=242627384",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2609736489"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n197088638",
+      "title": "I TELL MY MUM",
+      "date": "2024-05-24",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 6,
+      "artistNames": [
+        "Capella Luv"
+      ],
+      "label": null,
+      "artwork": "./assets/album-197088638.jpg",
+      "artworkSource": "https://p1.music.126.net/gPn7XID7SJg7hqcf9qZRPg==/109951169620849673.jpg",
+      "source": "https://music.163.com/album?id=197088638",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2159362505"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n195875404",
+      "title": "邻家小丈夫",
+      "date": "2024-05-18",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "连麻Swimming"
+      ],
+      "label": "Universal Music China",
+      "artwork": "./assets/album-195875404.jpg",
+      "artworkSource": "https://p2.music.126.net/Dg4tY7L441GZfYqqvWvPUw==/109951169590445432.jpg",
+      "source": "https://music.163.com/album?id=195875404",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2155975891"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n195136651",
+      "title": "灰色",
+      "date": "2024-05-11",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC",
+        "加木"
+      ],
+      "label": null,
+      "artwork": "./assets/album-195136651.jpg",
+      "artworkSource": "https://p1.music.126.net/UV2KhCWmimDCusF787jURw==/109951169572831741.jpg",
+      "source": "https://music.163.com/album?id=195136651",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2153918690"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n187966833",
+      "title": "Wings",
+      "date": "2024-03-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "Wings"
+      ],
+      "label": null,
+      "artwork": "./assets/album-187966833.jpg",
+      "artworkSource": "https://p2.music.126.net/7eLz4A055OlLGNdWW4Rvew==/109951169387707190.jpg",
+      "source": "https://music.163.com/album?id=187966833",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2132587089"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n187488534",
+      "title": "声色犬马",
+      "date": "2024-03-01",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "SASIOVERLXRD",
+        "JinJiBeWater_隼",
+        "RICHNOMADIC",
+        "连麻Swimming"
+      ],
+      "label": null,
+      "artwork": "./assets/album-187488534.jpg",
+      "artworkSource": "https://p1.music.126.net/0hQpsvT451csXzaD3zvWEQ==/109951169377914735.jpg",
+      "source": "https://music.163.com/album?id=187488534",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2131401467"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n169839053",
+      "title": "Hold on",
+      "date": "2023-07-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": "讯飞音乐",
+      "artwork": "./assets/album-169839053.jpg",
+      "artworkSource": "https://p2.music.126.net/Gj9nyjRi1vTUwYnh0zayXw==/109951168746282870.jpg",
+      "source": "https://music.163.com/album?id=169839053",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2064842045"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n162189235",
+      "title": "Yvng Shiner",
+      "date": "2023-03-22",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "SenGe森格"
+      ],
+      "label": "网易飓风",
+      "artwork": "./assets/album-162189235.jpg",
+      "artworkSource": "https://p2.music.126.net/fTHGV_kG6_isaqUuD9f_zw==/109951168485464069.jpg",
+      "source": "https://music.163.com/album?id=162189235",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2032141790"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n159398740",
+      "title": "游牧主义",
+      "date": "2023-02-14",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-159398740.jpg",
+      "artworkSource": "https://p2.music.126.net/jM8y_ZWPaXye2O65fNi88A==/109951168289858729.jpg",
+      "source": "https://music.163.com/album?id=159398740",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2019562396",
+        "n2019562352",
+        "n2019562205",
+        "n2019562004",
+        "n2019561436",
+        "n2019561151",
+        "n2019561128",
+        "n2019560858"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n146639699",
+      "title": "刺",
+      "date": "2022-06-16",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Crazy C"
+      ],
+      "label": null,
+      "artwork": "./assets/album-146639699.jpg",
+      "artworkSource": "https://p1.music.126.net/Zxa7RNPgJDT774rJrReapQ==/109951167559167877.jpg",
+      "source": "https://music.163.com/album?id=146639699",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1956618721"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n143817136",
+      "title": "Whole A Lot",
+      "date": "2022-04-22",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-143817136.jpg",
+      "artworkSource": "https://p2.music.126.net/BL3Zhw1rlDQZaNuWAEVnQw==/109951167325922198.jpg",
+      "source": "https://music.163.com/album?id=143817136",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1940363977"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n143806746",
+      "title": "PAST LOVE",
+      "date": "2022-04-22",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-143806746.jpg",
+      "artworkSource": "https://p1.music.126.net/JQZcsD0nVaX-JJ6EEAj85g==/109951167324753855.jpg",
+      "source": "https://music.163.com/album?id=143806746",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1940291795"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n142942130",
+      "title": "Aim at the moon",
+      "date": "2022-04-04",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "Daavaa"
+      ],
+      "label": null,
+      "artwork": "./assets/album-142942130.jpg",
+      "artworkSource": "https://p1.music.126.net/tymMM31qxaBK7D8mQoPR-w==/109951167239504267.jpg",
+      "source": "https://music.163.com/album?id=142942130",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1942431575"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n139836920",
+      "title": "成嶋亮",
+      "date": "2022-02-03",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 9,
+      "artistNames": [
+        "SASIOVERLXRD"
+      ],
+      "label": null,
+      "artwork": "./assets/album-139836920.jpg",
+      "artworkSource": "https://p1.music.126.net/cabX9QFRIZa2dHJny-qTpg==/109951167009569183.jpg",
+      "source": "https://music.163.com/album?id=139836920",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1918979108",
+        "n1917380040",
+        "n1917234176"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n136747734",
+      "title": "DIRTY SNOW",
+      "date": "2021-11-30",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-136747734.jpg",
+      "artworkSource": "https://p1.music.126.net/7uDAyCcLQLzIg-kxi7S84w==/109951167325639000.jpg",
+      "source": "https://music.163.com/album?id=136747734",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n1899161130",
+        "n1899161028",
+        "n1899129645",
+        "n1899129644",
+        "n1899129643",
+        "n1899129642",
+        "n1899129641",
+        "n1899123144"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n131027226",
+      "title": "CHUNGHWA",
+      "date": "2021-07-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "连麻Swimming",
+        "艾志恒Asen"
+      ],
+      "label": "新鲜制造",
+      "artwork": "./assets/album-131027226.jpg",
+      "artworkSource": "https://p2.music.126.net/5YngjmMh8O_lQSoxt37m_Q==/109951166225800244.jpg",
+      "source": "https://music.163.com/album?id=131027226",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1870878818"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n128821933",
+      "title": "GangLand",
+      "date": "2021-06-11",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-128821933.jpg",
+      "artworkSource": "https://p1.music.126.net/IvHMGXPExeTZzYmEkInq9w==/109951166077894703.jpg",
+      "source": "https://music.163.com/album?id=128821933",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1852370571"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n126303589",
+      "title": "树敌SHOOTING",
+      "date": "2021-04-19",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "JinJiBeWater_隼"
+      ],
+      "label": "独立发行",
+      "artwork": "./assets/album-126303589.jpg",
+      "artworkSource": "http://p2.music.126.net/A_HaOXm36UXpp13LUcWYWA==/109951165909761400.jpg",
+      "source": "https://music.163.com/album?id=126303589",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1867888613"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n123716463",
+      "title": "我孝了",
+      "date": "2021-03-02",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "SASIOVERLXRD"
+      ],
+      "label": null,
+      "artwork": "./assets/album-123716463.jpg",
+      "artworkSource": "https://p2.music.126.net/F-eFmjhvOJAZoYzL-ZK3nA==/109951165773650738.jpg",
+      "source": "https://music.163.com/album?id=123716463",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1824324482"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n122831944",
+      "title": "NAMASTE",
+      "date": "2021-02-10",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-122831944.jpg",
+      "artworkSource": "https://p1.music.126.net/7TX5XSTgYX9YXcdc6n3CtQ==/109951165714209130.jpg",
+      "source": "https://music.163.com/album?id=122831944",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1819241978"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n98906849",
+      "title": "4u",
+      "date": "2020-11-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "dopeYsoul"
+      ],
+      "label": null,
+      "artwork": "./assets/album-98906849.jpg",
+      "artworkSource": "https://p2.music.126.net/nwhTuSC1eBknpEBVz08vvQ==/109951165510172064.jpg",
+      "source": "https://music.163.com/album?id=98906849",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1499394983"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n98339170",
+      "title": "冰冷热带鱼",
+      "date": "2020-11-16",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "SASIOVERLXRD",
+        "JinJiBeWater_隼"
+      ],
+      "label": null,
+      "artwork": "./assets/album-98339170.jpg",
+      "artworkSource": "http://p1.music.126.net/mygs0AbhztpEaNXU3HdCGg==/109951165474171544.jpg",
+      "source": "https://music.163.com/album?id=98339170",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1495995560",
+        "n1495993577",
+        "n1495990919",
+        "n1495969252",
+        "n1495949919",
+        "n1495941782",
+        "n1495895843",
+        "n1495888737",
+        "n1495865235"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n97944102",
+      "title": "New $prite/No cap",
+      "date": "2020-11-07",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "G Sauce"
+      ],
+      "label": null,
+      "artwork": "./assets/album-97944102.jpg",
+      "artworkSource": "https://p1.music.126.net/78m19UX0jvudYi_UI4ckHw==/109951165446253963.jpg",
+      "source": "https://music.163.com/album?id=97944102",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1493664166"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n96638412",
+      "title": "迷雾",
+      "date": "2020-10-13",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-96638412.jpg",
+      "artworkSource": "https://p1.music.126.net/ZfU3FEZPHaupg_nu4gt1Ng==/109951165387252603.jpg",
+      "source": "https://music.163.com/album?id=96638412",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1486661901"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n88554151",
+      "title": "MUD",
+      "date": "2020-04-26",
+      "type": "专辑",
+      "edition": "Remix",
+      "totalTracks": 9,
+      "artistNames": [
+        "SASIOVERLXRD"
+      ],
+      "label": null,
+      "artwork": "./assets/album-88554151.jpg",
+      "artworkSource": "https://p2.music.126.net/acctzg00KeY6LkcQk1TY_g==/109951164941721811.jpg",
+      "source": "https://music.163.com/album?id=88554151",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1443902327",
+        "n1443756680"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n82884467",
+      "title": "“TRUTH”",
+      "date": "2019-11-03",
+      "type": "Single",
+      "edition": "Remix",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-82884467.jpg",
+      "artworkSource": "https://p1.music.126.net/h4dVxqXN8Qhc6zR7892DeA==/109951164467075007.jpg",
+      "source": "https://music.163.com/album?id=82884467",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1400926538"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n82381724",
+      "title": "MOM TELL ME（Prod.Furyl）",
+      "date": "2019-10-14",
+      "type": "Single",
+      "edition": "Remix",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-82381724.jpg",
+      "artworkSource": "https://p1.music.126.net/GDmUK5s-TEecH5Fn1BRB_Q==/109951164427095158.jpg",
+      "source": "https://music.163.com/album?id=82381724",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1396918805"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n81667525",
+      "title": "NO WAY",
+      "date": "2019-09-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-81667525.jpg",
+      "artworkSource": "https://p1.music.126.net/GP5E_cQr0y29WIw0l1l3ig==/109951164374513029.jpg",
+      "source": "https://music.163.com/album?id=81667525",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1391969779"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n81515658",
+      "title": "DIE4ME",
+      "date": "2019-09-10",
+      "type": "Single",
+      "edition": "Remix",
+      "totalTracks": 1,
+      "artistNames": [
+        "RICHNOMADIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-81515658.jpg",
+      "artworkSource": "https://p2.music.126.net/rmUqnwWzjQoVyERQ92DQzA==/109951164355156332.jpg",
+      "source": "https://music.163.com/album?id=81515658",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1390096510"
+      ],
+      "listedOnArtist": true
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3440230865",
+      "platformId": 3440230865,
+      "title": "Smoke/Music",
+      "aliases": [],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 1,
+      "duration": 93134,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230865",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230865",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230865",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230865",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230865",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230865",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440229573",
+      "platformId": 3440229573,
+      "title": "钱不说谎",
+      "aliases": [],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 2,
+      "duration": 160559,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440229573",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440229573",
+          "level": "track"
+        },
+        {
+          "personId": "cYmVjayBiZWF0",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440229573",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440229573",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440229573",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440229573",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440229573",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230866",
+      "platformId": 3440230866,
+      "title": "DEMON LOVE",
+      "aliases": [
+        "恶魔爱"
+      ],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 3,
+      "duration": 141632,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230866",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230866",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230866",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230866",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230866",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230866",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230867",
+      "platformId": 3440230867,
+      "title": "Roll up",
+      "aliases": [],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 4,
+      "duration": 171176,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230867",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230867",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230867",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230867",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230867",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230867",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440229574",
+      "platformId": 3440229574,
+      "title": "万般皆是命",
+      "aliases": [
+        "feat.CashTrippy"
+      ],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 5,
+      "duration": 159415,
+      "artistIds": [
+        "n94382457",
+        "n33937972",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO/CashTrippy",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO/CashTrippy",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO/CashTrippy",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO/CashTrippy",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440229574",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO/CashTrippy",
+        "作曲 : BabyBAKO/CashTrippy",
+        "编曲 : KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440229574",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230868",
+      "platformId": 3440230868,
+      "title": "灰度绞杀",
+      "aliases": [
+        "feat.SASIOVERLXRD"
+      ],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 6,
+      "duration": 151102,
+      "artistIds": [
+        "n94382457",
+        "n14117457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "词曲",
+          "raw": "词曲 : BabyBAKO/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=3440230868",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "词曲",
+          "raw": "词曲 : BabyBAKO/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=3440230868",
+          "level": "track"
+        },
+        {
+          "personId": "ceXJjIG1hY28",
+          "role": "编曲",
+          "raw": "编曲 : YRC Maco",
+          "source": "https://music.163.com/song?id=3440230868",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230868",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "词曲 : BabyBAKO/SASIOVERLXRD",
+        "编曲 : YRC Maco",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230868",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230869",
+      "platformId": 3440230869,
+      "title": "溯我",
+      "aliases": [],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 7,
+      "duration": 169548,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230869",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230869",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230869",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230869",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230869",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230869",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440229575",
+      "platformId": 3440229575,
+      "title": "不良少年",
+      "aliases": [],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 8,
+      "duration": 190819,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440229575",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440229575",
+          "level": "track"
+        },
+        {
+          "personId": "cdHJlemJvaQ",
+          "role": "编曲",
+          "raw": "编曲 : TrezBoi",
+          "source": "https://music.163.com/song?id=3440229575",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440229575",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : TrezBoi",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440229575",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230870",
+      "platformId": 3440230870,
+      "title": "冷雨",
+      "aliases": [
+        "Cold Rain"
+      ],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 9,
+      "duration": 171374,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230870",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230870",
+          "level": "track"
+        },
+        {
+          "personId": "ceWtmaXJldmliZXM",
+          "role": "编曲",
+          "raw": "编曲 : YKFireVibes",
+          "source": "https://music.163.com/song?id=3440230870",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230870",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : YKFireVibes",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230870",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230871",
+      "platformId": 3440230871,
+      "title": "無我",
+      "aliases": [
+        "feat.JinJiBeWater_隼"
+      ],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 10,
+      "duration": 226732,
+      "artistIds": [
+        "n94382457",
+        "n13451886",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "cYmVjayBiZWF0",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230871",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO/JinJiBeWater_隼",
+        "作曲 : BabyBAKO/JinJiBeWater_隼",
+        "编曲 : Beck Beat/KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230871",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440230872",
+      "platformId": 3440230872,
+      "title": "被遗忘的孩子",
+      "aliases": [],
+      "albumId": "n400140065",
+      "date": "2026-09-26",
+      "trackNumber": 11,
+      "duration": 118334,
+      "artistIds": [
+        "n94382457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230872",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : BabyBAKO",
+          "source": "https://music.163.com/song?id=3440230872",
+          "level": "track"
+        },
+        {
+          "personId": "cc2V5ZQ",
+          "role": "编曲",
+          "raw": "编曲 : seye",
+          "source": "https://music.163.com/song?id=3440230872",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3440230872",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BabyBAKO",
+        "作曲 : BabyBAKO",
+        "编曲 : seye",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3440230872",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2745423978",
+      "platformId": 2745423978,
+      "title": "Trust Issues",
+      "aliases": [],
+      "albumId": "n284759930",
+      "date": "2025-09-15",
+      "trackNumber": 2,
+      "duration": 142228,
+      "artistIds": [
+        "n50275485",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n50275485",
+          "role": "作词",
+          "raw": "作词 : KKECHO/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : KKECHO/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        },
+        {
+          "personId": "n50275485",
+          "role": "作曲",
+          "raw": "作曲 : KKECHO/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : KKECHO/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        },
+        {
+          "personId": "n50275485",
+          "role": "制作人",
+          "raw": "制作人 : KKECHO",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRl6Zm25YW06L2p",
+          "role": "混音",
+          "raw": "混音 : ADE陶兴轩",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxsZW7okpnmn68",
+          "role": "母带",
+          "raw": "母带 : Allen蒙柯",
+          "source": "https://music.163.com/song?id=2745423978",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KKECHO/RICHNOMADIC",
+        "作曲 : KKECHO/RICHNOMADIC",
+        "制作人 : KKECHO",
+        "混音 : ADE陶兴轩",
+        "母带 : Allen蒙柯"
+      ],
+      "source": "https://music.163.com/song?id=2745423978",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2686896008",
+      "platformId": 2686896008,
+      "title": "东巴",
+      "aliases": [],
+      "albumId": "n266596790",
+      "date": "2025-03-25",
+      "trackNumber": 14,
+      "duration": 184411,
+      "artistIds": [
+        "n33937972",
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "cZW5hY3Jh",
+          "role": "编曲",
+          "raw": "编曲 : Enacra",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "cbGlsY2hlbnhtb21h",
+          "role": "混音",
+          "raw": "混音 : LilChenXMoMa",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        },
+        {
+          "personId": "c6ZqG5Y6G5aWH",
+          "role": "母带",
+          "raw": "母带 : 隆历奇",
+          "source": "https://music.163.com/song?id=2686896008",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : CashTrippy/RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : Enacra",
+        "混音 : LilChenXMoMa",
+        "母带 : 隆历奇"
+      ],
+      "source": "https://music.163.com/song?id=2686896008",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2674116570",
+      "platformId": 2674116570,
+      "title": "天使投资人",
+      "aliases": [],
+      "albumId": "n262485456",
+      "date": "2025-02-14",
+      "trackNumber": 1,
+      "duration": 140487,
+      "artistIds": [
+        "n33165901",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "canBiZWF0cw",
+          "role": "编曲",
+          "raw": "编曲 : JpBeats",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "母带",
+          "raw": "母带 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2674116570",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/ZhaCai榨菜",
+        "编曲 : JpBeats",
+        "混音 : 荨麻疹",
+        "母带 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2674116570",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2625409501",
+      "platformId": 2625409501,
+      "title": "灰色主角",
+      "aliases": [
+        "prod.罗柔染色体"
+      ],
+      "albumId": "n245042041",
+      "date": "2024-09-10",
+      "trackNumber": 3,
+      "duration": 218507,
+      "artistIds": [
+        "n51829833",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n51829833",
+          "role": "作词",
+          "raw": "作词 : 说唱教官qasa/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : 说唱教官qasa/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        },
+        {
+          "personId": "n51829833",
+          "role": "作曲",
+          "raw": "作曲 : 说唱教官qasa/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : 说唱教官qasa/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        },
+        {
+          "personId": "canJyNGxs",
+          "role": "编曲",
+          "raw": "编曲 : JRR4ll",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9jYWxib2k",
+          "role": "混音",
+          "raw": "混音 : Localboi",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制 : 王政典",
+          "source": "https://music.163.com/song?id=2625409501",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 说唱教官qasa/RICHNOMADIC",
+        "作曲 : 说唱教官qasa/RICHNOMADIC",
+        "编曲 : JRR4ll",
+        "混音 : Localboi",
+        "监制 : 王政典"
+      ],
+      "source": "https://music.163.com/song?id=2625409501",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279459",
+      "platformId": 2610279459,
+      "title": "西风烈",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 1,
+      "duration": 184748,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "ceWtmaXJldmliZXM",
+          "role": "编曲",
+          "raw": "编曲 : YKFireVibes",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279459",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : YKFireVibes",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279459",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610278761",
+      "platformId": 2610278761,
+      "title": "馈赠",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 2,
+      "duration": 189563,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n33937972"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "cZGVwbyBvbiBkYSBiZWF0",
+          "role": "编曲",
+          "raw": "编曲 : Depo On Da Beat",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610278761",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/CashTrippy",
+        "编曲 : Depo On Da Beat",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610278761",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610278762",
+      "platformId": 2610278762,
+      "title": "零下八度",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 3,
+      "duration": 150560,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "cdHRha2VkZWVl",
+          "role": "编曲",
+          "raw": "编曲 : TTAKEDEEE",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610278762",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : TTAKEDEEE",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610278762",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279460",
+      "platformId": 2610279460,
+      "title": "AMIRI",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 4,
+      "duration": 142856,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n14117457"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "c5YWL5Yip5a6J55qE5bCP5bGL",
+          "role": "编曲",
+          "raw": "编曲 : 克利安的小屋",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279460",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/SASIOVERLXRD",
+        "编曲 : 克利安的小屋",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279460",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279461",
+      "platformId": 2610279461,
+      "title": "天之骄女",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 5,
+      "duration": 216190,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n12536560"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n12536560",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "n12536560",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "cY2VsbHMxMDg",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/YKFireVibes",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "ceWtmaXJldmliZXM",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/YKFireVibes",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        },
+        {
+          "personId": "c44CK5ZOt5auB5q2M44CLLeWOn-mHjuS4iueahOWjsOmfsw",
+          "role": "采样",
+          "raw": "采样 : 《哭嫁歌》-原野上的声音",
+          "source": "https://music.163.com/song?id=2610279461",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/Moseee",
+        "编曲 : Cells108/YKFireVibes",
+        "混音 : 荨麻疹",
+        "采样 : 《哭嫁歌》-原野上的声音"
+      ],
+      "source": "https://music.163.com/song?id=2610279461",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279462",
+      "platformId": 2610279462,
+      "title": "拽娃",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 6,
+      "duration": 133548,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n28642672"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n28642672",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "n28642672",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhlc2t5YmVhdHM",
+          "role": "编曲",
+          "raw": "编曲 : TheSkyBeats",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279462",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/kkluv",
+        "编曲 : TheSkyBeats",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279462",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610278763",
+      "platformId": 2610278763,
+      "title": "得之不易",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 7,
+      "duration": 210627,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459",
+        "n50275485"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n50275485",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "n50275485",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "cYXZhbnRv",
+          "role": "编曲",
+          "raw": "编曲 : AVANTO",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610278763",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜/KKECHO",
+        "编曲 : AVANTO",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610278763",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279463",
+      "platformId": 2610279463,
+      "title": "路遥",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 8,
+      "duration": 160000,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "caG9yZWNl",
+          "role": "编曲",
+          "raw": "编曲 : HORECE",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279463",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : HORECE",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279463",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279464",
+      "platformId": 2610279464,
+      "title": "365天",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 9,
+      "duration": 173795,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "cZmlzc2Jhc3NiZWF0cw",
+          "role": "编曲",
+          "raw": "编曲 : FissBassBeats",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279464",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : FissBassBeats",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279464",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2610279465",
+      "platformId": 2610279465,
+      "title": "发财必发疯",
+      "aliases": [],
+      "albumId": "n242821726",
+      "date": "2024-07-23",
+      "trackNumber": 10,
+      "duration": 150204,
+      "artistIds": [
+        "n33165901",
+        "n94382457",
+        "n94382459"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "n94382459",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZC5reXh4eA",
+          "role": "编曲",
+          "raw": "编曲 : Prod.KYXXX",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2610279465",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "作曲 : RICHNOMADIC/BabyBAKO/ZhaCai榨菜",
+        "编曲 : Prod.KYXXX",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2610279465",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2609736489",
+      "platformId": 2609736489,
+      "title": "拳头 (Live)",
+      "aliases": [],
+      "albumId": "n242627384",
+      "date": "2024-07-20",
+      "trackNumber": 11,
+      "duration": 299294,
+      "artistIds": [
+        "n13451886",
+        "n12064019",
+        "n33165901",
+        "n14117457"
+      ],
+      "credits": [
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016/VainlyBoiAslayërr",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016/VainlyBoiAslayërr",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "cdmFpbmx5Ym9pYXNsYXnDq3Jy",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016/VainlyBoiAslayërr",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        },
+        {
+          "personId": "c6auY5a6H6LGq",
+          "role": "混音",
+          "raw": "混音 : 高宇豪",
+          "source": "https://music.163.com/song?id=2609736489",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+        "作曲 : JinJiBeWater_隼/连麻Swimming/RICHNOMADIC/SASIOVERLXRD",
+        "编曲 : KATHARSIS/loadinggg1016/VainlyBoiAslayërr",
+        "混音 : 高宇豪"
+      ],
+      "source": "https://music.163.com/song?id=2609736489",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "live",
+      "status": "platform"
+    },
+    {
+      "id": "n2159362505",
+      "platformId": 2159362505,
+      "title": "高原红",
+      "aliases": [],
+      "albumId": "n197088638",
+      "date": "2024-05-24",
+      "trackNumber": 3,
+      "duration": 135919,
+      "artistIds": [
+        "n31915435",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n31915435",
+          "role": "作词",
+          "raw": "作词 : Capella Luv",
+          "source": "https://music.163.com/song?id=2159362505",
+          "level": "track"
+        },
+        {
+          "personId": "n31915435",
+          "role": "作曲",
+          "raw": "作曲 : Capella Luv",
+          "source": "https://music.163.com/song?id=2159362505",
+          "level": "track"
+        },
+        {
+          "personId": "n31915435",
+          "role": "编曲",
+          "raw": "编曲 : Capella Luv",
+          "source": "https://music.163.com/song?id=2159362505",
+          "level": "track"
+        },
+        {
+          "personId": "c6YO95oiQaGlwaG9w5bel5L2c5a6k",
+          "role": "混音",
+          "raw": "混音/母带：都成hiphop工作室",
+          "source": "https://music.163.com/song?id=2159362505",
+          "level": "track"
+        },
+        {
+          "personId": "c6YO95oiQaGlwaG9w5bel5L2c5a6k",
+          "role": "母带",
+          "raw": "混音/母带：都成hiphop工作室",
+          "source": "https://music.163.com/song?id=2159362505",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Capella Luv",
+        "作曲 : Capella Luv",
+        "编曲 : Capella Luv",
+        "混音/母带：都成hiphop工作室"
+      ],
+      "source": "https://music.163.com/song?id=2159362505",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2155975891",
+      "platformId": 2155975891,
+      "title": "漫长的季节",
+      "aliases": [],
+      "albumId": "n195875404",
+      "date": "2024-05-18",
+      "trackNumber": 10,
+      "duration": 145500,
+      "artistIds": [
+        "n12064019",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词 : 连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : 连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲 : 连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : 连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        },
+        {
+          "personId": "ca2F0aGFyc2lz",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        },
+        {
+          "personId": "cbG9hZGluZ2dnMTAxNg",
+          "role": "编曲",
+          "raw": "编曲 : KATHARSIS/loadinggg1016",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2155975891",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 连麻Swimming/RICHNOMADIC",
+        "作曲 : 连麻Swimming/RICHNOMADIC",
+        "编曲 : KATHARSIS/loadinggg1016",
+        "混音 : 荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=2155975891",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2153918690",
+      "platformId": 2153918690,
+      "title": "灰色",
+      "aliases": [],
+      "albumId": "n195136651",
+      "date": "2024-05-11",
+      "trackNumber": 1,
+      "duration": 185060,
+      "artistIds": [
+        "n33165901",
+        "n49320722"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/加木",
+          "source": "https://music.163.com/song?id=2153918690",
+          "level": "track"
+        },
+        {
+          "personId": "n49320722",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/加木",
+          "source": "https://music.163.com/song?id=2153918690",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/加木",
+          "source": "https://music.163.com/song?id=2153918690",
+          "level": "track"
+        },
+        {
+          "personId": "n49320722",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/加木",
+          "source": "https://music.163.com/song?id=2153918690",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=2153918690",
+          "level": "track"
+        },
+        {
+          "personId": "c5rKI5a2Q5oGC",
+          "role": "监制",
+          "raw": "监制：沈子恂",
+          "source": "https://music.163.com/song?id=2153918690",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/加木",
+        "作曲 : RICHNOMADIC/加木",
+        "混音 : 荨麻疹",
+        "监制：沈子恂"
+      ],
+      "source": "https://music.163.com/song?id=2153918690",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2132587089",
+      "platformId": 2132587089,
+      "title": "雪域之巅",
+      "aliases": [],
+      "albumId": "n187966833",
+      "date": "2024-03-10",
+      "trackNumber": 7,
+      "duration": 187636,
+      "artistIds": [
+        "n27872031",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n27872031",
+          "role": "作词",
+          "raw": "作词 : Wings/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2132587089",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : Wings/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2132587089",
+          "level": "track"
+        },
+        {
+          "personId": "n27872031",
+          "role": "作曲",
+          "raw": "作曲 : Wings/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2132587089",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : Wings/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2132587089",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hvY2tpZQ",
+          "role": "混音",
+          "raw": "混音：SHOCKIE",
+          "source": "https://music.163.com/song?id=2132587089",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Wings/RICHNOMADIC",
+        "作曲 : Wings/RICHNOMADIC",
+        "混音：SHOCKIE"
+      ],
+      "source": "https://music.163.com/song?id=2132587089",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2131401467",
+      "platformId": 2131401467,
+      "title": "声色犬马 (Prod.TrezboiGrout)",
+      "aliases": [],
+      "albumId": "n187488534",
+      "date": "2024-03-01",
+      "trackNumber": 1,
+      "duration": 231524,
+      "artistIds": [
+        "n14117457",
+        "n13451886",
+        "n33165901",
+        "n12064019"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "cdHJlemJvaQ",
+          "role": "编曲",
+          "raw": "编曲 : TrezBoi",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "cdHJlemJvaQ",
+          "role": "制作人",
+          "raw": "制作人 : TrezBoi",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        },
+        {
+          "personId": "cdHJlemJvaWdyb3V0",
+          "role": "编曲",
+          "raw": "编曲: TrezBOIGrout",
+          "source": "https://music.163.com/song?id=2131401467",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼/连麻Swimming/RICHNOMADIC",
+        "编曲 : TrezBoi",
+        "制作人 : TrezBoi",
+        "作词: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+        "作曲: SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC/连麻Swimming，",
+        "编曲: TrezBOIGrout"
+      ],
+      "source": "https://music.163.com/song?id=2131401467",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2064842045",
+      "platformId": 2064842045,
+      "title": "Hold on",
+      "aliases": [],
+      "albumId": "n169839053",
+      "date": "2023-07-19",
+      "trackNumber": 1,
+      "duration": 162360,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2064842045",
+          "level": "track"
+        },
+        {
+          "personId": "cdGFrZXpv",
+          "role": "作曲",
+          "raw": "作曲 : takezo",
+          "source": "https://music.163.com/song?id=2064842045",
+          "level": "track"
+        },
+        {
+          "personId": "cdGFrZXpv",
+          "role": "编曲",
+          "raw": "编曲 : takezo",
+          "source": "https://music.163.com/song?id=2064842045",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "制作人",
+          "raw": "制作人 : hoodie",
+          "source": "https://music.163.com/song?id=2064842045",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "混音工程师 : hoodie",
+          "source": "https://music.163.com/song?id=2064842045",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : takezo",
+        "编曲 : takezo",
+        "制作人 : hoodie",
+        "混音工程师 : hoodie"
+      ],
+      "source": "https://music.163.com/song?id=2064842045",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2032141790",
+      "platformId": 2032141790,
+      "title": "Say My Name",
+      "aliases": [],
+      "albumId": "n162189235",
+      "date": "2023-03-22",
+      "trackNumber": 4,
+      "duration": 145061,
+      "artistIds": [
+        "n46318577",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "ceXZuZyBheGVuIHJpY2hub21hZGlj",
+          "role": "作词",
+          "raw": "作词 : Yvng Axen RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "ceXZuZyBheGVuIHJpY2hub21hZGlj",
+          "role": "作曲",
+          "raw": "作曲 : Yvng Axen RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "cZG91Ymxleg",
+          "role": "编曲",
+          "raw": "编曲 : DoubleZ",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "c5bqf54mp6LaF5biC",
+          "role": "混音",
+          "raw": "混音/母带:废物超市",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "c5bqf54mp6LaF5biC",
+          "role": "母带",
+          "raw": "混音/母带:废物超市",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "ceXZuZyBheGVu",
+          "role": "制作人",
+          "raw": "制作人:Yvng Axen",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJhZ29u",
+          "role": "监制",
+          "raw": "监制:DRAGON",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        },
+        {
+          "personId": "c5aWH6IW-5Yqb",
+          "role": "录音师",
+          "raw": "录音师:奇腾力",
+          "source": "https://music.163.com/song?id=2032141790",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Yvng Axen RICHNOMADIC",
+        "作曲 : Yvng Axen RICHNOMADIC",
+        "编曲 : DoubleZ",
+        "混音/母带:废物超市",
+        "制作人:Yvng Axen",
+        "监制:DRAGON",
+        "录音师:奇腾力"
+      ],
+      "source": "https://music.163.com/song?id=2032141790",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019560858",
+      "platformId": 2019560858,
+      "title": "游牧主义",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 1,
+      "duration": 121008,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019560858",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019560858",
+          "level": "track"
+        },
+        {
+          "personId": "cdmFpbmx5Ym9pYXNsYXnDq3Jy",
+          "role": "编曲",
+          "raw": "编曲 : VainlyBoiAslayërr",
+          "source": "https://music.163.com/song?id=2019560858",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : VainlyBoiAslayërr"
+      ],
+      "source": "https://music.163.com/song?id=2019560858",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019562004",
+      "platformId": 2019562004,
+      "title": "2020",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 2,
+      "duration": 145035,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019562004",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019562004",
+          "level": "track"
+        },
+        {
+          "personId": "ceW5nZmxhbQ",
+          "role": "编曲",
+          "raw": "编曲 : yngflam",
+          "source": "https://music.163.com/song?id=2019562004",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : yngflam"
+      ],
+      "source": "https://music.163.com/song?id=2019562004",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019561128",
+      "platformId": 2019561128,
+      "title": "痛苦之星",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 3,
+      "duration": 191111,
+      "artistIds": [
+        "n33165901",
+        "n14117457"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2019561128",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2019561128",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2019561128",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=2019561128",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/SASIOVERLXRD",
+        "作曲 : RICHNOMADIC/SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=2019561128",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019561151",
+      "platformId": 2019561151,
+      "title": "SNOW MAKER",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 4,
+      "duration": 234000,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019561151",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019561151",
+          "level": "track"
+        },
+        {
+          "personId": "ca3lvbg",
+          "role": "编曲",
+          "raw": "编曲 : Kyon",
+          "source": "https://music.163.com/song?id=2019561151",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : Kyon"
+      ],
+      "source": "https://music.163.com/song?id=2019561151",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019562205",
+      "platformId": 2019562205,
+      "title": "雪域王子",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 5,
+      "duration": 154285,
+      "artistIds": [
+        "n33165901",
+        "n46318577",
+        "n50450378",
+        "n31915435"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n46318577",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n50450378",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n31915435",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n46318577",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n50450378",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        },
+        {
+          "personId": "n31915435",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+          "source": "https://music.163.com/song?id=2019562205",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv",
+        "作曲 : RICHNOMADIC/SenGe森格/Zekyi/Capella Luv"
+      ],
+      "source": "https://music.163.com/song?id=2019562205",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019562352",
+      "platformId": 2019562352,
+      "title": "Kray Brother",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 6,
+      "duration": 134399,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019562352",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019562352",
+          "level": "track"
+        },
+        {
+          "personId": "cdmV6IGJlYXRz",
+          "role": "编曲",
+          "raw": "编曲 : Vez Beats",
+          "source": "https://music.163.com/song?id=2019562352",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : Vez Beats"
+      ],
+      "source": "https://music.163.com/song?id=2019562352",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019561436",
+      "platformId": 2019561436,
+      "title": "城市牧歌",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 7,
+      "duration": 158222,
+      "artistIds": [
+        "n33165901",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=2019561436",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=2019561436",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=2019561436",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=2019561436",
+          "level": "track"
+        },
+        {
+          "personId": "c5YWL5Yip5a6J55qE5bCP5bGL",
+          "role": "编曲",
+          "raw": "编曲 : 克利安的小屋",
+          "source": "https://music.163.com/song?id=2019561436",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/JinJiBeWater_隼",
+        "作曲 : RICHNOMADIC/JinJiBeWater_隼",
+        "编曲 : 克利安的小屋"
+      ],
+      "source": "https://music.163.com/song?id=2019561436",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2019562396",
+      "platformId": 2019562396,
+      "title": "Lifestyle",
+      "aliases": [],
+      "albumId": "n159398740",
+      "date": "2023-02-14",
+      "trackNumber": 8,
+      "duration": 153742,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019562396",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=2019562396",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhybA",
+          "role": "编曲",
+          "raw": "编曲 : THRL",
+          "source": "https://music.163.com/song?id=2019562396",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : THRL"
+      ],
+      "source": "https://music.163.com/song?id=2019562396",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1956618721",
+      "platformId": 1956618721,
+      "title": "刺",
+      "aliases": [],
+      "albumId": "n146639699",
+      "date": "2022-06-16",
+      "trackNumber": 1,
+      "duration": 223030,
+      "artistIds": [
+        "n13796374",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n13796374",
+          "role": "作词",
+          "raw": "作词 : Crazy C",
+          "source": "https://music.163.com/song?id=1956618721",
+          "level": "track"
+        },
+        {
+          "personId": "n13796374",
+          "role": "作曲",
+          "raw": "作曲 : Crazy C",
+          "source": "https://music.163.com/song?id=1956618721",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Crazy C",
+        "作曲 : Crazy C"
+      ],
+      "source": "https://music.163.com/song?id=1956618721",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1940363977",
+      "platformId": 1940363977,
+      "title": "Whole A Lot (Prod.Lino)",
+      "aliases": [],
+      "albumId": "n143817136",
+      "date": "2022-04-22",
+      "trackNumber": 1,
+      "duration": 128000,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1940363977",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1940363977",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1940363977",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "MIX：荨麻疹",
+          "source": "https://music.163.com/song?id=1940363977",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX：荨麻疹"
+      ],
+      "source": "https://music.163.com/song?id=1940363977",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1940291795",
+      "platformId": 1940291795,
+      "title": "PAST LOVE (Prod.Yvng Finesse)",
+      "aliases": [],
+      "albumId": "n143806746",
+      "date": "2022-04-22",
+      "trackNumber": 1,
+      "duration": 123428,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1940291795",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1942431575",
+      "platformId": 1942431575,
+      "title": "Dangerous",
+      "aliases": [],
+      "albumId": "n142942130",
+      "date": "2022-04-04",
+      "trackNumber": 1,
+      "duration": 132653,
+      "artistIds": [
+        "n1217028",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n1217028",
+          "role": "作词",
+          "raw": "作词 : Daavaa",
+          "source": "https://music.163.com/song?id=1942431575",
+          "level": "track"
+        },
+        {
+          "personId": "n1217028",
+          "role": "作曲",
+          "raw": "作曲 : Daavaa",
+          "source": "https://music.163.com/song?id=1942431575",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Daavaa",
+        "作曲 : Daavaa"
+      ],
+      "source": "https://music.163.com/song?id=1942431575",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1917380040",
+      "platformId": 1917380040,
+      "title": "Sin Cypher 2022 (Prod.Gibbo)",
+      "aliases": [],
+      "albumId": "n139836920",
+      "date": "2022-02-03",
+      "trackNumber": 2,
+      "duration": 318936,
+      "artistIds": [
+        "n14117457",
+        "n33165901",
+        "n12064019",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917380040",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917380040",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917380040",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917380040",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "编曲",
+          "raw": "编曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1917380040",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "制作人",
+          "raw": "制作人 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1917380040",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+        "编曲 : SASIOVERLXRD",
+        "制作人 : SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1917380040",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1918979108",
+      "platformId": 1918979108,
+      "title": "Young thug (Prod.Skyie)",
+      "aliases": [],
+      "albumId": "n139836920",
+      "date": "2022-02-03",
+      "trackNumber": 7,
+      "duration": 201803,
+      "artistIds": [
+        "n14117457",
+        "n33165901",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "cc2t5aWU",
+          "role": "制作人",
+          "raw": "制作人 : Skyie",
+          "source": "https://music.163.com/song?id=1918979108",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1918979108",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1918979108",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1918979108",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1918979108",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "编曲",
+          "raw": "编曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1918979108",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "制作人 : Skyie",
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+        "编曲 : SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1918979108",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1917234176",
+      "platformId": 1917234176,
+      "title": "囚鸟 (Prod.DrSlay)",
+      "aliases": [],
+      "albumId": "n139836920",
+      "date": "2022-02-03",
+      "trackNumber": 8,
+      "duration": 191802,
+      "artistIds": [
+        "n14117457",
+        "n33165901",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917234176",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917234176",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917234176",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1917234176",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "编曲",
+          "raw": "编曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1917234176",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJzbGF5",
+          "role": "制作人",
+          "raw": "制作人 : DrSlay",
+          "source": "https://music.163.com/song?id=1917234176",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼",
+        "编曲 : SASIOVERLXRD",
+        "制作人 : DrSlay"
+      ],
+      "source": "https://music.163.com/song?id=1917234176",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899161130",
+      "platformId": 1899161130,
+      "title": "彝藏汉（Prod.yz)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 1,
+      "duration": 132437,
+      "artistIds": [
+        "n33165901",
+        "n14117457",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899161130",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899161130",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899161130",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1899161130",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899161028",
+      "platformId": 1899161028,
+      "title": "冈仁波齐（Prod. Scori The Goat)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 1,
+      "duration": 134505,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899161028",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899161028",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899161028",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899161028",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899161028",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899129643",
+      "platformId": 1899129643,
+      "title": "雪（Prod.cior)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 2,
+      "duration": 169525,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129643",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129643",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129643",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899129643",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899129643",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899123144",
+      "platformId": 1899123144,
+      "title": "DirtySnow（Prod. Yvng Finxssa )",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 3,
+      "duration": 146761,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899123144",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899123144",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899123144",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899123144",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899123144",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899129641",
+      "platformId": 1899129641,
+      "title": "结疤（Prod. JpBeatz)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 4,
+      "duration": 135696,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129641",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129641",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129641",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899129641",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899129641",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899129642",
+      "platformId": 1899129642,
+      "title": "Swamp（Prod. AriaTheProducer)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 5,
+      "duration": 178367,
+      "artistIds": [
+        "n33165901",
+        "n47964939"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129642",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129642",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129642",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899129642",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899129642",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899129644",
+      "platformId": 1899129644,
+      "title": "She did it（Prod. Cvrloski)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 6,
+      "duration": 124187,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129644",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129644",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129644",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899129644",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899129644",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1899129645",
+      "platformId": 1899129645,
+      "title": "香格里拉(Pord. beatsbyroki)",
+      "aliases": [],
+      "albumId": "n136747734",
+      "date": "2021-11-30",
+      "trackNumber": 8,
+      "duration": 142116,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129645",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129645",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "编曲",
+          "raw": "编曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1899129645",
+          "level": "track"
+        },
+        {
+          "personId": "caG9vZGll",
+          "role": "混音",
+          "raw": "MIX:hoodie",
+          "source": "https://music.163.com/song?id=1899129645",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "编曲 : RICHNOMADIC",
+        "MIX:hoodie"
+      ],
+      "source": "https://music.163.com/song?id=1899129645",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1870878818",
+      "platformId": 1870878818,
+      "title": "厚街(prod Vickyferri)",
+      "aliases": [],
+      "albumId": "n131027226",
+      "date": "2021-07-28",
+      "trackNumber": 4,
+      "duration": 204721,
+      "artistIds": [
+        "u6L-e6bq7c3dpbW1pbmc",
+        "uamluamliZXdhdGVyX-mavA",
+        "n14117457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5eG16",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹XMZ",
+          "source": "https://music.163.com/song?id=1870878818",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+        "作曲 : 连麻Swimming/JinJiBeWater_隼/SASIOVERLXRD/RICHNOMADIC",
+        "混音 : 荨麻疹XMZ"
+      ],
+      "source": "https://music.163.com/song?id=1870878818",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1852370571",
+      "platformId": 1852370571,
+      "title": "GangLand",
+      "aliases": [],
+      "albumId": "n128821933",
+      "date": "2021-06-11",
+      "trackNumber": 1,
+      "duration": 171764,
+      "artistIds": [
+        "n33165901",
+        "n12123014",
+        "n1217028",
+        "n47964939"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n12123014",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n1217028",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n47964939",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n12123014",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n1217028",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        },
+        {
+          "personId": "n47964939",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+          "source": "https://music.163.com/song?id=1852370571",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/KOG/Daavaa/LASHIBOI",
+        "作曲 : RICHNOMADIC/KOG/Daavaa/LASHIBOI"
+      ],
+      "source": "https://music.163.com/song?id=1852370571",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1867888613",
+      "platformId": 1867888613,
+      "title": "SHOOTING STAR &Sasioverlxrd&Rich Nomadic&连麻Swimming",
+      "aliases": [],
+      "albumId": "n126303589",
+      "date": "2021-04-19",
+      "trackNumber": 0,
+      "duration": 207568,
+      "artistIds": [
+        "n13451886",
+        "n33165901",
+        "n14117457",
+        "n12064019"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1867888613",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1824324482",
+      "platformId": 1824324482,
+      "title": "我孝了 (Prod.OFEY)",
+      "aliases": [],
+      "albumId": "n123716463",
+      "date": "2021-03-02",
+      "trackNumber": 1,
+      "duration": 221739,
+      "artistIds": [
+        "n14117457",
+        "n12064019",
+        "n13451886",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n12064019",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1824324482",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/连麻Swimming/JinJiBeWater_隼/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1824324482",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1819241978",
+      "platformId": 1819241978,
+      "title": "NAMASTE",
+      "aliases": [],
+      "albumId": "n122831944",
+      "date": "2021-02-10",
+      "trackNumber": 1,
+      "duration": 204777,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1819241978",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1819241978",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1819241978",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1499394983",
+      "platformId": 1499394983,
+      "title": "4u（feat Rich Nomadic)",
+      "aliases": [],
+      "albumId": "n98906849",
+      "date": "2020-11-30",
+      "trackNumber": 1,
+      "duration": 132000,
+      "artistIds": [
+        "n28185321",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n28185321",
+          "role": "作词",
+          "raw": "作词 : dopeYsoul/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1499394983",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : dopeYsoul/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1499394983",
+          "level": "track"
+        },
+        {
+          "personId": "n28185321",
+          "role": "作曲",
+          "raw": "作曲 : dopeYsoul/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1499394983",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : dopeYsoul/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1499394983",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : dopeYsoul/RICHNOMADIC",
+        "作曲 : dopeYsoul/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1499394983",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495995560",
+      "platformId": 1495995560,
+      "title": "མ་ཉམས་གོང་འཕེལ། (Prod.AntChamberlain)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 179404,
+      "artistIds": [
+        "n14117457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495995560",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495995560",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495995560",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495995560",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1495995560",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495993577",
+      "platformId": 1495993577,
+      "title": "No Wait (BigFatCat)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 177125,
+      "artistIds": [
+        "n14117457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495993577",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495993577",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495993577",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495993577",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1495993577",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495990919",
+      "platformId": 1495990919,
+      "title": "A Youngin Die In Block (Prod.JIJ)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 216441,
+      "artistIds": [
+        "n14117457",
+        "n31917832",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495990919",
+          "level": "track"
+        },
+        {
+          "personId": "n31917832",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495990919",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495990919",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495990919",
+          "level": "track"
+        },
+        {
+          "personId": "n31917832",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495990919",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495990919",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/小宝lil-Bae/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1495990919",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495969252",
+      "platformId": 1495969252,
+      "title": "盆满钵满 (Prod.Dmac)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 156000,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495969252",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495969252",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1495969252",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495949919",
+      "platformId": 1495949919,
+      "title": "Sin House (Prod.AntChamberlain)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 219999,
+      "artistIds": [
+        "n14117457",
+        "n13451886",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495949919",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495949919",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495949919",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495949919",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495949919",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495949919",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1495949919",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495941782",
+      "platformId": 1495941782,
+      "title": "YioWerr药娃儿 (Prod.Ant Chamberlain)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 180400,
+      "artistIds": [
+        "n14117457",
+        "n13451886",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495941782",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495941782",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495941782",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495941782",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495941782",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495941782",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1495941782",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495895843",
+      "platformId": 1495895843,
+      "title": "Cash Money 2 (Prod.AntChamberlain)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 211054,
+      "artistIds": [
+        "n14117457",
+        "n33937972",
+        "n33165901",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495895843",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD",
+        "作曲 : CashTrippy/RICHNOMADIC/JinJiBeWater_隼/SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1495895843",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495888737",
+      "platformId": 1495888737,
+      "title": "Pain Wit Da Beatz (Prod.AntChamberlain)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 200000,
+      "artistIds": [
+        "n14117457",
+        "n33165901",
+        "n13451886"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495888737",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495888737",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495888737",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495888737",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495888737",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495888737",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼",
+        "作曲 : SASIOVERLXRD/RICHNOMADIC/JinJiBeWater_隼"
+      ],
+      "source": "https://music.163.com/song?id=1495888737",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1495865235",
+      "platformId": 1495865235,
+      "title": "Sin Cypher (Prod.Emkay)",
+      "aliases": [],
+      "albumId": "n98339170",
+      "date": "2020-11-16",
+      "trackNumber": 1,
+      "duration": 150885,
+      "artistIds": [
+        "n14117457",
+        "n13451886",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495865235",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+          "source": "https://music.163.com/song?id=1495865235",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495865235",
+          "level": "track"
+        },
+        {
+          "personId": "n13451886",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495865235",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1495865235",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "编曲",
+          "raw": "编曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1495865235",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/JinJiBeWater_隼",
+        "作曲 : SASIOVERLXRD/JinJiBeWater_隼/RICHNOMADIC",
+        "编曲 : SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1495865235",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1493664166",
+      "platformId": 1493664166,
+      "title": "Slatt Slatt feat.Babybako",
+      "aliases": [],
+      "albumId": "n97944102",
+      "date": "2020-11-07",
+      "trackNumber": 1,
+      "duration": 189122,
+      "artistIds": [
+        "n31049343",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n31049343",
+          "role": "作词",
+          "raw": "作词 : G Sauce/Babybako",
+          "source": "https://music.163.com/song?id=1493664166",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作词",
+          "raw": "作词 : G Sauce/Babybako",
+          "source": "https://music.163.com/song?id=1493664166",
+          "level": "track"
+        },
+        {
+          "personId": "n31049343",
+          "role": "作曲",
+          "raw": "作曲 : G Sauce/Babybako",
+          "source": "https://music.163.com/song?id=1493664166",
+          "level": "track"
+        },
+        {
+          "personId": "n94382457",
+          "role": "作曲",
+          "raw": "作曲 : G Sauce/Babybako",
+          "source": "https://music.163.com/song?id=1493664166",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : G Sauce/Babybako",
+        "作曲 : G Sauce/Babybako"
+      ],
+      "source": "https://music.163.com/song?id=1493664166",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1486661901",
+      "platformId": 1486661901,
+      "title": "迷雾（Prod.VITALS)",
+      "aliases": [],
+      "albumId": "n96638412",
+      "date": "2020-10-13",
+      "trackNumber": 1,
+      "duration": 164702,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1486661901",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1486661901",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1486661901",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1443902327",
+      "platformId": 1443902327,
+      "title": "Buy2 Ft. Rich_Nomadic (Prod.学生杨）",
+      "aliases": [],
+      "albumId": "n88554151",
+      "date": "2020-04-26",
+      "trackNumber": 1,
+      "duration": 239830,
+      "artistIds": [
+        "n14117457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1443902327",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1443902327",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1443902327",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1443902327",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1443756680",
+      "platformId": 1443756680,
+      "title": "MUD Ft. Rich_Nomadic (prod.consent2k )",
+      "aliases": [],
+      "albumId": "n88554151",
+      "date": "2020-04-26",
+      "trackNumber": 1,
+      "duration": 205165,
+      "artistIds": [
+        "n14117457",
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1443756680",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : SASIOVERLXRD/RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1443756680",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1443756680",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : SASIOVERLXRD/RICHNOMADIC",
+        "作曲 : SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1443756680",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1400926538",
+      "platformId": 1400926538,
+      "title": "TRUTH",
+      "aliases": [],
+      "albumId": "n82884467",
+      "date": "2019-11-03",
+      "trackNumber": 1,
+      "duration": 208117,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1400926538",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1400926538",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "制作人",
+          "raw": "制作人：SASI",
+          "source": "https://music.163.com/song?id=1400926538",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC",
+        "制作人：SASI"
+      ],
+      "source": "https://music.163.com/song?id=1400926538",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1396918805",
+      "platformId": 1396918805,
+      "title": "MOM TELL ME（Prod.Furyl）",
+      "aliases": [],
+      "albumId": "n82381724",
+      "date": "2019-10-14",
+      "trackNumber": 1,
+      "duration": 225253,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1396918805",
+          "level": "track"
+        },
+        {
+          "personId": "cZnVyeWw",
+          "role": "作曲",
+          "raw": "作曲 : Furyl",
+          "source": "https://music.163.com/song?id=1396918805",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : Furyl"
+      ],
+      "source": "https://music.163.com/song?id=1396918805",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1391969779",
+      "platformId": 1391969779,
+      "title": "NO WAY",
+      "aliases": [],
+      "albumId": "n81667525",
+      "date": "2019-09-19",
+      "trackNumber": 1,
+      "duration": 161541,
+      "artistIds": [
+        "n33165901"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1391969779",
+          "level": "track"
+        },
+        {
+          "personId": "n33165901",
+          "role": "作曲",
+          "raw": "作曲 : RICHNOMADIC",
+          "source": "https://music.163.com/song?id=1391969779",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC",
+        "作曲 : RICHNOMADIC"
+      ],
+      "source": "https://music.163.com/song?id=1391969779",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1390096510",
+      "platformId": 1390096510,
+      "title": "DIE4ME",
+      "aliases": [],
+      "albumId": "n81515658",
+      "date": "2019-09-10",
+      "trackNumber": 1,
+      "duration": 178782,
+      "artistIds": [
+        "n33165901",
+        "n14117457"
+      ],
+      "credits": [
+        {
+          "personId": "n33165901",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1390096510",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作词",
+          "raw": "作词 : RICHNOMADIC/SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1390096510",
+          "level": "track"
+        },
+        {
+          "personId": "n14117457",
+          "role": "作曲",
+          "raw": "作曲 : SASIOVERLXRD",
+          "source": "https://music.163.com/song?id=1390096510",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : RICHNOMADIC/SASIOVERLXRD",
+        "作曲 : SASIOVERLXRD"
+      ],
+      "source": "https://music.163.com/song?id=1390096510",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1758664557",
+      "title": "藏族小伙子",
+      "date": "2024-07-23",
+      "trackCount": 10,
+      "artist": "RICHNOMADIC",
+      "source": "https://music.apple.com/cn/album/%E8%97%8F%E6%97%8F%E5%B0%8F%E4%BC%99%E5%AD%90/1758664557?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/78/87/d178875d-8a0d-3b9d-9142-a23a0aea830a/24UMGIM78932.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1796806787",
+      "title": "天使投资人 - Single",
+      "date": "2025-02-22",
+      "trackCount": 1,
+      "artist": "RICHNOMADIC & ZhaCai榨菜",
+      "source": "https://music.apple.com/cn/album/%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B5%84%E4%BA%BA-single/1796806787?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4e/09/bd/4e09bdf5-9047-7a65-b1e3-6b6df38cac54/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6815259425",
+      "title": "Smoke/Music (feat. RICHNOMADIC)",
+      "date": "2026-09-26",
+      "trackCount": 11,
+      "artist": "BabyBAKO",
+      "source": "https://music.apple.com/cn/album/smoke-music-feat-richnomadic/6815259425?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/27/5e/4a275eb1-bb28-09e3-3f3c-6ba01ba332fe/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1798560363",
+      "title": "声色犬马 - Single",
+      "date": "2025-03-04",
+      "trackCount": 1,
+      "artist": "SASIOVERLXRD, JinJiBeWater_隼, RICHNOMADIC & 连麻Swimming",
+      "source": "https://music.apple.com/cn/album/%E5%A3%B0%E8%89%B2%E7%8A%AC%E9%A9%AC-single/1798560363?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/4a/37/5a4a3767-fc31-0196-e427-1ae18c0ed308/cover.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期地下作品与未上架录音",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 79 首歌曲记录。早期地下时期单曲（包括早期合作Demo）及部分已下架作品未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=33165901"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1637058522"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "网易云及 Apple Music 存在其他同名或候选账号，未经逐曲核查前保持隔离，不因拼写相似合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=33165901"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1637058522"
+        }
+      ]
+    },
+    {
+      "title": "节目合辑与团队项目逐曲参与",
+      "year": "节目合辑",
+      "status": "按逐曲参与收录",
+      "detail": "《新说唱2024》等各期节目合辑与团队合辑仅收录 RICHNOMADIC 明确逐曲参与的曲目，不把整期节目合辑算作个人专辑。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=33165901"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "RICHNOMADIC 姓名与别名",
+      "detail": "网易云官方认证为“RICHNOMADIC”，支持 RICHNOMADIC、RichNomadic、richnomadic、Rich Nomadic 等别名搜索；Apple 官方主页为“RichNomadic”(ID 1637058522)。",
+      "sources": [
+        "https://music.163.com/artist?id=33165901",
+        "https://music.apple.com/cn/artist/1637058522"
+      ]
+    },
+    {
+      "title": "个人核心项目与合作范围",
+      "detail": "收录《DIRTY SNOW》、《游牧主义》、《藏族小伙子》、《酒鬼花生》、《Smoke/Music》5 个核心个人及联合/团队项目。合作与节目合辑按逐曲艺人参与计入。",
+      "sources": [
+        "https://music.163.com/artist?id=33165901"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 79 条平台记录包含录音室版、现场版及伴奏，不等于独立原创作品总数；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=33165901"
+      ]
+    }
+  ]
+}

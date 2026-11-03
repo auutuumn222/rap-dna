@@ -1,0 +1,101 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Mister K",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mister-k/1595135198?uo=4",
+      "artistId": 1595135198,
+      "primaryGenreName": "电子音乐",
+      "primaryGenreId": 7
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Mi$ter K",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mi%24ter-k/1367513670?uo=4",
+      "artistId": 1367513670,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "MisterK",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/misterk/1062256693?uo=4",
+      "artistId": 1062256693,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Mr.",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/mr/385221315?uo=4",
+      "artistId": 385221315,
+      "amgArtistId": 2937687,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "T-Phunk",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tphunk/1434917043?uo=4",
+      "artistId": 1434917043,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Sia",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sia-furler/28721078?uo=4",
+      "artistId": 28721078,
+      "amgArtistId": 379115,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Shawn Mendes",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/shawn-mendes/890403665?uo=4",
+      "artistId": 890403665,
+      "amgArtistId": 2979091,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "IU",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/iu/409076743?uo=4",
+      "artistId": 409076743,
+      "amgArtistId": 2428653,
+      "primaryGenreName": "K-Pop",
+      "primaryGenreId": 51
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Freddie Mercury",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/freddeid-mercury/3915743?uo=4",
+      "artistId": 3915743,
+      "amgArtistId": 4899,
+      "primaryGenreName": "摇滚",
+      "primaryGenreId": 21
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "P!nk",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/p-nk/4488522?uo=4",
+      "artistId": 4488522,
+      "amgArtistId": 365124,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    }
+  ]
+}

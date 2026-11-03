@@ -1,0 +1,14 @@
+{
+  "resultCount": 1,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "MisterK",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/misterk/1062256693?uo=4",
+      "artistId": 1062256693,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

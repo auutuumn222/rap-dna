@@ -1,0 +1,36 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "MisterK",
+      "artistLinkUrl": "https://music.apple.com/us/artist/misterk/1759239266?uo=4",
+      "artistId": 1759239266,
+      "primaryGenreName": "Hip-Hop/Rap",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "collection",
+      "collectionType": "Album",
+      "artistId": 1759239266,
+      "collectionId": 1759504473,
+      "artistName": "MisterK",
+      "collectionName": "A queda de Skywalker - Single",
+      "collectionCensoredName": "A queda de Skywalker - Single",
+      "artistViewUrl": "https://music.apple.com/us/artist/misterk/1759239266?uo=4",
+      "collectionViewUrl": "https://music.apple.com/us/album/a-queda-de-skywalker-single/1759504473?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/ca/36/6eca3638-c960-2e2a-cfe1-781045ec4557/1963629044239_cover.jpg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6e/ca/36/6eca3638-c960-2e2a-cfe1-781045ec4557/1963629044239_cover.jpg/100x100bb.jpg",
+      "collectionPrice": 1.29,
+      "collectionExplicitness": "explicit",
+      "contentAdvisoryRating": "Explicit",
+      "trackCount": 1,
+      "copyright": "℗ 2024 MisterK",
+      "country": "USA",
+      "currency": "USD",
+      "releaseDate": "2024-07-18T07:00:00Z",
+      "primaryGenreName": "Hip-Hop/Rap"
+    }
+  ]
+}

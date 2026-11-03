@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 12256230,
+  "reportedTracks": 305,
+  "returnedTracks": 305,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 200,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 300,
+      "count": 5,
+      "more": false
+    }
+  ],
+  "listedReleases": 104,
+  "associatedReleases": 163,
+  "explicitCredits": 8594,
+  "albumDetails": 2309,
+  "appleCnReleases": 0,
+  "appleUsReleases": 3,
+  "appleSongRecords": 5,
+  "failures": []
+}

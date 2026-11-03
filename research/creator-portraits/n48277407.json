@@ -1,0 +1,36 @@
+{
+  "id": "n48277407",
+  "name": "BOBBYNOPEACE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48277407,
+          "name": "BOBBYNOPEACE"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "BOBBYNOPEACE",
+    "image": "./assets/people/n48277407.jpg",
+    "source": "https://music.163.com/artist?id=48277407",
+    "imageSource": "https://p1.music.126.net/yA8Yg7smOSUbPL68lqzMuQ==/109951173913716164.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 48277407,
+      "works": [
+        {
+          "id": 1954524453,
+          "title": "六月九日阴Ft.JinJiBeWater隼"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1954524453"
+      ]
+    }
+  }
+}

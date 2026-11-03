@@ -1,0 +1,20 @@
+{
+  "id": "cbWFrc3lraG9taWU",
+  "name": "maksykhomie",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 94304126,
+          "name": "Maksy Khomie"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

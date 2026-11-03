@@ -1,0 +1,56 @@
+{
+  "id": "cdXJiYW4",
+  "name": "URBAN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 127958,
+          "name": "Urban Zakapa"
+        },
+        {
+          "id": 29722383,
+          "name": "Sub Urban"
+        },
+        {
+          "id": 37525,
+          "name": "Keith Urban"
+        },
+        {
+          "id": 126876,
+          "name": "Humming Urban Stereo"
+        },
+        {
+          "id": 14305900,
+          "name": "Urban Lovers United"
+        },
+        {
+          "id": 734053,
+          "name": "Urban Contact"
+        },
+        {
+          "id": 104648,
+          "name": "Urban Cone"
+        },
+        {
+          "id": 215058,
+          "name": "Urban Love"
+        },
+        {
+          "id": 45237,
+          "name": "Tim Urban"
+        },
+        {
+          "id": 104497,
+          "name": "Urban Trad"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "caW5uZXJmcmVlZG9t",
+  "name": "innerfreedom",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54315414,
+          "name": "innerfreedom"
+        },
+        {
+          "id": 57450459,
+          "name": "inner freedom"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "camlv5ZCJ5qyn",
+  "name": "JIo吉欧",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12060069,
+          "name": "Jio吉欧"
+        },
+        {
+          "id": 1050364,
+          "name": "Yee"
+        },
+        {
+          "id": 12127712,
+          "name": "梁笑生AIRBUS130"
+        },
+        {
+          "id": 1124093,
+          "name": "西奥Sio"
+        },
+        {
+          "id": 12905293,
+          "name": "東别"
+        },
+        {
+          "id": 55951668,
+          "name": "张润发Omega"
+        },
+        {
+          "id": 31345756,
+          "name": "Shouvwin谢文翰"
+        },
+        {
+          "id": 13039269,
+          "name": "舒毛"
+        },
+        {
+          "id": 15199408,
+          "name": "龚子炫"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

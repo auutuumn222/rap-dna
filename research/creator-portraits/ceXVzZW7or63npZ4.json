@@ -1,0 +1,20 @@
+{
+  "id": "ceXVzZW7or63npZ4",
+  "name": "YUSEN语神",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31093876,
+          "name": "YUSEN语神"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

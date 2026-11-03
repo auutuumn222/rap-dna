@@ -1,0 +1,20 @@
+{
+  "id": "ccmVka2V0Y2g",
+  "name": "RedKetch",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51590777,
+          "name": "RedKetch"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c5piT5rO95a6H",
+  "name": "易泽宇",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 5998,
+          "name": "Xun"
+        },
+        {
+          "id": 55393040,
+          "name": "沐泽宇易"
+        },
+        {
+          "id": 13447730,
+          "name": "刘兆宇"
+        },
+        {
+          "id": 123545752,
+          "name": "易泽禹"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

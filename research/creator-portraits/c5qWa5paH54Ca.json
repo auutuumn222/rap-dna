@@ -1,0 +1,20 @@
+{
+  "id": "c5qWa5paH54Ca",
+  "name": "楚文瀚",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 96747008,
+          "name": "楚文瀚"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

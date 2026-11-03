@@ -1,0 +1,36 @@
+{
+  "id": "cZHhvcg",
+  "name": "Dxor",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37089623,
+          "name": "DXOR"
+        },
+        {
+          "id": 58137692,
+          "name": "DXOR SCXMBXG"
+        },
+        {
+          "id": 55440940,
+          "name": "Dxorxnge"
+        },
+        {
+          "id": 50599777,
+          "name": "Dxor x Kayg"
+        },
+        {
+          "id": 128885943,
+          "name": "DxorBleedz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

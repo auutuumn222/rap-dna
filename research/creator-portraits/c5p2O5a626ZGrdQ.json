@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O5a626ZGrdQ",
+  "name": "李家鑫u",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53721915,
+          "name": "李家鑫u"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cZ2EgdXNpbmcgc2luZyB0ZWNobm9sb2d5wq4",
+  "name": "GA using SING Technology®",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

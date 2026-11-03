@@ -1,0 +1,36 @@
+{
+  "id": "ccHJvZHJpa2k",
+  "name": "prodriki",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52972677,
+          "name": "prodriki"
+        },
+        {
+          "id": 61469538,
+          "name": "prodriki"
+        },
+        {
+          "id": 47972810,
+          "name": "downw4sdown"
+        },
+        {
+          "id": 49196383,
+          "name": "多芬DolBeatz"
+        },
+        {
+          "id": 37624037,
+          "name": "Jeston"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

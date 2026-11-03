@@ -1,0 +1,20 @@
+{
+  "id": "cZ2VudWluZSDmnKjlrZDlsbE",
+  "name": "Genuine 木子山",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34895075,
+          "name": "Genuine 木子山"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

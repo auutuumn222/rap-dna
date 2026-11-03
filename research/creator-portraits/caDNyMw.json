@@ -1,0 +1,56 @@
+{
+  "id": "caDNyMw",
+  "name": "h3r3",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12631485,
+          "name": "h3R3"
+        },
+        {
+          "id": 123051982,
+          "name": "和弦"
+        },
+        {
+          "id": 29051613,
+          "name": "郑润泽"
+        },
+        {
+          "id": 58183546,
+          "name": "h3R33"
+        },
+        {
+          "id": 99457993,
+          "name": "h3R3-"
+        },
+        {
+          "id": 58772756,
+          "name": "炁h3r3"
+        },
+        {
+          "id": 95327714,
+          "name": "林达浪H3R33"
+        },
+        {
+          "id": 100625159,
+          "name": "h3r3."
+        },
+        {
+          "id": 124189002,
+          "name": "1h3R3"
+        },
+        {
+          "id": 98584661,
+          "name": "Roviks"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

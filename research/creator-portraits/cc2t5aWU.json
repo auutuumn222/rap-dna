@@ -1,0 +1,52 @@
+{
+  "id": "cc2t5aWU",
+  "name": "Skyie",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48385610,
+          "name": "Skyie"
+        },
+        {
+          "id": 35346462,
+          "name": "Skyie Hampton"
+        },
+        {
+          "id": 121519681,
+          "name": "Lucia Skyie"
+        },
+        {
+          "id": 51938789,
+          "name": "Skyies"
+        },
+        {
+          "id": 94679026,
+          "name": "Seyn Skyie"
+        },
+        {
+          "id": 94677561,
+          "name": "Seyn Skyie hHYG"
+        },
+        {
+          "id": 35808237,
+          "name": "Skyte"
+        },
+        {
+          "id": 54069523,
+          "name": "ayowitty"
+        },
+        {
+          "id": 55539061,
+          "name": "bunii"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

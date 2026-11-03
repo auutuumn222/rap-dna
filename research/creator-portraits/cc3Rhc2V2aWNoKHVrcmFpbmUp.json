@@ -1,0 +1,15 @@
+{
+  "id": "cc3Rhc2V2aWNoKHVrcmFpbmUp",
+  "name": "Stasevich（Ukraine）",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

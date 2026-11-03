@@ -1,0 +1,28 @@
+{
+  "id": "ccGhhbnRvbTRyZWFs",
+  "name": "Phantom4Real",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52860723,
+          "name": "Phantom4Real"
+        },
+        {
+          "id": 35420994,
+          "name": "GOAT CREW"
+        },
+        {
+          "id": 33070940,
+          "name": "Phantom"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c6buE5paH5p2w",
+  "name": "黄文杰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34244292,
+          "name": "黄文杰"
+        },
+        {
+          "id": 31358330,
+          "name": "黄文杰"
+        },
+        {
+          "id": 34315555,
+          "name": "黄文杰WarmJ"
+        },
+        {
+          "id": 49953020,
+          "name": "黄文杰"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

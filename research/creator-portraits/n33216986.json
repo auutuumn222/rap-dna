@@ -1,0 +1,74 @@
+{
+  "id": "n33216986",
+  "name": "SETI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33216986,
+          "name": "SETI"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "SETI",
+    "image": "./assets/people/n33216986.jpg",
+    "source": "https://music.163.com/artist?id=33216986",
+    "imageSource": "https://p1.music.126.net/HjAekvbpwGQ73MHIpd2bhQ==/109951174131146424.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 33216986,
+      "works": [
+        {
+          "id": 2122615322,
+          "title": "Forget it （feat. Mac Ova Seas）"
+        },
+        {
+          "id": 2122615077,
+          "title": "Forget it"
+        },
+        {
+          "id": 2122608212,
+          "title": "这觉喊没法睡了 feat. Vansdaddy"
+        },
+        {
+          "id": 3380564074,
+          "title": "Forget It(Live.feat. mac ova seas)"
+        },
+        {
+          "id": 2052741279,
+          "title": "苏珊"
+        },
+        {
+          "id": 3340697529,
+          "title": "对峙"
+        },
+        {
+          "id": 2053399892,
+          "title": "翻山越岭"
+        },
+        {
+          "id": 2053382973,
+          "title": "邂逅"
+        },
+        {
+          "id": 3340700134,
+          "title": "自画像"
+        },
+        {
+          "id": 2053423466,
+          "title": "自画像"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1478381001",
+        "https://music.163.com/song?id=1485815352",
+        "https://music.163.com/song?id=2052741279"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cYmlsbHkgd29ua2E",
+  "name": "Billy Wonka",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37316507,
+          "name": "Billy Wonka"
+        },
+        {
+          "id": 61696643,
+          "name": "Billy Wonka West"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

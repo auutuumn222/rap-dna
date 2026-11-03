@@ -1,0 +1,15 @@
+{
+  "id": "cZ3JlZ2kgYmVhdHogJiByb24",
+  "name": "Gregi Beatz & Ron",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

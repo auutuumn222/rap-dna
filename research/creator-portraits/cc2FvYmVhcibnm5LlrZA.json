@@ -1,0 +1,15 @@
+{
+  "id": "cc2FvYmVhcibnm5LlrZA",
+  "name": "SAOBEAR&盒子",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

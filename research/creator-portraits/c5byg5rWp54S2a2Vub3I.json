@@ -1,0 +1,20 @@
+{
+  "id": "c5byg5rWp54S2a2Vub3I",
+  "name": "张浩然Kenor",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12172112,
+          "name": "张浩然kenor"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cZmFudG9t",
+  "name": "fantom",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49538156,
+          "name": "Fantom"
+        },
+        {
+          "id": 60746971,
+          "name": "Fantomel"
+        },
+        {
+          "id": 33767,
+          "name": "FantomenK"
+        },
+        {
+          "id": 37086135,
+          "name": "Fantôme Iris"
+        },
+        {
+          "id": 12132529,
+          "name": "fantompower"
+        },
+        {
+          "id": 14607676,
+          "name": "Fantom Freq"
+        },
+        {
+          "id": 14125491,
+          "name": "Fantoms"
+        },
+        {
+          "id": 52447546,
+          "name": "Fantôme"
+        },
+        {
+          "id": 57014,
+          "name": "Fantômas"
+        },
+        {
+          "id": 688923,
+          "name": "Fantom"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

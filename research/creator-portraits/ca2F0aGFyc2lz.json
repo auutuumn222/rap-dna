@@ -1,0 +1,56 @@
+{
+  "id": "ca2F0aGFyc2lz",
+  "name": "KATHARSIS",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 95329,
+          "name": "Katharsis"
+        },
+        {
+          "id": 52171045,
+          "name": "KATHARSIS"
+        },
+        {
+          "id": 31833313,
+          "name": "Katharsis"
+        },
+        {
+          "id": 30153724,
+          "name": "Kid Katharsis"
+        },
+        {
+          "id": 954059,
+          "name": "Temple of Katharsis"
+        },
+        {
+          "id": 50205239,
+          "name": "Katharsis"
+        },
+        {
+          "id": 48303321,
+          "name": "Katharsis"
+        },
+        {
+          "id": 50194570,
+          "name": "Katharsis"
+        },
+        {
+          "id": 123398067,
+          "name": "katharsis"
+        },
+        {
+          "id": 37446066,
+          "name": "Katharsis"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

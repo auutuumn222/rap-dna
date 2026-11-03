@@ -1,0 +1,56 @@
+{
+  "id": "caGlsbHo",
+  "name": "Hillz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35432712,
+          "name": "Larry Hillz"
+        },
+        {
+          "id": 96317474,
+          "name": "DJ Hillz E"
+        },
+        {
+          "id": 14936262,
+          "name": "Hillzy"
+        },
+        {
+          "id": 32585523,
+          "name": "103HILLZ"
+        },
+        {
+          "id": 34896836,
+          "name": "Ryan Hillz"
+        },
+        {
+          "id": 49204966,
+          "name": "Spark Hillz"
+        },
+        {
+          "id": 55141456,
+          "name": "Chrome Hillz"
+        },
+        {
+          "id": 50204021,
+          "name": "HOLY HILLZ"
+        },
+        {
+          "id": 47183684,
+          "name": "Tommy Hillz"
+        },
+        {
+          "id": 30493734,
+          "name": "Hillzboy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

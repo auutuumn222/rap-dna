@@ -1,0 +1,72 @@
+{
+  "id": "cMTUyMA",
+  "name": "1520",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27866110,
+          "name": "Louis 1520"
+        },
+        {
+          "id": 123548336,
+          "name": "好耶1520"
+        },
+        {
+          "id": 125633858,
+          "name": "Music Lab 1520"
+        },
+        {
+          "id": 46784474,
+          "name": "1520G"
+        },
+        {
+          "id": 36391864,
+          "name": "152018 Ojay"
+        },
+        {
+          "id": 36535591,
+          "name": "152018 Walt"
+        },
+        {
+          "id": 37494773,
+          "name": "1520"
+        },
+        {
+          "id": 99073044,
+          "name": "1520 BABY."
+        },
+        {
+          "id": 98418684,
+          "name": "1520_BOIIZ"
+        },
+        {
+          "id": 121833309,
+          "name": "1520's Ensemble"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "1520",
+    "image": "./assets/people/cMTUyMA.jpg",
+    "source": "https://music.163.com/artist?id=27866110",
+    "imageSource": "https://p2.music.126.net/LjNKBfhC9lgK-YxICpnWaw==/109951174083307673.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-shared-work",
+      "artistId": 27866110,
+      "works": [
+        {
+          "id": 1910738837,
+          "title": "Ride4you"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1910738837"
+      ]
+    }
+  }
+}

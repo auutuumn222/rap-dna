@@ -1,0 +1,20 @@
+{
+  "id": "ca3lkYW5kY2FtYnJpYQ",
+  "name": "kydandcambria",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48578399,
+          "name": "Kyd And Cambria"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

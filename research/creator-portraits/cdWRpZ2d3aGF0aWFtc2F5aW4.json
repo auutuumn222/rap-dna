@@ -1,0 +1,36 @@
+{
+  "id": "cdWRpZ2d3aGF0aWFtc2F5aW4",
+  "name": "Udiggwhatiamsayin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12328955,
+          "name": "Udigg"
+        },
+        {
+          "id": 30704161,
+          "name": "mac ova seas"
+        },
+        {
+          "id": 12193174,
+          "name": "Capper"
+        },
+        {
+          "id": 12277473,
+          "name": "李大奔BENZO"
+        },
+        {
+          "id": 33937972,
+          "name": "CashTrippy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

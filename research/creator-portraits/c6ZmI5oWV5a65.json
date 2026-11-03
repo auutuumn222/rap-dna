@@ -1,0 +1,15 @@
+{
+  "id": "c6ZmI5oWV5a65",
+  "name": "陈慕容",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

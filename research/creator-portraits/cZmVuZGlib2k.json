@@ -1,0 +1,20 @@
+{
+  "id": "cZmVuZGlib2k",
+  "name": "Fendiboi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49077698,
+          "name": "Fendiboi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

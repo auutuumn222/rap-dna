@@ -1,0 +1,33 @@
+{
+  "id": "n12268101",
+  "name": "XTONE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12268101,
+          "name": "XTONE"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "XTONE",
+    "image": "./assets/people/n12268101.jpg",
+    "source": "https://music.163.com/artist?id=12268101",
+    "imageSource": "https://p1.music.126.net/0DHcQFpppVqpOxpe8BV4zg==/109951173955746269.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12268101,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2697703803",
+        "https://music.163.com/song?id=3436809538",
+        "https://music.163.com/song?id=3436810470"
+      ]
+    }
+  }
+}

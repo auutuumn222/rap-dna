@@ -1,0 +1,24 @@
+{
+  "id": "cYmFkYXNzcm9uZG8",
+  "name": "BadassRondo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56767202,
+          "name": "BadassRondo"
+        },
+        {
+          "id": 48816818,
+          "name": "YKFireVibes"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

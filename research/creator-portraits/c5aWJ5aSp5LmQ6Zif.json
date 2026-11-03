@@ -1,0 +1,28 @@
+{
+  "id": "c5aWJ5aSp5LmQ6Zif",
+  "name": "奉天乐队",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12193153,
+          "name": "大眼炮"
+        },
+        {
+          "id": 1141021,
+          "name": "奉天乐队"
+        },
+        {
+          "id": 1198123,
+          "name": "姜云升"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

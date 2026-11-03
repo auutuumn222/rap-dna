@@ -1,0 +1,56 @@
+{
+  "id": "ccml2ZW4",
+  "name": "Riven",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46839647,
+          "name": "Riven"
+        },
+        {
+          "id": 42419,
+          "name": "Rivendell"
+        },
+        {
+          "id": 123587852,
+          "name": "riven"
+        },
+        {
+          "id": 248031,
+          "name": "Nicolas Rivenq"
+        },
+        {
+          "id": 12645614,
+          "name": "Riven"
+        },
+        {
+          "id": 12245037,
+          "name": "lil altima"
+        },
+        {
+          "id": 34595206,
+          "name": "Riven.Y☮"
+        },
+        {
+          "id": 13839530,
+          "name": "lil altima riven"
+        },
+        {
+          "id": 126214001,
+          "name": "乐乐Riven"
+        },
+        {
+          "id": 122929788,
+          "name": "Riven Light"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

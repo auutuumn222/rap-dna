@@ -1,0 +1,20 @@
+{
+  "id": "cZ2V1bnNvbCBqdW5n",
+  "name": "Geunsol Jung",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47237718,
+          "name": "Geunsol Jung"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

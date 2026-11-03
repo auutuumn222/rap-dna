@@ -1,0 +1,24 @@
+{
+  "id": "ca3l4eHg",
+  "name": "KYXXX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50478032,
+          "name": "KYXXX"
+        },
+        {
+          "id": 35163818,
+          "name": "Kyxxx Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

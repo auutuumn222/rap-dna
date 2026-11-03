@@ -1,0 +1,24 @@
+{
+  "id": "caG14ZG9u",
+  "name": "HMXDON",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 94187896,
+          "name": "HMXDON"
+        },
+        {
+          "id": 125280954,
+          "name": "hmxdon"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

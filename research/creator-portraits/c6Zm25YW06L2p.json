@@ -1,0 +1,20 @@
+{
+  "id": "c6Zm25YW06L2p",
+  "name": "陶兴轩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14587791,
+          "name": "ADE陶兴轩"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

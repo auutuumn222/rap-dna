@@ -1,0 +1,32 @@
+{
+  "id": "cZml6enljYXNo",
+  "name": "FizzyCash",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33950036,
+          "name": "FizzyCash"
+        },
+        {
+          "id": 34827415,
+          "name": "ankhe"
+        },
+        {
+          "id": 36516683,
+          "name": "杨泰瑞"
+        },
+        {
+          "id": 34200359,
+          "name": "Cash K"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "n1204010",
+  "name": "TizzyT",
+  "attempts": [],
+  "entry": {
+    "name": "TizzyT",
+    "catalogName": "TizzyT",
+    "aliases": [],
+    "image": "./assets/people/n1204010.jpg",
+    "source": "https://music.163.com/artist?id=1204010",
+    "imageSource": "https://p2.music.126.net/Vbo8K447I5LLvH9VpdTfww==/109951166527176990.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

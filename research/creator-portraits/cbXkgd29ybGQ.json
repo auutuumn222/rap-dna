@@ -1,0 +1,56 @@
+{
+  "id": "cbXkgd29ybGQ",
+  "name": "MY WORLD",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12194744,
+          "name": "My World DS"
+        },
+        {
+          "id": 14241845,
+          "name": "Welcome To My World"
+        },
+        {
+          "id": 50013658,
+          "name": "My World Blurry"
+        },
+        {
+          "id": 35278901,
+          "name": "Its My World"
+        },
+        {
+          "id": 48884830,
+          "name": "FEEL MY WORLD"
+        },
+        {
+          "id": 68147,
+          "name": "My World"
+        },
+        {
+          "id": 96039052,
+          "name": "My World Shines"
+        },
+        {
+          "id": 51915313,
+          "name": "My World Music"
+        },
+        {
+          "id": 122022147,
+          "name": "My Worlds AI Music"
+        },
+        {
+          "id": 49478700,
+          "name": "My World Is a Cynic"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

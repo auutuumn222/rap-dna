@@ -1,0 +1,36 @@
+{
+  "id": "cdG91ZnXosYbohZA",
+  "name": "Toufu豆腐",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13451886,
+          "name": "JinJiBeWater_隼"
+        },
+        {
+          "id": 12127362,
+          "name": "GALI"
+        },
+        {
+          "id": 34326822,
+          "name": "Tlatre特雷西"
+        },
+        {
+          "id": 54125799,
+          "name": "洛基Rocki"
+        },
+        {
+          "id": 46360084,
+          "name": "ONLY1ONE"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

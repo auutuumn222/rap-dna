@@ -1,0 +1,20 @@
+{
+  "id": "c6buE6LaK5rSL",
+  "name": "黄越洋",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12382671,
+          "name": "黄越洋"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

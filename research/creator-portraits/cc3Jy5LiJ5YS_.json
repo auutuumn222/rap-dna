@@ -1,0 +1,20 @@
+{
+  "id": "cc3Jy5LiJ5YS_",
+  "name": "SRR三儿",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12270770,
+          "name": "SRR三儿"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cYmRub2x1dg",
+  "name": "BDnoLuv",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49510340,
+          "name": "BDnoLuv"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

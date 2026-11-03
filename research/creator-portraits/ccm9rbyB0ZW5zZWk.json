@@ -1,0 +1,44 @@
+{
+  "id": "ccm9rbyB0ZW5zZWk",
+  "name": "Roko Tensei",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30706922,
+          "name": "Roko Tensei"
+        },
+        {
+          "id": 47035793,
+          "name": "Roko Tensei & K4nji"
+        },
+        {
+          "id": 98214975,
+          "name": "Roko Tensei"
+        },
+        {
+          "id": 37031974,
+          "name": "Roko Tensei & Miraie"
+        },
+        {
+          "id": 37689343,
+          "name": "RememberTheBeat & Roko Tensei & YoonaBoona"
+        },
+        {
+          "id": 35153626,
+          "name": "YungLex"
+        },
+        {
+          "id": 47330101,
+          "name": "K4nji"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

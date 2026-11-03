@@ -1,0 +1,56 @@
+{
+  "id": "cbWFudWVs",
+  "name": "MANUEL",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 68248,
+          "name": "Manuel"
+        },
+        {
+          "id": 305975,
+          "name": "Manuel Riva"
+        },
+        {
+          "id": 38689,
+          "name": "Lin-Manuel Miranda"
+        },
+        {
+          "id": 335160,
+          "name": "Manuel Molina"
+        },
+        {
+          "id": 13474410,
+          "name": "Manuel Herrera"
+        },
+        {
+          "id": 12369080,
+          "name": "Manuel Turizo"
+        },
+        {
+          "id": 468895,
+          "name": "Manuel Moreno"
+        },
+        {
+          "id": 28077649,
+          "name": "Dean Manuel"
+        },
+        {
+          "id": 349697,
+          "name": "Manuel Sahagun"
+        },
+        {
+          "id": 294098,
+          "name": "Manuel Alejandro"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

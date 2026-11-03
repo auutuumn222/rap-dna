@@ -1,0 +1,32 @@
+{
+  "id": "cZHJzbGF5",
+  "name": "DrSlay",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56861825,
+          "name": "DrSlay"
+        },
+        {
+          "id": 46321440,
+          "name": "Dr Slay"
+        },
+        {
+          "id": 121320799,
+          "name": "Dr Slay Paradoja H"
+        },
+        {
+          "id": 100662222,
+          "name": "Dr Slay 90s"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

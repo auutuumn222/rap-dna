@@ -1,0 +1,56 @@
+{
+  "id": "ccm9zcyBnb3NzYWdl",
+  "name": "ross gossage",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34275530,
+          "name": "Ross Gossage"
+        },
+        {
+          "id": 51325338,
+          "name": "Ross Gossage & Voyce beats"
+        },
+        {
+          "id": 53985993,
+          "name": "ross gossage & ayoley beats"
+        },
+        {
+          "id": 48563655,
+          "name": "prod. ross gossage"
+        },
+        {
+          "id": 53887092,
+          "name": "prod. ross gossage & ayoleybeats"
+        },
+        {
+          "id": 37386594,
+          "name": "Danii.Raps and Ross Gossage"
+        },
+        {
+          "id": 51543768,
+          "name": "(prod. ross gossage & zbeats)"
+        },
+        {
+          "id": 50548053,
+          "name": "yeezo beats & prod ross gossage"
+        },
+        {
+          "id": 46472045,
+          "name": "XvX Flxmes prod. Ross gossage & jankai"
+        },
+        {
+          "id": 95160798,
+          "name": "Ross Gossage Yeezo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

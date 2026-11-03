@@ -1,0 +1,15 @@
+{
+  "id": "cbWl4ZWRieXNvdXJl",
+  "name": "Mixedbysoure",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

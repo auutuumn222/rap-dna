@@ -1,0 +1,56 @@
+{
+  "id": "cc2VqZXI",
+  "name": "Sejer",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46817730,
+          "name": "Sejer"
+        },
+        {
+          "id": 48419355,
+          "name": "Sejer Hester"
+        },
+        {
+          "id": 34448626,
+          "name": "Maria Sejer"
+        },
+        {
+          "id": 53770806,
+          "name": "Jørgen & Sejer"
+        },
+        {
+          "id": 35217904,
+          "name": "Thor Sejersen Riis"
+        },
+        {
+          "id": 124507115,
+          "name": "Sejergaardens"
+        },
+        {
+          "id": 53989810,
+          "name": "Sejergaardsskolen"
+        },
+        {
+          "id": 32132469,
+          "name": "Maya Sejersen Rodriguez"
+        },
+        {
+          "id": 50509700,
+          "name": "Kristian Sejerkilde"
+        },
+        {
+          "id": 121745982,
+          "name": "Silje Sejergaard"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

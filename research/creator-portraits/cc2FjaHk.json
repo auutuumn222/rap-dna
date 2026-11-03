@@ -1,0 +1,56 @@
+{
+  "id": "cc2FjaHk",
+  "name": "sachy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47007307,
+          "name": "Sachy"
+        },
+        {
+          "id": 47780224,
+          "name": "Sachy Beats"
+        },
+        {
+          "id": 123812859,
+          "name": "Sachy Ice Queen"
+        },
+        {
+          "id": 30097000,
+          "name": "Mr Sachy"
+        },
+        {
+          "id": 35923932,
+          "name": "TNL Sachy"
+        },
+        {
+          "id": 49647725,
+          "name": "SACHYN"
+        },
+        {
+          "id": 37276652,
+          "name": "Sachyi Honcho"
+        },
+        {
+          "id": 129483478,
+          "name": "SACHY"
+        },
+        {
+          "id": 59521178,
+          "name": "La Sachy1515"
+        },
+        {
+          "id": 96232478,
+          "name": "Sachy Moyano"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

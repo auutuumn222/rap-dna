@@ -1,0 +1,15 @@
+{
+  "id": "cdGl6enl06LCi6ZSQ6Z-s",
+  "name": "TizzyT谢锐韬",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

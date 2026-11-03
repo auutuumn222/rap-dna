@@ -1,0 +1,56 @@
+{
+  "id": "cZW5jb3Jl",
+  "name": "Encore",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12206357,
+          "name": "Encore911"
+        },
+        {
+          "id": 34871851,
+          "name": "Encore"
+        },
+        {
+          "id": 32927,
+          "name": "Encore"
+        },
+        {
+          "id": 12357588,
+          "name": "张宏宇Encore"
+        },
+        {
+          "id": 60924236,
+          "name": "Beat & Encore"
+        },
+        {
+          "id": 53323,
+          "name": "DJ Encore"
+        },
+        {
+          "id": 54200706,
+          "name": "余安"
+        },
+        {
+          "id": 32949941,
+          "name": "Ensemble Encore"
+        },
+        {
+          "id": 34894896,
+          "name": "Encore"
+        },
+        {
+          "id": 653816,
+          "name": "Tom Encore"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

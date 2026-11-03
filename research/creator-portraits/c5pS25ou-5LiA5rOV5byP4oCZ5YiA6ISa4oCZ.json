@@ -1,0 +1,36 @@
+{
+  "id": "c5pS25ou-5LiA5rOV5byP4oCZ5YiA6ISa4oCZ",
+  "name": "收拾一法式’刀脚’",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54247662,
+          "name": "刀脚"
+        },
+        {
+          "id": 126833684,
+          "name": "夺命剪刀脚"
+        },
+        {
+          "id": 124637107,
+          "name": "无敌剪刀脚丶"
+        },
+        {
+          "id": 127873983,
+          "name": "刀脚"
+        },
+        {
+          "id": 59630778,
+          "name": "垫脚刀妹"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

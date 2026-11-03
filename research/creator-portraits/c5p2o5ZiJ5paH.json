@@ -1,0 +1,36 @@
+{
+  "id": "c5p2o5ZiJ5paH",
+  "name": "杨嘉文",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34827165,
+          "name": "杨嘉文Garvin"
+        },
+        {
+          "id": 10198,
+          "name": "杨乃文"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        },
+        {
+          "id": 58123360,
+          "name": "TF家族四代练习生"
+        },
+        {
+          "id": 57618218,
+          "name": "TF家族练习生"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

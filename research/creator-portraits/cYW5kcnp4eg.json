@@ -1,0 +1,56 @@
+{
+  "id": "cYW5kcnp4eg",
+  "name": "andrzxz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57627767,
+          "name": "andrzxz"
+        },
+        {
+          "id": 62251450,
+          "name": "Andrzxz Beats"
+        },
+        {
+          "id": 94188213,
+          "name": "andrzxzzz"
+        },
+        {
+          "id": 62166985,
+          "name": "wrongway! x andrzxz"
+        },
+        {
+          "id": 94975625,
+          "name": "(wrongway! x andrzxz)"
+        },
+        {
+          "id": 96026489,
+          "name": "(prod. elzio & andrzxz & 7teen)"
+        },
+        {
+          "id": 97636530,
+          "name": "Andrzxz"
+        },
+        {
+          "id": 95119864,
+          "name": "Prod.fexxy + andrzxz"
+        },
+        {
+          "id": 58934861,
+          "name": "wrongway! + andrzxz"
+        },
+        {
+          "id": 95788917,
+          "name": "prod. elzio & andrzxz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

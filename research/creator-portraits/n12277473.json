@@ -1,0 +1,16 @@
+{
+  "id": "n12277473",
+  "name": "李大奔BENZO",
+  "attempts": [],
+  "entry": {
+    "name": "李大奔BENZO",
+    "catalogName": "李大奔BENZO",
+    "aliases": [],
+    "image": "./assets/people/n12277473.jpg",
+    "source": "https://music.163.com/artist?id=12277473",
+    "imageSource": "https://p2.music.126.net/U1mSNBdqoM_x9oTDUBwt4Q==/109951173293970640.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cYmFua3JvbGwgZ290IGl0",
+  "name": "Bankroll got it",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30992193,
+          "name": "Bankroll Got It"
+        },
+        {
+          "id": 35246743,
+          "name": "Bankroll Gotit"
+        },
+        {
+          "id": 47475875,
+          "name": "Bankrollgotit"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

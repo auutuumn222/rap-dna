@@ -1,0 +1,22 @@
+{
+  "id": "cYnViYmxlYm95",
+  "name": "Bubbleboy",
+  "attempts": [],
+  "entry": {
+    "name": "Bubbleboy",
+    "image": "./assets/people/n14016611.jpg",
+    "source": "https://music.163.com/artist?id=14016611",
+    "imageSource": "https://p1.music.126.net/6NTcSqGUa-e_CdstI1Aixg==/109951165808728979.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=1956517518",
+        "https://music.163.com/song?id=1978020898"
+      ]
+    },
+    "matchedPersonId": "n14016611"
+  },
+  "match": "existing-verified-name"
+}

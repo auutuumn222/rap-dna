@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O6Zuo5p2teXV1",
+  "name": "李雨杭Yuu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12282252,
+          "name": "李雨杭Yuu"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

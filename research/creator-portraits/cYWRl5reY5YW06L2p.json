@@ -1,0 +1,15 @@
+{
+  "id": "cYWRl5reY5YW06L2p",
+  "name": "ADE淘兴轩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

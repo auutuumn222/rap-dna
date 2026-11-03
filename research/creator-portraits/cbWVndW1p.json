@@ -1,0 +1,56 @@
+{
+  "id": "cbWVndW1p",
+  "name": "MEGUMI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28360230,
+          "name": "Megumi Acorda"
+        },
+        {
+          "id": 50783572,
+          "name": "MEGUMI"
+        },
+        {
+          "id": 50879815,
+          "name": "MEGUMI"
+        },
+        {
+          "id": 16216,
+          "name": "CooRie"
+        },
+        {
+          "id": 13022741,
+          "name": "rino"
+        },
+        {
+          "id": 33751519,
+          "name": "MEGUMI"
+        },
+        {
+          "id": 36235297,
+          "name": "Megumi Kopp"
+        },
+        {
+          "id": 30429268,
+          "name": "Megumi Hashiramoto"
+        },
+        {
+          "id": 33118961,
+          "name": "Akane-緋音Megumi"
+        },
+        {
+          "id": 50644236,
+          "name": "megumi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

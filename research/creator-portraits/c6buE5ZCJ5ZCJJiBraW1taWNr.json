@@ -1,0 +1,15 @@
+{
+  "id": "c6buE5ZCJ5ZCJJiBraW1taWNr",
+  "name": "黄吉吉& kimmick",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

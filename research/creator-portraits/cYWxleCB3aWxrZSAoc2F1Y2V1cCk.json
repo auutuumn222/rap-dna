@@ -1,0 +1,15 @@
+{
+  "id": "cYWxleCB3aWxrZSAoc2F1Y2V1cCk",
+  "name": "Alex Wilke (SauceUp)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

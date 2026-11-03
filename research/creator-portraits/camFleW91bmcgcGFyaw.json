@@ -1,0 +1,15 @@
+{
+  "id": "camFleW91bmcgcGFyaw",
+  "name": "Jaeyoung Park",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

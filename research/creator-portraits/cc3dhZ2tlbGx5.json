@@ -1,0 +1,72 @@
+{
+  "id": "cc3dhZ2tlbGx5",
+  "name": "SwagKelly",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12002047,
+          "name": "曾轩"
+        },
+        {
+          "id": 12277473,
+          "name": "李大奔BENZO"
+        },
+        {
+          "id": 12001060,
+          "name": "万妮达Vinida Weng"
+        },
+        {
+          "id": 12206205,
+          "name": "夏之禹"
+        },
+        {
+          "id": 4037,
+          "name": "Lu1"
+        },
+        {
+          "id": 28072811,
+          "name": "地磁卡"
+        },
+        {
+          "id": 2055,
+          "name": "白天不亮"
+        },
+        {
+          "id": 12663194,
+          "name": "钟欣cent3e"
+        },
+        {
+          "id": 12394426,
+          "name": "李丁丁MIA AIM"
+        },
+        {
+          "id": 30994647,
+          "name": "陶乐然DOLLARZOO"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "SwagKelly",
+    "image": "./assets/people/cc3dhZ2tlbGx5.jpg",
+    "source": "https://music.163.com/artist?id=12002047",
+    "imageSource": "https://p2.music.126.net/T7PtVZ01ewtLUqnB2e3SHg==/109951173344899182.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-shared-work",
+      "artistId": 12002047,
+      "works": [
+        {
+          "id": 1319670500,
+          "title": "52hz(Remix)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1319670500"
+      ]
+    }
+  }
+}

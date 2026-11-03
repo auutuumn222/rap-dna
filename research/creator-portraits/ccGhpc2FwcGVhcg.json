@@ -1,0 +1,32 @@
+{
+  "id": "ccGhpc2FwcGVhcg",
+  "name": "Phisappear",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35603457,
+          "name": "Phisappear"
+        },
+        {
+          "id": 12294124,
+          "name": "戾仁Lyrin"
+        },
+        {
+          "id": 12537403,
+          "name": "K.ila"
+        },
+        {
+          "id": 13611610,
+          "name": "Lt"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

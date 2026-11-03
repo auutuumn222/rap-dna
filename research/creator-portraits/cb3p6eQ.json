@@ -1,0 +1,56 @@
+{
+  "id": "cb3p6eQ",
+  "name": "Ozzy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 40863,
+          "name": "Ozzy Osbourne"
+        },
+        {
+          "id": 70567,
+          "name": "Ozzy"
+        },
+        {
+          "id": 51097182,
+          "name": "오지리 (Ozzy Lee)"
+        },
+        {
+          "id": 129993573,
+          "name": "Ozzy Mapar"
+        },
+        {
+          "id": 125235440,
+          "name": "ozzy"
+        },
+        {
+          "id": 29801266,
+          "name": "Ozzy Wilde"
+        },
+        {
+          "id": 28512157,
+          "name": "Ozzy Jones"
+        },
+        {
+          "id": 12302128,
+          "name": "OzzyXPM"
+        },
+        {
+          "id": 56570550,
+          "name": "By OZZY"
+        },
+        {
+          "id": 60688353,
+          "name": "Ozzy Riot"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

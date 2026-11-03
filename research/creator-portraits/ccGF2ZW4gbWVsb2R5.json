@@ -1,0 +1,24 @@
+{
+  "id": "ccGF2ZW4gbWVsb2R5",
+  "name": "Paven Melody",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34772381,
+          "name": "Paven Melody"
+        },
+        {
+          "id": 31540878,
+          "name": "PavenMelody"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

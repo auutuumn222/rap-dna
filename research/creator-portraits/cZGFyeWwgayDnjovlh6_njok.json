@@ -1,0 +1,20 @@
+{
+  "id": "cZGFyeWwgayDnjovlh6_njok",
+  "name": "Daryl K 王凯玉",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35092082,
+          "name": "Daryl K 王凯玉"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

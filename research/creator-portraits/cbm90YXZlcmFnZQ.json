@@ -1,0 +1,32 @@
+{
+  "id": "cbm90YXZlcmFnZQ",
+  "name": "notaverage",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47809265,
+          "name": "NOTAVERAGEJOE"
+        },
+        {
+          "id": 55099894,
+          "name": "notaverage"
+        },
+        {
+          "id": 98929040,
+          "name": "NotaverageGrim"
+        },
+        {
+          "id": 49541544,
+          "name": "Not Average"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

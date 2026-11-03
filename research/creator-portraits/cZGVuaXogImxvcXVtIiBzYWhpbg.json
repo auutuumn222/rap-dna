@@ -1,0 +1,15 @@
+{
+  "id": "cZGVuaXogImxvcXVtIiBzYWhpbg",
+  "name": "Deniz \"Loqum\" Sahin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cdGhhdGJvc3NldmFu",
+  "name": "ThatBossEvan",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34305121,
+          "name": "ThatBossEvan"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

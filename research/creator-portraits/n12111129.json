@@ -1,0 +1,16 @@
+{
+  "id": "n12111129",
+  "name": "希介",
+  "attempts": [],
+  "entry": {
+    "name": "希介",
+    "catalogName": "希介",
+    "aliases": [],
+    "image": "./assets/people/n12111129.jpg",
+    "source": "https://music.163.com/artist?id=12111129",
+    "imageSource": "https://p2.music.126.net/5KSKBUeQvsEH_6l9zCP6Kg==/109951173776740250.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

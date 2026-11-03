@@ -1,0 +1,46 @@
+{
+  "id": "n50039862",
+  "name": "FiRe范艾迩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50039862,
+          "name": "FiRe范艾迩"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "FiRe范艾迩",
+    "image": "./assets/people/n50039862.jpg",
+    "source": "https://music.163.com/artist?id=50039862",
+    "imageSource": "https://p2.music.126.net/WJsHs7FH5n-BICGIlrbdpQ==/109951173994247323.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 50039862,
+      "works": [
+        {
+          "id": 3439387316,
+          "title": "G.T.R."
+        },
+        {
+          "id": 3323827598,
+          "title": "戰術娘:Tactical Mom Intro."
+        },
+        {
+          "id": 2610628123,
+          "title": "波点"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1968156124",
+        "https://music.163.com/song?id=1969813336",
+        "https://music.163.com/song?id=1975800434"
+      ]
+    }
+  }
+}

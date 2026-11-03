@@ -1,0 +1,16 @@
+{
+  "id": "n12001195",
+  "name": "DiESi",
+  "attempts": [],
+  "entry": {
+    "name": "DiESi",
+    "catalogName": "DiESi",
+    "aliases": [],
+    "image": "./assets/people/n12001195.jpg",
+    "source": "https://music.163.com/artist?id=12001195",
+    "imageSource": "https://p2.music.126.net/4y-35v2-QpqrDqX8j71DcQ==/109951163522329706.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cc2hhZ28",
+  "name": "shago",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29763866,
+          "name": "Shagon"
+        },
+        {
+          "id": 60755378,
+          "name": "Shagofa"
+        },
+        {
+          "id": 30300525,
+          "name": "Shago Montero"
+        },
+        {
+          "id": 28113787,
+          "name": "Shago"
+        },
+        {
+          "id": 58667067,
+          "name": "Slxck ShaGo & BigMaHnDiggz"
+        },
+        {
+          "id": 14039340,
+          "name": "Shago Sg"
+        },
+        {
+          "id": 54904740,
+          "name": "Shago rapper"
+        },
+        {
+          "id": 48060708,
+          "name": "Shago Luckyto"
+        },
+        {
+          "id": 125676260,
+          "name": "Aleksa Shago"
+        },
+        {
+          "id": 57567212,
+          "name": "El Shago"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

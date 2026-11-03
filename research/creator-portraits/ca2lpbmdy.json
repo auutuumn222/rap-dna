@@ -1,0 +1,56 @@
+{
+  "id": "ca2lpbmdy",
+  "name": "kiingR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31215591,
+          "name": "KiingRod"
+        },
+        {
+          "id": 36497216,
+          "name": "KiingRoyal"
+        },
+        {
+          "id": 53072726,
+          "name": "KIINGRÑB"
+        },
+        {
+          "id": 48521913,
+          "name": "Kiingraam"
+        },
+        {
+          "id": 57488267,
+          "name": "KiingRicc"
+        },
+        {
+          "id": 60922544,
+          "name": "KiingRatt"
+        },
+        {
+          "id": 35511907,
+          "name": "Kiing Ros"
+        },
+        {
+          "id": 46517081,
+          "name": "Kiing Royal"
+        },
+        {
+          "id": 36108814,
+          "name": "Kiing Rose"
+        },
+        {
+          "id": 35538252,
+          "name": "Kiing Ron"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cZGFuZSBidXJnZQ",
+  "name": "Dane Burge",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

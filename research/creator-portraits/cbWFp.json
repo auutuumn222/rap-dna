@@ -1,0 +1,23 @@
+{
+  "id": "cbWFp",
+  "name": "Mai",
+  "attempts": [],
+  "entry": {
+    "name": "Mai",
+    "image": "./assets/people/ubWFp.jpg",
+    "source": "https://music.163.com/artist?id=6309",
+    "imageSource": "https://p2.music.126.net/ybT73o31hQsxi2U5eRW7Gg==/109951169742637657.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=1383211748",
+        "https://music.163.com/song?id=1403510842",
+        "https://music.163.com/song?id=1867944927"
+      ]
+    },
+    "matchedPersonId": "ubWFp"
+  },
+  "match": "existing-verified-name"
+}

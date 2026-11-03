@@ -1,0 +1,56 @@
+{
+  "id": "cZ29k",
+  "name": "god",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31511662,
+          "name": "99 God"
+        },
+        {
+          "id": 126789,
+          "name": "god"
+        },
+        {
+          "id": 93475,
+          "name": "God"
+        },
+        {
+          "id": 38134,
+          "name": "Lamb of God"
+        },
+        {
+          "id": 48174856,
+          "name": "GOD"
+        },
+        {
+          "id": 93184,
+          "name": "God Is An Astronaut"
+        },
+        {
+          "id": 48198467,
+          "name": "Young God"
+        },
+        {
+          "id": 37534637,
+          "name": "God's Plan"
+        },
+        {
+          "id": 1116014,
+          "name": "Nicolas Godin"
+        },
+        {
+          "id": 125385965,
+          "name": "God Like Bro"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

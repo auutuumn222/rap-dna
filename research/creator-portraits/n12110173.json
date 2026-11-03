@@ -1,0 +1,16 @@
+{
+  "id": "n12110173",
+  "name": "THOME",
+  "attempts": [],
+  "entry": {
+    "name": "THOME",
+    "catalogName": "THOME",
+    "aliases": [],
+    "image": "./assets/people/n12110173.jpg",
+    "source": "https://music.163.com/artist?id=12110173",
+    "imageSource": "https://p2.music.126.net/rIr78XiLso-Dlz00JjcLxw==/109951170999422334.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cbWFleW8gbXVzaWM",
+  "name": "Maeyo Music",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 95245309,
+          "name": "Maeyo Music"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cdG9tbXlvbnRoZXRyYWNr",
+  "name": "Tommyonthetrack",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31660768,
+          "name": "Tommyonthetrack"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

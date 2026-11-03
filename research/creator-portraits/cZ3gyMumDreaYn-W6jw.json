@@ -1,0 +1,56 @@
+{
+  "id": "cZ3gyMumDreaYn-W6jw",
+  "name": "GX22郭星序",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46637511,
+          "name": "GX22郭星序"
+        },
+        {
+          "id": 121660276,
+          "name": "Hades"
+        },
+        {
+          "id": 61747838,
+          "name": "精彩飞龙哥"
+        },
+        {
+          "id": 51088766,
+          "name": "煌"
+        },
+        {
+          "id": 98205437,
+          "name": "LuFive"
+        },
+        {
+          "id": 36671382,
+          "name": "西红"
+        },
+        {
+          "id": 51785238,
+          "name": "澀"
+        },
+        {
+          "id": 96497354,
+          "name": "JeloBall"
+        },
+        {
+          "id": 95263652,
+          "name": "十字固"
+        },
+        {
+          "id": 50040015,
+          "name": "SAKA"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

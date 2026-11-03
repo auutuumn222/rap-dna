@@ -1,0 +1,56 @@
+{
+  "id": "cbHVja3kx",
+  "name": "Lucky1",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 60537087,
+          "name": "Lucky1K"
+        },
+        {
+          "id": 52814701,
+          "name": "lucky19"
+        },
+        {
+          "id": 122855205,
+          "name": "Lucky13SSC"
+        },
+        {
+          "id": 122733294,
+          "name": "Lucky12"
+        },
+        {
+          "id": 34529930,
+          "name": "Lucky1"
+        },
+        {
+          "id": 123777507,
+          "name": "Lucky¹"
+        },
+        {
+          "id": 98441649,
+          "name": "Lucky112"
+        },
+        {
+          "id": 60195157,
+          "name": "Lucky123"
+        },
+        {
+          "id": 47259581,
+          "name": "Lucky10K"
+        },
+        {
+          "id": 30441813,
+          "name": "Lucky13"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

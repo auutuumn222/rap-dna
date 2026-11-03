@@ -1,0 +1,24 @@
+{
+  "id": "c6ams57qi5bCY",
+  "name": "马红尘",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33579732,
+          "name": "马红尘"
+        },
+        {
+          "id": 121636317,
+          "name": "小马哥的红尘师态"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

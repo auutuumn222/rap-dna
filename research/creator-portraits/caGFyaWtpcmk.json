@@ -1,0 +1,25 @@
+{
+  "id": "caGFyaWtpcmk",
+  "name": "HARIKIRI",
+  "attempts": [],
+  "entry": {
+    "name": "HARIKIRI",
+    "catalogName": "HARIKIRI",
+    "aliases": [],
+    "image": "./assets/people/n12200029.jpg",
+    "source": "https://music.163.com/artist?id=12200029",
+    "imageSource": "https://p1.music.126.net/yWw5dvuTn7dRpXbpv50lfw==/109951165776309282.jpg",
+    "checkedAt": "2026-10-30",
+    "kind": "person",
+    "matchedPersonId": "n12200029",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=1918900532",
+        "https://music.163.com/song?id=1973015438",
+        "https://music.163.com/song?id=2090363143"
+      ]
+    }
+  },
+  "match": "existing-verified-name"
+}

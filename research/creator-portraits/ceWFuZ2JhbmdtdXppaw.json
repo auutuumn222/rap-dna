@@ -1,0 +1,15 @@
+{
+  "id": "ceWFuZ2JhbmdtdXppaw",
+  "name": "YANGBANGMUZIK",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

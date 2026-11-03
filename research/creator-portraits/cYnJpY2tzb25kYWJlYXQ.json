@@ -1,0 +1,20 @@
+{
+  "id": "cYnJpY2tzb25kYWJlYXQ",
+  "name": "BricksOnDaBeat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30023217,
+          "name": "Bricksondabeat"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

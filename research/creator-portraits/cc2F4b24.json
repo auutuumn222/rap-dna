@@ -1,0 +1,56 @@
+{
+  "id": "cc2F4b24",
+  "name": "SAXON",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 100071,
+          "name": "Saxon"
+        },
+        {
+          "id": 54625416,
+          "name": "SAXON"
+        },
+        {
+          "id": 12904459,
+          "name": "SAXON"
+        },
+        {
+          "id": 13138298,
+          "name": "Corey Saxon"
+        },
+        {
+          "id": 74689,
+          "name": "Saxon Shore"
+        },
+        {
+          "id": 12931083,
+          "name": "Old Man Saxon"
+        },
+        {
+          "id": 14123857,
+          "name": "Virtuosi Saxoniae"
+        },
+        {
+          "id": 35187841,
+          "name": "尹天仇 Saxon"
+        },
+        {
+          "id": 12902468,
+          "name": "Saxon Wind Philharmonic"
+        },
+        {
+          "id": 51914766,
+          "name": "Saxonke"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

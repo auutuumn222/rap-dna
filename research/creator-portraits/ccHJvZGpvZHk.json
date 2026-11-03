@@ -1,0 +1,15 @@
+{
+  "id": "ccHJvZGpvZHk",
+  "name": "prodjody",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cc3RhdnJvcw",
+  "name": "Stavros",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12290069,
+          "name": "Stavros Martina"
+        },
+        {
+          "id": 14141927,
+          "name": "Stavros Markonis"
+        },
+        {
+          "id": 13040660,
+          "name": "Stavros"
+        },
+        {
+          "id": 12073339,
+          "name": "Stavros Xarhakos"
+        },
+        {
+          "id": 35144312,
+          "name": "Stavros Zacharias"
+        },
+        {
+          "id": 14544046,
+          "name": "Stavros Lantsias"
+        },
+        {
+          "id": 55022249,
+          "name": "stavros iliopoulos"
+        },
+        {
+          "id": 30569723,
+          "name": "Stavros Sounds"
+        },
+        {
+          "id": 13239953,
+          "name": "Stavros Kougioumtzis"
+        },
+        {
+          "id": 51308607,
+          "name": "Stavros Kleisiaris"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

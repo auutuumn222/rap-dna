@@ -1,0 +1,24 @@
+{
+  "id": "cYWx2YSBncmFjaWE",
+  "name": "Alva Gracia",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28089406,
+          "name": "Alva Gracia"
+        },
+        {
+          "id": 32605853,
+          "name": "Hoop Records"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

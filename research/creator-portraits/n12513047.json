@@ -1,0 +1,38 @@
+{
+  "id": "n12513047",
+  "name": "赵辰龙(Dragon X)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12513047,
+          "name": "赵辰龙(Dragon X)"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "赵辰龙(Dragon X)",
+    "image": "./assets/people/n12513047.jpg",
+    "source": "https://music.163.com/artist?id=12513047",
+    "imageSource": "https://p2.music.126.net/c1GUrVrCHmLSvLDClAbywA==/109951169544300562.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12513047,
+      "works": [
+        {
+          "id": 1394155242,
+          "title": "红色-山河版"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1394155242",
+        "https://music.163.com/song?id=1394835352",
+        "https://music.163.com/song?id=2735174725"
+      ]
+    }
+  }
+}

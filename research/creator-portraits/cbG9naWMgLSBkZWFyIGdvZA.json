@@ -1,0 +1,24 @@
+{
+  "id": "cbG9naWMgLSBkZWFyIGdvZA",
+  "name": "logic - dear god",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 865007,
+          "name": "法老"
+        },
+        {
+          "id": 12780724,
+          "name": "深蓝儿童"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

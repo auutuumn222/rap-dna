@@ -1,0 +1,36 @@
+{
+  "id": "c5p2O5oeL",
+  "name": "李懋",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33275404,
+          "name": "李懋懋呀"
+        },
+        {
+          "id": 820276,
+          "name": "李懋扬(T2o)"
+        },
+        {
+          "id": 34276336,
+          "name": "李奇懋"
+        },
+        {
+          "id": 122063913,
+          "name": "李懋"
+        },
+        {
+          "id": 12093017,
+          "name": "Wuli包子"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

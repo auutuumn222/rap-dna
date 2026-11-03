@@ -1,0 +1,56 @@
+{
+  "id": "ca2F5",
+  "name": "KAY",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55349062,
+          "name": "Kay"
+        },
+        {
+          "id": 16217,
+          "name": "Crystal Kay"
+        },
+        {
+          "id": 50854515,
+          "name": "Kay B"
+        },
+        {
+          "id": 1124551,
+          "name": "Maisy Kay"
+        },
+        {
+          "id": 121472718,
+          "name": "Bella Kay"
+        },
+        {
+          "id": 492813,
+          "name": "Kayaz"
+        },
+        {
+          "id": 12154335,
+          "name": "Kay Figo"
+        },
+        {
+          "id": 31982518,
+          "name": "Sara Kays"
+        },
+        {
+          "id": 30957760,
+          "name": "J-Kay"
+        },
+        {
+          "id": 290036,
+          "name": "Georgi Kay"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c6ZmI5pet5L6D",
+  "name": "陈旭侃",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12328507,
+          "name": "陈旭侃"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cYXpvb20",
+  "name": "Azoom",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1213034,
+          "name": "Azoom"
+        },
+        {
+          "id": 12261289,
+          "name": "Azooma"
+        },
+        {
+          "id": 121944813,
+          "name": "Azoomi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cd2luZ21hbg",
+  "name": "Wingman",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49136710,
+          "name": "Wingman"
+        },
+        {
+          "id": 28184510,
+          "name": "Wingman"
+        },
+        {
+          "id": 31277394,
+          "name": "Wingman"
+        },
+        {
+          "id": 49232591,
+          "name": "WingMan"
+        },
+        {
+          "id": 46640022,
+          "name": "WINGMAN"
+        },
+        {
+          "id": 47520614,
+          "name": "Wingman"
+        },
+        {
+          "id": 13846009,
+          "name": "Wingman"
+        },
+        {
+          "id": 36319350,
+          "name": "Wingman Bob"
+        },
+        {
+          "id": 53890378,
+          "name": "Wingman Quiet"
+        },
+        {
+          "id": 96141448,
+          "name": "WingMan Entertainment"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

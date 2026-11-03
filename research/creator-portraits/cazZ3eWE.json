@@ -1,0 +1,20 @@
+{
+  "id": "cazZ3eWE",
+  "name": "K6WYA",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52970081,
+          "name": "K6WYA"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

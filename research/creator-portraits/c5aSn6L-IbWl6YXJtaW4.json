@@ -1,0 +1,20 @@
+{
+  "id": "c5aSn6L-IbWl6YXJtaW4",
+  "name": "大迈MizarMin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13447929,
+          "name": "大迈MizarMin"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

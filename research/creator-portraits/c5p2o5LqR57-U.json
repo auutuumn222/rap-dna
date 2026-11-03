@@ -1,0 +1,28 @@
+{
+  "id": "c5p2o5LqR57-U",
+  "name": "杨云翔",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58185372,
+          "name": "杨云翔"
+        },
+        {
+          "id": 50364345,
+          "name": "杨云翔Catlien"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c5YWz5aSp5aSp",
+  "name": "关天天",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29770609,
+          "name": "关天天"
+        },
+        {
+          "id": 47295342,
+          "name": "范寒昀"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

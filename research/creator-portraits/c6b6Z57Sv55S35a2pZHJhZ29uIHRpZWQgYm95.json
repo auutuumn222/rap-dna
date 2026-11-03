@@ -1,0 +1,15 @@
+{
+  "id": "c6b6Z57Sv55S35a2pZHJhZ29uIHRpZWQgYm95",
+  "name": "龙累男孩dragon tied boy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

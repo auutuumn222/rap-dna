@@ -1,0 +1,56 @@
+{
+  "id": "ca3h2aQ",
+  "name": "KXVI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31932256,
+          "name": "KXVI"
+        },
+        {
+          "id": 52390192,
+          "name": "KXVIASHPLAYA"
+        },
+        {
+          "id": 36834396,
+          "name": "Kxvin Tylxr"
+        },
+        {
+          "id": 128241746,
+          "name": "kxvinn"
+        },
+        {
+          "id": 59521006,
+          "name": "KXVI Rich James Collaboration"
+        },
+        {
+          "id": 36511899,
+          "name": "QIM & Kxvi"
+        },
+        {
+          "id": 55170972,
+          "name": "Prod. llouis x KXVI"
+        },
+        {
+          "id": 50818654,
+          "name": "KXVIN"
+        },
+        {
+          "id": 125644367,
+          "name": "kxvin"
+        },
+        {
+          "id": 52771301,
+          "name": "Kxvin1463"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

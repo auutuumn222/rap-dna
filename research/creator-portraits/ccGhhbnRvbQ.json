@@ -1,0 +1,56 @@
+{
+  "id": "ccGhhbnRvbQ",
+  "name": "Phantom",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33070940,
+          "name": "Phantom"
+        },
+        {
+          "id": 53380979,
+          "name": "Phantom（ Mexico）"
+        },
+        {
+          "id": 53022550,
+          "name": "Phantom"
+        },
+        {
+          "id": 127461,
+          "name": "Phantom"
+        },
+        {
+          "id": 12564128,
+          "name": "Shanghai Phantom"
+        },
+        {
+          "id": 158027,
+          "name": "Phantoms"
+        },
+        {
+          "id": 33974780,
+          "name": "Phäntom Records"
+        },
+        {
+          "id": 32918380,
+          "name": "44phantom"
+        },
+        {
+          "id": 1171043,
+          "name": "Phantom Sage"
+        },
+        {
+          "id": 97422611,
+          "name": "Phantom Heartache"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

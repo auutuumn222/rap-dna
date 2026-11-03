@@ -1,0 +1,15 @@
+{
+  "id": "cY2hyaXMgZ2VocmluZ2VyICjnvo4p",
+  "name": "CHRIS GEHRINGER (美)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

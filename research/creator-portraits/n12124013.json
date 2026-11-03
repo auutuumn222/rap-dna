@@ -1,0 +1,36 @@
+{
+  "id": "n12124013",
+  "name": "俞天时",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12124013,
+          "name": "俞天时"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "俞天时",
+    "image": "./assets/people/n12124013.jpg",
+    "source": "https://music.163.com/artist?id=12124013",
+    "imageSource": "https://p2.music.126.net/IMTBUcK6KCym_v5064W4hg==/109951173955478411.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12124013,
+      "works": [
+        {
+          "id": 2100558978,
+          "title": "飞天茅台 (Ultimate Remix)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2100558978"
+      ]
+    }
+  }
+}

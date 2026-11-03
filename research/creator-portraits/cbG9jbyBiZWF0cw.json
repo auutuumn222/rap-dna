@@ -1,0 +1,52 @@
+{
+  "id": "cbG9jbyBiZWF0cw",
+  "name": "Loco Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35155674,
+          "name": "Loco Beats"
+        },
+        {
+          "id": 122516225,
+          "name": "Malle Loco Beats"
+        },
+        {
+          "id": 30979793,
+          "name": "El Pojo Loco Beats"
+        },
+        {
+          "id": 47020962,
+          "name": "Loco Oni beats"
+        },
+        {
+          "id": 50560719,
+          "name": "Beats by LOCO"
+        },
+        {
+          "id": 55019994,
+          "name": "Beats Locos"
+        },
+        {
+          "id": 123994558,
+          "name": "Loco Pato on the beat"
+        },
+        {
+          "id": 53285266,
+          "name": "Loco X TI Beat"
+        },
+        {
+          "id": 35761925,
+          "name": "LoCoBeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

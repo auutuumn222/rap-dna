@@ -1,0 +1,16 @@
+{
+  "id": "n33937972",
+  "name": "CashTrippy",
+  "attempts": [],
+  "entry": {
+    "name": "CashTrippy",
+    "catalogName": "CashTrippy",
+    "aliases": [],
+    "image": "./assets/people/n33937972.jpg",
+    "source": "https://music.163.com/artist?id=33937972",
+    "imageSource": "https://p1.music.126.net/kL7d-0ehorNXgSa8tznQGg==/109951172338582374.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

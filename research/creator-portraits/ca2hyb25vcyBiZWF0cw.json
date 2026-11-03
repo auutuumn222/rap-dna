@@ -1,0 +1,24 @@
+{
+  "id": "ca2hyb25vcyBiZWF0cw",
+  "name": "Khronos beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30170163,
+          "name": "Khronos beats"
+        },
+        {
+          "id": 50124963,
+          "name": "KhronosBeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

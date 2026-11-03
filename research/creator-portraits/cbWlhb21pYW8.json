@@ -1,0 +1,56 @@
+{
+  "id": "cbWlhb21pYW8",
+  "name": "miaomiao",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32542725,
+          "name": "miaomiao"
+        },
+        {
+          "id": 49518712,
+          "name": "MIAOMIAOYOUNG"
+        },
+        {
+          "id": 100006699,
+          "name": "miaomiao"
+        },
+        {
+          "id": 55907209,
+          "name": "Miaomiao Yu"
+        },
+        {
+          "id": 95401758,
+          "name": "Miaomiao Yang"
+        },
+        {
+          "id": 125668988,
+          "name": "Pitzi MiaoMiao"
+        },
+        {
+          "id": 31002901,
+          "name": "DRODUMANA"
+        },
+        {
+          "id": 30220807,
+          "name": "罗可Lorkin"
+        },
+        {
+          "id": 32931336,
+          "name": "KITO"
+        },
+        {
+          "id": 127114112,
+          "name": "叶淼淼"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

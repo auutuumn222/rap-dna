@@ -1,0 +1,20 @@
+{
+  "id": "c6ZmI55GcbG9uYQ",
+  "name": "陈瑜Lona",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48685148,
+          "name": "陈瑜Lona"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

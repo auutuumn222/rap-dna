@@ -1,0 +1,24 @@
+{
+  "id": "cdHRvbmVob3d1ZmVlbA",
+  "name": "TtoneHowUFeel",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12969938,
+          "name": "TtoneHowUFeel"
+        },
+        {
+          "id": 37343744,
+          "name": "Katastic卡老师"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

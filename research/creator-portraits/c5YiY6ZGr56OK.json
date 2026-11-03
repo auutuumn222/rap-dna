@@ -1,0 +1,44 @@
+{
+  "id": "c5YiY6ZGr56OK",
+  "name": "刘鑫磊",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53930928,
+          "name": "刘鑫磊"
+        },
+        {
+          "id": 51756581,
+          "name": "刘鑫磊"
+        },
+        {
+          "id": 31159746,
+          "name": "刘鑫磊"
+        },
+        {
+          "id": 13005098,
+          "name": "刘鑫磊"
+        },
+        {
+          "id": 36023500,
+          "name": "刘鑫磊"
+        },
+        {
+          "id": 96165413,
+          "name": "刘鑫磊"
+        },
+        {
+          "id": 123959435,
+          "name": "刘鑫磊"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

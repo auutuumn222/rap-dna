@@ -1,0 +1,32 @@
+{
+  "id": "cMjdjb3Jhem9uZXMgYmVhdHM",
+  "name": "27corazones beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29978254,
+          "name": "27Corazones Beats"
+        },
+        {
+          "id": 30494891,
+          "name": "27 Corazones Beats"
+        },
+        {
+          "id": 49734525,
+          "name": "Beat Produced by 27 Corazones Beats"
+        },
+        {
+          "id": 29855114,
+          "name": "27CorazonesBeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

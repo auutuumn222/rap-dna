@@ -1,0 +1,32 @@
+{
+  "id": "cbC1icm9keQ",
+  "name": "L-BRODY",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12350141,
+          "name": "L-BRODY"
+        },
+        {
+          "id": 126934858,
+          "name": "4L BRODY"
+        },
+        {
+          "id": 56061073,
+          "name": "4L Brody"
+        },
+        {
+          "id": 126753663,
+          "name": "Erika L Brodie"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

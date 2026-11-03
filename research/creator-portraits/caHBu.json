@@ -1,0 +1,56 @@
+{
+  "id": "caHBu",
+  "name": "HPN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30784078,
+          "name": "hpn航"
+        },
+        {
+          "id": 813062,
+          "name": "Hpnotic718"
+        },
+        {
+          "id": 56202110,
+          "name": "HPN"
+        },
+        {
+          "id": 33013719,
+          "name": "Hpnotic"
+        },
+        {
+          "id": 34357084,
+          "name": "HPNZ"
+        },
+        {
+          "id": 32731977,
+          "name": "HPN"
+        },
+        {
+          "id": 53995335,
+          "name": "HPNV"
+        },
+        {
+          "id": 94788592,
+          "name": "HPNKELLZ"
+        },
+        {
+          "id": 49483233,
+          "name": "HPN"
+        },
+        {
+          "id": 52019886,
+          "name": "hpn"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

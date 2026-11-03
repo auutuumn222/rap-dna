@@ -1,0 +1,15 @@
+{
+  "id": "cdGVuNTA",
+  "name": "ten50",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

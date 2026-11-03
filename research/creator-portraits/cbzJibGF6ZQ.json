@@ -1,0 +1,15 @@
+{
+  "id": "cbzJibGF6ZQ",
+  "name": "O2BLAZE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

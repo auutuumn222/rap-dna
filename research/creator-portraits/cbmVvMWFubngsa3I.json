@@ -1,0 +1,15 @@
+{
+  "id": "cbmVvMWFubngsa3I",
+  "name": "neo1Annx，Kr",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

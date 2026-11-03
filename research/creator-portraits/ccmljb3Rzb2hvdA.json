@@ -1,0 +1,44 @@
+{
+  "id": "ccmljb3Rzb2hvdA",
+  "name": "RICOTSOHOT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50434860,
+          "name": "RICOTSOHOT"
+        },
+        {
+          "id": 48277407,
+          "name": "BOBBYNOPEACE"
+        },
+        {
+          "id": 34326822,
+          "name": "Tlatre特雷西"
+        },
+        {
+          "id": 12484112,
+          "name": "Nxmad诺曼德"
+        },
+        {
+          "id": 33048607,
+          "name": "科福KOV"
+        },
+        {
+          "id": 50895727,
+          "name": "甜瓜ThunderF1ame"
+        },
+        {
+          "id": 36651801,
+          "name": "MelonBOIOnTheTrack"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

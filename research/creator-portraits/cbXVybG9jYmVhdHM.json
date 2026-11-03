@@ -1,0 +1,20 @@
+{
+  "id": "cbXVybG9jYmVhdHM",
+  "name": "MURLOCBEATS",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 61198735,
+          "name": "Murloc Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ccGFjdOa0vuWFi-eJuQ",
+  "name": "pact派克特",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12119618,
+          "name": "派克特（PACT）"
+        },
+        {
+          "id": 12084497,
+          "name": "宝石Gem"
+        },
+        {
+          "id": 3442,
+          "name": "胡海泉"
+        },
+        {
+          "id": 12054555,
+          "name": "潘粤明"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cZHJpcGxhd2Q",
+  "name": "Driplawd",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 94381444,
+          "name": "Driplawd"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

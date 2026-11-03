@@ -1,0 +1,40 @@
+{
+  "id": "n12415043",
+  "name": "安林瑶Alia",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12415043,
+          "name": "安林瑶Alia"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "安林瑶Alia",
+    "image": "./assets/people/n12415043.jpg",
+    "source": "https://music.163.com/artist?id=12415043",
+    "imageSource": "https://p2.music.126.net/XteddnxvLATeS6I1XOI-Kw==/109951169384808723.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12415043,
+      "works": [
+        {
+          "id": 2600679643,
+          "title": "野兽（feat.PSY.P）"
+        },
+        {
+          "id": 2656035135,
+          "title": "野兽（CDBoi Remix）"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2600679643"
+      ]
+    }
+  }
+}

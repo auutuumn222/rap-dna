@@ -1,0 +1,48 @@
+{
+  "id": "c6Im-54OtYWly",
+  "name": "艾热AIR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1203045,
+          "name": "艾热 AIR"
+        },
+        {
+          "id": 47382127,
+          "name": "艾热·Air"
+        },
+        {
+          "id": 12236125,
+          "name": "王以太"
+        },
+        {
+          "id": 12079219,
+          "name": "李佳隆"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "艾热AIR",
+    "image": "./assets/people/c6Im-54OtYWly.jpg",
+    "source": "https://music.163.com/artist?id=1203045",
+    "imageSource": "https://p2.music.126.net/tvy9BeZWZhqKfYKLHsSf-w==/109951172651091852.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-shared-work",
+      "artistId": 1203045,
+      "works": [
+        {
+          "id": 1980392121,
+          "title": "人来疯（LIVE版）"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1980392121"
+      ]
+    }
+  }
+}

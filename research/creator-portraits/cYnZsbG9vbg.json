@@ -1,0 +1,40 @@
+{
+  "id": "cYnZsbG9vbg",
+  "name": "Bvlloon",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34230967,
+          "name": "Bvlloon"
+        },
+        {
+          "id": 53774410,
+          "name": "Bvlloon波龙"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 30223665,
+          "name": "狂兆北"
+        },
+        {
+          "id": 34136539,
+          "name": "xxxxiiejehsusiiakkwk"
+        },
+        {
+          "id": 32430992,
+          "name": "Internet Beats Mob"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

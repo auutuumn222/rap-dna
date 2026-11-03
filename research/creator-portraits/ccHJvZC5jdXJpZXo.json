@@ -1,0 +1,20 @@
+{
+  "id": "ccHJvZC5jdXJpZXo",
+  "name": "Prod.Curiez",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58621090,
+          "name": "prod. curiez"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

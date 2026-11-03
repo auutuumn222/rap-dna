@@ -1,0 +1,56 @@
+{
+  "id": "cZG5pbmU",
+  "name": "Dnine",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34954258,
+          "name": "dnine"
+        },
+        {
+          "id": 31827239,
+          "name": "Dnine"
+        },
+        {
+          "id": 123031510,
+          "name": "DNine09"
+        },
+        {
+          "id": 54196977,
+          "name": "Dnine"
+        },
+        {
+          "id": 52639899,
+          "name": "dnine"
+        },
+        {
+          "id": 37590709,
+          "name": "DNine"
+        },
+        {
+          "id": 98771889,
+          "name": "ODD Dnine"
+        },
+        {
+          "id": 35341281,
+          "name": "Don Dnine"
+        },
+        {
+          "id": 96527962,
+          "name": "DNINETYTHREE"
+        },
+        {
+          "id": 54109379,
+          "name": "Mayblock Dnine"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ccHJvZHVjZWJ5c3luZHJvbWU",
+  "name": "producebysyndrome",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

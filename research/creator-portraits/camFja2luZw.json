@@ -1,0 +1,56 @@
+{
+  "id": "camFja2luZw",
+  "name": "Jacking",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33820139,
+          "name": "Jacking"
+        },
+        {
+          "id": 31957698,
+          "name": "Jackingcong"
+        },
+        {
+          "id": 48994458,
+          "name": "JacKing轩"
+        },
+        {
+          "id": 123409550,
+          "name": "DJ-JACKING"
+        },
+        {
+          "id": 54632844,
+          "name": "JackinGod"
+        },
+        {
+          "id": 43755,
+          "name": "Skrillex"
+        },
+        {
+          "id": 13088051,
+          "name": "Jack Harlow"
+        },
+        {
+          "id": 32650564,
+          "name": "Jack Stauber's Micropop"
+        },
+        {
+          "id": 31645,
+          "name": "Diplo"
+        },
+        {
+          "id": 1049232,
+          "name": "Sunstroke Project"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

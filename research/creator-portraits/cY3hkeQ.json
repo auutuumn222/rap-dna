@@ -1,0 +1,56 @@
+{
+  "id": "cY3hkeQ",
+  "name": "Cxdy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56296466,
+          "name": "cxdyy1"
+        },
+        {
+          "id": 14699077,
+          "name": "Cxdy"
+        },
+        {
+          "id": 48896808,
+          "name": "Yxng Cxdy"
+        },
+        {
+          "id": 48570935,
+          "name": "Darkskin Cxdy"
+        },
+        {
+          "id": 97238978,
+          "name": "Prod. The Cxdy"
+        },
+        {
+          "id": 31098559,
+          "name": "Cody Rounds (Cxdy)"
+        },
+        {
+          "id": 48107911,
+          "name": "Cxdyy"
+        },
+        {
+          "id": 53557790,
+          "name": "cxdyy1"
+        },
+        {
+          "id": 60174588,
+          "name": "Cxdyssey"
+        },
+        {
+          "id": 128324435,
+          "name": "CxDY"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

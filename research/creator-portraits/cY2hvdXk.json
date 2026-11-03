@@ -1,0 +1,48 @@
+{
+  "id": "cY2hvdXk",
+  "name": "Chouy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58932417,
+          "name": "Chouy"
+        },
+        {
+          "id": 56979907,
+          "name": "ChouYawa"
+        },
+        {
+          "id": 123426443,
+          "name": "Chouya"
+        },
+        {
+          "id": 98940818,
+          "name": "Eric chouyy"
+        },
+        {
+          "id": 94949082,
+          "name": "Barathza Chouyi"
+        },
+        {
+          "id": 127283363,
+          "name": "ChouYa DialloWane"
+        },
+        {
+          "id": 125683778,
+          "name": "Yousra Chouyekh"
+        },
+        {
+          "id": 34497677,
+          "name": "罗恩Rune"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

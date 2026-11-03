@@ -1,0 +1,48 @@
+{
+  "id": "ccm9zc2dvc3NhZ2U",
+  "name": "Rossgossage",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47416107,
+          "name": "Rossgossage x Mendoza"
+        },
+        {
+          "id": 36016915,
+          "name": "Rossgossage"
+        },
+        {
+          "id": 130010433,
+          "name": "rossgossage"
+        },
+        {
+          "id": 34275530,
+          "name": "Ross Gossage"
+        },
+        {
+          "id": 51325338,
+          "name": "Ross Gossage & Voyce beats"
+        },
+        {
+          "id": 53985993,
+          "name": "ross gossage & ayoley beats"
+        },
+        {
+          "id": 95160798,
+          "name": "Ross Gossage Yeezo"
+        },
+        {
+          "id": 54417938,
+          "name": "Ross Gossage & Polar Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

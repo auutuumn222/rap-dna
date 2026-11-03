@@ -1,0 +1,15 @@
+{
+  "id": "cZG9rb2RlbW8gZG9vciBtdXNpYyhjZGMp",
+  "name": "Dokodemo Door Music(CDC)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

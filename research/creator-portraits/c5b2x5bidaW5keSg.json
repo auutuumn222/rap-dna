@@ -1,0 +1,25 @@
+{
+  "id": "c5b2x5bidaW5keSg",
+  "name": "影帝inDy（",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34864481,
+          "name": "影帝inDy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1562121444,
+          "name": "影帝inDy"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

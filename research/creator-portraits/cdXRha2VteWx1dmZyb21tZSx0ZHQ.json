@@ -1,0 +1,15 @@
+{
+  "id": "cdXRha2VteWx1dmZyb21tZSx0ZHQ",
+  "name": "utakemyluvfromme，TDT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cY2hyaXMgZ2VocmluZ2Vy",
+  "name": "Chris Gehringer",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 74625,
+          "name": "Sia"
+        },
+        {
+          "id": 54743524,
+          "name": "那艺娜"
+        },
+        {
+          "id": 12261222,
+          "name": "Greg Kurstin"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

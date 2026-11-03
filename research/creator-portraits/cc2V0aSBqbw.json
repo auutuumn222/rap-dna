@@ -1,0 +1,24 @@
+{
+  "id": "cc2V0aSBqbw",
+  "name": "seti jo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33216986,
+          "name": "SETI"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

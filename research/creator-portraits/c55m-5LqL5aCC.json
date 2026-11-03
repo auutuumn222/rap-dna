@@ -1,0 +1,15 @@
+{
+  "id": "c55m-5LqL5aCC",
+  "name": "百事堂",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

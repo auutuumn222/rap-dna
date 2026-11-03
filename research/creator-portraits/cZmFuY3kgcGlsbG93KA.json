@@ -1,0 +1,15 @@
+{
+  "id": "cZmFuY3kgcGlsbG93KA",
+  "name": "Fancy Pillow（",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

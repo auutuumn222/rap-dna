@@ -1,0 +1,24 @@
+{
+  "id": "cZmxvank",
+  "name": "flojy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 61126021,
+          "name": "flojy"
+        },
+        {
+          "id": 96029811,
+          "name": "Flo Jy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

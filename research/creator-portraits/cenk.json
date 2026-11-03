@@ -1,0 +1,56 @@
+{
+  "id": "cenk",
+  "name": "Zy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37123911,
+          "name": "Zy"
+        },
+        {
+          "id": 122902695,
+          "name": "ZY"
+        },
+        {
+          "id": 34139814,
+          "name": "Slatt Zy"
+        },
+        {
+          "id": 94050690,
+          "name": "Zy"
+        },
+        {
+          "id": 58694386,
+          "name": "阳朔DJ-ZYH"
+        },
+        {
+          "id": 59099939,
+          "name": "7wiz"
+        },
+        {
+          "id": 33908311,
+          "name": "Zy"
+        },
+        {
+          "id": 12760882,
+          "name": "纸砚Zyan"
+        },
+        {
+          "id": 12155122,
+          "name": "ZY"
+        },
+        {
+          "id": 97836171,
+          "name": "DJ ZY"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

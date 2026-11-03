@@ -1,0 +1,56 @@
+{
+  "id": "cdWNodQ",
+  "name": "uchu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28009635,
+          "name": "Uchu"
+        },
+        {
+          "id": 13839486,
+          "name": "uchuu;"
+        },
+        {
+          "id": 48820013,
+          "name": "uchuutodate"
+        },
+        {
+          "id": 33260155,
+          "name": "uchu"
+        },
+        {
+          "id": 51050465,
+          "name": "宇宙幽灵Uchu Yurei"
+        },
+        {
+          "id": 52178312,
+          "name": "3D a.k.a. Uchu"
+        },
+        {
+          "id": 56824975,
+          "name": "Uchu Plxy"
+        },
+        {
+          "id": 35505867,
+          "name": "UCHU"
+        },
+        {
+          "id": 54982423,
+          "name": "uchu neko"
+        },
+        {
+          "id": 56170180,
+          "name": "Uchu Hassan"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

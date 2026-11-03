@@ -1,0 +1,48 @@
+{
+  "id": "c6auY5a6H6LGq",
+  "name": "高宇豪",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12226484,
+          "name": "高宇豪"
+        },
+        {
+          "id": 59509194,
+          "name": "高宇豪"
+        },
+        {
+          "id": 1094010,
+          "name": "刘宇宁"
+        },
+        {
+          "id": 5382,
+          "name": "吴建豪"
+        },
+        {
+          "id": 1875,
+          "name": "五月天 阿信"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        },
+        {
+          "id": 6484,
+          "name": "周渝民"
+        },
+        {
+          "id": 6079,
+          "name": "言承旭"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

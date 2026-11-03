@@ -1,0 +1,28 @@
+{
+  "id": "cayBzd2lzaGE",
+  "name": "K Swisha",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13430241,
+          "name": "K Swisha"
+        },
+        {
+          "id": 36260634,
+          "name": "Swisha K"
+        },
+        {
+          "id": 54518819,
+          "name": "kswishaa"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cd2lsZHgy",
+  "name": "WildX2",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48414449,
+          "name": "notkoko"
+        },
+        {
+          "id": 31005623,
+          "name": "埃兰德Forten Island"
+        },
+        {
+          "id": 12251010,
+          "name": "Berhana"
+        },
+        {
+          "id": 35029677,
+          "name": "Ash Olsen"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

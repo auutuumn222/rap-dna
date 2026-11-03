@@ -1,0 +1,20 @@
+{
+  "id": "cODA4YnJpYW4",
+  "name": "808Brian",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 93991221,
+          "name": "Prod 808brian"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

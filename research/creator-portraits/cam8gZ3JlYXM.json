@@ -1,0 +1,28 @@
+{
+  "id": "cam8gZ3JlYXM",
+  "name": "Jo Greas",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36134395,
+          "name": "Lil Woody"
+        },
+        {
+          "id": 12126934,
+          "name": "JoGreas"
+        },
+        {
+          "id": 55774704,
+          "name": "JoGreas"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

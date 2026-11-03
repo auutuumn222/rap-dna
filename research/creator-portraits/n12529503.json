@@ -1,0 +1,50 @@
+{
+  "id": "n12529503",
+  "name": "KSA",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12529503,
+          "name": "KSA"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "KSA",
+    "image": "./assets/people/n12529503.jpg",
+    "source": "https://music.163.com/artist?id=12529503",
+    "imageSource": "https://p2.music.126.net/JJmNYYal_SpKt_knn1yenA==/109951170331697162.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12529503,
+      "works": [
+        {
+          "id": 1882152366,
+          "title": "超狗任务"
+        },
+        {
+          "id": 2036495323,
+          "title": "25K"
+        },
+        {
+          "id": 1882152364,
+          "title": "陷阱丛林"
+        },
+        {
+          "id": 1882152367,
+          "title": "Dance with Moon"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1882152364",
+        "https://music.163.com/song?id=1882152366",
+        "https://music.163.com/song?id=1882152367"
+      ]
+    }
+  }
+}

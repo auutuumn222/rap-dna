@@ -1,0 +1,15 @@
+{
+  "id": "cY3hkeSBtaXg6Zndjcw",
+  "name": "Cxdy mix：fwcs",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

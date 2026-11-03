@@ -1,0 +1,36 @@
+{
+  "id": "n34319290",
+  "name": "Clutch+离合",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34319290,
+          "name": "Clutch+离合"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Clutch+离合",
+    "image": "./assets/people/n34319290.jpg",
+    "source": "https://music.163.com/artist?id=34319290",
+    "imageSource": "https://p1.music.126.net/nlvjRerJJlji7P1dDYgYkw==/109951169922880587.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 34319290,
+      "works": [
+        {
+          "id": 3415062385,
+          "title": "NO CHANCE"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=3415062385"
+      ]
+    }
+  }
+}

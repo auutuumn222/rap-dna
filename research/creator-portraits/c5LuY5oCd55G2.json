@@ -1,0 +1,32 @@
+{
+  "id": "c5LuY5oCd55G2",
+  "name": "付思瑶",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51088331,
+          "name": "付思遥"
+        },
+        {
+          "id": 12198387,
+          "name": "艾志恒Asen"
+        },
+        {
+          "id": 123958482,
+          "name": "付思瑶"
+        },
+        {
+          "id": 30704161,
+          "name": "mac ova seas"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

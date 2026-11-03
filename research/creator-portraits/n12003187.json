@@ -1,0 +1,36 @@
+{
+  "id": "n12003187",
+  "name": "瘦恒SoulHan",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12003187,
+          "name": "瘦恒SoulHan"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "瘦恒SoulHan",
+    "image": "./assets/people/n12003187.jpg",
+    "source": "https://music.163.com/artist?id=12003187",
+    "imageSource": "https://p2.music.126.net/752X9y3UnwXHvf3ZAIZA6A==/109951168989162396.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12003187,
+      "works": [
+        {
+          "id": 1910574313,
+          "title": "1234567(ft.SASIOVERLXRD)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1910574313"
+      ]
+    }
+  }
+}

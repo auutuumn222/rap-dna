@@ -1,0 +1,56 @@
+{
+  "id": "cdGVsZQ",
+  "name": "Tele",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51875238,
+          "name": "Tele"
+        },
+        {
+          "id": 791098,
+          "name": "Teleman"
+        },
+        {
+          "id": 129888,
+          "name": "Georg Philipp Telemann"
+        },
+        {
+          "id": 36908603,
+          "name": "Teles Moreno"
+        },
+        {
+          "id": 561100,
+          "name": "Tele Music"
+        },
+        {
+          "id": 78557,
+          "name": "Téléphone"
+        },
+        {
+          "id": 46907828,
+          "name": "Telenova"
+        },
+        {
+          "id": 54185981,
+          "name": "telemëk"
+        },
+        {
+          "id": 47177334,
+          "name": "Telemist"
+        },
+        {
+          "id": 34400735,
+          "name": "tele"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

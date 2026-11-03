@@ -1,0 +1,56 @@
+{
+  "id": "cZWF6enk",
+  "name": "Eazzy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54712195,
+          "name": "洪Eazzy_"
+        },
+        {
+          "id": 36966866,
+          "name": "Lil Eazzyy"
+        },
+        {
+          "id": 33892292,
+          "name": "Kidd Eazzyy"
+        },
+        {
+          "id": 49101485,
+          "name": "Eazzy"
+        },
+        {
+          "id": 97082091,
+          "name": "Eazzy Mula"
+        },
+        {
+          "id": 58245543,
+          "name": "Eazzy kuddy."
+        },
+        {
+          "id": 33416787,
+          "name": "Fr Eazzy"
+        },
+        {
+          "id": 35894117,
+          "name": "Nate Eazzy"
+        },
+        {
+          "id": 48309683,
+          "name": "T Dot Ragedy & FR Eazzy"
+        },
+        {
+          "id": 35827928,
+          "name": "Eazzy9"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

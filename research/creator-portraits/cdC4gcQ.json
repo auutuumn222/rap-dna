@@ -1,0 +1,56 @@
+{
+  "id": "cdC4gcQ",
+  "name": "T. Q",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 127150331,
+          "name": "T.q.o."
+        },
+        {
+          "id": 28202596,
+          "name": "t q d"
+        },
+        {
+          "id": 53498769,
+          "name": "Sheila La T.-Q."
+        },
+        {
+          "id": 58867922,
+          "name": "l T Q M l"
+        },
+        {
+          "id": 34814453,
+          "name": "T.Q.M"
+        },
+        {
+          "id": 13497123,
+          "name": "T.Q. Mujaz"
+        },
+        {
+          "id": 49520204,
+          "name": "T.Q"
+        },
+        {
+          "id": 35753334,
+          "name": "T.Q The Leader"
+        },
+        {
+          "id": 37249612,
+          "name": "T.Q.D"
+        },
+        {
+          "id": 94148746,
+          "name": "東京Qチャンネル (T.Q.C)"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cbXUgbGVhbg",
+  "name": "Mu Lean",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 60828545,
+          "name": "MULE AND INDIGO STAR"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cZG91Z2gtYm95",
+  "name": "Dough-Boy",
+  "attempts": [],
+  "entry": {
+    "name": "Dough-Boy",
+    "catalogName": "Dough-Boy",
+    "aliases": [],
+    "image": "./assets/people/n1203015.jpg",
+    "source": "https://music.163.com/artist?id=1203015",
+    "imageSource": "https://p2.music.126.net/LAqRKX-IqBcIPMsIV33juA==/109951170725935352.jpg",
+    "checkedAt": "2026-10-30",
+    "kind": "person",
+    "matchedPersonId": "n1203015",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=2720118695"
+      ]
+    }
+  },
+  "match": "existing-verified-name"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cbHV2OHo",
+  "name": "Luv8z",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52737234,
+          "name": "Luv8z"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

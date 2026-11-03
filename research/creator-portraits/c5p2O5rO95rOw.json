@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O5rO95rOw",
+  "name": "李泽泰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34288624,
+          "name": "G-RAY"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

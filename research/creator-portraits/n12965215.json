@@ -1,0 +1,16 @@
+{
+  "id": "n12965215",
+  "name": "邓典果DDG",
+  "attempts": [],
+  "entry": {
+    "name": "邓典果DDG",
+    "catalogName": "邓典果DDG",
+    "aliases": [],
+    "image": "./assets/people/n12965215.jpg",
+    "source": "https://music.163.com/artist?id=12965215",
+    "imageSource": "https://p1.music.126.net/GLgV_NbKYJ8fLOUr39Cicg==/109951168477255172.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

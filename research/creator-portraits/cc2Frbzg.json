@@ -1,0 +1,28 @@
+{
+  "id": "cc2Frbzg",
+  "name": "Sako8",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33020840,
+          "name": "Sako8"
+        },
+        {
+          "id": 30704672,
+          "name": "knowme"
+        },
+        {
+          "id": 35133644,
+          "name": "Big4L"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

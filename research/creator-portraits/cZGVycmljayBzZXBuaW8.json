@@ -1,0 +1,20 @@
+{
+  "id": "cZGVycmljayBzZXBuaW8",
+  "name": "Derrick Sepnio",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13743303,
+          "name": "Derrick Sepnio"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

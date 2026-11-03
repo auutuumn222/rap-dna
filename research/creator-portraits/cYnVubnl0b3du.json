@@ -1,0 +1,15 @@
+{
+  "id": "cYnVubnl0b3du",
+  "name": "Bunnytown",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

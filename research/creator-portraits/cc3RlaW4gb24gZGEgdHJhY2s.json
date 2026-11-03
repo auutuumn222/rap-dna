@@ -1,0 +1,20 @@
+{
+  "id": "cc3RlaW4gb24gZGEgdHJhY2s",
+  "name": "STEIN ON DA TRACK",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 60578044,
+          "name": "Prod by Stein On Da Track"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

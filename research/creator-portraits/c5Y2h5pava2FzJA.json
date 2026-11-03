@@ -1,0 +1,56 @@
+{
+  "id": "c5Y2h5pava2FzJA",
+  "name": "卡斯Kas$",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 222404,
+          "name": "卡斯Kas$"
+        },
+        {
+          "id": 854358,
+          "name": "陈令韬"
+        },
+        {
+          "id": 12051106,
+          "name": "王朝1982"
+        },
+        {
+          "id": 12605500,
+          "name": "盛宇D-SHINE"
+        },
+        {
+          "id": 6309,
+          "name": "Mai"
+        },
+        {
+          "id": 1047049,
+          "name": "Yoken_Official"
+        },
+        {
+          "id": 12115223,
+          "name": "ATYANG"
+        },
+        {
+          "id": 1024309,
+          "name": "Fcyco"
+        },
+        {
+          "id": 839567,
+          "name": "GZ_Beatz"
+        },
+        {
+          "id": 12432436,
+          "name": "伊洱盼"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

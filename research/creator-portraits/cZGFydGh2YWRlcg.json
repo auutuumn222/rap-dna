@@ -1,0 +1,32 @@
+{
+  "id": "cZGFydGh2YWRlcg",
+  "name": "darthvader",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46887708,
+          "name": "Darthvader"
+        },
+        {
+          "id": 14616312,
+          "name": "Darth Vader"
+        },
+        {
+          "id": 37432320,
+          "name": "Darth Vader Kebab Shop"
+        },
+        {
+          "id": 129732682,
+          "name": "Darth Vader 69"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

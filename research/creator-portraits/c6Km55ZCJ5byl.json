@@ -1,0 +1,20 @@
+{
+  "id": "c6Km55ZCJ5byl",
+  "name": "詹吉弥",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12604342,
+          "name": "詹吉弥"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

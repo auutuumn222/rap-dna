@@ -1,0 +1,56 @@
+{
+  "id": "camF6enk",
+  "name": "Jazzy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29596240,
+          "name": "Jazzy"
+        },
+        {
+          "id": 48214256,
+          "name": "Jazzy"
+        },
+        {
+          "id": 46656957,
+          "name": "Jazzy"
+        },
+        {
+          "id": 50682722,
+          "name": "Jazzy Coffee"
+        },
+        {
+          "id": 34996930,
+          "name": "JazzyHan"
+        },
+        {
+          "id": 51371510,
+          "name": "JAZZY CROSSING"
+        },
+        {
+          "id": 48525723,
+          "name": "JazzyLA"
+        },
+        {
+          "id": 129336,
+          "name": "Jazzy B"
+        },
+        {
+          "id": 99796138,
+          "name": "FEELING JAZZY"
+        },
+        {
+          "id": 36590154,
+          "name": "Jazzy James"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

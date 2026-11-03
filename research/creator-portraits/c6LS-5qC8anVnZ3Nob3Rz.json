@@ -1,0 +1,56 @@
+{
+  "id": "c6LS-5qC8anVnZ3Nob3Rz",
+  "name": "贾格JuggShots",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13005262,
+          "name": "贾格JuggShots"
+        },
+        {
+          "id": 31254614,
+          "name": "Xylon"
+        },
+        {
+          "id": 35248109,
+          "name": "Dr.ALc"
+        },
+        {
+          "id": 36341115,
+          "name": "Pank"
+        },
+        {
+          "id": 34577457,
+          "name": "Windapaper"
+        },
+        {
+          "id": 12605071,
+          "name": "Reggie Yang"
+        },
+        {
+          "id": 34201248,
+          "name": "词者lyrics"
+        },
+        {
+          "id": 4873,
+          "name": "奇然"
+        },
+        {
+          "id": 34232091,
+          "name": "共青团中央"
+        },
+        {
+          "id": 28071541,
+          "name": "RADI8"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cZ2cgbG9ic3Rlcg",
+  "name": "GG Lobster",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12174183,
+          "name": "GG Lobster"
+        },
+        {
+          "id": 94441384,
+          "name": "maksomnoi"
+        },
+        {
+          "id": 122518746,
+          "name": "亞洲女孩Asian girl"
+        },
+        {
+          "id": 57814253,
+          "name": "eden2001"
+        },
+        {
+          "id": 12292934,
+          "name": "Flashkore"
+        },
+        {
+          "id": 99008189,
+          "name": "Yasus"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

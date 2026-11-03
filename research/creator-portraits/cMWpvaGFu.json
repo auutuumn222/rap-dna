@@ -1,0 +1,15 @@
+{
+  "id": "cMWpvaGFu",
+  "name": "1JOHAN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

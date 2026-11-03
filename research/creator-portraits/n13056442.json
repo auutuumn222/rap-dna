@@ -1,0 +1,16 @@
+{
+  "id": "n13056442",
+  "name": "范丞丞",
+  "attempts": [],
+  "entry": {
+    "name": "范丞丞",
+    "catalogName": "范丞丞",
+    "aliases": [],
+    "image": "./assets/people/n13056442.jpg",
+    "source": "https://music.163.com/artist?id=13056442",
+    "imageSource": "https://p1.music.126.net/843j9wCLDGLjDIIt6Co8Zg==/109951173886344573.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

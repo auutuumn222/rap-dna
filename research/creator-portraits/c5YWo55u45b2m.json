@@ -1,0 +1,24 @@
+{
+  "id": "c5YWo55u45b2m",
+  "name": "全相彦",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50071970,
+          "name": "全相彦"
+        },
+        {
+          "id": 51252451,
+          "name": "与你相逢"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

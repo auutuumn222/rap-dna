@@ -1,0 +1,56 @@
+{
+  "id": "c55Ge",
+  "name": "瑞",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 123414049,
+          "name": "瑞-Gary"
+        },
+        {
+          "id": 37131296,
+          "name": "瑞"
+        },
+        {
+          "id": 840134,
+          "name": "刘瑞琦"
+        },
+        {
+          "id": 47058186,
+          "name": "小瑞"
+        },
+        {
+          "id": 8358,
+          "name": "黎瑞恩"
+        },
+        {
+          "id": 7228,
+          "name": "陈瑞"
+        },
+        {
+          "id": 95358776,
+          "name": "TF家族-张函瑞"
+        },
+        {
+          "id": 12493701,
+          "name": "布瑞吉Bridge"
+        },
+        {
+          "id": 981205,
+          "name": "瑞葵(mizuki)"
+        },
+        {
+          "id": 35954968,
+          "name": "1CEKary艾斯凯瑞"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

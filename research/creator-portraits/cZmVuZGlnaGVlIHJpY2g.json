@@ -1,0 +1,15 @@
+{
+  "id": "cZmVuZGlnaGVlIHJpY2g",
+  "name": "Fendighee Rich",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

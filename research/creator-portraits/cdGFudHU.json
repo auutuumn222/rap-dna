@@ -1,0 +1,56 @@
+{
+  "id": "cdGFudHU",
+  "name": "Tantu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 144878,
+          "name": "Ricardo Tanturi"
+        },
+        {
+          "id": 14849711,
+          "name": "Tantu Beats"
+        },
+        {
+          "id": 30983632,
+          "name": "Tantum"
+        },
+        {
+          "id": 13166800,
+          "name": "Ricardo Tanturi con Alberto Castillo"
+        },
+        {
+          "id": 13454334,
+          "name": "Ricardo Tanturi y Su Orquesta Típica Los Indios"
+        },
+        {
+          "id": 13343587,
+          "name": "Ricardo Tanturi y Enrique Campos"
+        },
+        {
+          "id": 13267514,
+          "name": "Orquesta Típica Tanturi"
+        },
+        {
+          "id": 96104484,
+          "name": "Tantunga Records"
+        },
+        {
+          "id": 126046831,
+          "name": "Dj Tantur"
+        },
+        {
+          "id": 980048,
+          "name": "Epidemic & Tantu"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

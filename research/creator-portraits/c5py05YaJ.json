@@ -1,0 +1,28 @@
+{
+  "id": "c5py05YaJ",
+  "name": "朴冉",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12443292,
+          "name": "朴冉"
+        },
+        {
+          "id": 49392201,
+          "name": "朴冉冉"
+        },
+        {
+          "id": 1198123,
+          "name": "姜云升"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ccmVnbnVt",
+  "name": "Regnum",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55795960,
+          "name": "Regnum Umbrae"
+        },
+        {
+          "id": 21300,
+          "name": "Regnum Caelorum Et Gehenna"
+        },
+        {
+          "id": 122809761,
+          "name": "Sanctum Regnum"
+        },
+        {
+          "id": 100221052,
+          "name": "Regnum"
+        },
+        {
+          "id": 99097975,
+          "name": "Regnum Tenebrarum"
+        },
+        {
+          "id": 57158213,
+          "name": "Regnum Noricum"
+        },
+        {
+          "id": 127229622,
+          "name": "REGNUM"
+        },
+        {
+          "id": 57220381,
+          "name": "Regnum"
+        },
+        {
+          "id": 54772008,
+          "name": "Regnum Black"
+        },
+        {
+          "id": 100150207,
+          "name": "Regnum Tenebris"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cY2FybWl4",
+  "name": "CarMix",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 503609,
+          "name": "Carmixer & Save"
+        },
+        {
+          "id": 366452,
+          "name": "Carmixer & Francy M"
+        },
+        {
+          "id": 49766218,
+          "name": "Carmix"
+        },
+        {
+          "id": 33177473,
+          "name": "Carmixer & Save Feat Francy M"
+        },
+        {
+          "id": 349879,
+          "name": "Dj Carmixer"
+        },
+        {
+          "id": 33176034,
+          "name": "Carmixer & Francy M. Feat Black Mama"
+        },
+        {
+          "id": 128268331,
+          "name": "dj carmixer"
+        },
+        {
+          "id": 33800072,
+          "name": "DJ Carmixer & DJ Francy M Feat Neon Los Tiburones"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

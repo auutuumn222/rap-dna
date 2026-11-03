@@ -1,0 +1,56 @@
+{
+  "id": "ccmVkYm9p",
+  "name": "REDBOI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53092750,
+          "name": "REDBOI"
+        },
+        {
+          "id": 31384969,
+          "name": "Redboi"
+        },
+        {
+          "id": 37523975,
+          "name": "Redboi Flipem"
+        },
+        {
+          "id": 36669415,
+          "name": "Redboizumiefly"
+        },
+        {
+          "id": 54174335,
+          "name": "REDBOI"
+        },
+        {
+          "id": 55188199,
+          "name": "Redboi"
+        },
+        {
+          "id": 36669072,
+          "name": "Redboi Memphis"
+        },
+        {
+          "id": 36669393,
+          "name": "Redboi Rockum"
+        },
+        {
+          "id": 35684587,
+          "name": "Redboi N Bambi Macc"
+        },
+        {
+          "id": 36669111,
+          "name": "Redboi1916"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

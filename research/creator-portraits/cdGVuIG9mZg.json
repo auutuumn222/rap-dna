@@ -1,0 +1,24 @@
+{
+  "id": "cdGVuIG9mZg",
+  "name": "Ten Off",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 98143035,
+          "name": "Ten Off 1 Tenth"
+        },
+        {
+          "id": 54130217,
+          "name": "Tenoff"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

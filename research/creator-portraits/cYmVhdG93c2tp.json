@@ -1,0 +1,24 @@
+{
+  "id": "cYmVhdG93c2tp",
+  "name": "Beatowski",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13949894,
+          "name": "Beatowski"
+        },
+        {
+          "id": 13991702,
+          "name": "Beatowski Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

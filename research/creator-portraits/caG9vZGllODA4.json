@@ -1,0 +1,32 @@
+{
+  "id": "caG9vZGllODA4",
+  "name": "Hoodie808",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1102151,
+          "name": "Hey Violet"
+        },
+        {
+          "id": 12101166,
+          "name": "双面"
+        },
+        {
+          "id": 99390121,
+          "name": "808"
+        },
+        {
+          "id": 32766483,
+          "name": "ROU"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

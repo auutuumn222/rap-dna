@@ -1,0 +1,24 @@
+{
+  "id": "cZGlhbW9uZCBwaXN0b2xz",
+  "name": "Diamond Pistols",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 806218,
+          "name": "Diamond Pistols"
+        },
+        {
+          "id": 54690110,
+          "name": "Diamond Pistols Feat. Ian Everson"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

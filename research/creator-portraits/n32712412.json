@@ -1,0 +1,16 @@
+{
+  "id": "n32712412",
+  "name": "斑比Bambii",
+  "attempts": [],
+  "entry": {
+    "name": "斑比Bambii",
+    "catalogName": "斑比Bambii",
+    "aliases": [],
+    "image": "./assets/people/n32712412.jpg",
+    "source": "https://music.163.com/artist?id=32712412",
+    "imageSource": "https://p2.music.126.net/5eCQUgLw_dgryfkDbUmcYg==/109951174186305991.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cbmF6ZG8",
+  "name": "Nazdo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46638107,
+          "name": "Nazdo"
+        },
+        {
+          "id": 50293172,
+          "name": "OrienO"
+        },
+        {
+          "id": 33985499,
+          "name": "Nazdos"
+        },
+        {
+          "id": 59145258,
+          "name": "Nazdooneh"
+        },
+        {
+          "id": 55714859,
+          "name": "nazdotty7"
+        },
+        {
+          "id": 49141872,
+          "name": "Top Barry"
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        },
+        {
+          "id": 29181918,
+          "name": "Naz Don"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

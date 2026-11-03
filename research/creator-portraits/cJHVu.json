@@ -1,0 +1,56 @@
+{
+  "id": "cJHVu",
+  "name": "$UN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47722164,
+          "name": "$un"
+        },
+        {
+          "id": 53744018,
+          "name": "$uNDOWN"
+        },
+        {
+          "id": 59059816,
+          "name": "Hi-Fi Un!corn"
+        },
+        {
+          "id": 804386,
+          "name": "un:c"
+        },
+        {
+          "id": 31008248,
+          "name": "Un"
+        },
+        {
+          "id": 36796712,
+          "name": "$ÜN"
+        },
+        {
+          "id": 52751469,
+          "name": "Un Rose"
+        },
+        {
+          "id": 57320709,
+          "name": "UN"
+        },
+        {
+          "id": 35831815,
+          "name": "Want$un"
+        },
+        {
+          "id": 49458225,
+          "name": "un"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

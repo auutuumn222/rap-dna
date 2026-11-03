@@ -1,0 +1,15 @@
+{
+  "id": "c5ZKM5a2Q5ra1",
+  "name": "和子涵",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

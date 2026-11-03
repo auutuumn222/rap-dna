@@ -1,0 +1,62 @@
+{
+  "id": "n12293217",
+  "name": "LEGGO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12293217,
+          "name": "LEGGO"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "LEGGO",
+    "image": "./assets/people/n12293217.jpg",
+    "source": "https://music.163.com/artist?id=12293217",
+    "imageSource": "https://p1.music.126.net/LX_A8Kvvwy1_GICjbG4DXA==/109951172150251056.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12293217,
+      "works": [
+        {
+          "id": 1908083479,
+          "title": "柑橘乌云"
+        },
+        {
+          "id": 1819970423,
+          "title": "纵容"
+        },
+        {
+          "id": 1472142718,
+          "title": "无人区玫瑰"
+        },
+        {
+          "id": 1956519419,
+          "title": "都市问题"
+        },
+        {
+          "id": 1857270974,
+          "title": "招牌 Swing"
+        },
+        {
+          "id": 2629061542,
+          "title": "毒药"
+        },
+        {
+          "id": 2732266081,
+          "title": "White Sera 白血清 (Live)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1472142718",
+        "https://music.163.com/song?id=1819970423",
+        "https://music.163.com/song?id=1857270974"
+      ]
+    }
+  }
+}

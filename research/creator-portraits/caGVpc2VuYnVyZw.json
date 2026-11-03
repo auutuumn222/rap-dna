@@ -1,0 +1,28 @@
+{
+  "id": "caGVpc2VuYnVyZw",
+  "name": "Heisenburg",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 125552148,
+          "name": "Heisenburg"
+        },
+        {
+          "id": 59822178,
+          "name": "Heisenburg"
+        },
+        {
+          "id": 57079996,
+          "name": "Big heisenburg"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

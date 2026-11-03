@@ -1,0 +1,20 @@
+{
+  "id": "c5LuU5oC76KOB",
+  "name": "仔总裁",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13445668,
+          "name": "仔总裁"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

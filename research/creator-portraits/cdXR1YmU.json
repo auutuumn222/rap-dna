@@ -1,0 +1,28 @@
+{
+  "id": "cdXR1YmU",
+  "name": "utube",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57811787,
+          "name": "Stars is Utube"
+        },
+        {
+          "id": 56882434,
+          "name": "The Theory of utube"
+        },
+        {
+          "id": 32577543,
+          "name": "UTUB"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

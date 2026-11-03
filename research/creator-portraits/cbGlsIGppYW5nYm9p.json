@@ -1,0 +1,20 @@
+{
+  "id": "cbGlsIGppYW5nYm9p",
+  "name": "Lil jiangboi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12875021,
+          "name": "LilJiangboi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n32893629",
+  "name": "陈一豪Clear",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "陈一豪Clear",
+    "image": "./assets/people/n32893629.jpg",
+    "source": "https://music.163.com/artist?id=32893629",
+    "imageSource": "https://p2.music.126.net/P9I3MUMnR0RzIIZM_b3z7Q==/109951173535912472.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 32893629,
+      "works": [
+        {
+          "id": 2039986280,
+          "title": "Leave"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2039986280"
+      ]
+    }
+  }
+}

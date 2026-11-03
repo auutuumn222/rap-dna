@@ -1,0 +1,56 @@
+{
+  "id": "ceGlheXXor60",
+  "name": "XIAYU语",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57073315,
+          "name": "夏语冰（虚拟歌手）"
+        },
+        {
+          "id": 1050651,
+          "name": "夏语遥"
+        },
+        {
+          "id": 34920569,
+          "name": "夏语云"
+        },
+        {
+          "id": 36695592,
+          "name": "夏语冰"
+        },
+        {
+          "id": 34054241,
+          "name": "SummerWhisper夏语"
+        },
+        {
+          "id": 124145044,
+          "name": "夏语棠"
+        },
+        {
+          "id": 129925378,
+          "name": "夏语媛"
+        },
+        {
+          "id": 57598890,
+          "name": "夏语迟迟"
+        },
+        {
+          "id": 129926263,
+          "name": "夏语辰"
+        },
+        {
+          "id": 28109443,
+          "name": "夏語"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

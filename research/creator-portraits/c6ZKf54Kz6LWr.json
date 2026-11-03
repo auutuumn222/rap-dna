@@ -1,0 +1,15 @@
+{
+  "id": "c6ZKf54Kz6LWr",
+  "name": "钟炳赫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

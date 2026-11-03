@@ -1,0 +1,56 @@
+{
+  "id": "ccHA",
+  "name": "PP",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37473467,
+          "name": "PP Krit"
+        },
+        {
+          "id": 34559742,
+          "name": "PP"
+        },
+        {
+          "id": 34490866,
+          "name": "Pp"
+        },
+        {
+          "id": 35876735,
+          "name": "424"
+        },
+        {
+          "id": 14118462,
+          "name": "PPF"
+        },
+        {
+          "id": 98701526,
+          "name": "PPR"
+        },
+        {
+          "id": 58464410,
+          "name": "PPIK"
+        },
+        {
+          "id": 36701947,
+          "name": "pp"
+        },
+        {
+          "id": 32915921,
+          "name": "pp"
+        },
+        {
+          "id": 53243250,
+          "name": "Pp"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

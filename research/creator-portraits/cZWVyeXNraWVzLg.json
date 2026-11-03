@@ -1,0 +1,36 @@
+{
+  "id": "cZWVyeXNraWVzLg",
+  "name": "eeryskies.",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35305463,
+          "name": "Eeryskies"
+        },
+        {
+          "id": 50105064,
+          "name": "eeryskies."
+        },
+        {
+          "id": 54377556,
+          "name": "eeryskies"
+        },
+        {
+          "id": 60067460,
+          "name": "Prod. Eeryskies.)"
+        },
+        {
+          "id": 56971148,
+          "name": "Beat by eeryskies x Encore"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cbG9jazE2aw",
+  "name": "lock16k",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

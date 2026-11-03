@@ -1,0 +1,36 @@
+{
+  "id": "cY3JlYWN0aW9u",
+  "name": "CReaction",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13448450,
+          "name": "CReaction"
+        },
+        {
+          "id": 99962826,
+          "name": "Arif CReAction"
+        },
+        {
+          "id": 33810990,
+          "name": "林怡婕"
+        },
+        {
+          "id": 49688114,
+          "name": "kattie凯欣"
+        },
+        {
+          "id": 28632430,
+          "name": "诺万Noah"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cbWlrZSAicGl6emEiIHBpYXp6YSAs5rS-5YWL54m5",
+  "name": "Mike \"Pizza\" Piazza ,派克特",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

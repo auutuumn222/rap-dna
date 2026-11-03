@@ -1,0 +1,28 @@
+{
+  "id": "cbmFydmF6YQ",
+  "name": "Narvaza",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50006954,
+          "name": "Brandon Narvaza"
+        },
+        {
+          "id": 54602081,
+          "name": "Narvaza"
+        },
+        {
+          "id": 54220825,
+          "name": "Beats by Narvaza"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

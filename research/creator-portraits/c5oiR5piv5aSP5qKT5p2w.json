@@ -1,0 +1,20 @@
+{
+  "id": "c5oiR5piv5aSP5qKT5p2w",
+  "name": "我是夏梓杰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51591393,
+          "name": "我是夏梓杰"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

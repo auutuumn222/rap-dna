@@ -1,0 +1,15 @@
+{
+  "id": "c6Zuo5biI5YKF",
+  "name": "雨师傅",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

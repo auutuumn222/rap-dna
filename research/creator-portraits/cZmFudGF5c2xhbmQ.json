@@ -1,0 +1,15 @@
+{
+  "id": "cZmFudGF5c2xhbmQ",
+  "name": "FANTAYSLAND",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

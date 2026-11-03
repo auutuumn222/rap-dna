@@ -1,0 +1,24 @@
+{
+  "id": "cdGhlIGhlYXRtYWtlcno",
+  "name": "The Heatmakerz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13862967,
+          "name": "The Heatmakerz"
+        },
+        {
+          "id": 13124488,
+          "name": "Rsonist (of the heatmakerz)"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cc2hvdHRv",
+  "name": "shotto",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31185185,
+          "name": "Shotto Guapo"
+        },
+        {
+          "id": 97890570,
+          "name": "Olivia Shotton"
+        },
+        {
+          "id": 55839276,
+          "name": "Shotto"
+        },
+        {
+          "id": 49265700,
+          "name": "SHOTTO"
+        },
+        {
+          "id": 94198046,
+          "name": "Shotto Phame"
+        },
+        {
+          "id": 52699486,
+          "name": "Shotto Flow"
+        },
+        {
+          "id": 34702869,
+          "name": "Shottobits"
+        },
+        {
+          "id": 94863028,
+          "name": "ShottOff"
+        },
+        {
+          "id": 54495861,
+          "name": "James Shotton"
+        },
+        {
+          "id": 34235105,
+          "name": "Phil Shotton Quartet"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

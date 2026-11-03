@@ -1,0 +1,24 @@
+{
+  "id": "ccGx1dG9icmF6eQ",
+  "name": "Plutobrazy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36593633,
+          "name": "Plutobrazy"
+        },
+        {
+          "id": 46877615,
+          "name": "Pluto Brazy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

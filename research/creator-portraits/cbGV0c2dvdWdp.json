@@ -1,0 +1,20 @@
+{
+  "id": "cbGV0c2dvdWdp",
+  "name": "letsgoUGi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52461155,
+          "name": "letsgoUGi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cbm90b3Jpb3VzYmVhdA",
+  "name": "NotoriousBeat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 125044843,
+          "name": "Notoriousbeats"
+        },
+        {
+          "id": 96220507,
+          "name": "NotoriousBeats RSA"
+        },
+        {
+          "id": 123057491,
+          "name": "C Wish and Truesheet and NotoriousBeats RSA"
+        },
+        {
+          "id": 53739880,
+          "name": "Notorious Beats"
+        },
+        {
+          "id": 127706169,
+          "name": "NOTORIOUS BEATS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

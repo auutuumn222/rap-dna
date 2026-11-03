@@ -1,0 +1,15 @@
+{
+  "id": "caHAgd2F2ZQ",
+  "name": "HP WAVE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

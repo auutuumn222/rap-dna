@@ -1,0 +1,48 @@
+{
+  "id": "c6LCt546J5aCC",
+  "name": "谭玉堂",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12386878,
+          "name": "谭玉堂"
+        },
+        {
+          "id": 12114249,
+          "name": "大D(DLyn)"
+        },
+        {
+          "id": 34402661,
+          "name": "EMPTISO"
+        },
+        {
+          "id": 1160145,
+          "name": "PopDan"
+        },
+        {
+          "id": 12372494,
+          "name": "CHILYNOKIA"
+        },
+        {
+          "id": 12228230,
+          "name": "Nitemare$"
+        },
+        {
+          "id": 14299552,
+          "name": "YNSM"
+        },
+        {
+          "id": 14801144,
+          "name": "Pen-G"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cb3o",
+  "name": "oz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1212038,
+          "name": "oz"
+        },
+        {
+          "id": 13500447,
+          "name": "ØZI"
+        },
+        {
+          "id": 27695266,
+          "name": "OZ"
+        },
+        {
+          "id": 46544841,
+          "name": "OZ"
+        },
+        {
+          "id": 46763649,
+          "name": "Oz"
+        },
+        {
+          "id": 1159136,
+          "name": "OZ"
+        },
+        {
+          "id": 122248605,
+          "name": "OZ"
+        },
+        {
+          "id": 95169663,
+          "name": "oz"
+        },
+        {
+          "id": 33937543,
+          "name": "Fozik佛子克"
+        },
+        {
+          "id": 33016358,
+          "name": "7oz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

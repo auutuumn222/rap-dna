@@ -1,0 +1,56 @@
+{
+  "id": "cbG91Mg",
+  "name": "Lou2",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 284387,
+          "name": "Lou2"
+        },
+        {
+          "id": 53134663,
+          "name": "Lou2x"
+        },
+        {
+          "id": 31316609,
+          "name": "Lou2Beat"
+        },
+        {
+          "id": 54740728,
+          "name": "Lou2Hard"
+        },
+        {
+          "id": 46540733,
+          "name": "Lou²"
+        },
+        {
+          "id": 123151114,
+          "name": "Lou26"
+        },
+        {
+          "id": 98512287,
+          "name": "LOU2FOIS"
+        },
+        {
+          "id": 51480970,
+          "name": "NMIXX"
+        },
+        {
+          "id": 33422751,
+          "name": "Olivia Dean"
+        },
+        {
+          "id": 57744845,
+          "name": "Lou 2x"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

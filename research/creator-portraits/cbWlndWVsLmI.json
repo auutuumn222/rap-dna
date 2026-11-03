@@ -1,0 +1,15 @@
+{
+  "id": "cbWlndWVsLmI",
+  "name": "Miguel.b",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

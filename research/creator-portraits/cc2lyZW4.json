@@ -1,0 +1,56 @@
+{
+  "id": "cc2lyZW4",
+  "name": "Siren",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33527748,
+          "name": "Siren"
+        },
+        {
+          "id": 43523,
+          "name": "Siren"
+        },
+        {
+          "id": 711347,
+          "name": "SILENT SIREN"
+        },
+        {
+          "id": 47930238,
+          "name": "SIREN"
+        },
+        {
+          "id": 28495843,
+          "name": "Soaky Siren"
+        },
+        {
+          "id": 12520110,
+          "name": "SireN"
+        },
+        {
+          "id": 13807127,
+          "name": "眩暈SIREN"
+        },
+        {
+          "id": 56991729,
+          "name": "Cicada Sirens"
+        },
+        {
+          "id": 57080849,
+          "name": "7sirens"
+        },
+        {
+          "id": 130128761,
+          "name": "Siren J"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

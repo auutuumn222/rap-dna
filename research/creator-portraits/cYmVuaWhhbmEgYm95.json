@@ -1,0 +1,32 @@
+{
+  "id": "cYmVuaWhhbmEgYm95",
+  "name": "Benihana Boy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48154320,
+          "name": "Benihana Boy & Roc Legion"
+        },
+        {
+          "id": 29279900,
+          "name": "Benihana Boy"
+        },
+        {
+          "id": 96139147,
+          "name": "Prod. Benihana Boy"
+        },
+        {
+          "id": 61043499,
+          "name": "Beat Prod. Benihana Boy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

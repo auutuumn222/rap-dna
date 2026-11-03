@@ -1,0 +1,56 @@
+{
+  "id": "cbmFsdQ",
+  "name": "Nalu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13247783,
+          "name": "Nalu"
+        },
+        {
+          "id": 34179280,
+          "name": "纳鲁托Nalut"
+        },
+        {
+          "id": 37082465,
+          "name": "Naluv"
+        },
+        {
+          "id": 50635025,
+          "name": "Nalu"
+        },
+        {
+          "id": 94940142,
+          "name": "Nalu Bay"
+        },
+        {
+          "id": 57030962,
+          "name": "Naluna"
+        },
+        {
+          "id": 48774143,
+          "name": "Perla Nalu"
+        },
+        {
+          "id": 56417101,
+          "name": "Loco Nalu"
+        },
+        {
+          "id": 31355304,
+          "name": "Jéssica Nalu"
+        },
+        {
+          "id": 32000333,
+          "name": "Big Nalu"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

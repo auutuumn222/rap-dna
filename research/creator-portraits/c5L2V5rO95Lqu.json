@@ -1,0 +1,28 @@
+{
+  "id": "c5L2V5rO95Lqu",
+  "name": "何泽亮",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 59355689,
+          "name": "何润泽"
+        },
+        {
+          "id": 124186409,
+          "name": "御泽"
+        },
+        {
+          "id": 55756938,
+          "name": "乐音未来"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

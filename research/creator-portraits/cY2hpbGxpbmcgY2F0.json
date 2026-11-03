@@ -1,0 +1,56 @@
+{
+  "id": "cY2hpbGxpbmcgY2F0",
+  "name": "Chilling Cat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49230632,
+          "name": "Chilling cat"
+        },
+        {
+          "id": 94105151,
+          "name": "Window Cat Chilling Beats"
+        },
+        {
+          "id": 34192902,
+          "name": "Chilled Cat"
+        },
+        {
+          "id": 93989447,
+          "name": "Chill Lofi Cat"
+        },
+        {
+          "id": 98860308,
+          "name": "Chill Cat Studios"
+        },
+        {
+          "id": 46405788,
+          "name": "Chill Cat LoFi"
+        },
+        {
+          "id": 13843956,
+          "name": "CHILL CAT"
+        },
+        {
+          "id": 56347615,
+          "name": "Cat Chill"
+        },
+        {
+          "id": 56375540,
+          "name": "Chill Cat"
+        },
+        {
+          "id": 61798079,
+          "name": "The Chilled Cat"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

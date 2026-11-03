@@ -1,0 +1,44 @@
+{
+  "id": "ca2h1bnNh",
+  "name": "Khunsa",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12529503,
+          "name": "KSA"
+        },
+        {
+          "id": 100599389,
+          "name": "KhunSa"
+        },
+        {
+          "id": 36764292,
+          "name": "Khunsa3"
+        },
+        {
+          "id": 12529648,
+          "name": "KIV"
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        },
+        {
+          "id": 33823856,
+          "name": "Khun Sai"
+        },
+        {
+          "id": 58395731,
+          "name": "Khun Saw Sihein"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

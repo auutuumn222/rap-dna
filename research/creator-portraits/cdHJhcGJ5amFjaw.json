@@ -1,0 +1,20 @@
+{
+  "id": "cdHJhcGJ5amFjaw",
+  "name": "TRAPBYJACK",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35337752,
+          "name": "Trapbyjack"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ceW9rZW7nmb3ogIDlnaQ",
+  "name": "YOKEN白耀坤",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1047049,
+          "name": "Yoken_Official"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

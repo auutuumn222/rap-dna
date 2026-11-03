@@ -1,0 +1,56 @@
+{
+  "id": "cZGogbXVzdGFyZA",
+  "name": "DJ MUSTARD",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14871398,
+          "name": "Mustard"
+        },
+        {
+          "id": 49360148,
+          "name": "DJ MUSTARD"
+        },
+        {
+          "id": 55918608,
+          "name": "Dj Mustard Carrega"
+        },
+        {
+          "id": 13650998,
+          "name": "Dj Mustardah"
+        },
+        {
+          "id": 13495469,
+          "name": "DJ Mustard Stain"
+        },
+        {
+          "id": 37312700,
+          "name": "Dj Mustard Gas"
+        },
+        {
+          "id": 130339187,
+          "name": "Dj Mustard"
+        },
+        {
+          "id": 129779106,
+          "name": "DJ MUSTARD CARREGA"
+        },
+        {
+          "id": 54817916,
+          "name": "DJ Yellow Mustard"
+        },
+        {
+          "id": 12001060,
+          "name": "万妮达Vinida Weng"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

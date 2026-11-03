@@ -1,0 +1,56 @@
+{
+  "id": "ceWJt",
+  "name": "YBM",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 602944,
+          "name": "YBM"
+        },
+        {
+          "id": 55282818,
+          "name": "YBM Mahdi"
+        },
+        {
+          "id": 96161941,
+          "name": "YBM Aaiden"
+        },
+        {
+          "id": 34896980,
+          "name": "YBM Dubie"
+        },
+        {
+          "id": 48432303,
+          "name": "YBM Tone"
+        },
+        {
+          "id": 54632781,
+          "name": "Mizzo YBM"
+        },
+        {
+          "id": 125597173,
+          "name": "YBMSMOOVE"
+        },
+        {
+          "id": 34652259,
+          "name": "YBMania"
+        },
+        {
+          "id": 51272441,
+          "name": "Ybm (Yo Bali Movement)"
+        },
+        {
+          "id": 97761085,
+          "name": "￼YBM DZUL"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

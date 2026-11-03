@@ -1,0 +1,15 @@
+{
+  "id": "caWRhbmlhIHZhbGVuY2lh",
+  "name": "Idania Valencia",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

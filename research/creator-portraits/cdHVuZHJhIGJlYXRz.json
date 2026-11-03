@@ -1,0 +1,28 @@
+{
+  "id": "cdHVuZHJhIGJlYXRz",
+  "name": "Tundra Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27817151,
+          "name": "Tundra Beats"
+        },
+        {
+          "id": 50240079,
+          "name": "Tundra Beats | Trap Beats"
+        },
+        {
+          "id": 30861516,
+          "name": "Tundrabeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

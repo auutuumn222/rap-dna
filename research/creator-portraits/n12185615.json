@@ -1,0 +1,36 @@
+{
+  "id": "n12185615",
+  "name": "迪迪",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12185615,
+          "name": "迪迪"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "迪迪",
+    "image": "./assets/people/n12185615.jpg",
+    "source": "https://music.163.com/artist?id=12185615",
+    "imageSource": "https://p1.music.126.net/Xzihl8Pks5PSKcnZFa0RgA==/109951165994825097.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12185615,
+      "works": [
+        {
+          "id": 1480372447,
+          "title": "MOU问题 河南cypher2020"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1480372447"
+      ]
+    }
+  }
+}

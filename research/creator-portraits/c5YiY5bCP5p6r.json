@@ -1,0 +1,20 @@
+{
+  "id": "c5YiY5bCP5p6r",
+  "name": "刘小枫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50258963,
+          "name": "刘小枫"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

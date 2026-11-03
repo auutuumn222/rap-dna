@@ -1,0 +1,20 @@
+{
+  "id": "c6Z2e5Y-UdW5jbGUtZmVp",
+  "name": "非叔Uncle-fei",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12568799,
+          "name": "非叔Uncle-Fei"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

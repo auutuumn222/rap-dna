@@ -1,0 +1,24 @@
+{
+  "id": "c6Iif6Iifam9qbw",
+  "name": "舟舟JOJO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29051458,
+          "name": "阿舟JoJo"
+        },
+        {
+          "id": 126219049,
+          "name": "JoJo小舟"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

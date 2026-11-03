@@ -1,0 +1,56 @@
+{
+  "id": "cdGVjaGU",
+  "name": "Teche",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 121753401,
+          "name": "teche"
+        },
+        {
+          "id": 47396670,
+          "name": "TechEffects"
+        },
+        {
+          "id": 34699950,
+          "name": "TeCheetah Lopez"
+        },
+        {
+          "id": 61323033,
+          "name": "Teche"
+        },
+        {
+          "id": 37031307,
+          "name": "Techelet Ensemble"
+        },
+        {
+          "id": 129208369,
+          "name": "Techermann"
+        },
+        {
+          "id": 37678600,
+          "name": "TECHER"
+        },
+        {
+          "id": 56781277,
+          "name": "Teche White"
+        },
+        {
+          "id": 55365649,
+          "name": "Techengue"
+        },
+        {
+          "id": 122450980,
+          "name": "techelno"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

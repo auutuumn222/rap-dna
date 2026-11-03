@@ -1,0 +1,15 @@
+{
+  "id": "c6LO05pqQ5ZOyIHN0ZXZlbiBsYWk",
+  "name": "賴暐哲 Steven Lai",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

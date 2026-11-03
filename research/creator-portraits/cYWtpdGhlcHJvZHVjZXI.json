@@ -1,0 +1,20 @@
+{
+  "id": "cYWtpdGhlcHJvZHVjZXI",
+  "name": "AkiTheProducer",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51528699,
+          "name": "AkiTheProducer"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

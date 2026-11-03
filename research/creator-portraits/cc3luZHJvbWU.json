@@ -1,0 +1,56 @@
+{
+  "id": "cc3luZHJvbWU",
+  "name": "Syndrome",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 21436,
+          "name": "Syndrome"
+        },
+        {
+          "id": 977062,
+          "name": "BURNOUT SYNDROMES"
+        },
+        {
+          "id": 62075283,
+          "name": "Cozy Syndrome"
+        },
+        {
+          "id": 87060,
+          "name": "Apathetical Syndrome"
+        },
+        {
+          "id": 1015263,
+          "name": "Sloth Syndrome"
+        },
+        {
+          "id": 62200807,
+          "name": "Sound Of Syndrome"
+        },
+        {
+          "id": 126353127,
+          "name": "Skyland Syndrome"
+        },
+        {
+          "id": 813086,
+          "name": "Gemini Syndrome"
+        },
+        {
+          "id": 32075299,
+          "name": "Syndrome"
+        },
+        {
+          "id": 55252268,
+          "name": "Sick Sinus Syndrome"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

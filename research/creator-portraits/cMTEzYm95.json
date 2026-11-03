@@ -1,0 +1,20 @@
+{
+  "id": "cMTEzYm95",
+  "name": "113boy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53512202,
+          "name": "113boy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

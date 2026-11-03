@@ -1,0 +1,16 @@
+{
+  "id": "n34319827",
+  "name": "Surfosho",
+  "attempts": [],
+  "entry": {
+    "name": "Surfosho",
+    "catalogName": "Surfosho",
+    "aliases": [],
+    "image": "./assets/people/n34319827.jpg",
+    "source": "https://music.163.com/artist?id=34319827",
+    "imageSource": "https://p1.music.126.net/BbQUhowD_7lKgi1gRWjTQQ==/109951172468632222.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

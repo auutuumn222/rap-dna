@@ -1,0 +1,56 @@
+{
+  "id": "cd2Vp",
+  "name": "WEI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36807410,
+          "name": "WEi"
+        },
+        {
+          "id": 30514420,
+          "name": "Cassie Wei"
+        },
+        {
+          "id": 33238245,
+          "name": "WEI"
+        },
+        {
+          "id": 13284975,
+          "name": "wei"
+        },
+        {
+          "id": 29289035,
+          "name": "2WEI"
+        },
+        {
+          "id": 12605278,
+          "name": "wweimm微米"
+        },
+        {
+          "id": 99501247,
+          "name": "Wei Xiao Yu"
+        },
+        {
+          "id": 55436551,
+          "name": "Eagle Wei"
+        },
+        {
+          "id": 97249219,
+          "name": "无乐wei"
+        },
+        {
+          "id": 30549310,
+          "name": "维WEI"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cYXJjYW5lIGJlYXRz",
+  "name": "aRcane Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28022252,
+          "name": "aRcane Beats"
+        },
+        {
+          "id": 125164262,
+          "name": "Arcane Beats"
+        },
+        {
+          "id": 60377129,
+          "name": "Arcane Beatsmith"
+        },
+        {
+          "id": 47484549,
+          "name": "arcanebeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

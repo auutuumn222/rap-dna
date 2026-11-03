@@ -1,0 +1,20 @@
+{
+  "id": "cY3kucw",
+  "name": "Cy.S",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12406558,
+          "name": "Cy.S"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5LyK5bCU5Yeh",
+  "name": "伊尔凡",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49985866,
+          "name": "伊尔凡"
+        },
+        {
+          "id": 124239013,
+          "name": "伊尔凡·麦尔"
+        },
+        {
+          "id": 122578923,
+          "name": "伊尔凡·艾尔肯"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

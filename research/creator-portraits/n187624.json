@@ -1,0 +1,36 @@
+{
+  "id": "n187624",
+  "name": "Q.luv",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 187624,
+          "name": "Q.luv"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Q.luv",
+    "image": "./assets/people/n187624.jpg",
+    "source": "https://music.163.com/artist?id=187624",
+    "imageSource": "https://p1.music.126.net/tBo7pVe-IBbNz5rz07gGfA==/109951169282940158.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 187624,
+      "works": [
+        {
+          "id": 2100558978,
+          "title": "飞天茅台 (Ultimate Remix)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2100558978"
+      ]
+    }
+  }
+}

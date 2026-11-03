@@ -1,0 +1,16 @@
+{
+  "id": "n12079219",
+  "name": "李佳隆",
+  "attempts": [],
+  "entry": {
+    "name": "李佳隆",
+    "catalogName": "李佳隆",
+    "aliases": [],
+    "image": "./assets/people/n12079219.jpg",
+    "source": "https://music.163.com/artist?id=12079219",
+    "imageSource": "https://p2.music.126.net/iL3ixGJzdWAHLC-nDFkO-w==/109951173493358674.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

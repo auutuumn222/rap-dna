@@ -1,0 +1,36 @@
+{
+  "id": "ca3lkdWg",
+  "name": "kyduh",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30304886,
+          "name": "Kyduh"
+        },
+        {
+          "id": 95964395,
+          "name": "KYDUHMUSIC"
+        },
+        {
+          "id": 60909125,
+          "name": "Pro. By Kyduh"
+        },
+        {
+          "id": 54137511,
+          "name": "Prod. Kyduh"
+        },
+        {
+          "id": 94114835,
+          "name": "Prod by. Kyduh"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

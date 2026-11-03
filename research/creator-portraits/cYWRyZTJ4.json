@@ -1,0 +1,20 @@
+{
+  "id": "cYWRyZTJ4",
+  "name": "adre2x",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 127878232,
+          "name": "prod.by adre2x"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

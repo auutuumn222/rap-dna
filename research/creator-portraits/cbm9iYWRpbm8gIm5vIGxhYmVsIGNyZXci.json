@@ -1,0 +1,15 @@
+{
+  "id": "cbm9iYWRpbm8gIm5vIGxhYmVsIGNyZXci",
+  "name": "NOBADINO ＂No Label Crew＂",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

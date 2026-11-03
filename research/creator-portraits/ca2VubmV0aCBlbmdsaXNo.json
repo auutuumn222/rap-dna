@@ -1,0 +1,24 @@
+{
+  "id": "ca2VubmV0aCBlbmdsaXNo",
+  "name": "Kenneth English",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30742808,
+          "name": "Kenneth English"
+        },
+        {
+          "id": 48787800,
+          "name": "KennethEnglish"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

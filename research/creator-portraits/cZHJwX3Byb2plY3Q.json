@@ -1,0 +1,15 @@
+{
+  "id": "cZHJwX3Byb2plY3Q",
+  "name": "DRP_project",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

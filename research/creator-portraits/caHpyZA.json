@@ -1,0 +1,56 @@
+{
+  "id": "caHpyZA",
+  "name": "HZRD",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 129017530,
+          "name": "HZRD"
+        },
+        {
+          "id": 47731723,
+          "name": "Hzrd"
+        },
+        {
+          "id": 36310364,
+          "name": "Hzrds Flora"
+        },
+        {
+          "id": 52876424,
+          "name": "9hzrd"
+        },
+        {
+          "id": 35030272,
+          "name": "BIØHZRD"
+        },
+        {
+          "id": 48620348,
+          "name": "HZRDZ.MTRL"
+        },
+        {
+          "id": 98301529,
+          "name": "HZRDS"
+        },
+        {
+          "id": 35594516,
+          "name": "Hzrdous"
+        },
+        {
+          "id": 53299579,
+          "name": "Hzrd Beatz"
+        },
+        {
+          "id": 96626989,
+          "name": "HZRDGANG"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

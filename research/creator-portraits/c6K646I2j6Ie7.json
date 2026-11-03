@@ -1,0 +1,32 @@
+{
+  "id": "c6K646I2j6Ie7",
+  "name": "许荣臻",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13579216,
+          "name": "许荣臻"
+        },
+        {
+          "id": 6457,
+          "name": "张国荣"
+        },
+        {
+          "id": 5782,
+          "name": "许冠杰"
+        },
+        {
+          "id": 12000097,
+          "name": "许魏洲"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

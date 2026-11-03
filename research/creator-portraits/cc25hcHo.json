@@ -1,0 +1,56 @@
+{
+  "id": "cc25hcHo",
+  "name": "snapz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56208092,
+          "name": "Sir Snapzz"
+        },
+        {
+          "id": 37075707,
+          "name": "Snapz the TallOne"
+        },
+        {
+          "id": 32643017,
+          "name": "Snapz on da Track"
+        },
+        {
+          "id": 31972966,
+          "name": "snapz"
+        },
+        {
+          "id": 31408677,
+          "name": "Snapz Official"
+        },
+        {
+          "id": 125501724,
+          "name": "snapz the tallone"
+        },
+        {
+          "id": 34720369,
+          "name": "Rj Snapz"
+        },
+        {
+          "id": 94570190,
+          "name": "D Snapz"
+        },
+        {
+          "id": 46374235,
+          "name": "PACK SNAPZ"
+        },
+        {
+          "id": 35682840,
+          "name": "Bam Snapz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

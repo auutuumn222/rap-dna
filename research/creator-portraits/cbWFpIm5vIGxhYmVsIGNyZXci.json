@@ -1,0 +1,15 @@
+{
+  "id": "cbWFpIm5vIGxhYmVsIGNyZXci",
+  "name": "Mai＂No Label Crew＂",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "n32436403",
+  "name": "Monovisa",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32436403,
+          "name": "Monovisa"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Monovisa",
+    "image": "./assets/people/n32436403.jpg",
+    "source": "https://music.163.com/artist?id=32436403",
+    "imageSource": "https://p2.music.126.net/L2p4AWJwMpDuSCqhhq5ThA==/109951169291733089.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 32436403,
+      "works": [
+        {
+          "id": 3433370230,
+          "title": "直接吃儿起Cypher"
+        },
+        {
+          "id": 3433370228,
+          "title": "第八十难"
+        },
+        {
+          "id": 2097850520,
+          "title": "陶渊明"
+        },
+        {
+          "id": 3433371184,
+          "title": "intro CANDYTIME"
+        },
+        {
+          "id": 3433370239,
+          "title": "十月黄昏"
+        },
+        {
+          "id": 2139664730,
+          "title": "自我意识"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2063453994",
+        "https://music.163.com/song?id=2073164315",
+        "https://music.163.com/song?id=2073164343"
+      ]
+    }
+  }
+}

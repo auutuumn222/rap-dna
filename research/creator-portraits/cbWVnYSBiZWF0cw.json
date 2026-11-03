@@ -1,0 +1,44 @@
+{
+  "id": "cbWVnYSBiZWF0cw",
+  "name": "Mega Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28263026,
+          "name": "Mega Beats"
+        },
+        {
+          "id": 60804832,
+          "name": "Dj Mega Beats"
+        },
+        {
+          "id": 36375984,
+          "name": "RandomBeats, Mega Ran & Rifti Beats"
+        },
+        {
+          "id": 47025224,
+          "name": "MegaBeatsZ"
+        },
+        {
+          "id": 61706142,
+          "name": "MEGA BEAT RAP"
+        },
+        {
+          "id": 47121376,
+          "name": "MegaBeatsMusic"
+        },
+        {
+          "id": 30326378,
+          "name": "MEGABEATS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

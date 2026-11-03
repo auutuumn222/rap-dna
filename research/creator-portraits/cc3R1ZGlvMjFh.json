@@ -1,0 +1,20 @@
+{
+  "id": "cc3R1ZGlvMjFh",
+  "name": "Studio21A",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31598608,
+          "name": "李宗远"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

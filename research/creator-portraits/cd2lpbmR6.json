@@ -1,0 +1,24 @@
+{
+  "id": "cd2lpbmR6",
+  "name": "wiindz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37122256,
+          "name": "wiindz"
+        },
+        {
+          "id": 56367847,
+          "name": "wiindz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

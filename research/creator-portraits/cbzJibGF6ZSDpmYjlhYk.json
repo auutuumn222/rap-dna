@@ -1,0 +1,15 @@
+{
+  "id": "cbzJibGF6ZSDpmYjlhYk",
+  "name": "O2BLAZE 陈光",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

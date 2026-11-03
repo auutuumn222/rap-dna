@@ -1,0 +1,45 @@
+{
+  "id": "c55m-5bedcmViZWxsaW91cw",
+  "name": "百川Rebellious",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12664246,
+          "name": "百川"
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊"
+        },
+        {
+          "id": 12874853,
+          "name": "河北吴孟达"
+        },
+        {
+          "id": 12114249,
+          "name": "大D(DLyn)"
+        },
+        {
+          "id": 15200313,
+          "name": "Echo"
+        },
+        {
+          "id": 46358520,
+          "name": "网上邻居official"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1529170731,
+          "name": "百川Rebellious"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

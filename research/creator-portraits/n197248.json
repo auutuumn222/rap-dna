@@ -1,0 +1,36 @@
+{
+  "id": "n197248",
+  "name": "R3HAB",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 197248,
+          "name": "R3HAB"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "R3HAB",
+    "image": "./assets/people/n197248.jpg",
+    "source": "https://music.163.com/artist?id=197248",
+    "imageSource": "https://p2.music.126.net/KGJlhgCI9zBGU5fV3y8wNQ==/109951172630181422.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 197248,
+      "works": [
+        {
+          "id": 2048344999,
+          "title": "Distance (R3HAB Remix)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2048344999"
+      ]
+    }
+  }
+}

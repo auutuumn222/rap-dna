@@ -1,0 +1,20 @@
+{
+  "id": "caHB3YXY",
+  "name": "hpwav",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53060493,
+          "name": "Hp Wav"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

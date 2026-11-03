@@ -1,0 +1,31 @@
+{
+  "id": "n188141",
+  "name": "满舒克",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 188141,
+          "name": "满舒克"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "满舒克",
+    "image": "./assets/people/n188141.jpg",
+    "source": "https://music.163.com/artist?id=188141",
+    "imageSource": "https://p2.music.126.net/ZY6pRcKLqzMNbGTrbWb_6Q==/109951167525919164.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 188141,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2699331774"
+      ]
+    }
+  }
+}

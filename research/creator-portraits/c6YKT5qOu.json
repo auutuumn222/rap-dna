@@ -1,0 +1,48 @@
+{
+  "id": "c6YKT5qOu",
+  "name": "邓森",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47380806,
+          "name": "Sammun邓森"
+        },
+        {
+          "id": 32781175,
+          "name": "邓森"
+        },
+        {
+          "id": 123906271,
+          "name": "邓森森"
+        },
+        {
+          "id": 122634415,
+          "name": "邓先森"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        },
+        {
+          "id": 49291691,
+          "name": "BenBen"
+        },
+        {
+          "id": 57112300,
+          "name": "Dougsan"
+        },
+        {
+          "id": 122999770,
+          "name": "DJRd.remix"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

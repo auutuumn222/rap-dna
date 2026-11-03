@@ -1,0 +1,15 @@
+{
+  "id": "ca3dvbiBuYW0gd29v",
+  "name": "Kwon Nam Woo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

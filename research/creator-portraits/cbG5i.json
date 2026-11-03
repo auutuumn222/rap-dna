@@ -1,0 +1,56 @@
+{
+  "id": "cbG5i",
+  "name": "LnB",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36195848,
+          "name": "Lnb"
+        },
+        {
+          "id": 130301537,
+          "name": "lnbippn"
+        },
+        {
+          "id": 58906049,
+          "name": "LNB TAISKI"
+        },
+        {
+          "id": 46459103,
+          "name": "LNB Drako"
+        },
+        {
+          "id": 37153562,
+          "name": "Lnbs"
+        },
+        {
+          "id": 53956829,
+          "name": "LnB"
+        },
+        {
+          "id": 30202203,
+          "name": "Lnb"
+        },
+        {
+          "id": 48019299,
+          "name": "Lnb Nakked"
+        },
+        {
+          "id": 49991685,
+          "name": "LNB Litty"
+        },
+        {
+          "id": 60792001,
+          "name": "lnb scooby"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

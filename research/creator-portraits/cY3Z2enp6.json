@@ -1,0 +1,32 @@
+{
+  "id": "cY3Z2enp6",
+  "name": "CVvzzZ",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35514577,
+          "name": "CVvzzZ"
+        },
+        {
+          "id": 52410166,
+          "name": "泰格西"
+        },
+        {
+          "id": 55951668,
+          "name": "张润发Omega"
+        },
+        {
+          "id": 51578766,
+          "name": "Certified Drillers"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

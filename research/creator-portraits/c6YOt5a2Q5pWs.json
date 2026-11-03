@@ -1,0 +1,24 @@
+{
+  "id": "c6YOt5a2Q5pWs",
+  "name": "郭子敬",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12157024,
+          "name": "郭子敬"
+        },
+        {
+          "id": 12146415,
+          "name": "郭子敬"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

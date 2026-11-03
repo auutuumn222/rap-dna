@@ -1,0 +1,36 @@
+{
+  "id": "cZnJlZXppbmdob29keg",
+  "name": "FreezingHoodz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36930549,
+          "name": "FreezingHoodz"
+        },
+        {
+          "id": 14117457,
+          "name": "SASIOVERLXRD"
+        },
+        {
+          "id": 32439646,
+          "name": "GODTIER"
+        },
+        {
+          "id": 31439888,
+          "name": "RCgotdat"
+        },
+        {
+          "id": 53683675,
+          "name": "DASDAS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

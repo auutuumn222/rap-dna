@@ -1,0 +1,18 @@
+{
+  "id": "n847107",
+  "name": "谢帝",
+  "attempts": [],
+  "entry": {
+    "name": "谢帝",
+    "catalogName": "谢帝",
+    "aliases": [
+      "BO$$X"
+    ],
+    "image": "./assets/people/n847107.jpg",
+    "source": "https://music.163.com/artist?id=847107",
+    "imageSource": "https://p2.music.126.net/ETplhG5gXynEQoLQkRhHXg==/109951171813624638.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

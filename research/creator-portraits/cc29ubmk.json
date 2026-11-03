@@ -1,0 +1,56 @@
+{
+  "id": "cc29ubmk",
+  "name": "sonni",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 61701642,
+          "name": "SONNIE 桑尼"
+        },
+        {
+          "id": 47790944,
+          "name": "sonni"
+        },
+        {
+          "id": 124082648,
+          "name": "Sonnie S"
+        },
+        {
+          "id": 35486246,
+          "name": "Sonni Maier"
+        },
+        {
+          "id": 36013406,
+          "name": "Sonni Ra"
+        },
+        {
+          "id": 35554769,
+          "name": "Sonni Beatz"
+        },
+        {
+          "id": 31976849,
+          "name": "Sonnie Park"
+        },
+        {
+          "id": 46424941,
+          "name": "Sonnie G13"
+        },
+        {
+          "id": 36766507,
+          "name": "Sonnie LaVoy"
+        },
+        {
+          "id": 99367772,
+          "name": "Sonni"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "n12730273",
+  "name": "TOYOKI",
+  "attempts": [],
+  "entry": {
+    "name": "TOYOKI",
+    "catalogName": "TOYOKI",
+    "aliases": [],
+    "image": "./assets/people/n12730273.jpg",
+    "source": "https://music.163.com/artist?id=12730273",
+    "imageSource": "https://p1.music.126.net/wSEEW8kQ3j-c2N_U1ycfWQ==/109951173850256268.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

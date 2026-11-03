@@ -1,0 +1,15 @@
+{
+  "id": "caG9vZHJ1bm5haA",
+  "name": "hoodrunnah",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

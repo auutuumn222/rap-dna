@@ -1,0 +1,20 @@
+{
+  "id": "cdGF2YXJhcyBq",
+  "name": "Tavaras J",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37398080,
+          "name": "Tavaras Jordan"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

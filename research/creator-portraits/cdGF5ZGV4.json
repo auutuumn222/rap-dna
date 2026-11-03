@@ -1,0 +1,20 @@
+{
+  "id": "cdGF5ZGV4",
+  "name": "Taydex",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33394268,
+          "name": "Taydex"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

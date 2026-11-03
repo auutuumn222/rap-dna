@@ -1,0 +1,56 @@
+{
+  "id": "caG9vZGll",
+  "name": "Hoodie",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33041522,
+          "name": "hoodie"
+        },
+        {
+          "id": 12107966,
+          "name": "A Boogie Wit da Hoodie"
+        },
+        {
+          "id": 34949,
+          "name": "Hoodie Allen"
+        },
+        {
+          "id": 12396095,
+          "name": "HoodieBoy"
+        },
+        {
+          "id": 36205834,
+          "name": "Hoodieabe"
+        },
+        {
+          "id": 490112,
+          "name": "Hoodie"
+        },
+        {
+          "id": 58688574,
+          "name": "Chi Hoodie"
+        },
+        {
+          "id": 31283732,
+          "name": "hoodieboy"
+        },
+        {
+          "id": 60114408,
+          "name": "Hoodie"
+        },
+        {
+          "id": 53285080,
+          "name": "hoodie .ghost"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

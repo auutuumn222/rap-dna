@@ -1,0 +1,56 @@
+{
+  "id": "cZmV4eA",
+  "name": "Fexx",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48356404,
+          "name": "Fexx"
+        },
+        {
+          "id": 59778620,
+          "name": "FEXX-J"
+        },
+        {
+          "id": 35217822,
+          "name": "Fexxeexd"
+        },
+        {
+          "id": 122902578,
+          "name": "Fexxxn"
+        },
+        {
+          "id": 48074854,
+          "name": "YAW FEXX"
+        },
+        {
+          "id": 35710984,
+          "name": "Fexxie"
+        },
+        {
+          "id": 30788612,
+          "name": "T-Fexxx"
+        },
+        {
+          "id": 53105560,
+          "name": "FEXX"
+        },
+        {
+          "id": 127498946,
+          "name": "Jaxson Fexx"
+        },
+        {
+          "id": 125235090,
+          "name": "fexxn"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

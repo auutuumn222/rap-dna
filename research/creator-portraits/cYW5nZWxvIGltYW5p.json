@@ -1,0 +1,24 @@
+{
+  "id": "cYW5nZWxvIGltYW5p",
+  "name": "Angelo Imani",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53935297,
+          "name": "Angelo Imani"
+        },
+        {
+          "id": 59345054,
+          "name": "angeloimani"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

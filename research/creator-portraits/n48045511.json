@@ -1,0 +1,18 @@
+{
+  "id": "n48045511",
+  "name": "APMOZART",
+  "attempts": [],
+  "entry": {
+    "name": "APMOZART",
+    "catalogName": "APMOZART",
+    "aliases": [
+      "Mr.Finest"
+    ],
+    "image": "./assets/people/n48045511.jpg",
+    "source": "https://music.163.com/artist?id=48045511",
+    "imageSource": "https://p1.music.126.net/_CHuFsMoIs71yRFI9OAiWw==/109951174066537676.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

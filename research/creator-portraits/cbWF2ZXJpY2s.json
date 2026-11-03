@@ -1,0 +1,56 @@
+{
+  "id": "cbWF2ZXJpY2s",
+  "name": "Maverick",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 159564,
+          "name": "Maverick"
+        },
+        {
+          "id": 794023,
+          "name": "猛虎巧克力"
+        },
+        {
+          "id": 40072,
+          "name": "Maverick Sabre"
+        },
+        {
+          "id": 132962,
+          "name": "Kurd Maverick"
+        },
+        {
+          "id": 13660901,
+          "name": "Ed Maverick"
+        },
+        {
+          "id": 12869574,
+          "name": "Maverick Soul"
+        },
+        {
+          "id": 102184,
+          "name": "The Mavericks"
+        },
+        {
+          "id": 58697339,
+          "name": "Maverick Mom"
+        },
+        {
+          "id": 33456303,
+          "name": "Dave Maverick"
+        },
+        {
+          "id": 12132488,
+          "name": "Julian Maverick"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

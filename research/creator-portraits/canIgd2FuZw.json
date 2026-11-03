@@ -1,0 +1,24 @@
+{
+  "id": "canIgd2FuZw",
+  "name": "JR WANG",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12064175,
+          "name": "JR WANG"
+        },
+        {
+          "id": 33417891,
+          "name": "JR Wang"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

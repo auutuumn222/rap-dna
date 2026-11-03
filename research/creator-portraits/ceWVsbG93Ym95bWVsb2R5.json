@@ -1,0 +1,20 @@
+{
+  "id": "ceWVsbG93Ym95bWVsb2R5",
+  "name": "YellowBoyMelody",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49193026,
+          "name": "YellowBoyMelody"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

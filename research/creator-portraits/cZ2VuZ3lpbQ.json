@@ -1,0 +1,20 @@
+{
+  "id": "cZ2VuZ3lpbQ",
+  "name": "Gengyim",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30225748,
+          "name": "Gengyim"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

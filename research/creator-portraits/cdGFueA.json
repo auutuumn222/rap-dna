@@ -1,0 +1,56 @@
+{
+  "id": "cdGFueA",
+  "name": "TanX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13285087,
+          "name": "TANX"
+        },
+        {
+          "id": 1210005,
+          "name": "谭响TanX"
+        },
+        {
+          "id": 15114683,
+          "name": "Tanxugueiras"
+        },
+        {
+          "id": 50937537,
+          "name": "TanX"
+        },
+        {
+          "id": 53560103,
+          "name": "TANX"
+        },
+        {
+          "id": 54673529,
+          "name": "TANXiety"
+        },
+        {
+          "id": 52598795,
+          "name": "Tanx"
+        },
+        {
+          "id": 34937054,
+          "name": "Tanx Arcade"
+        },
+        {
+          "id": 95241739,
+          "name": "Tanx Project"
+        },
+        {
+          "id": 54478037,
+          "name": "Marty Tanx"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

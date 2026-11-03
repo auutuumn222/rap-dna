@@ -1,0 +1,72 @@
+{
+  "id": "cbXJub2JvZHk",
+  "name": "mrnobody",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 125278831,
+          "name": "Mrnobody"
+        },
+        {
+          "id": 36183297,
+          "name": "Mrnobody103"
+        },
+        {
+          "id": 46913339,
+          "name": "MrNobody"
+        },
+        {
+          "id": 128739758,
+          "name": "MrNobody777"
+        },
+        {
+          "id": 53804881,
+          "name": "SmN MrNobody"
+        },
+        {
+          "id": 126130093,
+          "name": "MRNOBODY 6"
+        },
+        {
+          "id": 58550764,
+          "name": "Nafson Mrnobody"
+        },
+        {
+          "id": 50219596,
+          "name": "Mr Nobody"
+        },
+        {
+          "id": 54959163,
+          "name": "Mr Nobody Bay Area（MNBA）"
+        },
+        {
+          "id": 33747693,
+          "name": "Mr No Body"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "mrnobody",
+    "image": "./assets/people/cbXJub2JvZHk.jpg",
+    "source": "https://music.163.com/artist?id=46913339",
+    "imageSource": "https://p1.music.126.net/ZXf3qUreL1GVdvY78M2n2g==/109951167789783319.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-shared-work",
+      "artistId": 46913339,
+      "works": [
+        {
+          "id": 2067906771,
+          "title": "Bad"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1350642021"
+      ]
+    }
+  }
+}

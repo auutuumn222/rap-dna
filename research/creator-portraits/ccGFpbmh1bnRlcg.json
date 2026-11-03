@@ -1,0 +1,20 @@
+{
+  "id": "ccGFpbmh1bnRlcg",
+  "name": "PAINHUNTER",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 59688773,
+          "name": "Pain Hunters"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

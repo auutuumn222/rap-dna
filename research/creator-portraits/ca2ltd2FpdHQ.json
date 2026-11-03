@@ -1,0 +1,28 @@
+{
+  "id": "ca2ltd2FpdHQ",
+  "name": "KIMWAITT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37184222,
+          "name": "KIMWAITT"
+        },
+        {
+          "id": 13791519,
+          "name": "BlueLee"
+        },
+        {
+          "id": 33527748,
+          "name": "Siren"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cbHVjaWQgc291bmR6",
+  "name": "Lucid Soundz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30033214,
+          "name": "Lucid Soundz"
+        },
+        {
+          "id": 35271994,
+          "name": "$ Rich Money $ & Lucid Soundz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

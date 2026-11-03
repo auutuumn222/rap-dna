@@ -1,0 +1,15 @@
+{
+  "id": "cdHJpc3RhbiBob29nbGFuZA",
+  "name": "Tristan Hoogland",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

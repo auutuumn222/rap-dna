@@ -1,0 +1,28 @@
+{
+  "id": "cbWlyb293",
+  "name": "miroow",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48103078,
+          "name": "Miroow"
+        },
+        {
+          "id": 51093685,
+          "name": "prod. by miroow"
+        },
+        {
+          "id": 56285941,
+          "name": "Kish (prod. Miroow"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

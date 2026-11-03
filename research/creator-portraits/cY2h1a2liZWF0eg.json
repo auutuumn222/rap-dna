@@ -1,0 +1,15 @@
+{
+  "id": "cY2h1a2liZWF0eg",
+  "name": "Chukibeatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cbTPlkLTlpYfmmLE",
+  "name": "M3吴奇昱",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12057058,
+          "name": "M3吴奇昱"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

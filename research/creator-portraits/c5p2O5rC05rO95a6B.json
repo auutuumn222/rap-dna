@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O5rC05rO95a6B",
+  "name": "李水泽宁",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55699835,
+          "name": "李水泽宁"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

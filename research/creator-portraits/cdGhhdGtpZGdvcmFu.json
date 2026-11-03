@@ -1,0 +1,28 @@
+{
+  "id": "cdGhhdGtpZGdvcmFu",
+  "name": "ThatKidGoran",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30402647,
+          "name": "ThatKidGoran"
+        },
+        {
+          "id": 49997041,
+          "name": "Production by ThatKidGoran"
+        },
+        {
+          "id": 31935332,
+          "name": "That Kid Goran"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

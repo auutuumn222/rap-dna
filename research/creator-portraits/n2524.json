@@ -1,0 +1,41 @@
+{
+  "id": "n2524",
+  "name": "大张伟",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 2524,
+          "name": "大张伟"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "大张伟",
+    "image": "./assets/people/n2524.jpg",
+    "source": "https://music.163.com/artist?id=2524",
+    "imageSource": "https://p2.music.126.net/7DBeSdD8t6ULqDp-6PK_rw==/109951163309009334.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 2524,
+      "works": [
+        {
+          "id": 2124030803,
+          "title": "只为自己开的花"
+        },
+        {
+          "id": 2152313798,
+          "title": "万物盛开法则plus (Live)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2152313798",
+        "https://music.163.com/song?id=2609732084"
+      ]
+    }
+  }
+}

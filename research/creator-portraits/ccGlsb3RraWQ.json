@@ -1,0 +1,28 @@
+{
+  "id": "ccGlsb3RraWQ",
+  "name": "pilotkid",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34872303,
+          "name": "Pilotkid"
+        },
+        {
+          "id": 50785964,
+          "name": "prod by Pilotkid"
+        },
+        {
+          "id": 34775067,
+          "name": "Pilot Kid"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

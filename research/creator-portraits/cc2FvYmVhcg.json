@@ -1,0 +1,24 @@
+{
+  "id": "cc2FvYmVhcg",
+  "name": "SAOBEAR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12320515,
+          "name": "SAOBEAR"
+        },
+        {
+          "id": 1158152,
+          "name": "吉克诗佤JackSwag"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

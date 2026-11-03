@@ -1,0 +1,56 @@
+{
+  "id": "c5p2O5pix54a5",
+  "name": "李昱熹",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 10200,
+          "name": "郁可唯"
+        },
+        {
+          "id": 1030001,
+          "name": "周深"
+        },
+        {
+          "id": 1203045,
+          "name": "艾热 AIR"
+        },
+        {
+          "id": 47091532,
+          "name": "王赫野"
+        },
+        {
+          "id": 7762,
+          "name": "郭采洁"
+        },
+        {
+          "id": 34862670,
+          "name": "黄子弘凡"
+        },
+        {
+          "id": 5768,
+          "name": "萧敬腾"
+        },
+        {
+          "id": 12788674,
+          "name": "KEY.L刘聪"
+        },
+        {
+          "id": 9939,
+          "name": "弦子"
+        },
+        {
+          "id": 3273,
+          "name": "胡夏"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

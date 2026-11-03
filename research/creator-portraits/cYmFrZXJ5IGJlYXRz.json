@@ -1,0 +1,44 @@
+{
+  "id": "cYmFrZXJ5IGJlYXRz",
+  "name": "Bakery Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47492255,
+          "name": "Bakery Beats"
+        },
+        {
+          "id": 53875340,
+          "name": "(PROD BY. BAKERY BEATS)"
+        },
+        {
+          "id": 47340987,
+          "name": "bakery beatss"
+        },
+        {
+          "id": 33227147,
+          "name": "Beats Bakery"
+        },
+        {
+          "id": 49471219,
+          "name": "Beat Bakery"
+        },
+        {
+          "id": 46543786,
+          "name": "The Beat Bakery x EMARNA"
+        },
+        {
+          "id": 46346366,
+          "name": "BakeryBeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

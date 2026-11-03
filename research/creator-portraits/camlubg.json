@@ -1,0 +1,56 @@
+{
+  "id": "camlubg",
+  "name": "Jinn",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32775590,
+          "name": "Jinnie"
+        },
+        {
+          "id": 49981063,
+          "name": "JINNER阿今"
+        },
+        {
+          "id": 142515,
+          "name": "Jinn"
+        },
+        {
+          "id": 60558042,
+          "name": "Jinni"
+        },
+        {
+          "id": 128112190,
+          "name": "吳若希 JinnyNg"
+        },
+        {
+          "id": 96025750,
+          "name": "JinniJin"
+        },
+        {
+          "id": 33819318,
+          "name": "晋Jinn"
+        },
+        {
+          "id": 123287219,
+          "name": "凡境.jinn"
+        },
+        {
+          "id": 98414249,
+          "name": "Jinnie"
+        },
+        {
+          "id": 33135570,
+          "name": "Jinnyan_"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

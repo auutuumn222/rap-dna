@@ -1,0 +1,15 @@
+{
+  "id": "cc3R1YXJ0IGhhd2tlcw",
+  "name": "Stuart Hawkes",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

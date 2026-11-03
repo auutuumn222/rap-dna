@@ -1,0 +1,56 @@
+{
+  "id": "c5oGp5b63YW5keTE4",
+  "name": "恩德Andy18",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12361385,
+          "name": "恩德Andy18"
+        },
+        {
+          "id": 12051106,
+          "name": "王朝1982"
+        },
+        {
+          "id": 12853605,
+          "name": "SHarK"
+        },
+        {
+          "id": 6309,
+          "name": "Mai"
+        },
+        {
+          "id": 29865317,
+          "name": "斯丹曼簇"
+        },
+        {
+          "id": 32826457,
+          "name": "SAYNO尹彦博"
+        },
+        {
+          "id": 854358,
+          "name": "陈令韬"
+        },
+        {
+          "id": 1047049,
+          "name": "Yoken_Official"
+        },
+        {
+          "id": 12497084,
+          "name": "T.Axxkwywd"
+        },
+        {
+          "id": 1078072,
+          "name": "顺德"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

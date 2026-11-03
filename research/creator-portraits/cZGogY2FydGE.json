@@ -1,0 +1,40 @@
+{
+  "id": "cZGogY2FydGE",
+  "name": "DJ Carta",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12023426,
+          "name": "CARTA"
+        },
+        {
+          "id": 36658988,
+          "name": "Dj Cartago"
+        },
+        {
+          "id": 52743898,
+          "name": "DJ CARTA"
+        },
+        {
+          "id": 122848163,
+          "name": "DJ Cartago Flow"
+        },
+        {
+          "id": 34733449,
+          "name": "DJ Nino Carta"
+        },
+        {
+          "id": 89409,
+          "name": "carta"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

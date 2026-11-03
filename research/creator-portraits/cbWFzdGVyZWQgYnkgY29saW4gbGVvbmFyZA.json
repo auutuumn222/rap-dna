@@ -1,0 +1,15 @@
+{
+  "id": "cbWFzdGVyZWQgYnkgY29saW4gbGVvbmFyZA",
+  "name": "Mastered by Colin Leonard",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cbWFqb3IgZm9yY2U",
+  "name": "Major Force",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48135213,
+          "name": "Major Force"
+        },
+        {
+          "id": 12043065,
+          "name": "Major Force West"
+        },
+        {
+          "id": 97974270,
+          "name": "MAJOR FORCE PRODUCTIONS"
+        },
+        {
+          "id": 60802938,
+          "name": "Major Forces"
+        },
+        {
+          "id": 58055979,
+          "name": "Major forcer"
+        },
+        {
+          "id": 46754205,
+          "name": "Force Major"
+        },
+        {
+          "id": 12294124,
+          "name": "戾仁Lyrin"
+        },
+        {
+          "id": 12537403,
+          "name": "K.ila"
+        },
+        {
+          "id": 13611610,
+          "name": "Lt"
+        },
+        {
+          "id": 36763930,
+          "name": "MajorForce_Flex"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

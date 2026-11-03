@@ -1,0 +1,36 @@
+{
+  "id": "cZ2fpvpnomb4",
+  "name": "GG龙虾",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12174183,
+          "name": "GG Lobster"
+        },
+        {
+          "id": 94441384,
+          "name": "maksomnoi"
+        },
+        {
+          "id": 122518746,
+          "name": "亞洲女孩Asian girl"
+        },
+        {
+          "id": 12642623,
+          "name": "hpsb"
+        },
+        {
+          "id": 12292934,
+          "name": "Flashkore"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

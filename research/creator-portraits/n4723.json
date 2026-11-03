@@ -1,0 +1,19 @@
+{
+  "id": "n4723",
+  "name": "潘玮柏",
+  "attempts": [],
+  "entry": {
+    "name": "潘玮柏",
+    "catalogName": "潘玮柏",
+    "aliases": [
+      "Will Pan",
+      "Wilber Pan"
+    ],
+    "image": "./assets/people/n4723.jpg",
+    "source": "https://music.163.com/artist?id=4723",
+    "imageSource": "https://p1.music.126.net/mjERW5hR9eD9d7m8QcEtaw==/109951172209775356.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

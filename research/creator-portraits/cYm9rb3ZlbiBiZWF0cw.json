@@ -1,0 +1,20 @@
+{
+  "id": "cYm9rb3ZlbiBiZWF0cw",
+  "name": "Bokoven Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56380880,
+          "name": "Bokoven Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

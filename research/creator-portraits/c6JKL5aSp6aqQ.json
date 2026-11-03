@@ -1,0 +1,15 @@
+{
+  "id": "c6JKL5aSp6aqQ",
+  "name": "蒋天骐",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cZGlyZXg",
+  "name": "DireX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12083253,
+          "name": "DireX"
+        },
+        {
+          "id": 48319294,
+          "name": "Direx"
+        },
+        {
+          "id": 57258334,
+          "name": "Direx AC"
+        },
+        {
+          "id": 35162049,
+          "name": "Direxta"
+        },
+        {
+          "id": 125517995,
+          "name": "Direxon"
+        },
+        {
+          "id": 47989064,
+          "name": "Nueva Direxion"
+        },
+        {
+          "id": 95510586,
+          "name": "Phree Direxion"
+        },
+        {
+          "id": 46932649,
+          "name": "Pop Direxxxtion"
+        },
+        {
+          "id": 56121349,
+          "name": "Sin Direxion"
+        },
+        {
+          "id": 50352634,
+          "name": "Direx"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

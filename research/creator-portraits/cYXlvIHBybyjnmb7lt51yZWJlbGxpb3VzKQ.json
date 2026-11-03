@@ -1,0 +1,15 @@
+{
+  "id": "cYXlvIHBybyjnmb7lt51yZWJlbGxpb3VzKQ",
+  "name": "AYO PRO（百川Rebellious）",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n53113593",
+  "name": "张峻豪SHUN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53113593,
+          "name": "张峻豪SHUN"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "张峻豪SHUN",
+    "image": "./assets/people/n53113593.jpg",
+    "source": "https://music.163.com/artist?id=53113593",
+    "imageSource": "https://p2.music.126.net/Q0fHX_dsHdszXrIzklTjrQ==/109951171689653129.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 53113593,
+      "works": [
+        {
+          "id": 2750047704,
+          "title": "Love Volcano"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2750047704"
+      ]
+    }
+  }
+}

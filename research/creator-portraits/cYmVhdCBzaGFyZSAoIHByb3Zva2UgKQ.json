@@ -1,0 +1,15 @@
+{
+  "id": "cYmVhdCBzaGFyZSAoIHByb3Zva2UgKQ",
+  "name": "BEAT SHARE ( Provoke )",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

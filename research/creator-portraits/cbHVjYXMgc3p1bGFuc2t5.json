@@ -1,0 +1,15 @@
+{
+  "id": "cbHVjYXMgc3p1bGFuc2t5",
+  "name": "Lucas Szulansky",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

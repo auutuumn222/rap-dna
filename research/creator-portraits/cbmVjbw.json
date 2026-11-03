@@ -1,0 +1,56 @@
+{
+  "id": "cbmVjbw",
+  "name": "neco",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30940533,
+          "name": "DJ NECOJITA"
+        },
+        {
+          "id": 12524229,
+          "name": "Necola"
+        },
+        {
+          "id": 31649498,
+          "name": "Necos"
+        },
+        {
+          "id": 33601738,
+          "name": "Neco"
+        },
+        {
+          "id": 69931,
+          "name": "Neco Novellas"
+        },
+        {
+          "id": 53577078,
+          "name": "Necozzin"
+        },
+        {
+          "id": 29490289,
+          "name": "NECO ASOBI"
+        },
+        {
+          "id": 48374212,
+          "name": "Piyanist Neco"
+        },
+        {
+          "id": 55453497,
+          "name": "Neco_"
+        },
+        {
+          "id": 98053521,
+          "name": "NECOるP"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

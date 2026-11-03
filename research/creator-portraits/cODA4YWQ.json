@@ -1,0 +1,32 @@
+{
+  "id": "cODA4YWQ",
+  "name": "808AD",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46837411,
+          "name": "808Adrian"
+        },
+        {
+          "id": 59725426,
+          "name": "808adri"
+        },
+        {
+          "id": 54039642,
+          "name": "808ADAM"
+        },
+        {
+          "id": 100351876,
+          "name": "808 Addi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

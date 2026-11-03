@@ -1,0 +1,28 @@
+{
+  "id": "c6YOR5bCP5a6H",
+  "name": "郑小宇",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48993070,
+          "name": "郑小宇"
+        },
+        {
+          "id": 51818392,
+          "name": "郑小宇"
+        },
+        {
+          "id": 122711283,
+          "name": "郑小宇"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

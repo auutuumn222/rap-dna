@@ -1,0 +1,48 @@
+{
+  "id": "cdDZpeA",
+  "name": "T6ix",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50704662,
+          "name": "T6IX"
+        },
+        {
+          "id": 100200058,
+          "name": "MNF T6ix"
+        },
+        {
+          "id": 33502465,
+          "name": "t6ixx"
+        },
+        {
+          "id": 53299510,
+          "name": "T6ixBaby"
+        },
+        {
+          "id": 59241899,
+          "name": "T6ix0"
+        },
+        {
+          "id": 125245697,
+          "name": "T6ix"
+        },
+        {
+          "id": 94588571,
+          "name": "Blak t6ix"
+        },
+        {
+          "id": 94397036,
+          "name": "T6ix2Krazy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

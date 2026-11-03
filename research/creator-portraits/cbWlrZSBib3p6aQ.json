@@ -1,0 +1,15 @@
+{
+  "id": "cbWlrZSBib3p6aQ",
+  "name": "Mike Bozzi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

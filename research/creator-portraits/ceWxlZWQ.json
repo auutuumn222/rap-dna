@@ -1,0 +1,40 @@
+{
+  "id": "ceWxlZWQ",
+  "name": "Yleed",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34742777,
+          "name": "Yleed"
+        },
+        {
+          "id": 53100043,
+          "name": "艾洛樱Aluvin"
+        },
+        {
+          "id": 33910499,
+          "name": "FAMAS"
+        },
+        {
+          "id": 32574793,
+          "name": "Wlao.T"
+        },
+        {
+          "id": 48388604,
+          "name": "Fabes VG"
+        },
+        {
+          "id": 34490137,
+          "name": "prod混浊"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

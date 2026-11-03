@@ -1,0 +1,32 @@
+{
+  "id": "n32914814",
+  "name": "泡椒花生",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32914814,
+          "name": "泡椒花生"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "泡椒花生",
+    "image": "./assets/people/n32914814.jpg",
+    "source": "https://music.163.com/artist?id=32914814",
+    "imageSource": "https://p2.music.126.net/2-wPNIiZTOVgqc7UPH93lA==/109951171980965035.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 32914814,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2048335360",
+        "https://music.163.com/song?id=2073164363"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c6I2o6bq755a5eG16",
+  "name": "荨麻疹XMZ",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

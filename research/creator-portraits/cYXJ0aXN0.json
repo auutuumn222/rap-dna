@@ -1,0 +1,56 @@
+{
+  "id": "cYXJ0aXN0",
+  "name": "Artist",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 15236845,
+          "name": "Artist"
+        },
+        {
+          "id": 104700,
+          "name": "Various Artists"
+        },
+        {
+          "id": 440816,
+          "name": "Ebz the Artist"
+        },
+        {
+          "id": 33154583,
+          "name": "forskjellige artister"
+        },
+        {
+          "id": 49726260,
+          "name": "Plum - Melodic Artist"
+        },
+        {
+          "id": 58182974,
+          "name": "Ghetto Artist"
+        },
+        {
+          "id": 28409387,
+          "name": "Anonymous Artists"
+        },
+        {
+          "id": 128423055,
+          "name": "Gvclock Artist"
+        },
+        {
+          "id": 122390545,
+          "name": "Overland Artist"
+        },
+        {
+          "id": 50677937,
+          "name": "Various Artists"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

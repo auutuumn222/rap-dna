@@ -1,0 +1,56 @@
+{
+  "id": "camZsZXg",
+  "name": "Jflex",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50315248,
+          "name": "Jflexxx"
+        },
+        {
+          "id": 13836148,
+          "name": "Jflex"
+        },
+        {
+          "id": 129754120,
+          "name": "JFLEXX PRODUCTION"
+        },
+        {
+          "id": 46346471,
+          "name": "Jflexxn"
+        },
+        {
+          "id": 36236597,
+          "name": "Jflexedup"
+        },
+        {
+          "id": 37551452,
+          "name": "Jflexn"
+        },
+        {
+          "id": 59390679,
+          "name": "JflexJamal"
+        },
+        {
+          "id": 34862012,
+          "name": "JFlexx"
+        },
+        {
+          "id": 125580176,
+          "name": "JFLEX MUZIC"
+        },
+        {
+          "id": 58274646,
+          "name": "Jflexoo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

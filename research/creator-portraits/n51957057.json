@@ -1,0 +1,16 @@
+{
+  "id": "n51957057",
+  "name": "ljz329",
+  "attempts": [],
+  "entry": {
+    "name": "ljz329",
+    "catalogName": "ljz329",
+    "aliases": [],
+    "image": "./assets/people/n51957057.jpg",
+    "source": "https://music.163.com/artist?id=51957057",
+    "imageSource": "https://p1.music.126.net/2HWBehaTrcYUZAByJh-mDg==/109951170681263534.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ca2tvdA",
+  "name": "Kkot",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33511920,
+          "name": "Kkot"
+        },
+        {
+          "id": 32088350,
+          "name": "Kkot"
+        },
+        {
+          "id": 127227421,
+          "name": "KKOT"
+        },
+        {
+          "id": 97261866,
+          "name": "Kkot Nim"
+        },
+        {
+          "id": 124796359,
+          "name": "B Kkot"
+        },
+        {
+          "id": 47764154,
+          "name": "KKOTT"
+        },
+        {
+          "id": 126631446,
+          "name": "KKOT"
+        },
+        {
+          "id": 94097104,
+          "name": "Økkotsu_Oficial"
+        },
+        {
+          "id": 59482096,
+          "name": "Rupom Kkoti"
+        },
+        {
+          "id": 53565767,
+          "name": "ADTurnUp"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

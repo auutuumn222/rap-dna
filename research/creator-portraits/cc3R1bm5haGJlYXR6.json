@@ -1,0 +1,20 @@
+{
+  "id": "cc3R1bm5haGJlYXR6",
+  "name": "stunnahbeatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30011904,
+          "name": "Stunnah Beatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

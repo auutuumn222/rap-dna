@@ -1,0 +1,40 @@
+{
+  "id": "cZXZsNjY",
+  "name": "evl66",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53849454,
+          "name": "evl66"
+        },
+        {
+          "id": 35829916,
+          "name": "Osama"
+        },
+        {
+          "id": 37553762,
+          "name": "AudiBoi"
+        },
+        {
+          "id": 51334332,
+          "name": "Lean"
+        },
+        {
+          "id": 12905293,
+          "name": "東别"
+        },
+        {
+          "id": 55951668,
+          "name": "张润发Omega"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

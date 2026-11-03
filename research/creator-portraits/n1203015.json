@@ -1,0 +1,16 @@
+{
+  "id": "n1203015",
+  "name": "Dough-Boy",
+  "attempts": [],
+  "entry": {
+    "name": "Dough-Boy",
+    "catalogName": "Dough-Boy",
+    "aliases": [],
+    "image": "./assets/people/n1203015.jpg",
+    "source": "https://music.163.com/artist?id=1203015",
+    "imageSource": "https://p2.music.126.net/LAqRKX-IqBcIPMsIV33juA==/109951170725935352.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

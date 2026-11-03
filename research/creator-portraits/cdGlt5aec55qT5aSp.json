@@ -1,0 +1,40 @@
+{
+  "id": "cdGlt5aec55qT5aSp",
+  "name": "Tim姜皓天",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52592526,
+          "name": "Tim姜皓天"
+        },
+        {
+          "id": 1122080,
+          "name": "Transviolet"
+        },
+        {
+          "id": 12006158,
+          "name": "Tim Legend"
+        },
+        {
+          "id": 143957,
+          "name": "Tim Tim"
+        },
+        {
+          "id": 100549393,
+          "name": "Zohra-Mamtimin"
+        },
+        {
+          "id": 124833,
+          "name": "Tim"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

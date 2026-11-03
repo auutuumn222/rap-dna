@@ -1,0 +1,32 @@
+{
+  "id": "c55KH5rahd2hpcmxwb28x",
+  "name": "璇涡WHIRLPOO1",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30223665,
+          "name": "狂兆北"
+        },
+        {
+          "id": 48813553,
+          "name": "硫克男孩RukBoi"
+        },
+        {
+          "id": 33710315,
+          "name": "Red！"
+        },
+        {
+          "id": 37405394,
+          "name": "Slaffy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

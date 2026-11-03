@@ -1,0 +1,15 @@
+{
+  "id": "cdGVyZW5jZeiwoueHlei-iQ",
+  "name": "Terence谢燕辉",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

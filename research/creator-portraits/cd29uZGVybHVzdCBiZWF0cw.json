@@ -1,0 +1,24 @@
+{
+  "id": "cd29uZGVybHVzdCBiZWF0cw",
+  "name": "Wonderlust Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48216079,
+          "name": "Wonderlust Beats"
+        },
+        {
+          "id": 33173358,
+          "name": "Wonderlustbeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cbmF5eg",
+  "name": "nayz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31236468,
+          "name": "Nayzed"
+        },
+        {
+          "id": 124232973,
+          "name": "Nayzura_"
+        },
+        {
+          "id": 60202033,
+          "name": "NAYZA BAND"
+        },
+        {
+          "id": 649619,
+          "name": "Nayz"
+        },
+        {
+          "id": 122994747,
+          "name": "NAYZ HALLOW"
+        },
+        {
+          "id": 51238862,
+          "name": "EL NAYZ"
+        },
+        {
+          "id": 121607005,
+          "name": "Cellah Nayz"
+        },
+        {
+          "id": 47340423,
+          "name": "NEO NAYZ"
+        },
+        {
+          "id": 124461272,
+          "name": "Lil Nayz"
+        },
+        {
+          "id": 57702833,
+          "name": "Nayze"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

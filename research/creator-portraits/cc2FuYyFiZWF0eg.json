@@ -1,0 +1,15 @@
+{
+  "id": "cc2FuYyFiZWF0eg",
+  "name": "SanC!Beatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c5Y-26IKy6L2p",
+  "name": "叶育轩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50285897,
+          "name": "叶育轩"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

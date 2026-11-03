@@ -1,0 +1,29 @@
+{
+  "id": "c56iL5aKoaW5r",
+  "name": "程墨INK",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34575523,
+          "name": "程墨INK"
+        },
+        {
+          "id": 31994412,
+          "name": "因你而在的梦"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1767059194,
+          "name": "程墨INK"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

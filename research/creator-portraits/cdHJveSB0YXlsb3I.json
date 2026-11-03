@@ -1,0 +1,24 @@
+{
+  "id": "cdHJveSB0YXlsb3I",
+  "name": "Troy Taylor",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14132665,
+          "name": "Troy Taylor"
+        },
+        {
+          "id": 57302765,
+          "name": "Troy Taylor U The Goat"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

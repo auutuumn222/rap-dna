@@ -1,0 +1,36 @@
+{
+  "id": "n12114249",
+  "name": "大D(DLyn)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12114249,
+          "name": "大D(DLyn)"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "大D(DLyn)",
+    "image": "./assets/people/n12114249.jpg",
+    "source": "https://music.163.com/artist?id=12114249",
+    "imageSource": "https://p2.music.126.net/_TYZTsB3MTgrsQMW04QQCQ==/109951169533774856.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12114249,
+      "works": [
+        {
+          "id": 1910738837,
+          "title": "Ride4you"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1910738837"
+      ]
+    }
+  }
+}

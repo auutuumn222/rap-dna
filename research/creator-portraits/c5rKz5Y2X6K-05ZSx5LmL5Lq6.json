@@ -1,0 +1,44 @@
+{
+  "id": "c5rKz5Y2X6K-05ZSx5LmL5Lq6",
+  "name": "河南说唱之人",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58056898,
+          "name": "河南说唱之神"
+        },
+        {
+          "id": 123859593,
+          "name": "河南说唱之神人"
+        },
+        {
+          "id": 14117457,
+          "name": "SASIOVERLXRD"
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊"
+        },
+        {
+          "id": 12798217,
+          "name": "刘思鉴"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 12114249,
+          "name": "大D(DLyn)"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

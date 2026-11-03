@@ -1,0 +1,23 @@
+{
+  "id": "ccS5sdXY",
+  "name": "Q.Luv",
+  "attempts": [],
+  "entry": {
+    "name": "Q.Luv",
+    "image": "./assets/people/n187624.jpg",
+    "source": "https://music.163.com/artist?id=187624",
+    "imageSource": "https://p1.music.126.net/tBo7pVe-IBbNz5rz07gGfA==/109951169282940158.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=1465082816",
+        "https://music.163.com/song?id=2030471549",
+        "https://music.163.com/song?id=471763224"
+      ]
+    },
+    "matchedPersonId": "n187624"
+  },
+  "match": "existing-verified-name"
+}

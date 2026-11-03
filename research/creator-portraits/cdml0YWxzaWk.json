@@ -1,0 +1,15 @@
+{
+  "id": "cdml0YWxzaWk",
+  "name": "VITALSII",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

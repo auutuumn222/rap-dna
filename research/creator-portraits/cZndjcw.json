@@ -1,0 +1,20 @@
+{
+  "id": "cZndjcw",
+  "name": "fwcs",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48724797,
+          "name": "FWC Shock"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

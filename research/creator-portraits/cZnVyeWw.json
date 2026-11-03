@@ -1,0 +1,56 @@
+{
+  "id": "cZnVyeWw",
+  "name": "Furyl",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29597116,
+          "name": "Furyl"
+        },
+        {
+          "id": 53271819,
+          "name": "Furyl"
+        },
+        {
+          "id": 121383902,
+          "name": "Furyline"
+        },
+        {
+          "id": 123177138,
+          "name": "FuryLoom"
+        },
+        {
+          "id": 13791519,
+          "name": "BlueLee"
+        },
+        {
+          "id": 46886194,
+          "name": "EVO MUSIC"
+        },
+        {
+          "id": 33527748,
+          "name": "Siren"
+        },
+        {
+          "id": 12464050,
+          "name": "4_Chords"
+        },
+        {
+          "id": 13147273,
+          "name": "ZS beatz"
+        },
+        {
+          "id": 53951180,
+          "name": "Fury Lenoks"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

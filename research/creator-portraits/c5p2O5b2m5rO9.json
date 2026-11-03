@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O5b2m5rO9",
+  "name": "李彦泽",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58554159,
+          "name": "李彦泽"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

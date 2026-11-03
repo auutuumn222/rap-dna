@@ -1,0 +1,20 @@
+{
+  "id": "ca2lsbHRoaXNzb25ueQ",
+  "name": "killthissonny",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47900083,
+          "name": "killthissonny"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

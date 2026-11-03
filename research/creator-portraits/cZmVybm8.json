@@ -1,0 +1,56 @@
+{
+  "id": "cZmVybm8",
+  "name": "Ferno",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51775368,
+          "name": "John Fernold"
+        },
+        {
+          "id": 48683285,
+          "name": "Fernõ"
+        },
+        {
+          "id": 37008129,
+          "name": "fernospazzin"
+        },
+        {
+          "id": 61592872,
+          "name": "FERNO SA"
+        },
+        {
+          "id": 48487444,
+          "name": "Daddy Ferno"
+        },
+        {
+          "id": 35024977,
+          "name": "King Ferno"
+        },
+        {
+          "id": 47351016,
+          "name": "Lock x Ferno"
+        },
+        {
+          "id": 36011211,
+          "name": "FERNOBOYZ"
+        },
+        {
+          "id": 47991706,
+          "name": "Ferno"
+        },
+        {
+          "id": 29463068,
+          "name": "Ferno"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

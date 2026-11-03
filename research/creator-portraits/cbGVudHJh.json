@@ -1,0 +1,52 @@
+{
+  "id": "cbGVudHJh",
+  "name": "Lentra",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31551456,
+          "name": "Lentra"
+        },
+        {
+          "id": 46528816,
+          "name": "扎乐扎zalentra"
+        },
+        {
+          "id": 127754118,
+          "name": "lentra"
+        },
+        {
+          "id": 56969715,
+          "name": "LENTRAX"
+        },
+        {
+          "id": 127784159,
+          "name": "LENTRANO"
+        },
+        {
+          "id": 12054171,
+          "name": "bbno$"
+        },
+        {
+          "id": 36475777,
+          "name": "Jungle Bobby"
+        },
+        {
+          "id": 15270247,
+          "name": "L'entracte"
+        },
+        {
+          "id": 30767457,
+          "name": "L'entrata di Cristo a Bruxelles"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

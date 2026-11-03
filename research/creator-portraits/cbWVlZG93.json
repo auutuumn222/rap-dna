@@ -1,0 +1,24 @@
+{
+  "id": "cbWVlZG93",
+  "name": "meedow",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 94689064,
+          "name": "meedow"
+        },
+        {
+          "id": 100082590,
+          "name": "Playboi Meedow"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

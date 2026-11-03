@@ -1,0 +1,28 @@
+{
+  "id": "cbHVjaW91c2Ji",
+  "name": "Luciousbb",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31093989,
+          "name": "LusciousBB"
+        },
+        {
+          "id": 48277407,
+          "name": "BOBBYNOPEACE"
+        },
+        {
+          "id": 94753015,
+          "name": "DD Ma Shawty"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

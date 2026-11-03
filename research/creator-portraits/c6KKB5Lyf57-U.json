@@ -1,0 +1,20 @@
+{
+  "id": "c6KKB5Lyf57-U",
+  "name": "袁伟翔",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28245136,
+          "name": "袁伟翔"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

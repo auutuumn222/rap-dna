@@ -1,0 +1,20 @@
+{
+  "id": "ccGFpb3I4MDg",
+  "name": "paior808",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52778549,
+          "name": "paior808"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

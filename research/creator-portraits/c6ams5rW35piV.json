@@ -1,0 +1,36 @@
+{
+  "id": "c6ams5rW35piV",
+  "name": "马海昕",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30281362,
+          "name": "马海昕"
+        },
+        {
+          "id": 51486343,
+          "name": "马海皓昕"
+        },
+        {
+          "id": 34283831,
+          "name": "陆怡雯"
+        },
+        {
+          "id": 1044054,
+          "name": "R7CKY"
+        },
+        {
+          "id": 12393035,
+          "name": "蓝钦浔"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

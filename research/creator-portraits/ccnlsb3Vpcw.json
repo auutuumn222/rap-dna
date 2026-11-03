@@ -1,0 +1,28 @@
+{
+  "id": "ccnlsb3Vpcw",
+  "name": "rylouis",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52099003,
+          "name": "Produced By Rylouis"
+        },
+        {
+          "id": 51892067,
+          "name": "Prod. Rylouis"
+        },
+        {
+          "id": 56475749,
+          "name": "Ryloui"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

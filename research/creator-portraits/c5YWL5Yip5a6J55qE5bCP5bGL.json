@@ -1,0 +1,28 @@
+{
+  "id": "c5YWL5Yip5a6J55qE5bCP5bGL",
+  "name": "克利安的小屋",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35418234,
+          "name": "克利安的小屋"
+        },
+        {
+          "id": 48388604,
+          "name": "Fabes VG"
+        },
+        {
+          "id": 34261169,
+          "name": "yutaka"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

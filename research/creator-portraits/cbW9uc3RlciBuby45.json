@@ -1,0 +1,20 @@
+{
+  "id": "cbW9uc3RlciBuby45",
+  "name": "mOnSteR nO.9",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12885076,
+          "name": "mOnSteR nO.9"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cdHlsbw",
+  "name": "tylo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48199823,
+          "name": "Tylo（泰罗）"
+        },
+        {
+          "id": 14675120,
+          "name": "Tylor Maurer"
+        },
+        {
+          "id": 31674623,
+          "name": "TYLOW"
+        },
+        {
+          "id": 31986175,
+          "name": "Tylor Jay Santos"
+        },
+        {
+          "id": 47860814,
+          "name": "Michael Tylor"
+        },
+        {
+          "id": 35843953,
+          "name": "Tylord"
+        },
+        {
+          "id": 95766634,
+          "name": "tylotyloo"
+        },
+        {
+          "id": 31549318,
+          "name": "Tylor Rose"
+        },
+        {
+          "id": 34803588,
+          "name": "tylo"
+        },
+        {
+          "id": 47534127,
+          "name": "Tylo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

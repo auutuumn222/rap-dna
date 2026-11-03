@@ -1,0 +1,15 @@
+{
+  "id": "cYmVuamFtaW4gYm91a3Jpcw",
+  "name": "Benjamin Boukris",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

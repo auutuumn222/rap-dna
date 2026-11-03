@@ -1,0 +1,28 @@
+{
+  "id": "ceC1wZWFr",
+  "name": "X-Peak",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34563966,
+          "name": "X-Peak"
+        },
+        {
+          "id": 36626441,
+          "name": "王昭懿"
+        },
+        {
+          "id": 51694655,
+          "name": "热寂HDRecords"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

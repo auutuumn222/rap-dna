@@ -1,0 +1,56 @@
+{
+  "id": "c5bCP5Y2r",
+  "name": "小卫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51954766,
+          "name": "王小卫David"
+        },
+        {
+          "id": 34171244,
+          "name": "卫雨晨"
+        },
+        {
+          "id": 126405646,
+          "name": "David_小卫卫"
+        },
+        {
+          "id": 55257883,
+          "name": "卫"
+        },
+        {
+          "id": 100187922,
+          "name": "压小卫"
+        },
+        {
+          "id": 53684041,
+          "name": "卫军豪"
+        },
+        {
+          "id": 99006648,
+          "name": "小卫"
+        },
+        {
+          "id": 53756647,
+          "name": "小卫"
+        },
+        {
+          "id": 52882169,
+          "name": "小衛"
+        },
+        {
+          "id": 50040952,
+          "name": "小卫"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

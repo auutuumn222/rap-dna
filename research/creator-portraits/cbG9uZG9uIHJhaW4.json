@@ -1,0 +1,44 @@
+{
+  "id": "cbG9uZG9uIHJhaW4",
+  "name": "London Rain",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 387515,
+          "name": "London Rain"
+        },
+        {
+          "id": 126964076,
+          "name": "London Rain Station"
+        },
+        {
+          "id": 51695649,
+          "name": "London Rain Sounds"
+        },
+        {
+          "id": 51473365,
+          "name": "London Rainn"
+        },
+        {
+          "id": 125196293,
+          "name": "London Rainy Day Club"
+        },
+        {
+          "id": 33145150,
+          "name": "Andrea Vanzo"
+        },
+        {
+          "id": 32283761,
+          "name": "Alex Robb"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

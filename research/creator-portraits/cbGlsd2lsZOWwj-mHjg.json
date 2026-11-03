@@ -1,0 +1,24 @@
+{
+  "id": "cbGlsd2lsZOWwj-mHjg",
+  "name": "LilWild小野",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 99415240,
+          "name": "LilWild小野"
+        },
+        {
+          "id": 56202110,
+          "name": "HPN"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

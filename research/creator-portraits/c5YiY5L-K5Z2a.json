@@ -1,0 +1,15 @@
+{
+  "id": "c5YiY5L-K5Z2a",
+  "name": "刘俊坚",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

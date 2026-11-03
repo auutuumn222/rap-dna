@@ -1,0 +1,15 @@
+{
+  "id": "c5byg5pm65YuH6Z-z5LmQ5bel5L2c5a6k",
+  "name": "张智勇音乐工作室",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

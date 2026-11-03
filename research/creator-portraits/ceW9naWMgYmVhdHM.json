@@ -1,0 +1,32 @@
+{
+  "id": "ceW9naWMgYmVhdHM",
+  "name": "yogic beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35891412,
+          "name": "Yogic Beats"
+        },
+        {
+          "id": 52912332,
+          "name": "Prod. yogic beats"
+        },
+        {
+          "id": 49926617,
+          "name": "Produced by Yogic Beats"
+        },
+        {
+          "id": 47831650,
+          "name": "Yogicbeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

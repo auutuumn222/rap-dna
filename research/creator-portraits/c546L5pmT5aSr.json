@@ -1,0 +1,53 @@
+{
+  "id": "c546L5pmT5aSr",
+  "name": "王晓夫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12288446,
+          "name": "王晓夫"
+        },
+        {
+          "id": 5349,
+          "name": "魏晨"
+        },
+        {
+          "id": 12127184,
+          "name": "贺仙人"
+        },
+        {
+          "id": 31508096,
+          "name": "Luh Kel"
+        },
+        {
+          "id": 1050520,
+          "name": "KAII"
+        },
+        {
+          "id": 12258996,
+          "name": "LOKEY低调组合"
+        },
+        {
+          "id": 12304406,
+          "name": "Laoz G"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1537718514,
+          "name": "王晓夫"
+        },
+        {
+          "id": 1867099407,
+          "name": "王晓夫"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

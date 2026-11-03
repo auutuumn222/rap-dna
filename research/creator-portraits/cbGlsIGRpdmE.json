@@ -1,0 +1,56 @@
+{
+  "id": "cbGlsIGRpdmE",
+  "name": "Lil Diva",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34361743,
+          "name": "Lil Diva"
+        },
+        {
+          "id": 50692404,
+          "name": "lil diva"
+        },
+        {
+          "id": 47571239,
+          "name": "YLE Lil Diva"
+        },
+        {
+          "id": 60969061,
+          "name": "lil diva"
+        },
+        {
+          "id": 124407227,
+          "name": "Lil Diva Flow"
+        },
+        {
+          "id": 55729309,
+          "name": "Lil Divad"
+        },
+        {
+          "id": 129143644,
+          "name": "Lil Divaa Official"
+        },
+        {
+          "id": 55932015,
+          "name": "LIL KORO LA DIVA"
+        },
+        {
+          "id": 31581449,
+          "name": "Lil Tecca"
+        },
+        {
+          "id": 32795025,
+          "name": "The Kid LAROI"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

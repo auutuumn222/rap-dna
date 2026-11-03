@@ -1,0 +1,24 @@
+{
+  "id": "cbGlja293ZW5z",
+  "name": "LickOwens",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53225131,
+          "name": "LickOwens"
+        },
+        {
+          "id": 58921465,
+          "name": "prod. LickOwens"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

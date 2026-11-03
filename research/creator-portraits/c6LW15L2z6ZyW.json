@@ -1,0 +1,24 @@
+{
+  "id": "c6LW15L2z6ZyW",
+  "name": "赵佳霖",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1044163,
+          "name": "赵佳霖"
+        },
+        {
+          "id": 95747007,
+          "name": "赵佳霖"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

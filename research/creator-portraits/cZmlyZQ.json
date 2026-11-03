@@ -1,0 +1,56 @@
+{
+  "id": "cZmlyZQ",
+  "name": "FiRe",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50039862,
+          "name": "FiRe范艾迩"
+        },
+        {
+          "id": 34535655,
+          "name": "FireX"
+        },
+        {
+          "id": 827018,
+          "name": "Fire!"
+        },
+        {
+          "id": 57671,
+          "name": "Fire"
+        },
+        {
+          "id": 48931858,
+          "name": "Fire"
+        },
+        {
+          "id": 91740,
+          "name": "Earth, Wind & Fire"
+        },
+        {
+          "id": 12003155,
+          "name": "直火帮 Straight Fire Gang"
+        },
+        {
+          "id": 31774520,
+          "name": "Fireboy DML"
+        },
+        {
+          "id": 85525,
+          "name": "Arcade Fire"
+        },
+        {
+          "id": 34868654,
+          "name": "Only Fire"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

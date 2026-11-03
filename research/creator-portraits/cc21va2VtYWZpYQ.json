@@ -1,0 +1,36 @@
+{
+  "id": "cc21va2VtYWZpYQ",
+  "name": "SmokeMafia",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54098104,
+          "name": "SmokeMafia"
+        },
+        {
+          "id": 33097968,
+          "name": "LSGCsikoriot"
+        },
+        {
+          "id": 36701800,
+          "name": "K.MONKEY"
+        },
+        {
+          "id": 37051945,
+          "name": "薯条麦乐送"
+        },
+        {
+          "id": 99667769,
+          "name": "Smoke Mafia Botosani"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

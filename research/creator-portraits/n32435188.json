@@ -1,0 +1,36 @@
+{
+  "id": "n32435188",
+  "name": "维斯",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32435188,
+          "name": "维斯"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "维斯",
+    "image": "./assets/people/n32435188.jpg",
+    "source": "https://music.163.com/artist?id=32435188",
+    "imageSource": "https://p2.music.126.net/-At4laRrFWvgEM3dn86-fg==/109951172901492065.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 32435188,
+      "works": [
+        {
+          "id": 2028680744,
+          "title": "异乡人"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2028680744"
+      ]
+    }
+  }
+}

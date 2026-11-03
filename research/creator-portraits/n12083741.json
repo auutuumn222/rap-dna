@@ -1,0 +1,16 @@
+{
+  "id": "n12083741",
+  "name": "PoloBear",
+  "attempts": [],
+  "entry": {
+    "name": "PoloBear",
+    "catalogName": "PoloBear",
+    "aliases": [],
+    "image": "./assets/people/n12083741.jpg",
+    "source": "https://music.163.com/artist?id=12083741",
+    "imageSource": "https://p2.music.126.net/bU7cOaeRdDXsdMWbV23KwA==/109951168619726641.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

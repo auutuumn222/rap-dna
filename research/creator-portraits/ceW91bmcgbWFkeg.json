@@ -1,0 +1,32 @@
+{
+  "id": "ceW91bmcgbWFkeg",
+  "name": "Young Madz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50554855,
+          "name": "Young Madz"
+        },
+        {
+          "id": 129574771,
+          "name": "YOUNG MADZ"
+        },
+        {
+          "id": 46657233,
+          "name": "MC Zudo Boladão"
+        },
+        {
+          "id": 55243627,
+          "name": "YoungMadz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

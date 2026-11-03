@@ -1,0 +1,36 @@
+{
+  "id": "ceHhsb2tp",
+  "name": "XXLOKI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57743184,
+          "name": "xxloki"
+        },
+        {
+          "id": 12121264,
+          "name": "Ice Paper"
+        },
+        {
+          "id": 1199064,
+          "name": "FOX胡天渝"
+        },
+        {
+          "id": 12676703,
+          "name": "BC221"
+        },
+        {
+          "id": 12083634,
+          "name": "King Loki"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

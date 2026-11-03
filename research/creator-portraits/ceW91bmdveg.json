@@ -1,0 +1,56 @@
+{
+  "id": "ceW91bmdveg",
+  "name": "Youngoz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30490249,
+          "name": "youngoz"
+        },
+        {
+          "id": 32854248,
+          "name": "YOUNGOZZA"
+        },
+        {
+          "id": 128062505,
+          "name": "YoungOZ"
+        },
+        {
+          "id": 128073973,
+          "name": "YoungOZ"
+        },
+        {
+          "id": 48598596,
+          "name": "YOUNGOZ BR"
+        },
+        {
+          "id": 37617730,
+          "name": "youngoztheking"
+        },
+        {
+          "id": 126078040,
+          "name": "youngøz"
+        },
+        {
+          "id": 28083383,
+          "name": "The Hails"
+        },
+        {
+          "id": 55149472,
+          "name": "Young Ozz"
+        },
+        {
+          "id": 53571344,
+          "name": "Young ozne"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cdHJveSBwaWNjYXNzbw",
+  "name": "Troy Piccasso",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

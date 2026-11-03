@@ -1,0 +1,56 @@
+{
+  "id": "cN2Rl",
+  "name": "7De",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 97096804,
+          "name": "7Deadhills"
+        },
+        {
+          "id": 96918757,
+          "name": "7deewop"
+        },
+        {
+          "id": 53832761,
+          "name": "7De"
+        },
+        {
+          "id": 47816339,
+          "name": "7deku"
+        },
+        {
+          "id": 53895416,
+          "name": "7Dene"
+        },
+        {
+          "id": 56357055,
+          "name": "7dekreti"
+        },
+        {
+          "id": 53271483,
+          "name": "7detta"
+        },
+        {
+          "id": 52179968,
+          "name": "7Deep"
+        },
+        {
+          "id": 56451050,
+          "name": "7DEATH7"
+        },
+        {
+          "id": 94738360,
+          "name": "7DeaX"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

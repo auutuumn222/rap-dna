@@ -1,0 +1,15 @@
+{
+  "id": "ceXJjIG1hY28",
+  "name": "YRC Maco",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

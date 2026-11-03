@@ -1,0 +1,36 @@
+{
+  "id": "n12529780",
+  "name": "KenRobb",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "KenRobb",
+    "image": "./assets/people/n12529780.jpg",
+    "source": "https://music.163.com/artist?id=12529780",
+    "imageSource": "https://p2.music.126.net/c5uvnFo5PW7r3QSPkeXx1g==/109951172355663423.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12529780,
+      "works": [
+        {
+          "id": 2036226011,
+          "title": "现在 你才不幸福"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2036226011"
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cayRs",
+  "name": "K$L",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50626066,
+          "name": "K$L"
+        },
+        {
+          "id": 12080301,
+          "name": "l o k a !"
+        },
+        {
+          "id": 100182449,
+          "name": "K L A N G c o ll e c t i v e"
+        },
+        {
+          "id": 12248073,
+          "name": "死 J a q K e l 生"
+        },
+        {
+          "id": 99920910,
+          "name": "R I C K L E N D E R"
+        },
+        {
+          "id": 99712960,
+          "name": "K-L-K Enmascarados"
+        },
+        {
+          "id": 35320955,
+          "name": "K L Singta"
+        },
+        {
+          "id": 13758430,
+          "name": "The K & L Orchestra"
+        },
+        {
+          "id": 33322178,
+          "name": "P A R T I K L"
+        },
+        {
+          "id": 37280972,
+          "name": "K$L"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

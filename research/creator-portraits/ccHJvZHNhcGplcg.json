@@ -1,0 +1,15 @@
+{
+  "id": "ccHJvZHNhcGplcg",
+  "name": "prodsapjer",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

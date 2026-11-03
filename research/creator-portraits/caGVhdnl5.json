@@ -1,0 +1,56 @@
+{
+  "id": "caGVhdnl5",
+  "name": "Heavyy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32078926,
+          "name": "Heavyy"
+        },
+        {
+          "id": 100487504,
+          "name": "Bigg Heavyy"
+        },
+        {
+          "id": 54948680,
+          "name": "heavyyguwap"
+        },
+        {
+          "id": 35151540,
+          "name": "C.Y. Heavyy"
+        },
+        {
+          "id": 54242882,
+          "name": "Heavyy"
+        },
+        {
+          "id": 127176512,
+          "name": "HEAVYY"
+        },
+        {
+          "id": 58171453,
+          "name": "Heavyy Reigns"
+        },
+        {
+          "id": 31652317,
+          "name": "Maxx Heavyy"
+        },
+        {
+          "id": 125128107,
+          "name": "heavyyj"
+        },
+        {
+          "id": 53837274,
+          "name": "HEAVYYPOCKETS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

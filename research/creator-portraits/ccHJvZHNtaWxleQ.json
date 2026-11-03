@@ -1,0 +1,20 @@
+{
+  "id": "ccHJvZHNtaWxleQ",
+  "name": "ProdSmiley",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51751687,
+          "name": "ProdSmiley"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

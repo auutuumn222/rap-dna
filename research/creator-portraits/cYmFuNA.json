@@ -1,0 +1,36 @@
+{
+  "id": "cYmFuNA",
+  "name": "BAN4",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 94075412,
+          "name": "BAN4NA"
+        },
+        {
+          "id": 53924778,
+          "name": "Ban4ila"
+        },
+        {
+          "id": 100055705,
+          "name": "ban404"
+        },
+        {
+          "id": 121873442,
+          "name": "ban4k"
+        },
+        {
+          "id": 96571529,
+          "name": "ban43o"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

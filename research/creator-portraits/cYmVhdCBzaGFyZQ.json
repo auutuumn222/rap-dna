@@ -1,0 +1,28 @@
+{
+  "id": "cYmVhdCBzaGFyZQ",
+  "name": "BEAT SHARE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31010713,
+          "name": "BEAT SHARE"
+        },
+        {
+          "id": 124787585,
+          "name": "Share Bear Beats"
+        },
+        {
+          "id": 121519335,
+          "name": "BeatShare Music"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

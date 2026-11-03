@@ -1,0 +1,56 @@
+{
+  "id": "cZ29sZCBjaGlsZA",
+  "name": "Gold Child",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 188191,
+          "name": "Gold Child"
+        },
+        {
+          "id": 54861934,
+          "name": "Gold Child"
+        },
+        {
+          "id": 35478500,
+          "name": "Gold Child"
+        },
+        {
+          "id": 121984839,
+          "name": "Morgan Gold Child"
+        },
+        {
+          "id": 35990462,
+          "name": "Loko Liahno Rose Gold Child"
+        },
+        {
+          "id": 13909010,
+          "name": "KUAN"
+        },
+        {
+          "id": 35546595,
+          "name": "Golding Child"
+        },
+        {
+          "id": 31788993,
+          "name": "Goldchild"
+        },
+        {
+          "id": 61432423,
+          "name": "Caleb Goldchild"
+        },
+        {
+          "id": 100451238,
+          "name": "Goldchild Media"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

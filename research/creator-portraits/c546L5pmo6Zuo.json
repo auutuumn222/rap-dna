@@ -1,0 +1,32 @@
+{
+  "id": "c546L5pmo6Zuo",
+  "name": "王晨雨",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53986696,
+          "name": "王晨雨"
+        },
+        {
+          "id": 30955125,
+          "name": "王晨雨"
+        },
+        {
+          "id": 54385097,
+          "name": "王晨雨"
+        },
+        {
+          "id": 50381720,
+          "name": "王晨雨"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

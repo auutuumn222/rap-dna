@@ -1,0 +1,16 @@
+{
+  "id": "n12118563",
+  "name": "也是福",
+  "attempts": [],
+  "entry": {
+    "name": "也是福",
+    "catalogName": "也是福",
+    "aliases": [],
+    "image": "./assets/people/n12118563.jpg",
+    "source": "https://music.163.com/artist?id=12118563",
+    "imageSource": "https://p1.music.126.net/WjC0AFSbZFeRiE9S0PTwfQ==/109951172264823151.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

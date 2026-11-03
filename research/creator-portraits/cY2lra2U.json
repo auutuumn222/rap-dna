@@ -1,0 +1,36 @@
+{
+  "id": "cY2lra2U",
+  "name": "Cikke",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49742900,
+          "name": "CikkeMixYourZip"
+        },
+        {
+          "id": 54378310,
+          "name": "Cikke"
+        },
+        {
+          "id": 53184495,
+          "name": "Cikkel"
+        },
+        {
+          "id": 127698299,
+          "name": "Cikkevil"
+        },
+        {
+          "id": 46987971,
+          "name": "Cikk-Cakk Company"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

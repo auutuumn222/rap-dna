@@ -1,0 +1,15 @@
+{
+  "id": "caG9vZGllODA4LCBsZWVoeOadjum4v-e_lA",
+  "name": "Hoodie808, LeeHX李鸿翔",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

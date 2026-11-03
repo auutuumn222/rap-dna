@@ -1,0 +1,20 @@
+{
+  "id": "c5aSa6IqsZG9sYmVhdHo",
+  "name": "多芬DolBeatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49196383,
+          "name": "多芬DolBeatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

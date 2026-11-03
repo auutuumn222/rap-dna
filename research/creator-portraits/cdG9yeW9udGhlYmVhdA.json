@@ -1,0 +1,32 @@
+{
+  "id": "cdG9yeW9udGhlYmVhdA",
+  "name": "TORYONTHEBEAT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36495528,
+          "name": "Toryonthebeat"
+        },
+        {
+          "id": 94502444,
+          "name": "TORYONTHEBEAT"
+        },
+        {
+          "id": 56522044,
+          "name": "prod. TORYONTHEBEAT"
+        },
+        {
+          "id": 35632752,
+          "name": "Tory ONTHEBEAT"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

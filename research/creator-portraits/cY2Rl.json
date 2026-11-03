@@ -1,0 +1,56 @@
+{
+  "id": "cY2Rl",
+  "name": "CDE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35237485,
+          "name": "Cdeep"
+        },
+        {
+          "id": 123947968,
+          "name": "CDeezMemes"
+        },
+        {
+          "id": 46774299,
+          "name": "Rocky CDE"
+        },
+        {
+          "id": 36047163,
+          "name": "CDE Vibe"
+        },
+        {
+          "id": 36178435,
+          "name": "CDE Yungbull"
+        },
+        {
+          "id": 123162734,
+          "name": "CDen."
+        },
+        {
+          "id": 57893675,
+          "name": "CDeRana"
+        },
+        {
+          "id": 37689127,
+          "name": "CDesj"
+        },
+        {
+          "id": 46448922,
+          "name": "CDE"
+        },
+        {
+          "id": 49615594,
+          "name": "CDE COVE"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

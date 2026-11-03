@@ -1,0 +1,18 @@
+{
+  "id": "n12037117",
+  "name": "建坤YOUNG",
+  "attempts": [],
+  "entry": {
+    "name": "建坤YOUNG",
+    "catalogName": "建坤YOUNG",
+    "aliases": [
+      "北门之子"
+    ],
+    "image": "./assets/people/n12037117.jpg",
+    "source": "https://music.163.com/artist?id=12037117",
+    "imageSource": "https://p1.music.126.net/VPx1l33WDisBeejsJSYlGg==/109951172355839879.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5pe25L-K5bOw",
+  "name": "时俊峰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51823306,
+          "name": "时俊峰"
+        },
+        {
+          "id": 36859137,
+          "name": "戴靖殊（俊峰）"
+        },
+        {
+          "id": 99960290,
+          "name": "阿宾"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

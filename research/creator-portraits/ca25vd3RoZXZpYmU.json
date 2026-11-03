@@ -1,0 +1,20 @@
+{
+  "id": "ca25vd3RoZXZpYmU",
+  "name": "Knowthevibe",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48569182,
+          "name": "know the vibe"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

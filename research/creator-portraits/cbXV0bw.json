@@ -1,0 +1,56 @@
+{
+  "id": "cbXV0bw",
+  "name": "muto",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55829643,
+          "name": "むﾄ"
+        },
+        {
+          "id": 34845309,
+          "name": "Mutou"
+        },
+        {
+          "id": 34212454,
+          "name": "yng muto nyng"
+        },
+        {
+          "id": 12202080,
+          "name": "MUTO"
+        },
+        {
+          "id": 32150704,
+          "name": "Jonah Mutono"
+        },
+        {
+          "id": 30110420,
+          "name": "muto"
+        },
+        {
+          "id": 55769541,
+          "name": "Mutomba"
+        },
+        {
+          "id": 48947224,
+          "name": "Mutopia"
+        },
+        {
+          "id": 854051,
+          "name": "Mutoid Man"
+        },
+        {
+          "id": 55832963,
+          "name": "muto118"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

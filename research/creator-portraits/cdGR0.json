@@ -1,0 +1,56 @@
+{
+  "id": "cdGR0",
+  "name": "TDT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 122372607,
+          "name": "TDT"
+        },
+        {
+          "id": 592300,
+          "name": "TDT"
+        },
+        {
+          "id": 121851036,
+          "name": "tdt vibes"
+        },
+        {
+          "id": 48845929,
+          "name": "TDT Coop"
+        },
+        {
+          "id": 49218012,
+          "name": "TDT CLIQ"
+        },
+        {
+          "id": 58533378,
+          "name": "Tdt Jojo"
+        },
+        {
+          "id": 129459203,
+          "name": "TDT JoseManuel"
+        },
+        {
+          "id": 97254361,
+          "name": "TDT Cam"
+        },
+        {
+          "id": 46857590,
+          "name": "TDT Slice"
+        },
+        {
+          "id": 48808546,
+          "name": "Khushi TDT"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

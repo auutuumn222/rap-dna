@@ -1,0 +1,56 @@
+{
+  "id": "cbGlsY2hlbg",
+  "name": "LilChen",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52562769,
+          "name": "LilChenXMoMa"
+        },
+        {
+          "id": 34539522,
+          "name": "lilchen"
+        },
+        {
+          "id": 33238509,
+          "name": "LilChen"
+        },
+        {
+          "id": 48989150,
+          "name": "lilcheng"
+        },
+        {
+          "id": 35187529,
+          "name": "治ZhitING"
+        },
+        {
+          "id": 32249810,
+          "name": "Lil.chen"
+        },
+        {
+          "id": 34564547,
+          "name": "Lil chen"
+        },
+        {
+          "id": 58805237,
+          "name": "Lil Chen"
+        },
+        {
+          "id": 51936519,
+          "name": "Lil Chen"
+        },
+        {
+          "id": 31475267,
+          "name": "Lil cheng"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c55m96ICA5Z2k",
+  "name": "白耀坤",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1047049,
+          "name": "Yoken_Official"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "n12065015",
+  "name": "隆历奇",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12065015,
+          "name": "隆历奇"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "隆历奇",
+    "image": "./assets/people/n12065015.jpg",
+    "source": "https://music.163.com/artist?id=12065015",
+    "imageSource": "https://p2.music.126.net/6LMxYMm0NtTKG4tuBU4pVA==/109951168203000632.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12065015,
+      "works": [
+        {
+          "id": 3333138880,
+          "title": "活死人2026Cypher"
+        },
+        {
+          "id": 2009744753,
+          "title": "活死人2022没有Cypher"
+        },
+        {
+          "id": 2108872620,
+          "title": "好天气 坏天气"
+        },
+        {
+          "id": 1405207289,
+          "title": "活死人2019Cypher"
+        },
+        {
+          "id": 1387629743,
+          "title": "Woken Day"
+        },
+        {
+          "id": 1335257558,
+          "title": "异乡人 remix"
+        },
+        {
+          "id": 1382385609,
+          "title": "异乡人Remix"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1382385609",
+        "https://music.163.com/song?id=1387629743",
+        "https://music.163.com/song?id=1405207289"
+      ]
+    }
+  }
+}

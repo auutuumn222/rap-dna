@@ -1,0 +1,36 @@
+{
+  "id": "cd2xhby50",
+  "name": "Wlao.T",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32574793,
+          "name": "Wlao.T"
+        },
+        {
+          "id": 51334332,
+          "name": "Lean"
+        },
+        {
+          "id": 52675307,
+          "name": "Pray"
+        },
+        {
+          "id": 30647119,
+          "name": "Vanverse"
+        },
+        {
+          "id": 48568923,
+          "name": "ProdByJackie"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

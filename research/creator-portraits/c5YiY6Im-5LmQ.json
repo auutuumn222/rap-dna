@@ -1,0 +1,15 @@
+{
+  "id": "c5YiY6Im-5LmQ",
+  "name": "刘艾乐",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

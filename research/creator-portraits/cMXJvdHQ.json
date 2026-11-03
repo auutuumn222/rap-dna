@@ -1,0 +1,15 @@
+{
+  "id": "cMXJvdHQ",
+  "name": "1rott",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

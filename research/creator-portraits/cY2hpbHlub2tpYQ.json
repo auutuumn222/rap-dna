@@ -1,0 +1,51 @@
+{
+  "id": "cY2hpbHlub2tpYQ",
+  "name": "CHILYNOKIA",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12372494,
+          "name": "CHILYNOKIA"
+        },
+        {
+          "id": 12158322,
+          "name": "greyll"
+        },
+        {
+          "id": 13794010,
+          "name": "Ya Weekii"
+        },
+        {
+          "id": 15196456,
+          "name": "YvngCoco"
+        },
+        {
+          "id": 12386878,
+          "name": "谭玉堂"
+        },
+        {
+          "id": 12897738,
+          "name": "悶聲發大財"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "CHILYNOKIA",
+    "image": "./assets/people/cY2hpbHlub2tpYQ.jpg",
+    "source": "https://music.163.com/artist?id=12372494",
+    "imageSource": "https://p1.music.126.net/s_8nI8mPoH0lt4yLVMx20Q==/109951169827276719.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 12372494,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=1387811717"
+      ]
+    }
+  }
+}

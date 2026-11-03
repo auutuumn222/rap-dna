@@ -1,0 +1,36 @@
+{
+  "id": "c5rah6L2u5b-F6IOc",
+  "name": "涡轮必胜",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12226600,
+          "name": "Turbowin涡轮必胜"
+        },
+        {
+          "id": 27868624,
+          "name": "KnowKnow"
+        },
+        {
+          "id": 62077570,
+          "name": "痞幼"
+        },
+        {
+          "id": 12337140,
+          "name": "鹏子Birddie"
+        },
+        {
+          "id": 13038284,
+          "name": "武卫Lil-B"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

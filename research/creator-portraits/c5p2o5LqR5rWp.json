@@ -1,0 +1,32 @@
+{
+  "id": "c5p2o5LqR5rWp",
+  "name": "杨云浩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 98918671,
+          "name": "杨云浩"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        },
+        {
+          "id": 57618218,
+          "name": "TF家族练习生"
+        },
+        {
+          "id": 130298522,
+          "name": "繁花联合"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

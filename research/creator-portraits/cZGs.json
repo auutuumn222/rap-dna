@@ -1,0 +1,56 @@
+{
+  "id": "cZGs",
+  "name": "dk",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35659518,
+          "name": "DK"
+        },
+        {
+          "id": 94212535,
+          "name": "DK"
+        },
+        {
+          "id": 12087157,
+          "name": "DK"
+        },
+        {
+          "id": 123418,
+          "name": "DK"
+        },
+        {
+          "id": 2598,
+          "name": "DK"
+        },
+        {
+          "id": 74710,
+          "name": "Smile. DK"
+        },
+        {
+          "id": 52972659,
+          "name": "DK Lord"
+        },
+        {
+          "id": 123459,
+          "name": "DK"
+        },
+        {
+          "id": 2569,
+          "name": "丁可"
+        },
+        {
+          "id": 125815797,
+          "name": "Dk pleasure"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

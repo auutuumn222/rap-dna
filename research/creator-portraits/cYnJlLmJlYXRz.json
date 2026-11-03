@@ -1,0 +1,24 @@
+{
+  "id": "cYnJlLmJlYXRz",
+  "name": "bre.beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37136254,
+          "name": "Bre.beats"
+        },
+        {
+          "id": 96618123,
+          "name": "‪bre.beats808"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

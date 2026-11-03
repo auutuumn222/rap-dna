@@ -1,0 +1,24 @@
+{
+  "id": "c5be05aWI",
+  "name": "巴奈",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12322092,
+          "name": "中村巴奈重"
+        },
+        {
+          "id": 12312451,
+          "name": "宝野聡史"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ccmlraWJlYXRz",
+  "name": "RikiBeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46925057,
+          "name": "RikiBeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

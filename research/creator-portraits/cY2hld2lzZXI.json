@@ -1,0 +1,20 @@
+{
+  "id": "cY2hld2lzZXI",
+  "name": "Chewiser",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33255037,
+          "name": "Chewiser"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

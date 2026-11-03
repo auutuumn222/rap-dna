@@ -1,0 +1,56 @@
+{
+  "id": "ccGFsYXpl",
+  "name": "palaze",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32937194,
+          "name": "Palaze"
+        },
+        {
+          "id": 48148573,
+          "name": "Palazebeats"
+        },
+        {
+          "id": 32107984,
+          "name": "Palaz"
+        },
+        {
+          "id": 34774641,
+          "name": "Parco Palaz"
+        },
+        {
+          "id": 28149783,
+          "name": "DJ Palaz"
+        },
+        {
+          "id": 59526840,
+          "name": "ap palaz"
+        },
+        {
+          "id": 34868565,
+          "name": "Palaz Mob"
+        },
+        {
+          "id": 53215000,
+          "name": "Ben Palaz"
+        },
+        {
+          "id": 127900323,
+          "name": "PALAZ"
+        },
+        {
+          "id": 31988682,
+          "name": "Hamdi Palaz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

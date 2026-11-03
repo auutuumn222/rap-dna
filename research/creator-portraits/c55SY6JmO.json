@@ -1,0 +1,37 @@
+{
+  "id": "c55SY6JmO",
+  "name": "甘虎",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12132601,
+          "name": "甘虎"
+        },
+        {
+          "id": 14588567,
+          "name": "张曦匀"
+        },
+        {
+          "id": 14588611,
+          "name": "戚琦"
+        },
+        {
+          "id": 14608449,
+          "name": "李宗南"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1706639493,
+          "name": "甘虎"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

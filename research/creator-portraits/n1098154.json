@@ -1,0 +1,16 @@
+{
+  "id": "n1098154",
+  "name": "JZlee",
+  "attempts": [],
+  "entry": {
+    "name": "JZlee",
+    "catalogName": "JZlee",
+    "aliases": [],
+    "image": "./assets/people/n1098154.jpg",
+    "source": "https://music.163.com/artist?id=1098154",
+    "imageSource": "https://p2.music.126.net/m7NmO162frZip3JzSg0Cnw==/109951163992379706.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

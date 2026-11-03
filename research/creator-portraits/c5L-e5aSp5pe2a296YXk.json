@@ -1,0 +1,56 @@
+{
+  "id": "c5L-e5aSp5pe2a296YXk",
+  "name": "俞天时KOZAY",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12124013,
+          "name": "俞天时"
+        },
+        {
+          "id": 59315350,
+          "name": "俞天时KOZAY+Q.luv"
+        },
+        {
+          "id": 12236125,
+          "name": "王以太"
+        },
+        {
+          "id": 12127362,
+          "name": "GALI"
+        },
+        {
+          "id": 27868624,
+          "name": "KnowKnow"
+        },
+        {
+          "id": 12605500,
+          "name": "盛宇D-SHINE"
+        },
+        {
+          "id": 12119618,
+          "name": "派克特（PACT）"
+        },
+        {
+          "id": 12200580,
+          "name": "谟西Mercy"
+        },
+        {
+          "id": 1203015,
+          "name": "Dough-Boy"
+        },
+        {
+          "id": 12039173,
+          "name": "李尔新"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

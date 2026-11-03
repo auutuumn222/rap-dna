@@ -1,0 +1,56 @@
+{
+  "id": "cam9obmxpdQ",
+  "name": "JohnLiu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 159692,
+          "name": "初音ミク"
+        },
+        {
+          "id": 840421,
+          "name": "瑞鸣音乐"
+        },
+        {
+          "id": 30475296,
+          "name": "ksovii"
+        },
+        {
+          "id": 908003,
+          "name": "じょん"
+        },
+        {
+          "id": 13120358,
+          "name": "Russell Ferrante"
+        },
+        {
+          "id": 31708080,
+          "name": "Gavin Salmon"
+        },
+        {
+          "id": 31934709,
+          "name": "Nick DePinna"
+        },
+        {
+          "id": 52438827,
+          "name": "John Liu"
+        },
+        {
+          "id": 30353723,
+          "name": "Hitomi Oba"
+        },
+        {
+          "id": 13780273,
+          "name": "Justo Almario"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c5oiO5a2Q6LGq",
+  "name": "戎子豪",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55559002,
+          "name": "戎子豪"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

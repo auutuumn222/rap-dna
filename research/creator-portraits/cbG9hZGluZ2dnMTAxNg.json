@@ -1,0 +1,28 @@
+{
+  "id": "cbG9hZGluZ2dnMTAxNg",
+  "name": "loadinggg1016",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33909044,
+          "name": "loadinggg1016"
+        },
+        {
+          "id": 33204812,
+          "name": "TINY7"
+        },
+        {
+          "id": 50561985,
+          "name": "ProdRbry"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

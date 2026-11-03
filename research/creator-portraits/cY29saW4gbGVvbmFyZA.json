@@ -1,0 +1,20 @@
+{
+  "id": "cY29saW4gbGVvbmFyZA",
+  "name": "Colin Leonard",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32275852,
+          "name": "Colin Leonard"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

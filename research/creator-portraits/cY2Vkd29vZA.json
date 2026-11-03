@@ -1,0 +1,32 @@
+{
+  "id": "cY2Vkd29vZA",
+  "name": "CedWood",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57956795,
+          "name": "Cedwood"
+        },
+        {
+          "id": 128137834,
+          "name": "Cedwood Williams"
+        },
+        {
+          "id": 58670859,
+          "name": "Prod. Cedwood"
+        },
+        {
+          "id": 96021176,
+          "name": "Prod. Cedwood & Seasky"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

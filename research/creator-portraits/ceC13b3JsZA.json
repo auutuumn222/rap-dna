@@ -1,0 +1,56 @@
+{
+  "id": "ceC13b3JsZA",
+  "name": "X-World",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 62109059,
+          "name": "X-World Official"
+        },
+        {
+          "id": 50246856,
+          "name": "名言(JP) X World"
+        },
+        {
+          "id": 84808,
+          "name": "X-World/5"
+        },
+        {
+          "id": 124142531,
+          "name": "Dream X World"
+        },
+        {
+          "id": 95113557,
+          "name": "X World"
+        },
+        {
+          "id": 46967168,
+          "name": "TyCade X First World Citizen"
+        },
+        {
+          "id": 46914948,
+          "name": "Busta Locz x Babys World"
+        },
+        {
+          "id": 96234108,
+          "name": "World X"
+        },
+        {
+          "id": 58223250,
+          "name": "*WORLD X CULT*"
+        },
+        {
+          "id": 31218328,
+          "name": "All World X"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

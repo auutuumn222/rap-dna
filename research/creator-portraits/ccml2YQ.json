@@ -1,0 +1,56 @@
+{
+  "id": "ccml2YQ",
+  "name": "Riva",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12271992,
+          "name": "Riva"
+        },
+        {
+          "id": 12331086,
+          "name": "Rival"
+        },
+        {
+          "id": 305975,
+          "name": "Manuel Riva"
+        },
+        {
+          "id": 36680993,
+          "name": "Derivakat"
+        },
+        {
+          "id": 42496,
+          "name": "Riva Starr"
+        },
+        {
+          "id": 12693461,
+          "name": "John Rivas"
+        },
+        {
+          "id": 12214237,
+          "name": "Ronna Riva"
+        },
+        {
+          "id": 311881,
+          "name": "Markus Riva"
+        },
+        {
+          "id": 14379347,
+          "name": "Adrián Rivas"
+        },
+        {
+          "id": 28162142,
+          "name": "Chucho Rivas"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

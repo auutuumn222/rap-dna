@@ -1,0 +1,15 @@
+{
+  "id": "camF5LXogJiBrYW55ZSB3ZXN0IOKAkyBoLmEubQ",
+  "name": "Jay-z & Kanye west – H.A.M",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

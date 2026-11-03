@@ -1,0 +1,24 @@
+{
+  "id": "cbm9iYWRpbm8",
+  "name": "NOBADINO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30281765,
+          "name": "NOBADINO"
+        },
+        {
+          "id": 31048722,
+          "name": "Oliver Jiang"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cZC5zLumZhuaUvg",
+  "name": "D.S.陆放",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

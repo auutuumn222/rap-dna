@@ -1,0 +1,36 @@
+{
+  "id": "n13109208",
+  "name": "YoungMarkin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13109208,
+          "name": "YoungMarkin"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "YoungMarkin",
+    "image": "./assets/people/n13109208.jpg",
+    "source": "https://music.163.com/artist?id=13109208",
+    "imageSource": "https://p2.music.126.net/EX6PdRSP02X40T1V3RV9-A==/109951167784600715.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 13109208,
+      "works": [
+        {
+          "id": 1808725312,
+          "title": "No Lie 2 Me (Prod. YoungMarkin)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1808725312"
+      ]
+    }
+  }
+}

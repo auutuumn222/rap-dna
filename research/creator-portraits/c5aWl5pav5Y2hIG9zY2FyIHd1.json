@@ -1,0 +1,56 @@
+{
+  "id": "c5aWl5pav5Y2hIG9zY2FyIHd1",
+  "name": "奥斯卡 Oscar Wu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 60317761,
+          "name": "奧斯卡Oscar"
+        },
+        {
+          "id": 51317300,
+          "name": "奥斯卡OZCARWANG"
+        },
+        {
+          "id": 11047,
+          "name": "奥斯卡管弦乐团"
+        },
+        {
+          "id": 47452086,
+          "name": "奥斯卡奥斯卡"
+        },
+        {
+          "id": 121786779,
+          "name": "奥斯卡王大锤"
+        },
+        {
+          "id": 124076443,
+          "name": "奥斯卡卡"
+        },
+        {
+          "id": 99746373,
+          "name": "奥斯卡"
+        },
+        {
+          "id": 100131595,
+          "name": "上师奥斯卡"
+        },
+        {
+          "id": 53478978,
+          "name": "奥斯卡．王尔德"
+        },
+        {
+          "id": 98590418,
+          "name": "焦灼的奥斯卡"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

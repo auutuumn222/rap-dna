@@ -1,0 +1,56 @@
+{
+  "id": "c6buE5LiA",
+  "name": "黄一",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 168004,
+          "name": "黄一"
+        },
+        {
+          "id": 34804020,
+          "name": "黄一鸣"
+        },
+        {
+          "id": 122827586,
+          "name": "黄一峰"
+        },
+        {
+          "id": 124416970,
+          "name": "黄一花 OneFlowers"
+        },
+        {
+          "id": 3143,
+          "name": "黄一飞"
+        },
+        {
+          "id": 59659460,
+          "name": "H黄一博"
+        },
+        {
+          "id": 12286651,
+          "name": "黄一峰"
+        },
+        {
+          "id": 34277078,
+          "name": "黄一宁"
+        },
+        {
+          "id": 31054931,
+          "name": "黄一抗"
+        },
+        {
+          "id": 53779285,
+          "name": "黄一谦"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

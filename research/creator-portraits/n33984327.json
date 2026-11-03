@@ -1,0 +1,36 @@
+{
+  "id": "n33984327",
+  "name": "翁伟栋",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33984327,
+          "name": "翁伟栋"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "翁伟栋",
+    "image": "./assets/people/n33984327.jpg",
+    "source": "https://music.163.com/artist?id=33984327",
+    "imageSource": "https://p2.music.126.net/LN3AO_DKWp10yxlKGII64Q==/109951172948297914.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 33984327,
+      "works": [
+        {
+          "id": 2120384251,
+          "title": "偏航"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2120384251"
+      ]
+    }
+  }
+}

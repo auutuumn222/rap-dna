@@ -1,0 +1,36 @@
+{
+  "id": "n12157298",
+  "name": "刘炫廷",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12157298,
+          "name": "刘炫廷"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "刘炫廷",
+    "image": "./assets/people/n12157298.jpg",
+    "source": "https://music.163.com/artist?id=12157298",
+    "imageSource": "https://p1.music.126.net/QV0m88znchhwEPRiAIe4Xw==/109951173972906698.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12157298,
+      "works": [
+        {
+          "id": 1976485113,
+          "title": "DROPTOP!"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1976485113"
+      ]
+    }
+  }
+}

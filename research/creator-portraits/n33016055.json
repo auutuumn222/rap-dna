@@ -1,0 +1,16 @@
+{
+  "id": "n33016055",
+  "name": "yellowriver",
+  "attempts": [],
+  "entry": {
+    "name": "yellowriver",
+    "catalogName": "yellowriver",
+    "aliases": [],
+    "image": "./assets/people/n33016055.jpg",
+    "source": "https://music.163.com/artist?id=33016055",
+    "imageSource": "https://p1.music.126.net/-es7iTXmCtlqh6CVQNUP3g==/109951173728996135.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

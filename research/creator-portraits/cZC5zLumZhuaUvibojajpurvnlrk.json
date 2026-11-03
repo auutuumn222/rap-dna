@@ -1,0 +1,48 @@
+{
+  "id": "cZC5zLumZhuaUvibojajpurvnlrk",
+  "name": "D.S.陆放&荨麻疹",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12904832,
+          "name": "荨麻疹"
+        },
+        {
+          "id": 100154577,
+          "name": "荨麻疹"
+        },
+        {
+          "id": 99781473,
+          "name": "荨麻疹"
+        },
+        {
+          "id": 51290985,
+          "name": "荨麻疹"
+        },
+        {
+          "id": 127328864,
+          "name": "荨麻疹"
+        },
+        {
+          "id": 95514232,
+          "name": "荨麻疹"
+        },
+        {
+          "id": 122711490,
+          "name": "荨麻疹misery"
+        },
+        {
+          "id": 94212913,
+          "name": "荨麻疹"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

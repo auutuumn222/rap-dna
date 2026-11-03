@@ -1,0 +1,24 @@
+{
+  "id": "c6YOt57-w6b6Z",
+  "name": "郭翰龙",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34549437,
+          "name": "郭翰龙"
+        },
+        {
+          "id": 50576917,
+          "name": "From12X"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c6Z2e5Y-UIHVuY2xlLWZlaQ",
+  "name": "非叔 Uncle-fei",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12568799,
+          "name": "非叔Uncle-Fei"
+        },
+        {
+          "id": 12333145,
+          "name": "DP龙猪"
+        },
+        {
+          "id": 12258420,
+          "name": "AY楊佬叁"
+        },
+        {
+          "id": 12399037,
+          "name": "Dom.T"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c6LCt5ZONdGFueA",
+  "name": "谭响TanX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1210005,
+          "name": "谭响TanX"
+        },
+        {
+          "id": 12236125,
+          "name": "王以太"
+        },
+        {
+          "id": 13145283,
+          "name": "ICE杨长青"
+        },
+        {
+          "id": 1008034,
+          "name": "鬼卞"
+        },
+        {
+          "id": 1043093,
+          "name": "Toy王奕"
+        },
+        {
+          "id": 31881607,
+          "name": "叶志炫"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "caGVjdG9yIGRlbGdhZG8gYSRhcCB3b3JsZHdpZGU",
+  "name": "Hector Delgado A$AP Worldwide",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

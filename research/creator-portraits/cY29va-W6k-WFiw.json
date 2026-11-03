@@ -1,0 +1,56 @@
+{
+  "id": "cY29va-W6k-WFiw",
+  "name": "Cook库克",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12275767,
+          "name": "step.jad依加"
+        },
+        {
+          "id": 12788674,
+          "name": "KEY.L刘聪"
+        },
+        {
+          "id": 12453329,
+          "name": "功夫胖KUNGFU-PEN"
+        },
+        {
+          "id": 37343937,
+          "name": "诺米么Lodmemo"
+        },
+        {
+          "id": 12059091,
+          "name": "THE-BETA"
+        },
+        {
+          "id": 13285826,
+          "name": "妞妞合唱团"
+        },
+        {
+          "id": 27869677,
+          "name": "gs.l"
+        },
+        {
+          "id": 12351258,
+          "name": "88LIEN"
+        },
+        {
+          "id": 2055,
+          "name": "白天不亮"
+        },
+        {
+          "id": 7057,
+          "name": "14?"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

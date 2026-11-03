@@ -1,0 +1,28 @@
+{
+  "id": "caG93c2Nhcg",
+  "name": "Howscar",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46545992,
+          "name": "Howscar"
+        },
+        {
+          "id": 1132770,
+          "name": "yocho"
+        },
+        {
+          "id": 12967175,
+          "name": "孙博涵"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c5omI5paH6Iiq",
+  "name": "扈文航",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37263972,
+          "name": "Voodoo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

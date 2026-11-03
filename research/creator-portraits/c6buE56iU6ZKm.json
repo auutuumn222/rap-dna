@@ -1,0 +1,24 @@
+{
+  "id": "c6buE56iU6ZKm",
+  "name": "黄稔钦",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14016089,
+          "name": "黄稔钦"
+        },
+        {
+          "id": 14586490,
+          "name": "李维"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

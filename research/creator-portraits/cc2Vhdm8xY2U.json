@@ -1,0 +1,15 @@
+{
+  "id": "cc2Vhdm8xY2U",
+  "name": "Seavo1ce",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

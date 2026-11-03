@@ -1,0 +1,56 @@
+{
+  "id": "cZnVodWE",
+  "name": "FuHua",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 100625649,
+          "name": "Fuhuapoi0726"
+        },
+        {
+          "id": 56998610,
+          "name": "Fuhua"
+        },
+        {
+          "id": 94935407,
+          "name": "Fuhua66"
+        },
+        {
+          "id": 1086003,
+          "name": "腹話"
+        },
+        {
+          "id": 53921507,
+          "name": "KXDJ孵化基地DMBK"
+        },
+        {
+          "id": 11600,
+          "name": "王璟孵化乐队"
+        },
+        {
+          "id": 52149823,
+          "name": "浮滑亦品."
+        },
+        {
+          "id": 122122857,
+          "name": "浮华我轻狂"
+        },
+        {
+          "id": 130357996,
+          "name": "止水富华"
+        },
+        {
+          "id": 29972473,
+          "name": "李福华"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

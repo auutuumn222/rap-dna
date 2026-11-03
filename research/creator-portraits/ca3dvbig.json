@@ -1,0 +1,56 @@
+{
+  "id": "ca3dvbig",
+  "name": "Kwon（",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36192,
+          "name": "J-Kwon"
+        },
+        {
+          "id": 33836983,
+          "name": "Kwon Jin Ah"
+        },
+        {
+          "id": 480390,
+          "name": "Kwon"
+        },
+        {
+          "id": 276958,
+          "name": "Hellen Kwon"
+        },
+        {
+          "id": 34340754,
+          "name": "Kwon Eul"
+        },
+        {
+          "id": 13388523,
+          "name": "Kwon - Korean Pop Girls (권)"
+        },
+        {
+          "id": 37678039,
+          "name": "Kwon"
+        },
+        {
+          "id": 54467169,
+          "name": "KWON KI BAEK"
+        },
+        {
+          "id": 30744831,
+          "name": "Joyce Kwon"
+        },
+        {
+          "id": 34781259,
+          "name": "Min Kwon"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

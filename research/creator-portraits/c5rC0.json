@@ -1,0 +1,56 @@
+{
+  "id": "c5rC0",
+  "name": "水",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1004106,
+          "name": "水瀬いのり"
+        },
+        {
+          "id": 30233841,
+          "name": "水"
+        },
+        {
+          "id": 35122573,
+          "name": "水树"
+        },
+        {
+          "id": 96347066,
+          "name": "死水微澜乐队"
+        },
+        {
+          "id": 31865321,
+          "name": "水仙LONE"
+        },
+        {
+          "id": 12712,
+          "name": "水木年华"
+        },
+        {
+          "id": 49606629,
+          "name": "秋水"
+        },
+        {
+          "id": 46960961,
+          "name": "水仙LONE"
+        },
+        {
+          "id": 30548870,
+          "name": "浅水ShallowEnd"
+        },
+        {
+          "id": 12206070,
+          "name": "阿水SWEI"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

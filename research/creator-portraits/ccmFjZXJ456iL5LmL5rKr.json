@@ -1,0 +1,15 @@
+{
+  "id": "ccmFjZXJ456iL5LmL5rKr",
+  "name": "racerx程之沫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

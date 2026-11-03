@@ -1,0 +1,28 @@
+{
+  "id": "canIgODA4",
+  "name": "JR 808",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35184616,
+          "name": "JR 808"
+        },
+        {
+          "id": 37356866,
+          "name": "JR808"
+        },
+        {
+          "id": 55885914,
+          "name": "Pros .JR808"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

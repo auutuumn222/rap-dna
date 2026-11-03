@@ -1,0 +1,15 @@
+{
+  "id": "c5aSa6ICz6Z-z5LmQ",
+  "name": "多耳音乐",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

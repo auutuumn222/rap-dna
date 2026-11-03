@@ -1,0 +1,36 @@
+{
+  "id": "n12228586",
+  "name": "高嘉丰jiafeng",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12228586,
+          "name": "高嘉丰jiafeng"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "高嘉丰jiafeng",
+    "image": "./assets/people/n12228586.jpg",
+    "source": "https://music.163.com/artist?id=12228586",
+    "imageSource": "https://p1.music.126.net/C8N0TbCpdaKwPmFTYQR83Q==/109951170312410833.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12228586,
+      "works": [
+        {
+          "id": 2114324920,
+          "title": "微信是聊天的坟墓"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2114324920"
+      ]
+    }
+  }
+}

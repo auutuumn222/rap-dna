@@ -1,0 +1,56 @@
+{
+  "id": "cZGNt",
+  "name": "dcm",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29500245,
+          "name": "Dcmbr"
+        },
+        {
+          "id": 125052532,
+          "name": "Dcmv"
+        },
+        {
+          "id": 94237446,
+          "name": "DCMusicLove"
+        },
+        {
+          "id": 51097323,
+          "name": "Dcmplts"
+        },
+        {
+          "id": 122333021,
+          "name": "DCM.Sakleax"
+        },
+        {
+          "id": 35113526,
+          "name": "Dcmusic"
+        },
+        {
+          "id": 61057897,
+          "name": "DCMTRS"
+        },
+        {
+          "id": 126732719,
+          "name": "DCMBR"
+        },
+        {
+          "id": 36075953,
+          "name": "D'CANO DCM"
+        },
+        {
+          "id": 47012938,
+          "name": "DCM Majei"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

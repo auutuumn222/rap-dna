@@ -1,0 +1,72 @@
+{
+  "id": "c5b6Q5p2l",
+  "name": "徐来",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50709048,
+          "name": "徐来"
+        },
+        {
+          "id": 13114452,
+          "name": "X U"
+        },
+        {
+          "id": 121692175,
+          "name": "清风徐来"
+        },
+        {
+          "id": 125736941,
+          "name": "徐来正极简音乐"
+        },
+        {
+          "id": 123944442,
+          "name": "清风徐来"
+        },
+        {
+          "id": 51832941,
+          "name": "清风-徐来"
+        },
+        {
+          "id": 36683478,
+          "name": "徐来"
+        },
+        {
+          "id": 53257644,
+          "name": "徐来"
+        },
+        {
+          "id": 99896011,
+          "name": "徐来"
+        },
+        {
+          "id": 55066474,
+          "name": "清风徐来"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "徐来",
+    "image": "./assets/people/c5b6Q5p2l.jpg",
+    "source": "https://music.163.com/artist?id=13114452",
+    "imageSource": "https://p2.music.126.net/UnonjLn8IsfasdZMkOaABw==/109951171270207193.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-shared-work",
+      "artistId": 13114452,
+      "works": [
+        {
+          "id": 1336892099,
+          "title": "ACTA"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1336892099"
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cbWFyb3c",
+  "name": "Marow",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 534169,
+          "name": "Marow"
+        },
+        {
+          "id": 48731521,
+          "name": "Marowaan Rio"
+        },
+        {
+          "id": 57122136,
+          "name": "Fraise Marowski"
+        },
+        {
+          "id": 49315629,
+          "name": "Harun Marow"
+        },
+        {
+          "id": 50283744,
+          "name": "Marows"
+        },
+        {
+          "id": 51128020,
+          "name": "Marow/LiamMadeAHit"
+        },
+        {
+          "id": 121550944,
+          "name": "Marow-Ai"
+        },
+        {
+          "id": 47608511,
+          "name": "Marow / Maro Zeman"
+        },
+        {
+          "id": 98027320,
+          "name": "Marow315"
+        },
+        {
+          "id": 34898447,
+          "name": "Marowk"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

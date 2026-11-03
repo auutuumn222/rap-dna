@@ -1,0 +1,16 @@
+{
+  "id": "n28642672",
+  "name": "kkluv",
+  "attempts": [],
+  "entry": {
+    "name": "kkluv",
+    "catalogName": "kkluv",
+    "aliases": [],
+    "image": "./assets/people/n28642672.jpg",
+    "source": "https://music.163.com/artist?id=28642672",
+    "imageSource": "https://p1.music.126.net/krPkb_D4b63eIP5kbj6lqQ==/109951172293193743.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

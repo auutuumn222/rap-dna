@@ -1,0 +1,56 @@
+{
+  "id": "c5aSn55y854Ku",
+  "name": "大眼炮",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12193153,
+          "name": "大眼炮"
+        },
+        {
+          "id": 12565130,
+          "name": "Gm仙"
+        },
+        {
+          "id": 789380,
+          "name": "拖鞋OneFly"
+        },
+        {
+          "id": 826382,
+          "name": "大眼炮"
+        },
+        {
+          "id": 1198123,
+          "name": "姜云升"
+        },
+        {
+          "id": 12200580,
+          "name": "谟西Mercy"
+        },
+        {
+          "id": 12346106,
+          "name": "K.A咔咔"
+        },
+        {
+          "id": 1063109,
+          "name": "刘柄鑫"
+        },
+        {
+          "id": 1141021,
+          "name": "奉天乐队"
+        },
+        {
+          "id": 27871690,
+          "name": "嘻哈融合体"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

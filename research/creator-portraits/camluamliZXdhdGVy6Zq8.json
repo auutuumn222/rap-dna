@@ -1,0 +1,21 @@
+{
+  "id": "camluamliZXdhdGVy6Zq8",
+  "name": "JinJiBeWater隼",
+  "attempts": [],
+  "entry": {
+    "name": "JinJiBeWater隼",
+    "image": "./assets/people/n13451886.jpg",
+    "source": "https://music.163.com/artist?id=13451886",
+    "imageSource": "https://p2.music.126.net/lwzDVFpq_4wKUzJURdwijQ==/109951174131325219.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=2008727919"
+      ]
+    },
+    "matchedPersonId": "n13451886"
+  },
+  "match": "existing-verified-name"
+}

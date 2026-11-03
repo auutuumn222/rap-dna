@@ -1,0 +1,56 @@
+{
+  "id": "cc2FoYXJh",
+  "name": "Sahara",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 135705,
+          "name": "Sahara"
+        },
+        {
+          "id": 74791,
+          "name": "Sahara Hotnights"
+        },
+        {
+          "id": 51944542,
+          "name": "Boom Saharat"
+        },
+        {
+          "id": 1078013,
+          "name": "Sahara Beck"
+        },
+        {
+          "id": 32942980,
+          "name": "Dhrriti Saharan"
+        },
+        {
+          "id": 28672,
+          "name": "Kong Saharat"
+        },
+        {
+          "id": 28215319,
+          "name": "Sahara Moon"
+        },
+        {
+          "id": 12995924,
+          "name": "Sahara"
+        },
+        {
+          "id": 529467,
+          "name": "Herbie Sahara"
+        },
+        {
+          "id": 31843982,
+          "name": "Sahara Skylight"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

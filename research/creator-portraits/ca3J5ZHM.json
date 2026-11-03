@@ -1,0 +1,44 @@
+{
+  "id": "ca3J5ZHM",
+  "name": "Kryds",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50901620,
+          "name": "Krydstjek"
+        },
+        {
+          "id": 48001064,
+          "name": "Krydsede Linjer"
+        },
+        {
+          "id": 46898420,
+          "name": "Oz Powell, Oz and The Kryds"
+        },
+        {
+          "id": 34767612,
+          "name": "KRYDSFELDT"
+        },
+        {
+          "id": 47349690,
+          "name": "KRYD"
+        },
+        {
+          "id": 125246164,
+          "name": "Kryd"
+        },
+        {
+          "id": 122386710,
+          "name": "Kryd Phantom"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

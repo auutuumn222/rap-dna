@@ -1,0 +1,20 @@
+{
+  "id": "cZndjczAwMA",
+  "name": "fwcs000",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30792494,
+          "name": "废物超市"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

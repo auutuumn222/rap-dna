@@ -1,0 +1,16 @@
+{
+  "id": "n12529648",
+  "name": "KIV",
+  "attempts": [],
+  "entry": {
+    "name": "KIV",
+    "catalogName": "KIV",
+    "aliases": [],
+    "image": "./assets/people/n12529648.jpg",
+    "source": "https://music.163.com/artist?id=12529648",
+    "imageSource": "https://p2.music.126.net/L2IegKgopP9WLDpepkHQqA==/109951170020234818.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

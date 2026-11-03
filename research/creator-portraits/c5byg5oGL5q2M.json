@@ -1,0 +1,31 @@
+{
+  "id": "c5byg5oGL5q2M",
+  "name": "张恋歌",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1049637,
+          "name": "张恋歌"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "张恋歌",
+    "image": "./assets/people/c5byg5oGL5q2M.jpg",
+    "source": "https://music.163.com/artist?id=1049637",
+    "imageSource": "https://p1.music.126.net/wxccMWRFjV9zQSxzTvj2HA==/109951169244261299.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 1049637,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=1442844194"
+      ]
+    }
+  }
+}

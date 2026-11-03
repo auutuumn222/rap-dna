@@ -1,0 +1,18 @@
+{
+  "id": "n124542",
+  "name": "朴宰范",
+  "attempts": [],
+  "entry": {
+    "name": "朴宰范",
+    "catalogName": "朴宰范",
+    "aliases": [
+      "Jay Park"
+    ],
+    "image": "./assets/people/n124542.jpg",
+    "source": "https://music.163.com/artist?id=124542",
+    "imageSource": "https://p1.music.126.net/blTg8CWVGQdYtC_BKl3D2A==/109951173207202417.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

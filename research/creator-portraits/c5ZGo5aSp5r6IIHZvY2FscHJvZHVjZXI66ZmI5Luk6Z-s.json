@@ -1,0 +1,15 @@
+{
+  "id": "c5ZGo5aSp5r6IIHZvY2FscHJvZHVjZXI66ZmI5Luk6Z-s",
+  "name": "周天澈 VocalProducer：陈令韬",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

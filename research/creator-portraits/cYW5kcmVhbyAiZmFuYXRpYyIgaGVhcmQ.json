@@ -1,0 +1,15 @@
+{
+  "id": "cYW5kcmVhbyAiZmFuYXRpYyIgaGVhcmQ",
+  "name": "Andreao \"Fanatic\" Heard",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

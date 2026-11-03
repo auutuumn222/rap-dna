@@ -1,0 +1,36 @@
+{
+  "id": "cZGF5c2l4",
+  "name": "daysix",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32074183,
+          "name": "Daysix"
+        },
+        {
+          "id": 38906,
+          "name": "Mos Def"
+        },
+        {
+          "id": 31195,
+          "name": "DJ Shadow"
+        },
+        {
+          "id": 12840,
+          "name": "Six City"
+        },
+        {
+          "id": 90957,
+          "name": "Day Six"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ca3lsZWp1bmlvcg",
+  "name": "KyleJunior",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32704578,
+          "name": "kylejunior"
+        },
+        {
+          "id": 46977484,
+          "name": "Divine The Captain & Kylejunior&friends"
+        },
+        {
+          "id": 56202832,
+          "name": "Kylejuniorbeats"
+        },
+        {
+          "id": 28114121,
+          "name": "Kyle Junior"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

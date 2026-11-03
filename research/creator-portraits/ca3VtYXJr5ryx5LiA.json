@@ -1,0 +1,41 @@
+{
+  "id": "ca3VtYXJr5ryx5LiA",
+  "name": "Kumark漱一",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30702641,
+          "name": "Kumark漱一"
+        },
+        {
+          "id": 12563131,
+          "name": "Rapeter"
+        },
+        {
+          "id": 34754062,
+          "name": "银河系长"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Kumark漱一",
+    "image": "./assets/people/ca3VtYXJr5ryx5LiA.jpg",
+    "source": "https://music.163.com/artist?id=30702641",
+    "imageSource": "https://p2.music.126.net/7ecsU5nmxtTtOKemtjyL5Q==/109951173833388244.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 30702641,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2677399061",
+        "https://music.163.com/song?id=3451530455",
+        "https://music.163.com/song?id=3451530456"
+      ]
+    }
+  }
+}

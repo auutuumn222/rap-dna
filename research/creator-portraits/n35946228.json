@@ -1,0 +1,36 @@
+{
+  "id": "n35946228",
+  "name": "AZ啊之",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35946228,
+          "name": "AZ啊之"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "AZ啊之",
+    "image": "./assets/people/n35946228.jpg",
+    "source": "https://music.163.com/artist?id=35946228",
+    "imageSource": "https://p2.music.126.net/rOdkPMJtv-WrJB4jCYeq1A==/109951167254059738.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 35946228,
+      "works": [
+        {
+          "id": 1937763074,
+          "title": "倒垃圾"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1937763074"
+      ]
+    }
+  }
+}

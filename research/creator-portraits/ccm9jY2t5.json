@@ -1,0 +1,48 @@
+{
+  "id": "ccm9jY2t5",
+  "name": "Roccky",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27728358,
+          "name": "Roccky"
+        },
+        {
+          "id": 55276981,
+          "name": "Roccky Konwar"
+        },
+        {
+          "id": 57706202,
+          "name": "Young Roccky"
+        },
+        {
+          "id": 56297704,
+          "name": "Roccky Rajkonwar"
+        },
+        {
+          "id": 94479149,
+          "name": "Roccky B"
+        },
+        {
+          "id": 57491634,
+          "name": "Manob Roccky"
+        },
+        {
+          "id": 52410166,
+          "name": "泰格西"
+        },
+        {
+          "id": 30223665,
+          "name": "狂兆北"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

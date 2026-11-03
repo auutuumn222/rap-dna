@@ -1,0 +1,20 @@
+{
+  "id": "cdmFyZWwgaXMgbWFnaWM",
+  "name": "Varel is Magic",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55582641,
+          "name": "Varel is Magic"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

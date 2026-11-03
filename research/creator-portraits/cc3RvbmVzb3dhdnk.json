@@ -1,0 +1,24 @@
+{
+  "id": "cc3RvbmVzb3dhdnk",
+  "name": "stonesowavy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56815256,
+          "name": "StoneSoWavy"
+        },
+        {
+          "id": 46832570,
+          "name": "StoneSoWavy!"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

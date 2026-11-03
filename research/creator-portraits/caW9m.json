@@ -1,0 +1,56 @@
+{
+  "id": "caW9m",
+  "name": "IOF",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31830200,
+          "name": "IOF"
+        },
+        {
+          "id": 57099409,
+          "name": "Airani Iofifteen"
+        },
+        {
+          "id": 372522,
+          "name": "Ilya Ioff"
+        },
+        {
+          "id": 52167114,
+          "name": "IOFORTUNATO"
+        },
+        {
+          "id": 35115068,
+          "name": "Ioflanni"
+        },
+        {
+          "id": 60588459,
+          "name": "ioflug"
+        },
+        {
+          "id": 49084875,
+          "name": "Ioforia"
+        },
+        {
+          "id": 36971731,
+          "name": "Iofan"
+        },
+        {
+          "id": 53146174,
+          "name": "iof legeis"
+        },
+        {
+          "id": 48306519,
+          "name": "IOF Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

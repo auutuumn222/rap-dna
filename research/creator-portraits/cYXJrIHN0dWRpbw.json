@@ -1,0 +1,32 @@
+{
+  "id": "cYXJrIHN0dWRpbw",
+  "name": "ARK STUDIO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 744219,
+          "name": "The Lost Ark Studio"
+        },
+        {
+          "id": 58522585,
+          "name": "Ark From Memory Ark Studios"
+        },
+        {
+          "id": 122545992,
+          "name": "Studio Ark Attack"
+        },
+        {
+          "id": 48037237,
+          "name": "Arke Studio"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cdHJlemJvaWdyb3V0",
+  "name": "TrezBOIGrout",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34600641,
+          "name": "TrezBoi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "c546L5LiA5aSr",
+  "name": "王一夫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 128282573,
+          "name": "王一夫 Fuco"
+        },
+        {
+          "id": 33580454,
+          "name": "王一夫"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1738525789,
+          "name": "王一夫"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

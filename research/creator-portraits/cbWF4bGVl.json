@@ -1,0 +1,56 @@
+{
+  "id": "cbWF4bGVl",
+  "name": "MaxLee",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57539469,
+          "name": "Max李玄"
+        },
+        {
+          "id": 126914232,
+          "name": "MaxLee"
+        },
+        {
+          "id": 122593371,
+          "name": "Maxlee James"
+        },
+        {
+          "id": 48345452,
+          "name": "邹沛沛"
+        },
+        {
+          "id": 48577041,
+          "name": "Mikey-18"
+        },
+        {
+          "id": 49536015,
+          "name": "Max Lee"
+        },
+        {
+          "id": 49587839,
+          "name": "Max Lee"
+        },
+        {
+          "id": 37307661,
+          "name": "Max Lee"
+        },
+        {
+          "id": 36765923,
+          "name": "Max Leeder"
+        },
+        {
+          "id": 49937389,
+          "name": "Max Lee"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

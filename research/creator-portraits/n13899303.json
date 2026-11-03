@@ -1,0 +1,41 @@
+{
+  "id": "n13899303",
+  "name": "杨和苏KeyNG",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13899303,
+          "name": "杨和苏KeyNG"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "杨和苏KeyNG",
+    "image": "./assets/people/n13899303.jpg",
+    "source": "https://music.163.com/artist?id=13899303",
+    "imageSource": "https://p2.music.126.net/-Xy6jVswqXtI5h7duPNSHw==/109951171453051553.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 13899303,
+      "works": [
+        {
+          "id": 1469041281,
+          "title": "很久很久"
+        },
+        {
+          "id": 1394123837,
+          "title": "\"她\""
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1394123837",
+        "https://music.163.com/song?id=1469041281"
+      ]
+    }
+  }
+}

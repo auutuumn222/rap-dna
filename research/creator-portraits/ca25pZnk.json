@@ -1,0 +1,36 @@
+{
+  "id": "ca25pZnk",
+  "name": "Knify",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32961735,
+          "name": "Knify"
+        },
+        {
+          "id": 49378778,
+          "name": "Gift Knify"
+        },
+        {
+          "id": 58467139,
+          "name": "Knifyz"
+        },
+        {
+          "id": 57875862,
+          "name": "Lil Fendi Knifyz"
+        },
+        {
+          "id": 95900643,
+          "name": "Knifie"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cZC1za2nkvI3ngb_pmLM",
+  "name": "D-Ski伍灿阳",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cbmlnZWzpg5HkvJ_mnbA",
+  "name": "Nigel郑伟杰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 203248,
+          "name": "Nigel郑伟杰"
+        },
+        {
+          "id": 805419,
+          "name": "王诗安"
+        },
+        {
+          "id": 49631619,
+          "name": "Billyrrom"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

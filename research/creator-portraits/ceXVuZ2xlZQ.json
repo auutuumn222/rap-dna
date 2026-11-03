@@ -1,0 +1,56 @@
+{
+  "id": "ceXVuZ2xlZQ",
+  "name": "Yunglee",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32779914,
+          "name": "Yunglee Q"
+        },
+        {
+          "id": 46910692,
+          "name": "Yunglee"
+        },
+        {
+          "id": 48146982,
+          "name": "YUNGLEE A1"
+        },
+        {
+          "id": 35949137,
+          "name": "Yungleek"
+        },
+        {
+          "id": 46994760,
+          "name": "Yunglee318"
+        },
+        {
+          "id": 123049478,
+          "name": "YunGLeeWrLD"
+        },
+        {
+          "id": 59391541,
+          "name": "YungLeech"
+        },
+        {
+          "id": 129403542,
+          "name": "yunglee"
+        },
+        {
+          "id": 57156085,
+          "name": "Yunglee Billz"
+        },
+        {
+          "id": 49845540,
+          "name": "YungLeeGotti"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cdmFlZ3Vk",
+  "name": "vaegud",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30525963,
+          "name": "vaegud"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

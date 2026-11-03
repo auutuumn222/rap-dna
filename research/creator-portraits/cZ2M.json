@@ -1,0 +1,56 @@
+{
+  "id": "cZ2M",
+  "name": "GC",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33095765,
+          "name": "GC"
+        },
+        {
+          "id": 58842003,
+          "name": "GC"
+        },
+        {
+          "id": 98234680,
+          "name": "gcvj"
+        },
+        {
+          "id": 124400169,
+          "name": "GC Saint"
+        },
+        {
+          "id": 59833342,
+          "name": "Lil Gc"
+        },
+        {
+          "id": 122847190,
+          "name": "Gc"
+        },
+        {
+          "id": 12648019,
+          "name": "GC-JZHO"
+        },
+        {
+          "id": 61030053,
+          "name": "GC"
+        },
+        {
+          "id": 14353063,
+          "name": "GC Eternal"
+        },
+        {
+          "id": 12606713,
+          "name": "York Gc"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n27729363",
+  "name": "LeeHX李鸿翔",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27729363,
+          "name": "LeeHX李鸿翔"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "LeeHX李鸿翔",
+    "image": "./assets/people/n27729363.jpg",
+    "source": "https://music.163.com/artist?id=27729363",
+    "imageSource": "https://p2.music.126.net/tDa21gpEW-OuiswTNs7vFQ==/109951169362213329.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 27729363,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=1492074263",
+        "https://music.163.com/song?id=1841289592",
+        "https://music.163.com/song?id=1841289612"
+      ]
+    }
+  }
+}

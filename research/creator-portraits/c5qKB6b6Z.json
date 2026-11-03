@@ -1,0 +1,72 @@
+{
+  "id": "c5qKB6b6Z",
+  "name": "梁龙",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 11514,
+          "name": "二手玫瑰"
+        },
+        {
+          "id": 12468289,
+          "name": "梁龙"
+        },
+        {
+          "id": 60041309,
+          "name": "梁龙龙"
+        },
+        {
+          "id": 95436303,
+          "name": "梁龙毅"
+        },
+        {
+          "id": 4424,
+          "name": "梁龙林"
+        },
+        {
+          "id": 127956675,
+          "name": "梁龙飞"
+        },
+        {
+          "id": 59574754,
+          "name": "陕西梁龙"
+        },
+        {
+          "id": 55926257,
+          "name": "梁龙"
+        },
+        {
+          "id": 12001060,
+          "name": "万妮达Vinida Weng"
+        },
+        {
+          "id": 6467,
+          "name": "左小祖咒"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "梁龙",
+    "image": "./assets/people/c5qKB6b6Z.jpg",
+    "source": "https://music.163.com/artist?id=12468289",
+    "imageSource": "https://p1.music.126.net/1IcD37ZbOmpKsbFRUYgGEg==/109951172136293216.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-shared-work",
+      "artistId": 12468289,
+      "works": [
+        {
+          "id": 1343596888,
+          "title": "耍猴儿"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1980024415"
+      ]
+    }
+  }
+}

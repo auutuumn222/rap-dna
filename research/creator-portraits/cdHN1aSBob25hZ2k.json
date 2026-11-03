@@ -1,0 +1,15 @@
+{
+  "id": "cdHN1aSBob25hZ2k",
+  "name": "Tsui Honagi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

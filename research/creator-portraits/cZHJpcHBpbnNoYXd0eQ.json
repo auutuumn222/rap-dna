@@ -1,0 +1,23 @@
+{
+  "id": "cZHJpcHBpbnNoYXd0eQ",
+  "name": "drippinshawty",
+  "attempts": [],
+  "entry": {
+    "name": "drippinshawty",
+    "image": "./assets/people/n12897263.jpg",
+    "source": "https://music.163.com/artist?id=12897263",
+    "imageSource": "https://p2.music.126.net/V-wVSjD9biFshaYU7G8pNQ==/109951167796057807.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=1882152364",
+        "https://music.163.com/song?id=1882152366",
+        "https://music.163.com/song?id=1913211372"
+      ]
+    },
+    "matchedPersonId": "n12897263"
+  },
+  "match": "existing-verified-name"
+}

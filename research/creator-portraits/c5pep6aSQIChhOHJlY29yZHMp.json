@@ -1,0 +1,56 @@
+{
+  "id": "c5pep6aSQIChhOHJlY29yZHMp",
+  "name": "早餐 (A8records)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47827565,
+          "name": "小新不吃早餐"
+        },
+        {
+          "id": 121724492,
+          "name": "小早餐吃不饱"
+        },
+        {
+          "id": 127320018,
+          "name": "zt早餐君"
+        },
+        {
+          "id": 100033053,
+          "name": "好久不吃早餐"
+        },
+        {
+          "id": 37329518,
+          "name": "爵士早餐 BGM"
+        },
+        {
+          "id": 51468465,
+          "name": "buchi早餐"
+        },
+        {
+          "id": 35391418,
+          "name": "早餐音乐"
+        },
+        {
+          "id": 30956141,
+          "name": "不吃早餐"
+        },
+        {
+          "id": 54150437,
+          "name": "莎拉早餐Saladays"
+        },
+        {
+          "id": 12344308,
+          "name": "早餐"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ceS0gYg",
+  "name": "Y- B",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12519733,
+          "name": "yb"
+        },
+        {
+          "id": 52075665,
+          "name": "K y B"
+        },
+        {
+          "id": 31246112,
+          "name": "C Y B E R N a Z I"
+        },
+        {
+          "id": 49817089,
+          "name": "S A B R I N A B Y B I I"
+        },
+        {
+          "id": 57097337,
+          "name": "R A Y B I Z I"
+        },
+        {
+          "id": 31371659,
+          "name": "Y-B"
+        },
+        {
+          "id": 94249369,
+          "name": "Y-B-A BOYs"
+        },
+        {
+          "id": 47184633,
+          "name": "Y. B."
+        },
+        {
+          "id": 47494378,
+          "name": "Y B"
+        },
+        {
+          "id": 37445048,
+          "name": "Y B?"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Y- B",
+    "image": "./assets/people/ceS0gYg.jpg",
+    "source": "https://music.163.com/artist?id=12519733",
+    "imageSource": "https://p2.music.126.net/nJ5KVwOJVrAl8WmBAszcjw==/109951168949198479.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 12519733,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2132747446"
+      ]
+    }
+  }
+}

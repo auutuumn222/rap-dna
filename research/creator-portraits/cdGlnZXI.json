@@ -1,0 +1,56 @@
+{
+  "id": "cdGlnZXI",
+  "name": "Tiger",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 126600,
+          "name": "Tiger JK"
+        },
+        {
+          "id": 34470554,
+          "name": "Tiger谭秋娟"
+        },
+        {
+          "id": 96110515,
+          "name": "Tiger"
+        },
+        {
+          "id": 50561683,
+          "name": "TIGER DRAMA"
+        },
+        {
+          "id": 21457,
+          "name": "The Tigers"
+        },
+        {
+          "id": 58551036,
+          "name": "TG TIGER"
+        },
+        {
+          "id": 54408162,
+          "name": "Tiger"
+        },
+        {
+          "id": 28391270,
+          "name": "Balming Tiger"
+        },
+        {
+          "id": 60321598,
+          "name": "Tiger 邱傲然"
+        },
+        {
+          "id": 21769,
+          "name": "SABER TIGER"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cY3VsdHhyZQ",
+  "name": "Cultxre",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37532280,
+          "name": "Cultxre"
+        },
+        {
+          "id": 52822400,
+          "name": "FUTXRE CULTXRE"
+        },
+        {
+          "id": 53949604,
+          "name": "NEW CULTXRE"
+        },
+        {
+          "id": 124248275,
+          "name": "Lex Lavo & Cultxre"
+        },
+        {
+          "id": 125298517,
+          "name": "CULTXRE"
+        },
+        {
+          "id": 49501635,
+          "name": "Prod. Cultxre"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

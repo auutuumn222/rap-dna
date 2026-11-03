@@ -1,0 +1,56 @@
+{
+  "id": "ccmVzdCByb29t",
+  "name": "Rest Room",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12719417,
+          "name": "Rest Room Rangers"
+        },
+        {
+          "id": 123780214,
+          "name": "Restful Room"
+        },
+        {
+          "id": 99615710,
+          "name": "Restroom Warfare"
+        },
+        {
+          "id": 46852339,
+          "name": "Restroom Privacy"
+        },
+        {
+          "id": 36689642,
+          "name": "Restroom Security"
+        },
+        {
+          "id": 48655369,
+          "name": "Restroom Companions"
+        },
+        {
+          "id": 13062150,
+          "name": "Restroom Poets"
+        },
+        {
+          "id": 99432673,
+          "name": "Poems On A Restrooms Wall"
+        },
+        {
+          "id": 55074751,
+          "name": "No Public Restrooms"
+        },
+        {
+          "id": 50630144,
+          "name": "The Restroomizers"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

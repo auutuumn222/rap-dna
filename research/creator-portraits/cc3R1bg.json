@@ -1,0 +1,56 @@
+{
+  "id": "cc3R1bg",
+  "name": "stun",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12276064,
+          "name": "Stun陈盛"
+        },
+        {
+          "id": 34060178,
+          "name": "Stunt N Dozier"
+        },
+        {
+          "id": 33497934,
+          "name": "Stunna Gambino"
+        },
+        {
+          "id": 31216093,
+          "name": "Stunna 4 Vegas"
+        },
+        {
+          "id": 52602798,
+          "name": "Stunt Pilots"
+        },
+        {
+          "id": 35893451,
+          "name": "Stunna Muzik"
+        },
+        {
+          "id": 94849234,
+          "name": "Stunna Sandy"
+        },
+        {
+          "id": 36645290,
+          "name": "Stunt DeGrate"
+        },
+        {
+          "id": 12834809,
+          "name": "Young Stunna"
+        },
+        {
+          "id": 837352,
+          "name": "Stunted"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

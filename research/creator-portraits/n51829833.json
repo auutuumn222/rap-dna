@@ -1,0 +1,36 @@
+{
+  "id": "n51829833",
+  "name": "说唱教官qasa",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51829833,
+          "name": "说唱教官qasa"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "说唱教官qasa",
+    "image": "./assets/people/n51829833.jpg",
+    "source": "https://music.163.com/artist?id=51829833",
+    "imageSource": "https://p1.music.126.net/_Czfbdu0SWAjY89_hMZsMA==/109951169399391427.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 51829833,
+      "works": [
+        {
+          "id": 2048971457,
+          "title": "古怪因子"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2048971457"
+      ]
+    }
+  }
+}

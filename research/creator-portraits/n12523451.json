@@ -1,0 +1,36 @@
+{
+  "id": "n12523451",
+  "name": "BrAnTB白景屹",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12523451,
+          "name": "BrAnTB白景屹"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "BrAnTB白景屹",
+    "image": "./assets/people/n12523451.jpg",
+    "source": "https://music.163.com/artist?id=12523451",
+    "imageSource": "https://p1.music.126.net/Sr317x_cuFvlnyxajtjQ8Q==/109951169464498126.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12523451,
+      "works": [
+        {
+          "id": 1907025488,
+          "title": "ONE PLAY(王位) Remix"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1907025488"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c6Zm25YW06L2pYWRl",
+  "name": "陶兴轩Ade",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14587791,
+          "name": "ADE陶兴轩"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

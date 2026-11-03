@@ -1,0 +1,16 @@
+{
+  "id": "n12288442",
+  "name": "AnsrJ",
+  "attempts": [],
+  "entry": {
+    "name": "AnsrJ",
+    "catalogName": "AnsrJ",
+    "aliases": [],
+    "image": "./assets/people/n12288442.jpg",
+    "source": "https://music.163.com/artist?id=12288442",
+    "imageSource": "https://p2.music.126.net/CFsa1E0KH2hv5MuQbun08A==/109951173200100403.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

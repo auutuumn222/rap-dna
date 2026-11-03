@@ -1,0 +1,56 @@
+{
+  "id": "cdHlrdW4",
+  "name": "tykun",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34772067,
+          "name": "Tykun"
+        },
+        {
+          "id": 35775967,
+          "name": "Bossd TYKŪN"
+        },
+        {
+          "id": 36860686,
+          "name": "Tykun X"
+        },
+        {
+          "id": 96152519,
+          "name": "Xolid Tykun"
+        },
+        {
+          "id": 97089031,
+          "name": "Shyboy ghetto tykun"
+        },
+        {
+          "id": 48809792,
+          "name": "Scorpio Prodz x tykun"
+        },
+        {
+          "id": 34977455,
+          "name": "Twyn TyKune"
+        },
+        {
+          "id": 35561180,
+          "name": "Chukkie Tykunez"
+        },
+        {
+          "id": 56690733,
+          "name": "tykun II"
+        },
+        {
+          "id": 52991587,
+          "name": "Travi$tyKun"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

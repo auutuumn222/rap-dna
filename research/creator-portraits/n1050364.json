@@ -1,0 +1,36 @@
+{
+  "id": "n1050364",
+  "name": "Yee",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1050364,
+          "name": "Yee"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Yee",
+    "image": "./assets/people/n1050364.jpg",
+    "source": "https://music.163.com/artist?id=1050364",
+    "imageSource": "https://p2.music.126.net/M9S2kc_qzOV5wrUS147l3A==/109951170351901193.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 1050364,
+      "works": [
+        {
+          "id": 2664388261,
+          "title": "恨"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2664388261"
+      ]
+    }
+  }
+}

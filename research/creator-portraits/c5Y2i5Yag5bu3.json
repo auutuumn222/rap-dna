@@ -1,0 +1,56 @@
+{
+  "id": "c5Y2i5Yag5bu3",
+  "name": "卢冠廷",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 3697,
+          "name": "卢冠廷"
+        },
+        {
+          "id": 3723,
+          "name": "吕方"
+        },
+        {
+          "id": 8926,
+          "name": "莫文蔚"
+        },
+        {
+          "id": 6460,
+          "name": "张学友"
+        },
+        {
+          "id": 6462,
+          "name": "张敬轩"
+        },
+        {
+          "id": 3706,
+          "name": "林子祥"
+        },
+        {
+          "id": 28605801,
+          "name": "林家谦"
+        },
+        {
+          "id": 4483,
+          "name": "麦浚龙"
+        },
+        {
+          "id": 8304,
+          "name": "邝美云"
+        },
+        {
+          "id": 10238,
+          "name": "叶丽仪"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

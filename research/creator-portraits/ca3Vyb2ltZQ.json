@@ -1,0 +1,28 @@
+{
+  "id": "ca3Vyb2ltZQ",
+  "name": "kuroime",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12390081,
+          "name": "kuroime"
+        },
+        {
+          "id": 48145867,
+          "name": "Sketchmyname w/ Kuroime"
+        },
+        {
+          "id": 95996962,
+          "name": "Kuroi Me A River"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

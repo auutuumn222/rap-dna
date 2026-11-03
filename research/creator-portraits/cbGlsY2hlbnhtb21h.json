@@ -1,0 +1,20 @@
+{
+  "id": "cbGlsY2hlbnhtb21h",
+  "name": "LilChenXMoMa",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52562769,
+          "name": "LilChenXMoMa"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

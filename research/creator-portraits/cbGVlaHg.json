@@ -1,0 +1,56 @@
+{
+  "id": "cbGVlaHg",
+  "name": "LeeHX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27729363,
+          "name": "LeeHX李鸿翔"
+        },
+        {
+          "id": 53870010,
+          "name": "Leehx"
+        },
+        {
+          "id": 52014903,
+          "name": "LeeHxk"
+        },
+        {
+          "id": 27868624,
+          "name": "KnowKnow"
+        },
+        {
+          "id": 12529648,
+          "name": "KIV"
+        },
+        {
+          "id": 32827173,
+          "name": "404#udkcis"
+        },
+        {
+          "id": 33072389,
+          "name": "Dove鸽子"
+        },
+        {
+          "id": 96087275,
+          "name": "ZmjjKKAsuka"
+        },
+        {
+          "id": 50467800,
+          "name": "Lee HX"
+        },
+        {
+          "id": 48228432,
+          "name": "Lee H Xīn"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

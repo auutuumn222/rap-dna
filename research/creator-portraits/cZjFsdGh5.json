@@ -1,0 +1,44 @@
+{
+  "id": "cZjFsdGh5",
+  "name": "F1lthy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30154377,
+          "name": "F1LTHY"
+        },
+        {
+          "id": 98299802,
+          "name": "F1LTHY PAC"
+        },
+        {
+          "id": 53929368,
+          "name": "F1lthysoul"
+        },
+        {
+          "id": 57026329,
+          "name": "prod. F1LTHY"
+        },
+        {
+          "id": 12110173,
+          "name": "THOME"
+        },
+        {
+          "id": 737012,
+          "name": "Travis Scott"
+        },
+        {
+          "id": 12068095,
+          "name": "Playboi Carti"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

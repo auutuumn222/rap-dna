@@ -1,0 +1,56 @@
+{
+  "id": "cbGxvdWlz",
+  "name": "LLOUIS",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31606801,
+          "name": "LLOUIS"
+        },
+        {
+          "id": 47051839,
+          "name": "Llouis Beats"
+        },
+        {
+          "id": 54660568,
+          "name": "Llouis Pear"
+        },
+        {
+          "id": 36743449,
+          "name": "Llouis B"
+        },
+        {
+          "id": 96831198,
+          "name": "LLouis Ayo 075"
+        },
+        {
+          "id": 48558177,
+          "name": "Prod. llouis"
+        },
+        {
+          "id": 51566591,
+          "name": "Prod. llouis x Cadence"
+        },
+        {
+          "id": 55170972,
+          "name": "Prod. llouis x KXVI"
+        },
+        {
+          "id": 53886269,
+          "name": "Prod. Llouis X Ament"
+        },
+        {
+          "id": 56383843,
+          "name": "LLouise"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

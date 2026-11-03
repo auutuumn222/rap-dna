@@ -1,0 +1,20 @@
+{
+  "id": "ccHJvZGJ5bW92",
+  "name": "ProdbyMov",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53099059,
+          "name": "ProdbyMov"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

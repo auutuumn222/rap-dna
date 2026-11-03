@@ -1,0 +1,32 @@
+{
+  "id": "c6ZmI5aWV5a6J",
+  "name": "陈奕安",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48575381,
+          "name": "陈奕安"
+        },
+        {
+          "id": 122886721,
+          "name": "陈奕安Googian"
+        },
+        {
+          "id": 53596512,
+          "name": "陈奕安"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cc2lja2xpZmU",
+  "name": "sicklife",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 122196629,
+          "name": "Sick life"
+        },
+        {
+          "id": 36353540,
+          "name": "Sick Life"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "n14116746",
+  "name": "黄格雷",
+  "attempts": [],
+  "entry": {
+    "name": "黄格雷",
+    "catalogName": "黄格雷",
+    "aliases": [
+      "GregSeason"
+    ],
+    "image": "./assets/people/n14116746.jpg",
+    "source": "https://music.163.com/artist?id=14116746",
+    "imageSource": "https://p2.music.126.net/BuhPveiHYex_X-92KcRhDg==/109951173813718836.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

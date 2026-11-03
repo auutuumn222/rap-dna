@@ -1,0 +1,44 @@
+{
+  "id": "cc3VwZXJkZWVw",
+  "name": "SuperDeep",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12127910,
+          "name": "SuperDeep"
+        },
+        {
+          "id": 125712473,
+          "name": "Kola SuperDeep"
+        },
+        {
+          "id": 12084497,
+          "name": "宝石Gem"
+        },
+        {
+          "id": 12276375,
+          "name": "NINEONE#乃万"
+        },
+        {
+          "id": 12195008,
+          "name": "花生"
+        },
+        {
+          "id": 56195298,
+          "name": "SUPER DEEP"
+        },
+        {
+          "id": 32817812,
+          "name": "Super Deep Sleep Noise"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

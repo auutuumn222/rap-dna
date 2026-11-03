@@ -1,0 +1,24 @@
+{
+  "id": "cdzRkZGxlcw",
+  "name": "w4ddles",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37684330,
+          "name": "W4Ddles"
+        },
+        {
+          "id": 124964758,
+          "name": "W4ddles"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

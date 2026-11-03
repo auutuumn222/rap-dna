@@ -1,0 +1,56 @@
+{
+  "id": "cd3Nx",
+  "name": "WsQ",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 97706876,
+          "name": "Wsqjohnny"
+        },
+        {
+          "id": 51067323,
+          "name": "WSQ"
+        },
+        {
+          "id": 55161560,
+          "name": "WsQ+Deion"
+        },
+        {
+          "id": 54201839,
+          "name": "WSQ*POPS"
+        },
+        {
+          "id": 94082861,
+          "name": "wsqb"
+        },
+        {
+          "id": 51309111,
+          "name": "Wsquarek2"
+        },
+        {
+          "id": 58426322,
+          "name": "Wsqbdfwy"
+        },
+        {
+          "id": 57244730,
+          "name": "wsquiet"
+        },
+        {
+          "id": 60594249,
+          "name": "Wsqcoby"
+        },
+        {
+          "id": 35864076,
+          "name": "Wsquared"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

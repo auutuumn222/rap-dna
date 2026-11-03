@@ -1,0 +1,21 @@
+{
+  "id": "n30936223",
+  "name": "AYAINC",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30936223,
+          "name": "AYAINC"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "entry": null,
+  "status": "unresolved"
+}

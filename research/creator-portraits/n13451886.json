@@ -1,0 +1,74 @@
+{
+  "id": "n13451886",
+  "name": "JinJiBeWater_隼",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13451886,
+          "name": "JinJiBeWater_隼"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "JinJiBeWater_隼",
+    "image": "./assets/people/n13451886.jpg",
+    "source": "https://music.163.com/artist?id=13451886",
+    "imageSource": "https://p2.music.126.net/lwzDVFpq_4wKUzJURdwijQ==/109951174131325219.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 13451886,
+      "works": [
+        {
+          "id": 3423059546,
+          "title": "年少成名"
+        },
+        {
+          "id": 1954524453,
+          "title": "六月九日阴Ft.JinJiBeWater隼"
+        },
+        {
+          "id": 3423058623,
+          "title": "直视痛苦"
+        },
+        {
+          "id": 3423058551,
+          "title": "蜀道难"
+        },
+        {
+          "id": 3423059561,
+          "title": "营火Feat.万妮达Vinida Weng"
+        },
+        {
+          "id": 3423040060,
+          "title": "我梦到还剩5分钟死去"
+        },
+        {
+          "id": 3423058694,
+          "title": "迷失暹罗Feat.荨麻疹"
+        },
+        {
+          "id": 3423059477,
+          "title": "DUMB"
+        },
+        {
+          "id": 3423059597,
+          "title": "无人给你喝彩"
+        },
+        {
+          "id": 3423058651,
+          "title": "鼻祖鼻祖鼻祖鼻祖鼻祖!!!!!"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1853864505",
+        "https://music.163.com/song?id=1857323625",
+        "https://music.163.com/song?id=1948056363"
+      ]
+    }
+  }
+}

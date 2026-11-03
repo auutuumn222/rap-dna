@@ -1,0 +1,56 @@
+{
+  "id": "cZy5pLnI",
+  "name": "G.I.R",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57478285,
+          "name": "G.I.R"
+        },
+        {
+          "id": 35898536,
+          "name": "G.I.R Kody"
+        },
+        {
+          "id": 58851360,
+          "name": "G.I.R.L.S. Rock Sacramento"
+        },
+        {
+          "id": 51557456,
+          "name": "G.I.R.L"
+        },
+        {
+          "id": 35095885,
+          "name": "G.I.Records"
+        },
+        {
+          "id": 35530405,
+          "name": "G.I.R.L.S"
+        },
+        {
+          "id": 49655609,
+          "name": "BABY G.I.R."
+        },
+        {
+          "id": 55694375,
+          "name": "G.I.R.A"
+        },
+        {
+          "id": 34715038,
+          "name": "Kendi x G.I.R. x Koolade"
+        },
+        {
+          "id": 14244205,
+          "name": "G.i. Raf"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

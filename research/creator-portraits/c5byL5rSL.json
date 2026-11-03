@@ -1,0 +1,24 @@
+{
+  "id": "c5byL5rSL",
+  "name": "弋洋",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1046165,
+          "name": "很大胃"
+        },
+        {
+          "id": 52562378,
+          "name": "弋洋"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

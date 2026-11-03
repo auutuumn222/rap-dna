@@ -1,0 +1,20 @@
+{
+  "id": "cYmFuZGl0IGx1Y2U",
+  "name": "bandit luce",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14175878,
+          "name": "Bandit Luce"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

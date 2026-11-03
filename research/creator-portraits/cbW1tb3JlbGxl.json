@@ -1,0 +1,20 @@
+{
+  "id": "cbW1tb3JlbGxl",
+  "name": "mmmorelle",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53686543,
+          "name": "mmmorelle"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ccm95YWxib3licmF6eQ",
+  "name": "RoyalBoyBrazy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32851806,
+          "name": "RoyalBoyBrazy"
+        },
+        {
+          "id": 34373882,
+          "name": "angie"
+        },
+        {
+          "id": 34637182,
+          "name": "YvngLit"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c5a6Y56GV",
+  "name": "官硕",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12183509,
+          "name": "官硕"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

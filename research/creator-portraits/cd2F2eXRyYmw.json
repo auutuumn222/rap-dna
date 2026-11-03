@@ -1,0 +1,24 @@
+{
+  "id": "cd2F2eXRyYmw",
+  "name": "wavytrbl",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32795723,
+          "name": "wavytrbl"
+        },
+        {
+          "id": 34857531,
+          "name": "Nuutrino & Wavytrbl"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

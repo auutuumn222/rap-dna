@@ -1,0 +1,56 @@
+{
+  "id": "ca2FkZHk",
+  "name": "KADDY",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29748176,
+          "name": "Kaddy Nahir"
+        },
+        {
+          "id": 53810348,
+          "name": "Prod. Kaddy beats"
+        },
+        {
+          "id": 30357668,
+          "name": "Kaddy"
+        },
+        {
+          "id": 49025673,
+          "name": "Kaddy"
+        },
+        {
+          "id": 53864041,
+          "name": "Kaddy"
+        },
+        {
+          "id": 30277154,
+          "name": "Kaddy Kobain"
+        },
+        {
+          "id": 46978951,
+          "name": "Kaddy Musik"
+        },
+        {
+          "id": 30563151,
+          "name": "Kaddy Kay"
+        },
+        {
+          "id": 36643980,
+          "name": "Kaddy Cayana"
+        },
+        {
+          "id": 61415582,
+          "name": "Kaddy kas"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

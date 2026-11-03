@@ -1,0 +1,24 @@
+{
+  "id": "cdGhlIHBzeWNsb25lcw",
+  "name": "The Psyclones",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49139921,
+          "name": "The Psyclones"
+        },
+        {
+          "id": 79152,
+          "name": "The Psyclone Rangers"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

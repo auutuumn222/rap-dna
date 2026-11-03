@@ -1,0 +1,28 @@
+{
+  "id": "cbm92YWNoYW5jZQ",
+  "name": "NovaChance",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48542164,
+          "name": "NovaChance"
+        },
+        {
+          "id": 50496983,
+          "name": "Nova Chance"
+        },
+        {
+          "id": 94761217,
+          "name": "Novach banD"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

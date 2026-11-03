@@ -1,0 +1,56 @@
+{
+  "id": "cb2NlYW4gYmVhdHM",
+  "name": "Ocean Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28108412,
+          "name": "Ocean Beats"
+        },
+        {
+          "id": 57627176,
+          "name": "Gore Ocean Beats"
+        },
+        {
+          "id": 61297682,
+          "name": "Ruben Ocean Beats"
+        },
+        {
+          "id": 48124113,
+          "name": "Ocean Beats HB"
+        },
+        {
+          "id": 48176906,
+          "name": "Ocean Strings Beats"
+        },
+        {
+          "id": 48016203,
+          "name": "ASMR Ocean Waves Beats"
+        },
+        {
+          "id": 59622411,
+          "name": "Ocean Rhythm Beats"
+        },
+        {
+          "id": 50460840,
+          "name": "Beats Ocean Blue"
+        },
+        {
+          "id": 48060689,
+          "name": "Ocean Sounds ASMR Beats"
+        },
+        {
+          "id": 52563547,
+          "name": "Binaural Beats 0.2Hz Ocean Ambience"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

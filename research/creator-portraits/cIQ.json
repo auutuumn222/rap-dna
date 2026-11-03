@@ -1,0 +1,56 @@
+{
+  "id": "cIQ",
+  "name": "!",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 94650,
+          "name": "!!!"
+        },
+        {
+          "id": 34625052,
+          "name": "!CE"
+        },
+        {
+          "id": 12132228,
+          "name": "!KE"
+        },
+        {
+          "id": 99483932,
+          "name": "!bo"
+        },
+        {
+          "id": 98057238,
+          "name": "!i"
+        },
+        {
+          "id": 37392984,
+          "name": "!Aps!"
+        },
+        {
+          "id": 97318035,
+          "name": "!DARK"
+        },
+        {
+          "id": 49614675,
+          "name": "!!ii"
+        },
+        {
+          "id": 59804097,
+          "name": "!KC"
+        },
+        {
+          "id": 15339607,
+          "name": "!JP"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

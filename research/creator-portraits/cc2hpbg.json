@@ -1,0 +1,56 @@
+{
+  "id": "cc2hpbg",
+  "name": "SHIN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12602162,
+          "name": "SHIN"
+        },
+        {
+          "id": 52224124,
+          "name": "绅孩子SHIN"
+        },
+        {
+          "id": 127582,
+          "name": "SHINee"
+        },
+        {
+          "id": 12605500,
+          "name": "盛宇D-SHINE"
+        },
+        {
+          "id": 13283,
+          "name": "信乐团"
+        },
+        {
+          "id": 15389,
+          "name": "Shing02"
+        },
+        {
+          "id": 32240981,
+          "name": "Shino"
+        },
+        {
+          "id": 5769,
+          "name": "苏见信 (信)"
+        },
+        {
+          "id": 34860955,
+          "name": "신기원 (ShinGiWon)"
+        },
+        {
+          "id": 13149356,
+          "name": "Shining安吉"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

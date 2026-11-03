@@ -1,0 +1,32 @@
+{
+  "id": "c6bG85qSS55uQ",
+  "name": "鱼椒盐",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29712355,
+          "name": "鱼椒盐"
+        },
+        {
+          "id": 29802127,
+          "name": "单依纯"
+        },
+        {
+          "id": 121364003,
+          "name": "浦玉"
+        },
+        {
+          "id": 1049637,
+          "name": "张恋歌"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

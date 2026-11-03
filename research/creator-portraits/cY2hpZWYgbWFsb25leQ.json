@@ -1,0 +1,32 @@
+{
+  "id": "cY2hpZWYgbWFsb25leQ",
+  "name": "Chief Maloney",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12472094,
+          "name": "Chief Maloney"
+        },
+        {
+          "id": 12853605,
+          "name": "SHarK"
+        },
+        {
+          "id": 12200580,
+          "name": "谟西Mercy"
+        },
+        {
+          "id": 12071015,
+          "name": "SeanT肖恩恩"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

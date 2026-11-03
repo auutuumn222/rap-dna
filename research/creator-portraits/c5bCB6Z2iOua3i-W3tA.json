@@ -1,0 +1,20 @@
+{
+  "id": "c5bCB6Z2iOua3i-W3tA",
+  "name": "封面：淋巴",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 100483837,
+          "name": "我是淋巴"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

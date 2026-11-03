@@ -1,0 +1,16 @@
+{
+  "id": "n27868624",
+  "name": "KnowKnow",
+  "attempts": [],
+  "entry": {
+    "name": "KnowKnow",
+    "catalogName": "KnowKnow",
+    "aliases": [],
+    "image": "./assets/people/n27868624.jpg",
+    "source": "https://music.163.com/artist?id=27868624",
+    "imageSource": "https://p2.music.126.net/EI-opdeBAR11phjG14fwbg==/109951172883193186.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

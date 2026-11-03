@@ -1,0 +1,28 @@
+{
+  "id": "cZGVwbyBvbiBkYSBiZWF0",
+  "name": "Depo On Da Beat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51806861,
+          "name": "HT x Depo On Da Beat"
+        },
+        {
+          "id": 34623591,
+          "name": "Depo On Da Beat"
+        },
+        {
+          "id": 52642756,
+          "name": "LOTTAWOK DEPO ON DA BEAT"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

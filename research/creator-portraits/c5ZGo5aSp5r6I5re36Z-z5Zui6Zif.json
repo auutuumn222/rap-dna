@@ -1,0 +1,56 @@
+{
+  "id": "c5ZGo5aSp5r6I5re36Z-z5Zui6Zif",
+  "name": "周天澈混音团队",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50784250,
+          "name": "周天澈"
+        },
+        {
+          "id": 50654460,
+          "name": "MingRui YIQI遗弃（接录音、混音、母带、编曲）"
+        },
+        {
+          "id": 1213009,
+          "name": "混音魔王"
+        },
+        {
+          "id": 12227715,
+          "name": "脱发混音师"
+        },
+        {
+          "id": 129584422,
+          "name": "星轨混音社"
+        },
+        {
+          "id": 50469784,
+          "name": "电子混音"
+        },
+        {
+          "id": 50920601,
+          "name": "经典混音社"
+        },
+        {
+          "id": 37185207,
+          "name": "混音师·AD"
+        },
+        {
+          "id": 50470318,
+          "name": "House 混音"
+        },
+        {
+          "id": 28186957,
+          "name": "xio螃蟹-混音师"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

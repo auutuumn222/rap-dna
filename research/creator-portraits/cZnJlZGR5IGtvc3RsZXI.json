@@ -1,0 +1,15 @@
+{
+  "id": "cZnJlZGR5IGtvc3RsZXI",
+  "name": "Freddy Kostler",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

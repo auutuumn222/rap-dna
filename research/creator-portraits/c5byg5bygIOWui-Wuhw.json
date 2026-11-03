@@ -1,0 +1,15 @@
+{
+  "id": "c5byg5bygIOWui-Wuhw",
+  "name": "张张 宋宇",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

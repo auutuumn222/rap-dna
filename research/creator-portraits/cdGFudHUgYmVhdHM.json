@@ -1,0 +1,20 @@
+{
+  "id": "cdGFudHUgYmVhdHM",
+  "name": "Tantu Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14849711,
+          "name": "Tantu Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

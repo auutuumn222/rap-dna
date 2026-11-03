@@ -1,0 +1,8083 @@
+{
+  "artist": {
+    "img1v1Id": 109951173535912480,
+    "topicPerson": 0,
+    "picId": 109951165549385060,
+    "musicSize": 131,
+    "albumSize": 27,
+    "briefDesc": "ig：real_clearworld\n工作联系：15829325448",
+    "picUrl": "https://p1.music.126.net/TPEKti9GFhutadhdq0fGUA==/109951165549385059.jpg",
+    "img1v1Url": "https://p1.music.126.net/P9I3MUMnR0RzIIZM_b3z7Q==/109951173535912472.jpg",
+    "followed": false,
+    "trans": "",
+    "alias": [
+      "让长沙再次骄傲"
+    ],
+    "name": "陈一豪Clear",
+    "id": 32893629,
+    "publishTime": 0,
+    "accountId": 539134145,
+    "picId_str": "109951165549385059",
+    "img1v1Id_str": "109951173535912472",
+    "mvSize": 7
+  },
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p1.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 22785520,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 170400,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6817965,
+        "vd": -62986,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 917287,
+        "fid": 0,
+        "size": 19541372,
+        "vd": -62982,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1684979,
+        "fid": 0,
+        "size": 35893223,
+        "vd": -62982,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2727213,
+        "vd": -58656,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4090797,
+        "vd": -60374,
+        "sr": 48000
+      },
+      "name": "鼻塞",
+      "id": 2714340376,
+      "privilege": {
+        "id": 2714340376,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p1.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 12,
+      "fee": 8,
+      "mv": 34791781,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 240000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 9601965,
+        "vd": -29391,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 806755,
+        "fid": 0,
+        "size": 24207049,
+        "vd": -29383,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1575351,
+        "fid": 0,
+        "size": 47264933,
+        "vd": -29383,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3840813,
+        "vd": -25146,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536879104,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5761197,
+        "vd": -26822,
+        "sr": 48000
+      },
+      "name": "二十五",
+      "id": 3402862509,
+      "privilege": {
+        "id": 3402862509,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 276041372,
+        "name": "新说唱2025 第四期",
+        "picUrl": "https://p2.music.126.net/fiyBvLO5lvLFGdX-N5csKw==/109951171349466290.jpg",
+        "pic_str": "109951171349466290",
+        "pic": 109951171349466290
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 107999,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 4585662,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 4321965,
+        "vd": -19794,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 913979,
+        "fid": 0,
+        "size": 12340745,
+        "vd": -19781,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1681567,
+        "fid": 0,
+        "size": 22703185,
+        "vd": -19781,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 1728813,
+        "vd": -15696,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 2593197,
+        "vd": -17253,
+        "sr": 48000
+      },
+      "name": "鼻塞 (Live)",
+      "id": 2720118279,
+      "privilege": {
+        "id": 2720118279,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12059091,
+          "name": "THE-BETA"
+        },
+        {
+          "id": 12453329,
+          "name": "功夫胖KUNGFU-PEN"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 46885488,
+          "name": "Kimmick"
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p1.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 22601027,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 204705,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8190765,
+        "vd": -51784,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 927102,
+        "fid": 0,
+        "size": 23722927,
+        "vd": -51853,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1694197,
+        "fid": 0,
+        "size": 43351519,
+        "vd": -51782,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3276333,
+        "vd": -47414,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4914477,
+        "vd": -49144,
+        "sr": 48000
+      },
+      "name": "天亮就要走",
+      "id": 2604902335,
+      "privilege": {
+        "id": 2604902335,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 35233973,
+          "name": "Mosedontbesilly",
+          "alia": [
+            "mose"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p2.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 234193,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9370605,
+        "vd": -40744,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 977642,
+        "fid": 0,
+        "size": 28624028,
+        "vd": -40733,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1747453,
+        "fid": 0,
+        "size": 51159633,
+        "vd": -40733,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3748269,
+        "vd": -36596,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5622381,
+        "vd": -38169,
+        "sr": 48000
+      },
+      "name": "冷冷的天",
+      "id": 2720097900,
+      "privilege": {
+        "id": 2720097900,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 12236125,
+          "name": "王以太"
+        }
+      ],
+      "al": {
+        "id": 358276411,
+        "name": "彩铃",
+        "picUrl": "https://p1.music.126.net/_VNYfoOcT5AHeKPtqvoABQ==/109951172585851793.jpg",
+        "pic_str": "109951172585851793",
+        "pic": 109951172585851790
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 1,
+      "mv": 34723216,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 212543,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7002,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8503725,
+        "vd": -57791,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 992923,
+        "fid": 0,
+        "size": 26383878,
+        "vd": -57786,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1762254,
+        "fid": 0,
+        "size": 46823432,
+        "vd": -57786,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3401517,
+        "vd": -53544,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5102253,
+        "vd": -55192,
+        "sr": 48000
+      },
+      "name": "彩铃",
+      "id": 3339130832,
+      "privilege": {
+        "id": 3339130832,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 13699781,
+          "name": "马赫mood"
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p1.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 226762,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9073005,
+        "vd": -61288,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 879432,
+        "fid": 0,
+        "size": 24931957,
+        "vd": -61288,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1644774,
+        "fid": 0,
+        "size": 46625795,
+        "vd": -61288,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3629229,
+        "vd": -56896,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5443821,
+        "vd": -58622,
+        "sr": 48000
+      },
+      "name": "不是现在",
+      "id": 2711492326,
+      "privilege": {
+        "id": 2711492326,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p2.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 202153,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8089005,
+        "vd": -54957,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 924513,
+        "fid": 0,
+        "size": 23365475,
+        "vd": -54947,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1693888,
+        "fid": 0,
+        "size": 42806982,
+        "vd": -54947,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3235629,
+        "vd": -50703,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4853421,
+        "vd": -52372,
+        "sr": 48000
+      },
+      "name": "甘蔗",
+      "id": 3402862330,
+      "privilege": {
+        "id": 3402862330,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 48993031,
+          "name": "叶霁晨",
+          "alia": [
+            "叶霁晨"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 35884195,
+          "name": "翁杰Winjay"
+        }
+      ],
+      "al": {
+        "id": 353125550,
+        "name": "攀讲",
+        "picUrl": "https://p1.music.126.net/qSB4xYmR675T_siPUd205g==/109951172382997221.jpg",
+        "pic_str": "109951172382997221",
+        "pic": 109951172382997220
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 217808,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8714493,
+        "vd": -33075,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1423660,
+        "fid": 0,
+        "size": 38764656,
+        "vd": -33074,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3485823,
+        "vd": -28691,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5228713,
+        "vd": -30446,
+        "sr": 44100
+      },
+      "name": "闰土",
+      "id": 3324822389,
+      "privilege": {
+        "id": 3324822389,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p1.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 160506,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6422445,
+        "vd": -39984,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 883105,
+        "fid": 0,
+        "size": 17720969,
+        "vd": -39984,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1651170,
+        "fid": 0,
+        "size": 33130871,
+        "vd": -39984,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2569005,
+        "vd": -35642,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3853485,
+        "vd": -37367,
+        "sr": 48000
+      },
+      "name": "羞于启齿",
+      "id": 2720100679,
+      "privilege": {
+        "id": 2720100679,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p2.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 247687,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9910125,
+        "vd": -44414,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 883046,
+        "fid": 0,
+        "size": 27344493,
+        "vd": -44410,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1651478,
+        "fid": 0,
+        "size": 51135865,
+        "vd": -44410,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3964077,
+        "vd": -40057,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5946093,
+        "vd": -41789,
+        "sr": 48000
+      },
+      "name": "也不高尚",
+      "id": 3396952697,
+      "privilege": {
+        "id": 3396952697,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 12319437,
+          "name": "RANZER叶润泽"
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p2.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 12,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 167568,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6705645,
+        "vd": -58498,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 996250,
+        "fid": 0,
+        "size": 20870657,
+        "vd": -58489,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1765444,
+        "fid": 0,
+        "size": 36982274,
+        "vd": -58489,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2682285,
+        "vd": -54302,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4023405,
+        "vd": -55922,
+        "sr": 48000
+      },
+      "name": "别碰我的狗（BONUS TRACK）",
+      "id": 2720097934,
+      "privilege": {
+        "id": 2720097934,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 178081825,
+        "name": "穿越夏季",
+        "picUrl": "https://p1.music.126.net/xT9SpommfNzRn0zyBaZ-_g==/109951169026486765.jpg",
+        "pic_str": "109951169026486765",
+        "pic": 109951169026486770
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 15,
+      "dt": 134304,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5374999,
+        "vd": -44360,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1542498,
+        "fid": 0,
+        "size": 25898026,
+        "vd": -44357,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2150026,
+        "vd": -40100,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3225017,
+        "vd": -41760,
+        "sr": 44100
+      },
+      "name": "奶奶",
+      "id": 2092079055,
+      "privilege": {
+        "id": 2092079055,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p2.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 22767092,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 183156,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7328685,
+        "vd": -56905,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 950720,
+        "fid": 0,
+        "size": 21769692,
+        "vd": -56903,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1718993,
+        "fid": 0,
+        "size": 39358935,
+        "vd": -56903,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2931501,
+        "vd": -52544,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4397229,
+        "vd": -54291,
+        "sr": 48000
+      },
+      "name": "第二幕",
+      "id": 2720100635,
+      "privilege": {
+        "id": 2720100635,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p1.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 194869,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7797165,
+        "vd": -57861,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 975486,
+        "fid": 0,
+        "size": 23761569,
+        "vd": -58575,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1738407,
+        "fid": 0,
+        "size": 42345335,
+        "vd": -57854,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3118893,
+        "vd": -53651,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4678317,
+        "vd": -55278,
+        "sr": 48000
+      },
+      "name": "冬日已过",
+      "id": 2635558258,
+      "privilege": {
+        "id": 2635558258,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 265193070,
+        "name": "能量作曲家",
+        "picUrl": "https://p2.music.126.net/8ZgFVJfNEHwH-l8cfJmTIw==/109951170567333697.jpg",
+        "pic_str": "109951170567333697",
+        "pic": 109951170567333700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 187018,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7483603,
+        "vd": -61491,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1691269,
+        "fid": 0,
+        "size": 39540855,
+        "vd": -61482,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2993467,
+        "vd": -57239,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4490179,
+        "vd": -58910,
+        "sr": 44100
+      },
+      "name": "不会再回来",
+      "id": 2682742125,
+      "privilege": {
+        "id": 2682742125,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p1.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 181263,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7252845,
+        "vd": -62779,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 844501,
+        "fid": 0,
+        "size": 19137980,
+        "vd": -62776,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1599979,
+        "fid": 0,
+        "size": 36255513,
+        "vd": -62776,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2901165,
+        "vd": -58585,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4351725,
+        "vd": -60216,
+        "sr": 48000
+      },
+      "name": "小学路上",
+      "id": 3402862269,
+      "privilege": {
+        "id": 3402862269,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 96547607,
+        "name": "Level Up",
+        "picUrl": "https://p2.music.126.net/Av-V4Z6cMx7rAAc0cz9g7Q==/109951168464022711.jpg",
+        "pic_str": "109951168464022711",
+        "pic": 109951168464022700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 12,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 177475,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7100125,
+        "vd": -29576,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1460360,
+        "fid": 0,
+        "size": 32390200,
+        "vd": -29600,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2840076,
+        "vd": -25251,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877440,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4260093,
+        "vd": -26975,
+        "sr": 44100
+      },
+      "name": "Someday",
+      "id": 1867677908,
+      "privilege": {
+        "id": 1867677908,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 13699781,
+          "name": "马赫mood"
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p1.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 222750,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8912685,
+        "vd": -49670,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1036328,
+        "fid": 0,
+        "size": 28859367,
+        "vd": -49653,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1797815,
+        "fid": 0,
+        "size": 50062007,
+        "vd": -49653,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3565101,
+        "vd": -45547,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5347629,
+        "vd": -47102,
+        "sr": 48000
+      },
+      "name": "买如意",
+      "id": 3402862091,
+      "privilege": {
+        "id": 3402862091,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 27869677,
+          "name": "gs.l",
+          "alia": [
+            "李卓桐"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 277894617,
+        "name": "这不是，唉",
+        "picUrl": "https://p2.music.126.net/8NmyDC_XBfp_o_Pu-_b9fQ==/109951171447087204.jpg",
+        "pic_str": "109951171447087204",
+        "pic": 109951171447087200
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 153697,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6150765,
+        "vd": -61865,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 941545,
+        "fid": 0,
+        "size": 18092001,
+        "vd": -61863,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1711261,
+        "fid": 0,
+        "size": 32879910,
+        "vd": -61863,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2460333,
+        "vd": -57535,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3690477,
+        "vd": -59239,
+        "sr": 48000
+      },
+      "name": "这不是，唉",
+      "id": 2724410236,
+      "privilege": {
+        "id": 2724410236,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12120573,
+          "name": "Newyounggo"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p1.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 22604985,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 183703,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7350765,
+        "vd": -62571,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 928735,
+        "fid": 0,
+        "size": 21326517,
+        "vd": -63307,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1696822,
+        "fid": 0,
+        "size": 38964080,
+        "vd": -62562,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2940333,
+        "vd": -58320,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4410477,
+        "vd": -59986,
+        "sr": 48000
+      },
+      "name": "麦田",
+      "id": 2612407379,
+      "privilege": {
+        "id": 2612407379,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p2.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 11,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 171724,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6871725,
+        "vd": -61050,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 993954,
+        "fid": 0,
+        "size": 21338920,
+        "vd": -61044,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1763234,
+        "fid": 0,
+        "size": 37851910,
+        "vd": -61044,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2748717,
+        "vd": -56830,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4123053,
+        "vd": -58464,
+        "sr": 48000
+      },
+      "name": "如果你不看我眼睛又怎么会了解",
+      "id": 3402861675,
+      "privilege": {
+        "id": 3402861675,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 12276200,
+          "name": "汉堡黄",
+          "tns": [
+            "puppiebelly"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p2.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 198545,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7944045,
+        "vd": -52222,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 951565,
+        "fid": 0,
+        "size": 23619788,
+        "vd": -52216,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1717081,
+        "fid": 0,
+        "size": 42618510,
+        "vd": -52216,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3177645,
+        "vd": -47980,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4766445,
+        "vd": -49664,
+        "sr": 48000
+      },
+      "name": "猫咪",
+      "id": 3402862416,
+      "privilege": {
+        "id": 3402862416,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 847107,
+          "name": "谢帝",
+          "alia": [
+            "BO$$X"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p1.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 192000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7681965,
+        "vd": -57676,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1099894,
+        "fid": 0,
+        "size": 26400993,
+        "vd": -57658,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1870412,
+        "fid": 0,
+        "size": 44893442,
+        "vd": -57658,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3072813,
+        "vd": -53726,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4609197,
+        "vd": -55147,
+        "sr": 48000
+      },
+      "name": "至高无上",
+      "id": 3402861325,
+      "privilege": {
+        "id": 3402861325,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 13027753,
+          "name": "等一下就回家",
+          "alia": [
+            "小叶"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 352853345,
+        "name": "天上",
+        "picUrl": "https://p2.music.126.net/BsSBhwdV-YLZ0lYTl8fSwg==/109951172375077503.jpg",
+        "pic_str": "109951172375077503",
+        "pic": 109951172375077500
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 210322,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8415405,
+        "vd": -58330,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 993939,
+        "fid": 0,
+        "size": 26134808,
+        "vd": -58316,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1762424,
+        "fid": 0,
+        "size": 46338485,
+        "vd": -58316,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3366189,
+        "vd": -54188,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5049261,
+        "vd": -55776,
+        "sr": 48000
+      },
+      "name": "天上",
+      "id": 3324099485,
+      "privilege": {
+        "id": 3324099485,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12120573,
+          "name": "Newyounggo"
+        },
+        {
+          "id": 12605500,
+          "name": "盛宇D-SHINE"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p1.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 259500,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10382445,
+        "vd": -47306,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 927007,
+        "fid": 0,
+        "size": 30069800,
+        "vd": -47328,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1695957,
+        "fid": 0,
+        "size": 55012623,
+        "vd": -47306,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4153005,
+        "vd": -43057,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6229485,
+        "vd": -44711,
+        "sr": 48000
+      },
+      "name": "蒙特卡洛",
+      "id": 2635558261,
+      "privilege": {
+        "id": 2635558261,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 12453329,
+          "name": "功夫胖KUNGFU-PEN"
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p2.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 212831,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8515245,
+        "vd": -45013,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1034171,
+        "fid": 0,
+        "size": 27516906,
+        "vd": -44995,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1804141,
+        "fid": 0,
+        "size": 48001113,
+        "vd": -44995,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3406125,
+        "vd": -41016,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5109165,
+        "vd": -42469,
+        "sr": 48000
+      },
+      "name": "别期待我",
+      "id": 2720100643,
+      "privilege": {
+        "id": 2720100643,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51212098,
+          "name": ".."
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p1.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 178363,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7136685,
+        "vd": -31446,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 992730,
+        "fid": 0,
+        "size": 22133385,
+        "vd": -31942,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1756614,
+        "fid": 0,
+        "size": 39164514,
+        "vd": -31437,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2854701,
+        "vd": -27229,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4282029,
+        "vd": -28873,
+        "sr": 48000
+      },
+      "name": "海燕",
+      "id": 2635558259,
+      "privilege": {
+        "id": 2635558259,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15196358,
+          "name": "小艾斯",
+          "alia": [
+            "Juniorxx小艾斯"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 267909749,
+        "name": "海燕",
+        "picUrl": "https://p1.music.126.net/d8RJrbKUBS9Kj3wljtQbZA==/109951170683489721.jpg",
+        "pic_str": "109951170683489721",
+        "pic": 109951170683489730
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 147140,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5887725,
+        "vd": -51584,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 932649,
+        "fid": 0,
+        "size": 17156532,
+        "vd": -51579,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2355117,
+        "vd": -47387,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877376,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3532653,
+        "vd": -48991,
+        "sr": 48000
+      },
+      "name": "艳阳天",
+      "id": 2690587809,
+      "privilege": {
+        "id": 2690587809,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 259789824,
+        "name": "你应该恨我",
+        "picUrl": "https://p2.music.126.net/JP8ZT9K23mDrnV2fU9rzMw==/109951170379917590.jpg",
+        "pic_str": "109951170379917590",
+        "pic": 109951170379917580
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 204000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8161965,
+        "vd": -49830,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 918182,
+        "fid": 0,
+        "size": 23417392,
+        "vd": -49827,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1687174,
+        "fid": 0,
+        "size": 43026699,
+        "vd": -49827,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3264813,
+        "vd": -45517,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4897197,
+        "vd": -47221,
+        "sr": 48000
+      },
+      "name": "你应该恨我",
+      "id": 2666309679,
+      "privilege": {
+        "id": 2666309679,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p2.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 11,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 168112,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6726765,
+        "vd": -44906,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 836860,
+        "fid": 0,
+        "size": 17588958,
+        "vd": -44906,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1599102,
+        "fid": 0,
+        "size": 33606771,
+        "vd": -44906,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2690733,
+        "vd": -40565,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4036077,
+        "vd": -42282,
+        "sr": 48000
+      },
+      "name": "湖边划船（BONUS TRACK）",
+      "id": 2720097933,
+      "privilege": {
+        "id": 2720097933,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p1.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 153230,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6131565,
+        "vd": -57501,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1048503,
+        "fid": 0,
+        "size": 20085718,
+        "vd": -57484,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1818544,
+        "fid": 0,
+        "size": 34834972,
+        "vd": -57484,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2452653,
+        "vd": -53182,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3678957,
+        "vd": -54920,
+        "sr": 48000
+      },
+      "name": "卷裤脚",
+      "id": 3402862136,
+      "privilege": {
+        "id": 3402862136,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p1.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 120521,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4823085,
+        "vd": -55194,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1093334,
+        "fid": 0,
+        "size": 16473578,
+        "vd": -55180,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1863460,
+        "fid": 0,
+        "size": 28075693,
+        "vd": -55180,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1929261,
+        "vd": -51141,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2893869,
+        "vd": -52643,
+        "sr": 48000
+      },
+      "name": "才睡醒",
+      "id": 3402862014,
+      "privilege": {
+        "id": 3402862014,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12605500,
+          "name": "盛宇D-SHINE"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 12453329,
+          "name": "功夫胖KUNGFU-PEN"
+        },
+        {
+          "id": 12059091,
+          "name": "THE-BETA"
+        }
+      ],
+      "al": {
+        "id": 164464029,
+        "name": "CSC 2023 CYPHER",
+        "picUrl": "https://p1.music.126.net/jI_CVaKbzT1W7XI_hxKrRg==/109951168571535838.jpg",
+        "pic_str": "109951168571535838",
+        "pic": 109951168571535840
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 198624,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7947885,
+        "vd": -58870,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 975910,
+        "fid": 0,
+        "size": 24229911,
+        "vd": -58584,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1739962,
+        "fid": 0,
+        "size": 43199813,
+        "vd": -58540,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3179181,
+        "vd": -54757,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4768749,
+        "vd": -56290,
+        "sr": 48000
+      },
+      "name": "CSC 2023 CYPHER PART 4 “BOOMBAP”",
+      "id": 2042583534,
+      "privilege": {
+        "id": 2042583534,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        }
+      ],
+      "al": {
+        "id": 163842690,
+        "name": "Leave",
+        "picUrl": "https://p1.music.126.net/vwcB9xspYuzK2aN5mCnPtw==/109951168582632331.jpg",
+        "pic_str": "109951168582632331",
+        "pic": 109951168582632340
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 175254,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7012845,
+        "vd": -64001,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 839688,
+        "fid": 0,
+        "size": 18394895,
+        "vd": -64058,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1597377,
+        "fid": 0,
+        "size": 34993449,
+        "vd": -63995,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2805165,
+        "vd": -59655,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4207725,
+        "vd": -61376,
+        "sr": 48000
+      },
+      "name": "Leave",
+      "id": 2039986280,
+      "privilege": {
+        "id": 2039986280,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12120573,
+          "name": "Newyounggo"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p2.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 156766,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6272685,
+        "vd": -64366,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 980679,
+        "fid": 0,
+        "size": 19217181,
+        "vd": -64481,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1749149,
+        "fid": 0,
+        "size": 34275960,
+        "vd": -64359,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2509101,
+        "vd": -60196,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3763629,
+        "vd": -61784,
+        "sr": 48000
+      },
+      "name": "闻所未闻",
+      "id": 2617232881,
+      "privilege": {
+        "id": 2617232881,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p1.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 167143,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6688365,
+        "vd": -47446,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 891612,
+        "fid": 0,
+        "size": 18631534,
+        "vd": -47440,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1659764,
+        "fid": 0,
+        "size": 34680520,
+        "vd": -47440,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2675373,
+        "vd": -43166,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4013037,
+        "vd": -44856,
+        "sr": 48000
+      },
+      "name": "只是还可以",
+      "id": 2720097914,
+      "privilege": {
+        "id": 2720097914,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 178081825,
+        "name": "穿越夏季",
+        "picUrl": "https://p2.music.126.net/xT9SpommfNzRn0zyBaZ-_g==/109951169026486765.jpg",
+        "pic_str": "109951169026486765",
+        "pic": 109951169026486770
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 198320,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7935405,
+        "vd": -54807,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 983204,
+        "fid": 0,
+        "size": 24373708,
+        "vd": -54946,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1735800,
+        "fid": 0,
+        "size": 43030633,
+        "vd": -54788,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3174189,
+        "vd": -50620,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4761261,
+        "vd": -52232,
+        "sr": 48000
+      },
+      "name": "穿越夏季",
+      "id": 2096115508,
+      "privilege": {
+        "id": 2096115508,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 183333481,
+        "name": "Born To Be Naughty",
+        "picUrl": "https://p2.music.126.net/BqrW9_LbBnBT6dODLlQTZw==/109951169266041905.jpg",
+        "pic_str": "109951169266041905",
+        "pic": 109951169266041900
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 184615,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7387245,
+        "vd": -53656,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 967000,
+        "fid": 0,
+        "size": 22315388,
+        "vd": -53734,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1735422,
+        "fid": 0,
+        "size": 40048219,
+        "vd": -53658,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2954925,
+        "vd": -49388,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871040,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4432365,
+        "vd": -51073,
+        "sr": 48000
+      },
+      "name": "马格南",
+      "id": 2118185442,
+      "privilege": {
+        "id": 2118185442,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 183333481,
+        "name": "Born To Be Naughty",
+        "picUrl": "https://p2.music.126.net/BqrW9_LbBnBT6dODLlQTZw==/109951169266041905.jpg",
+        "pic_str": "109951169266041905",
+        "pic": 109951169266041900
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 172427,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6899565,
+        "vd": -62877,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 986380,
+        "fid": 0,
+        "size": 21259857,
+        "vd": -63990,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1752182,
+        "fid": 0,
+        "size": 37765498,
+        "vd": -62884,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2759853,
+        "vd": -58649,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871040,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4139757,
+        "vd": -60286,
+        "sr": 48000
+      },
+      "name": "黄金矿工",
+      "id": 2118183647,
+      "privilege": {
+        "id": 2118183647,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 276554774,
+        "name": "羞于启齿",
+        "picUrl": "https://p1.music.126.net/POtte5sgkL1WN6S9yap0kQ==/109951171367489486.jpg",
+        "pic_str": "109951171367489486",
+        "pic": 109951171367489490
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 210956,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8440365,
+        "vd": -49691,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 866746,
+        "fid": 0,
+        "size": 22859582,
+        "vd": -49686,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1633822,
+        "fid": 0,
+        "size": 43087015,
+        "vd": -49686,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3376173,
+        "vd": -45356,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5064237,
+        "vd": -47077,
+        "sr": 48000
+      },
+      "name": "侃爷我想对你说",
+      "id": 2720097903,
+      "privilege": {
+        "id": 2720097903,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 183333481,
+        "name": "Born To Be Naughty",
+        "picUrl": "https://p1.music.126.net/BqrW9_LbBnBT6dODLlQTZw==/109951169266041905.jpg",
+        "pic_str": "109951169266041905",
+        "pic": 109951169266041900
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 174545,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6984045,
+        "vd": -56857,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 960135,
+        "fid": 0,
+        "size": 20948404,
+        "vd": -57213,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1729029,
+        "fid": 0,
+        "size": 37724285,
+        "vd": -56853,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2793645,
+        "vd": -52536,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 536871040,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4190445,
+        "vd": -54258,
+        "sr": 48000
+      },
+      "name": "曼陀罗",
+      "id": 2118179639,
+      "privilege": {
+        "id": 2118179639,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46672357,
+          "name": "姚涤",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 1159101,
+          "name": "c0de731",
+          "alia": [
+            "让长沙一直骄傲"
+          ]
+        }
+      ],
+      "al": {
+        "id": 183333481,
+        "name": "Born To Be Naughty",
+        "picUrl": "https://p2.music.126.net/BqrW9_LbBnBT6dODLlQTZw==/109951169266041905.jpg",
+        "pic_str": "109951169266041905",
+        "pic": 109951169266041900
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 220800,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8833965,
+        "vd": -25449,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 925750,
+        "fid": 0,
+        "size": 25550712,
+        "vd": -25423,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1693799,
+        "fid": 0,
+        "size": 46748873,
+        "vd": -25469,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3533613,
+        "vd": -21110,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5300397,
+        "vd": -22836,
+        "sr": 48000
+      },
+      "name": "Notice Me",
+      "id": 2103328580,
+      "tns": [
+        "四目相对"
+      ],
+      "privilege": {
+        "id": 2103328580,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12120573,
+          "name": "Newyounggo"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 250418440,
+        "name": "蒙特卡洛在哪",
+        "picUrl": "https://p1.music.126.net/mV0j-GNCPPpUYjMJj2npOA==/109951170035152173.jpg",
+        "pic_str": "109951170035152173",
+        "pic": 109951170035152180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 158603,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6346605,
+        "vd": -54918,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1020771,
+        "fid": 0,
+        "size": 20237280,
+        "vd": -55143,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1788487,
+        "fid": 0,
+        "size": 35457600,
+        "vd": -54965,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2538669,
+        "vd": -51025,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3807981,
+        "vd": -52456,
+        "sr": 48000
+      },
+      "name": "荒诞的度过",
+      "id": 2621637172,
+      "privilege": {
+        "id": 2621637172,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 156739436,
+        "name": "彩蝶",
+        "picUrl": "https://p1.music.126.net/F2ETbthjknFzKfKXXcBo9Q==/109951168155312139.jpg",
+        "pic_str": "109951168155312139",
+        "pic": 109951168155312140
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 135324,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5415405,
+        "vd": -42910,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 908822,
+        "fid": 0,
+        "size": 15373285,
+        "vd": -42886,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1676329,
+        "fid": 0,
+        "size": 28356116,
+        "vd": -42908,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2166189,
+        "vd": -38715,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748352,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3249261,
+        "vd": -40300,
+        "sr": 48000
+      },
+      "name": "彩蝶",
+      "id": 2007631061,
+      "privilege": {
+        "id": 2007631061,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 1124093,
+          "name": "西奥Sio"
+        },
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 12610201,
+          "name": "陈泽希"
+        }
+      ],
+      "al": {
+        "id": 239698208,
+        "name": "说唱梦工厂 第5期",
+        "picUrl": "https://p1.music.126.net/lSlA38JXTJZ9oVMBvvdmhg==/109951169700425437.jpg",
+        "pic_str": "109951169700425437",
+        "pic": 109951169700425440
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 259746,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 7001,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10392045,
+        "vd": -41603,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1030011,
+        "fid": 0,
+        "size": 33442774,
+        "vd": -41659,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1799786,
+        "fid": 0,
+        "size": 58436093,
+        "vd": -41586,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4156845,
+        "vd": -37641,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6235245,
+        "vd": -39088,
+        "sr": 48000
+      },
+      "name": "灵气闪耀 (live)",
+      "id": 2600173986,
+      "privilege": {
+        "id": 2600173986,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 178081825,
+        "name": "穿越夏季",
+        "picUrl": "https://p1.music.126.net/xT9SpommfNzRn0zyBaZ-_g==/109951169026486765.jpg",
+        "pic_str": "109951169026486765",
+        "pic": 109951169026486770
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 124578,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4985325,
+        "vd": -50382,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 879209,
+        "fid": 0,
+        "size": 13691380,
+        "vd": -50316,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1642859,
+        "fid": 0,
+        "size": 25583223,
+        "vd": -50355,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1994157,
+        "vd": -46116,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2991213,
+        "vd": -47807,
+        "sr": 48000
+      },
+      "name": "夏日时光",
+      "id": 2096117020,
+      "privilege": {
+        "id": 2096117020,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 156739436,
+        "name": "彩蝶",
+        "picUrl": "https://p1.music.126.net/F2ETbthjknFzKfKXXcBo9Q==/109951168155312139.jpg",
+        "pic_str": "109951168155312139",
+        "pic": 109951168155312140
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 174045,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6963885,
+        "vd": -43946,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 835821,
+        "fid": 0,
+        "size": 18183912,
+        "vd": -43794,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1593176,
+        "fid": 0,
+        "size": 34660716,
+        "vd": -43940,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2785581,
+        "vd": -39785,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748352,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4178349,
+        "vd": -41361,
+        "sr": 48000
+      },
+      "name": "1500 FREESTYLE",
+      "id": 2007629638,
+      "privilege": {
+        "id": 2007629638,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 96547607,
+        "name": "Level Up",
+        "picUrl": "https://p2.music.126.net/Av-V4Z6cMx7rAAc0cz9g7Q==/109951168464022711.jpg",
+        "pic_str": "109951168464022711",
+        "pic": 109951168464022700
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 23,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 18,
+      "dt": 215760,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8632365,
+        "vd": -73534,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1787556,
+        "fid": 0,
+        "size": 48210401,
+        "vd": -73525,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3452973,
+        "vd": -69235,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17179877440,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5179437,
+        "vd": -70947,
+        "sr": 48000
+      },
+      "name": "跟我走",
+      "id": 1803631753,
+      "privilege": {
+        "id": 1803631753,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32893629,
+          "name": "陈一豪Clear",
+          "alia": [
+            "让长沙再次骄傲"
+          ]
+        },
+        {
+          "id": 51265187,
+          "name": "INDEcompany"
+        }
+      ],
+      "al": {
+        "id": 385731179,
+        "name": "也不高尚",
+        "picUrl": "https://p2.music.126.net/6UMBKAJ312V6ck6UWS5_aA==/109951173520650197.jpg",
+        "pic_str": "109951173520650197",
+        "pic": 109951173520650190
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 165230,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6611565,
+        "vd": 28440,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 805178,
+        "fid": 0,
+        "size": 16633103,
+        "vd": 28442,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1566886,
+        "fid": 0,
+        "size": 32365309,
+        "vd": 28442,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2644653,
+        "vd": 32843,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "mark": 17716748288,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3966957,
+        "vd": 31074,
+        "sr": 48000
+      },
+      "name": "第三张专辑困境（SKIT）",
+      "id": 3402861471,
+      "privilege": {
+        "id": 3402861471,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "more": true,
+  "code": 200
+}

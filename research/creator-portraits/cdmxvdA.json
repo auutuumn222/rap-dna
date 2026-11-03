@@ -1,0 +1,56 @@
+{
+  "id": "cdmxvdA",
+  "name": "VLOT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53286300,
+          "name": "Vlotex"
+        },
+        {
+          "id": 55361342,
+          "name": "VLOT"
+        },
+        {
+          "id": 35765126,
+          "name": "Vlotte Jongens"
+        },
+        {
+          "id": 31599235,
+          "name": "VLOTKA"
+        },
+        {
+          "id": 54065742,
+          "name": "Vlotnetic"
+        },
+        {
+          "id": 14935495,
+          "name": "Rishi Vlote"
+        },
+        {
+          "id": 54486498,
+          "name": "Mijntje Vloten"
+        },
+        {
+          "id": 123287540,
+          "name": "vlot柏图"
+        },
+        {
+          "id": 129395620,
+          "name": "Vlotte Ω"
+        },
+        {
+          "id": 50563370,
+          "name": "Vlotte Babbel"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

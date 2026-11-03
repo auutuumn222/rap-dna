@@ -1,0 +1,15 @@
+{
+  "id": "cd2F2ZWZsaXg",
+  "name": "Waveflix",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

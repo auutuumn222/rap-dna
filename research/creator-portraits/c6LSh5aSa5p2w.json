@@ -1,0 +1,24 @@
+{
+  "id": "c6LSh5aSa5p2w",
+  "name": "贡多杰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50904371,
+          "name": "Fergus Chow"
+        },
+        {
+          "id": 100591533,
+          "name": "华贡多杰"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

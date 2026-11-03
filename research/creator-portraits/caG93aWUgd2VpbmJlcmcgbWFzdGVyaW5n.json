@@ -1,0 +1,15 @@
+{
+  "id": "caG93aWUgd2VpbmJlcmcgbWFzdGVyaW5n",
+  "name": "Howie Weinberg Mastering",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

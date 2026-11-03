@@ -1,0 +1,56 @@
+{
+  "id": "cc2FuYQ",
+  "name": "Sana",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12142072,
+          "name": "SANA"
+        },
+        {
+          "id": 55656002,
+          "name": "MISAMO"
+        },
+        {
+          "id": 1002089,
+          "name": "鎖那"
+        },
+        {
+          "id": 47483743,
+          "name": "sana (sajou no hana)"
+        },
+        {
+          "id": 100103859,
+          "name": "sana"
+        },
+        {
+          "id": 30546819,
+          "name": "sanae様"
+        },
+        {
+          "id": 95298249,
+          "name": "sanae kochiya"
+        },
+        {
+          "id": 50635658,
+          "name": "sana"
+        },
+        {
+          "id": 96252275,
+          "name": "Sana Yu"
+        },
+        {
+          "id": 51428200,
+          "name": "Sana Munjal"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

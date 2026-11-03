@@ -1,0 +1,15 @@
+{
+  "id": "cYm9uY2Vnb2hhcmQ",
+  "name": "boncegohard",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cd2VzIHNpbmdlcm1hbg",
+  "name": "Wes Singerman",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

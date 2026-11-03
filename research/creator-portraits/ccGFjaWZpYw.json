@@ -1,0 +1,56 @@
+{
+  "id": "ccGFjaWZpYw",
+  "name": "Pacific",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47557698,
+          "name": "Pacific"
+        },
+        {
+          "id": 30413007,
+          "name": "Pacific Avenue"
+        },
+        {
+          "id": 33866577,
+          "name": "Pacific Rain"
+        },
+        {
+          "id": 35084313,
+          "name": "Pacific Purgatory"
+        },
+        {
+          "id": 47530196,
+          "name": "Pacific Soundscapes"
+        },
+        {
+          "id": 71419,
+          "name": "Pacific!"
+        },
+        {
+          "id": 737145,
+          "name": "pacificUV"
+        },
+        {
+          "id": 85574,
+          "name": "Amber Pacific"
+        },
+        {
+          "id": 232209,
+          "name": "Pacific"
+        },
+        {
+          "id": 12675112,
+          "name": "PACIFICA"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

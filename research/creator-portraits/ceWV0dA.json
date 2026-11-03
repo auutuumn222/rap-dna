@@ -1,0 +1,56 @@
+{
+  "id": "ceWV0dA",
+  "name": "Yett",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14790261,
+          "name": "The Yetties"
+        },
+        {
+          "id": 34966092,
+          "name": "耶哒Yetta"
+        },
+        {
+          "id": 13770475,
+          "name": "Yetti"
+        },
+        {
+          "id": 97938601,
+          "name": "Ilham Yette"
+        },
+        {
+          "id": 46483466,
+          "name": "Yetta and Bayaire XO"
+        },
+        {
+          "id": 36122791,
+          "name": "Yetti Meissner"
+        },
+        {
+          "id": 51849386,
+          "name": "Yettis"
+        },
+        {
+          "id": 54434014,
+          "name": "Yetti Rumuat"
+        },
+        {
+          "id": 46886970,
+          "name": "Yettonor"
+        },
+        {
+          "id": 37447666,
+          "name": "Yettyin7"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

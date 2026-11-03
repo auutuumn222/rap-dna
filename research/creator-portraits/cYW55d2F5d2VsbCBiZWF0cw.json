@@ -1,0 +1,20 @@
+{
+  "id": "cYW55d2F5d2VsbCBiZWF0cw",
+  "name": "Anywaywell Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32118359,
+          "name": "Anywaywell Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c5p6X5riF5pm6IHphY2hhcnkgbGlu",
+  "name": "林清智 Zachary Lin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

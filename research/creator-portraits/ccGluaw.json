@@ -1,0 +1,56 @@
+{
+  "id": "ccGluaw",
+  "name": "Pink",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 70821,
+          "name": "P!nk"
+        },
+        {
+          "id": 98541,
+          "name": "Pink Floyd"
+        },
+        {
+          "id": 12068017,
+          "name": "BLACKPINK"
+        },
+        {
+          "id": 28085265,
+          "name": "Pink Sweat$"
+        },
+        {
+          "id": 126277,
+          "name": "Apink"
+        },
+        {
+          "id": 966176,
+          "name": "Pink Guy"
+        },
+        {
+          "id": 70833,
+          "name": "Pink Martini"
+        },
+        {
+          "id": 841344,
+          "name": "PINK"
+        },
+        {
+          "id": 471405,
+          "name": "Bryce Pinkham"
+        },
+        {
+          "id": 31582406,
+          "name": "pink glass"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cc2FtbXkgaGFpZw",
+  "name": "Sammy Haig",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47846838,
+          "name": "Sammy Haig"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

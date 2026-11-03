@@ -1,0 +1,36 @@
+{
+  "id": "c5p2o5Lyv5Lie",
+  "name": "杨伯丞",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32241530,
+          "name": "杨伯丞"
+        },
+        {
+          "id": 12213291,
+          "name": "张叶蕾"
+        },
+        {
+          "id": 33998295,
+          "name": "风岸"
+        },
+        {
+          "id": 31716441,
+          "name": "7星"
+        },
+        {
+          "id": 12798013,
+          "name": "九道灰"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

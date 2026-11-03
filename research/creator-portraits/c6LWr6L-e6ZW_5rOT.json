@@ -1,0 +1,20 @@
+{
+  "id": "c6LWr6L-e6ZW_5rOT",
+  "name": "赫连长泓",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12110180,
+          "name": "赫连长泓"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

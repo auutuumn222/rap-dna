@@ -1,0 +1,36 @@
+{
+  "id": "n32827173",
+  "name": "404#udkcis",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32827173,
+          "name": "404#udkcis"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "404#udkcis",
+    "image": "./assets/people/n32827173.jpg",
+    "source": "https://music.163.com/artist?id=32827173",
+    "imageSource": "https://p1.music.126.net/6S46AGuU79MSCEEYXEVlUg==/109951172306201292.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 32827173,
+      "works": [
+        {
+          "id": 1910638946,
+          "title": "懂娃Ft.JinJiBeWater隼"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1910638946"
+      ]
+    }
+  }
+}

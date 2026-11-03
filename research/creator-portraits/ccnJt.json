@@ -1,0 +1,56 @@
+{
+  "id": "ccnJt",
+  "name": "RRM",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54046784,
+          "name": "RRML"
+        },
+        {
+          "id": 54931951,
+          "name": "Patrik RRMM"
+        },
+        {
+          "id": 35089262,
+          "name": "Rrm Gunna"
+        },
+        {
+          "id": 123473676,
+          "name": "RRMO"
+        },
+        {
+          "id": 127579,
+          "name": "RRM"
+        },
+        {
+          "id": 33455801,
+          "name": "RRM"
+        },
+        {
+          "id": 55278328,
+          "name": "RRM IMMORTAL"
+        },
+        {
+          "id": 126175327,
+          "name": "RRM Podcast Production"
+        },
+        {
+          "id": 125874364,
+          "name": "PAPI RRM"
+        },
+        {
+          "id": 35671348,
+          "name": "The RRM Jazz Band"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

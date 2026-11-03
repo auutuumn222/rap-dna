@@ -1,0 +1,20 @@
+{
+  "id": "cbWF4bWl4aW5n",
+  "name": "MaxMixing",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51892623,
+          "name": "MaxMix"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

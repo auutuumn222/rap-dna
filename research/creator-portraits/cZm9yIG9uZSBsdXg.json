@@ -1,0 +1,44 @@
+{
+  "id": "cZm9yIG9uZSBsdXg",
+  "name": "For one lux",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46276257,
+          "name": "For one lux"
+        },
+        {
+          "id": 33134371,
+          "name": "B3AR"
+        },
+        {
+          "id": 54381127,
+          "name": "ZoneS"
+        },
+        {
+          "id": 34205815,
+          "name": "NR MAO"
+        },
+        {
+          "id": 55455385,
+          "name": "Chos3n"
+        },
+        {
+          "id": 32833783,
+          "name": "SINGlE$HOT"
+        },
+        {
+          "id": 33603956,
+          "name": "KillDante"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

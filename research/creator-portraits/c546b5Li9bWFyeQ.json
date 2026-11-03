@@ -1,0 +1,57 @@
+{
+  "id": "c546b5Li9bWFyeQ",
+  "name": "玛丽Mary",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12080054,
+          "name": "Hollyn"
+        },
+        {
+          "id": 98546,
+          "name": "Peter, Paul & Mary"
+        },
+        {
+          "id": 12358,
+          "name": "先知玛莉"
+        },
+        {
+          "id": 1050670,
+          "name": "Holy Molly"
+        },
+        {
+          "id": 442025,
+          "name": "Mark Crozer"
+        },
+        {
+          "id": 48823148,
+          "name": "Scott Von Ryper"
+        },
+        {
+          "id": 52603811,
+          "name": "Josh Ba"
+        },
+        {
+          "id": 52603814,
+          "name": "Fish Liu"
+        },
+        {
+          "id": 52603006,
+          "name": "Eric Fang"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1584961945,
+          "name": "玛丽Mary"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cZmxvd2VycyBpbiBuYXJuaWE",
+  "name": "flowers in narnia",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32962588,
+          "name": "flowers in narnia"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

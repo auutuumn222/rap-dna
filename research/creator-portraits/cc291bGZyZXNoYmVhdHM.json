@@ -1,0 +1,32 @@
+{
+  "id": "cc291bGZyZXNoYmVhdHM",
+  "name": "SOULFRESHBEATS",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13448119,
+          "name": "SOULFRESHBEATS R&B"
+        },
+        {
+          "id": 12730781,
+          "name": "SOULFRESH BEATS"
+        },
+        {
+          "id": 51346830,
+          "name": "老衲不吃饭"
+        },
+        {
+          "id": 46874287,
+          "name": "SOULFRESH BEATS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ccmVhbCByaWNoIG1vbmV5",
+  "name": "Real Rich Money",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49381270,
+          "name": "Real Rich Money"
+        },
+        {
+          "id": 37600763,
+          "name": "RealRichMoney"
+        },
+        {
+          "id": 34806910,
+          "name": "1RealRichMoney"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

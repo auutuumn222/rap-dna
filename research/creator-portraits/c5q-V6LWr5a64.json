@@ -1,0 +1,20 @@
+{
+  "id": "c5q-V6LWr5a64",
+  "name": "毕赫宸",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33992584,
+          "name": "毕赫宸"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

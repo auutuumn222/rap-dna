@@ -1,0 +1,28 @@
+{
+  "id": "ceXVuZ2sy",
+  "name": "YungK2",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12528829,
+          "name": "YungK2"
+        },
+        {
+          "id": 32577274,
+          "name": "YungK2"
+        },
+        {
+          "id": 47097666,
+          "name": "Yung k2"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

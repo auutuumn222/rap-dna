@@ -1,0 +1,32 @@
+{
+  "id": "c5p6X6L-I5Y-v",
+  "name": "林迈可",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 188664,
+          "name": "林迈可"
+        },
+        {
+          "id": 7534,
+          "name": "丁当"
+        },
+        {
+          "id": 6079,
+          "name": "言承旭"
+        },
+        {
+          "id": 1081635,
+          "name": "二珂"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

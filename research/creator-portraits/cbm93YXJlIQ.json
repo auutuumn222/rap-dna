@@ -1,0 +1,56 @@
+{
+  "id": "cbm93YXJlIQ",
+  "name": "NOWARE!",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47659815,
+          "name": "NOWARE!"
+        },
+        {
+          "id": 48370742,
+          "name": "Noware"
+        },
+        {
+          "id": 47992738,
+          "name": "Noware"
+        },
+        {
+          "id": 49630797,
+          "name": "NOWARE! Beats"
+        },
+        {
+          "id": 36670964,
+          "name": "Noware Fast"
+        },
+        {
+          "id": 97102012,
+          "name": "Journey to NoWare"
+        },
+        {
+          "id": 55310625,
+          "name": "NOWARS"
+        },
+        {
+          "id": 34801599,
+          "name": "Nowar"
+        },
+        {
+          "id": 128539468,
+          "name": "NOWAR"
+        },
+        {
+          "id": 100092474,
+          "name": "NOWAR SIX"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

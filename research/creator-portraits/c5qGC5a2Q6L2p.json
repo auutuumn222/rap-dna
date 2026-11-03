@@ -1,0 +1,32 @@
+{
+  "id": "c5qGC5a2Q6L2p",
+  "name": "桂子轩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29231064,
+          "name": "桂子轩"
+        },
+        {
+          "id": 54300289,
+          "name": "桂子轩"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        },
+        {
+          "id": 57618218,
+          "name": "TF家族练习生"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

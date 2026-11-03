@@ -1,0 +1,56 @@
+{
+  "id": "cc2lja2JveQ",
+  "name": "sickboy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54173013,
+          "name": "Sickboy阿操"
+        },
+        {
+          "id": 12728492,
+          "name": "Sickboy"
+        },
+        {
+          "id": 30492100,
+          "name": "Sickboyrari"
+        },
+        {
+          "id": 125623264,
+          "name": "SICKBOY"
+        },
+        {
+          "id": 55791316,
+          "name": "Pun sickboy"
+        },
+        {
+          "id": 47596672,
+          "name": "Black Kray aka Sickboyrari"
+        },
+        {
+          "id": 54664442,
+          "name": "SICKBOY (AR)"
+        },
+        {
+          "id": 35029013,
+          "name": "Sickboyz"
+        },
+        {
+          "id": 46313061,
+          "name": "sickboyillusions"
+        },
+        {
+          "id": 129427724,
+          "name": "SickBoy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

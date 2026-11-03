@@ -1,0 +1,40 @@
+{
+  "id": "cdmlzdWR5",
+  "name": "Visudy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 789949,
+          "name": "Visudy"
+        },
+        {
+          "id": 32540734,
+          "name": "塞壬唱片-MSR"
+        },
+        {
+          "id": 12020017,
+          "name": "阿克江Akin"
+        },
+        {
+          "id": 12052021,
+          "name": "z1on"
+        },
+        {
+          "id": 94515850,
+          "name": "ReStudio"
+        },
+        {
+          "id": 48987130,
+          "name": "林昱"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

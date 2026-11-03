@@ -1,0 +1,36 @@
+{
+  "id": "c55m-5LqL57OW",
+  "name": "百事糖",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12386878,
+          "name": "谭玉堂"
+        },
+        {
+          "id": 99816846,
+          "name": "百事无糖可乐"
+        },
+        {
+          "id": 100561049,
+          "name": "冰糖百事"
+        },
+        {
+          "id": 53775660,
+          "name": "4度无糖百事"
+        },
+        {
+          "id": 98584384,
+          "name": "百事可乐多加糖"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

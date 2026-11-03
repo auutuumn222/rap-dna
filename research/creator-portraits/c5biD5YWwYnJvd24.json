@@ -1,0 +1,53 @@
+{
+  "id": "c5biD5YWwYnJvd24",
+  "name": "布兰Brown",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12002120,
+          "name": "布兰Brown"
+        },
+        {
+          "id": 1087200,
+          "name": "AThree"
+        },
+        {
+          "id": 839689,
+          "name": "SAM"
+        },
+        {
+          "id": 12359027,
+          "name": "HAS"
+        },
+        {
+          "id": 1213040,
+          "name": "尔夏"
+        },
+        {
+          "id": 1158129,
+          "name": "羊仔AKA"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "布兰Brown",
+    "image": "./assets/people/c5biD5YWwYnJvd24.jpg",
+    "source": "https://music.163.com/artist?id=12002120",
+    "imageSource": "https://p1.music.126.net/ehOfNLgfmgn6K0eb_o3J0g==/109951170489753555.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 12002120,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=1402883968",
+        "https://music.163.com/song?id=1975253843",
+        "https://music.163.com/song?id=1975253870"
+      ]
+    }
+  }
+}

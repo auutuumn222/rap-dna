@@ -1,0 +1,40 @@
+{
+  "id": "c5YiY5Z-O5Ye9",
+  "name": "刘城函",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32673826,
+          "name": "刘森"
+        },
+        {
+          "id": 12265481,
+          "name": "Vyan"
+        },
+        {
+          "id": 12251180,
+          "name": "刘蕴晴"
+        },
+        {
+          "id": 28419569,
+          "name": "方块兄弟"
+        },
+        {
+          "id": 56650185,
+          "name": "刘进"
+        },
+        {
+          "id": 123217716,
+          "name": "刘宁"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

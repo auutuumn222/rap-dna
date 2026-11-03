@@ -1,0 +1,28 @@
+{
+  "id": "cZWx0b24gdG9t",
+  "name": "Elton Tom",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48147966,
+          "name": "Elton Tom"
+        },
+        {
+          "id": 35279103,
+          "name": "Elton Tom Anointed"
+        },
+        {
+          "id": 51848767,
+          "name": "El Tonto Music"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

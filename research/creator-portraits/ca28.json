@@ -1,0 +1,56 @@
+{
+  "id": "ca28",
+  "name": "Ko",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36937630,
+          "name": "KO"
+        },
+        {
+          "id": 16691,
+          "name": "KOTOKO"
+        },
+        {
+          "id": 35784564,
+          "name": "弹壳Danko"
+        },
+        {
+          "id": 34736018,
+          "name": "Coach Kody"
+        },
+        {
+          "id": 14623,
+          "name": "koyori"
+        },
+        {
+          "id": 52832672,
+          "name": "Kobo Kanaeru"
+        },
+        {
+          "id": 30707819,
+          "name": "koos"
+        },
+        {
+          "id": 33048607,
+          "name": "科福KOV"
+        },
+        {
+          "id": 53251,
+          "name": "Dave Koz"
+        },
+        {
+          "id": 122783713,
+          "name": "Aaron Kos"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

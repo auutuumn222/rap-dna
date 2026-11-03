@@ -1,0 +1,41 @@
+{
+  "id": "c5a6L6Ziz",
+  "name": "宋阳",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1015028,
+          "name": "宋阳"
+        },
+        {
+          "id": 28291908,
+          "name": "宋阳"
+        },
+        {
+          "id": 52222506,
+          "name": "温华"
+        },
+        {
+          "id": 54849252,
+          "name": "聂宋阳"
+        },
+        {
+          "id": 1132085,
+          "name": "熊猫眼乐队"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1593824268,
+          "name": "宋阳"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "c6LCi55C05Yia",
+  "name": "谢琴刚",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34600610,
+          "name": "谢琴刚"
+        },
+        {
+          "id": 28185203,
+          "name": "Victor☆"
+        },
+        {
+          "id": 13152751,
+          "name": "Tphunk"
+        },
+        {
+          "id": 15060505,
+          "name": "FANNY"
+        },
+        {
+          "id": 34825469,
+          "name": "6SP"
+        },
+        {
+          "id": 34645576,
+          "name": "饼饼BingBing"
+        },
+        {
+          "id": 35882930,
+          "name": "divineemissary"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

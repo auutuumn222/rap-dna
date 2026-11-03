@@ -1,0 +1,58 @@
+{
+  "id": "n30395569",
+  "name": "杨秋儒",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30395569,
+          "name": "杨秋儒"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "杨秋儒",
+    "image": "./assets/people/n30395569.jpg",
+    "source": "https://music.163.com/artist?id=30395569",
+    "imageSource": "https://p2.music.126.net/CWHwao96_ZSNuU2qU_JeLw==/109951168915251633.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 30395569,
+      "works": [
+        {
+          "id": 1336856498,
+          "title": "我想part2"
+        },
+        {
+          "id": 1969846925,
+          "title": "回家part2"
+        },
+        {
+          "id": 1334297109,
+          "title": "回家"
+        },
+        {
+          "id": 1488985584,
+          "title": "伤心游击队 (sad squaad)"
+        },
+        {
+          "id": 1845409162,
+          "title": "温柔小曲"
+        },
+        {
+          "id": 1488985592,
+          "title": "最短的告白"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1321385072",
+        "https://music.163.com/song?id=1321385074",
+        "https://music.163.com/song?id=1336856498"
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ceW91bmcgb3o",
+  "name": "Young oz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55149472,
+          "name": "Young Ozz"
+        },
+        {
+          "id": 53571344,
+          "name": "Young ozne"
+        },
+        {
+          "id": 37207926,
+          "name": "Young Oz"
+        },
+        {
+          "id": 34930992,
+          "name": "Young Oz."
+        },
+        {
+          "id": 51471632,
+          "name": "Young Ozzy"
+        },
+        {
+          "id": 97858942,
+          "name": "Young Ozhani"
+        },
+        {
+          "id": 33444974,
+          "name": "young ozaru"
+        },
+        {
+          "id": 49128905,
+          "name": "DZ Young Oz"
+        },
+        {
+          "id": 130385490,
+          "name": "YOUNG OZMO"
+        },
+        {
+          "id": 121430218,
+          "name": "Young Ozmo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

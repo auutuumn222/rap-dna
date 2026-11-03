@@ -1,0 +1,69 @@
+{
+  "id": "c6aOe6KGM5bCR5bm0",
+  "name": "飞行少年",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12172289,
+          "name": "飞行少年"
+        },
+        {
+          "id": 122455,
+          "name": "群星"
+        },
+        {
+          "id": 6177,
+          "name": "严屹宽"
+        },
+        {
+          "id": 5602,
+          "name": "王野"
+        },
+        {
+          "id": 21364,
+          "name": "超飛行少年"
+        },
+        {
+          "id": 35193888,
+          "name": "큐오(Qo)"
+        },
+        {
+          "id": 33243095,
+          "name": "飞行少年Fly"
+        },
+        {
+          "id": 58089715,
+          "name": "飞行少年去飞"
+        },
+        {
+          "id": 57848217,
+          "name": "飞行少年去飞"
+        },
+        {
+          "id": 33272992,
+          "name": "韩明霖"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "飞行少年",
+    "image": "./assets/people/c6aOe6KGM5bCR5bm0.jpg",
+    "source": "https://music.163.com/artist?id=12172289",
+    "imageSource": "https://p2.music.126.net/vjzvnt3fcG3dL7CBMEEYVA==/109951169813260704.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 12172289,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=1977946820",
+        "https://music.163.com/song?id=2055808604",
+        "https://music.163.com/song?id=2058920966"
+      ]
+    }
+  }
+}

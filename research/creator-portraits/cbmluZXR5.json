@@ -1,0 +1,56 @@
+{
+  "id": "cbmluZXR5",
+  "name": "Ninety",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31154656,
+          "name": "Ninety One"
+        },
+        {
+          "id": 824163,
+          "name": "Ninety One"
+        },
+        {
+          "id": 12079069,
+          "name": "NinetyEight"
+        },
+        {
+          "id": 826174,
+          "name": "NINETYNINE 99乐团"
+        },
+        {
+          "id": 844118,
+          "name": "The Ninetys"
+        },
+        {
+          "id": 123422522,
+          "name": "Ninety Nine Percent"
+        },
+        {
+          "id": 36522383,
+          "name": "Ninety Nine"
+        },
+        {
+          "id": 54368250,
+          "name": "Ninety nine"
+        },
+        {
+          "id": 30928669,
+          "name": "Ninetynine"
+        },
+        {
+          "id": 97275645,
+          "name": "West Coast Ninety One"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

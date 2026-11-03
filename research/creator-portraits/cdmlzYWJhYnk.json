@@ -1,0 +1,20 @@
+{
+  "id": "cdmlzYWJhYnk",
+  "name": "VisaBaby",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30201927,
+          "name": "Visa Baby"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

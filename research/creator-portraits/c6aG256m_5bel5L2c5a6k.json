@@ -1,0 +1,20 @@
+{
+  "id": "c6aG256m_5bel5L2c5a6k",
+  "name": "顶穿工作室",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1050364,
+          "name": "Yee"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

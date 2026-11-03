@@ -1,0 +1,32 @@
+{
+  "id": "c5aSP5qKT5p2w",
+  "name": "夏梓杰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51591393,
+          "name": "我是夏梓杰"
+        },
+        {
+          "id": 34311081,
+          "name": "Siky"
+        },
+        {
+          "id": 34374225,
+          "name": "0000000000"
+        },
+        {
+          "id": 49732182,
+          "name": "wangzi666"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "n12924606",
+  "name": "ayin印",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12924606,
+          "name": "ayin印"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "ayin印",
+    "image": "./assets/people/n12924606.jpg",
+    "source": "https://music.163.com/artist?id=12924606",
+    "imageSource": "https://p2.music.126.net/L5L4zD8rVMXVKmZvuG5HTg==/109951173659681536.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12924606,
+      "works": [
+        {
+          "id": 3371365502,
+          "title": "Wet"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=3371365502"
+      ]
+    }
+  }
+}

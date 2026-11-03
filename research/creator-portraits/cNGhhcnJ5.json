@@ -1,0 +1,20 @@
+{
+  "id": "cNGhhcnJ5",
+  "name": "4Harry",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51429169,
+          "name": "4Harry"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

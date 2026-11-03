@@ -1,0 +1,16 @@
+{
+  "id": "n13911452",
+  "name": "ATM Hanson",
+  "attempts": [],
+  "entry": {
+    "name": "ATM Hanson",
+    "catalogName": "ATM Hanson",
+    "aliases": [],
+    "image": "./assets/people/n13911452.jpg",
+    "source": "https://music.163.com/artist?id=13911452",
+    "imageSource": "https://p1.music.126.net/G4han0GjhygZruxsll7_Lw==/109951173643567238.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

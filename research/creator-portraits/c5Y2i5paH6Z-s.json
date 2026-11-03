@@ -1,0 +1,20 @@
+{
+  "id": "c5Y2i5paH6Z-s",
+  "name": "卢文韬",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36778405,
+          "name": "卢文韬"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

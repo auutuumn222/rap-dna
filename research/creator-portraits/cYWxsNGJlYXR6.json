@@ -1,0 +1,15 @@
+{
+  "id": "cYWxsNGJlYXR6",
+  "name": "all4beatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

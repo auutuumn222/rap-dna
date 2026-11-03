@@ -1,0 +1,28 @@
+{
+  "id": "cZnV0dXJlc2FsYWQ",
+  "name": "FutureSalad",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1159086,
+          "name": "FutureSalad"
+        },
+        {
+          "id": 57573681,
+          "name": "邓添豪"
+        },
+        {
+          "id": 53394228,
+          "name": "Lil Prin小王子"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

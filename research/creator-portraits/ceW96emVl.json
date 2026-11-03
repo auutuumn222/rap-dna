@@ -1,0 +1,36 @@
+{
+  "id": "ceW96emVl",
+  "name": "YOZZEE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31916352,
+          "name": "YOZZEE"
+        },
+        {
+          "id": 13288861,
+          "name": "马也_Crabbit"
+        },
+        {
+          "id": 12371041,
+          "name": "Vinz-T"
+        },
+        {
+          "id": 12085066,
+          "name": "ZIV"
+        },
+        {
+          "id": 13227448,
+          "name": "何美延HAMY"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

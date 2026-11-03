@@ -1,0 +1,16 @@
+{
+  "id": "n31447671",
+  "name": "T3BEATS",
+  "attempts": [],
+  "entry": {
+    "name": "T3BEATS",
+    "catalogName": "T3BEATS",
+    "aliases": [],
+    "image": "./assets/people/n31447671.jpg",
+    "source": "https://music.163.com/artist?id=31447671",
+    "imageSource": "https://p1.music.126.net/zv8ZkhMEUYo8ZhizbkDJGg==/109951165486004325.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

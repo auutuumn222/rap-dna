@@ -1,0 +1,20 @@
+{
+  "id": "cM3JkdXA",
+  "name": "3rdup",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34983311,
+          "name": "3rdupmusic41o"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

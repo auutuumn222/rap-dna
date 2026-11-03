@@ -1,0 +1,24 @@
+{
+  "id": "c5qyn6Ziz6LGq5p2w",
+  "name": "欧阳豪杰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49441309,
+          "name": "欧阳豪杰"
+        },
+        {
+          "id": 61868275,
+          "name": "yama亚麻"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

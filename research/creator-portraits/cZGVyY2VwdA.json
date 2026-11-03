@@ -1,0 +1,28 @@
+{
+  "id": "cZGVyY2VwdA",
+  "name": "dercept",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31890773,
+          "name": "dercept"
+        },
+        {
+          "id": 56349736,
+          "name": "dercept x johnny friend"
+        },
+        {
+          "id": 47893860,
+          "name": "dercept x michael warren"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

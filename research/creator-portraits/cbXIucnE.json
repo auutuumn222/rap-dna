@@ -1,0 +1,15 @@
+{
+  "id": "cbXIucnE",
+  "name": "Mr.RQ",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

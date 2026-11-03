@@ -1,0 +1,15 @@
+{
+  "id": "cbWluZCBleHQgYmVhdA",
+  "name": "Mind Ext Beat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

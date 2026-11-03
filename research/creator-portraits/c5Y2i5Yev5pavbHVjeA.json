@@ -1,0 +1,20 @@
+{
+  "id": "c5Y2i5Yev5pavbHVjeA",
+  "name": "卢凯斯LucX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28071436,
+          "name": "YG卢凯斯"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

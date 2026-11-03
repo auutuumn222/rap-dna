@@ -1,0 +1,56 @@
+{
+  "id": "c5Zyf6Zuo",
+  "name": "土雨",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52020377,
+          "name": "土雨"
+        },
+        {
+          "id": 51604570,
+          "name": "木土雨辰"
+        },
+        {
+          "id": 37671592,
+          "name": "lucky土土雨"
+        },
+        {
+          "id": 12453329,
+          "name": "功夫胖KUNGFU-PEN"
+        },
+        {
+          "id": 53624033,
+          "name": "失落花园_"
+        },
+        {
+          "id": 95441940,
+          "name": "TEKOO"
+        },
+        {
+          "id": 54502443,
+          "name": "Muda"
+        },
+        {
+          "id": 53806368,
+          "name": "李家鑫"
+        },
+        {
+          "id": 33842562,
+          "name": "lazhan"
+        },
+        {
+          "id": 33835369,
+          "name": "槌田靖識"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

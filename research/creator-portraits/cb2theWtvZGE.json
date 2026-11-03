@@ -1,0 +1,28 @@
+{
+  "id": "cb2theWtvZGE",
+  "name": "OkayKoda",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55033436,
+          "name": "OkayKoda"
+        },
+        {
+          "id": 56638931,
+          "name": "(prod. OkayKoda x ChrisMarek)"
+        },
+        {
+          "id": 49585622,
+          "name": "Okay Koda"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cYXR5YW5n",
+  "name": "ATYANG",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12115223,
+          "name": "ATYANG"
+        },
+        {
+          "id": 54490224,
+          "name": "Atyang Laura"
+        },
+        {
+          "id": 13145283,
+          "name": "ICE杨长青"
+        },
+        {
+          "id": 187624,
+          "name": "Q.luv"
+        },
+        {
+          "id": 12568822,
+          "name": "7Z"
+        },
+        {
+          "id": 52226328,
+          "name": "王梓力"
+        },
+        {
+          "id": 12308391,
+          "name": "Oeight零八"
+        },
+        {
+          "id": 32435429,
+          "name": "Bopi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

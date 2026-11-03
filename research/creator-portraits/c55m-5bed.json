@@ -1,0 +1,67 @@
+{
+  "id": "c55m-5bed",
+  "name": "百川",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12664246,
+          "name": "百川"
+        },
+        {
+          "id": 52196417,
+          "name": "李百川"
+        },
+        {
+          "id": 1032323,
+          "name": "赵百川"
+        },
+        {
+          "id": 100582461,
+          "name": "水袖抚百川"
+        },
+        {
+          "id": 50975885,
+          "name": "李百川"
+        },
+        {
+          "id": 2030,
+          "name": "百川"
+        },
+        {
+          "id": 14713043,
+          "name": "巴郎百川"
+        },
+        {
+          "id": 100131638,
+          "name": "百川"
+        },
+        {
+          "id": 31057873,
+          "name": "CyaNXa百川"
+        },
+        {
+          "id": 33989922,
+          "name": "百川We"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "百川",
+    "image": "./assets/people/c55m-5bed.jpg",
+    "source": "https://music.163.com/artist?id=12664246",
+    "imageSource": "https://p2.music.126.net/82aH0BC9WkgYPJvonSWR7g==/109951163286410154.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 12664246,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=1869159161"
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "n12119618",
+  "name": "派克特（PACT）",
+  "attempts": [],
+  "entry": {
+    "name": "派克特（PACT）",
+    "catalogName": "派克特（PACT）",
+    "aliases": [],
+    "image": "./assets/people/n12119618.jpg",
+    "source": "https://music.163.com/artist?id=12119618",
+    "imageSource": "https://p1.music.126.net/SxsbX2OTJ4k5-7LJAdgbjg==/109951168995763263.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

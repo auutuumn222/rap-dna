@@ -1,0 +1,15 @@
+{
+  "id": "cZ29yZSBvY2VhbiAy",
+  "name": "gore ocean 2",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

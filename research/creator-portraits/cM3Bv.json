@@ -1,0 +1,56 @@
+{
+  "id": "cM3Bv",
+  "name": "3po",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33997300,
+          "name": "3po_END"
+        },
+        {
+          "id": 99359072,
+          "name": "3pointfive"
+        },
+        {
+          "id": 54595970,
+          "name": "3point14"
+        },
+        {
+          "id": 50087752,
+          "name": "Lily 3PO"
+        },
+        {
+          "id": 440039,
+          "name": "3PO"
+        },
+        {
+          "id": 124035415,
+          "name": "Version 3PO"
+        },
+        {
+          "id": 100375681,
+          "name": "Nacio Fuego 3PO"
+        },
+        {
+          "id": 35890291,
+          "name": "Kevin Connor and Swing 3PO"
+        },
+        {
+          "id": 53152340,
+          "name": "R2 || 3PO"
+        },
+        {
+          "id": 100262127,
+          "name": "t$3PO"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "c5aSn55y854KuZC5wYWw",
+  "name": "大眼炮D.Pal",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12193153,
+          "name": "大眼炮"
+        },
+        {
+          "id": 826382,
+          "name": "大眼炮"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

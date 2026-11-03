@@ -1,0 +1,36 @@
+{
+  "id": "cZ3VuejRoaXJl",
+  "name": "Gunz4Hire",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31850534,
+          "name": "Gunz4Hire"
+        },
+        {
+          "id": 12270343,
+          "name": "地下8英里"
+        },
+        {
+          "id": 35506271,
+          "name": "0-100"
+        },
+        {
+          "id": 13113369,
+          "name": "JD"
+        },
+        {
+          "id": 13156186,
+          "name": "郭亭序nonope"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

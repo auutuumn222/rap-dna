@@ -1,0 +1,48 @@
+{
+  "id": "cZGV4dGFo",
+  "name": "Dextah",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13489751,
+          "name": "Dextah"
+        },
+        {
+          "id": 36521860,
+          "name": "DEXTAH BEATS"
+        },
+        {
+          "id": 55243980,
+          "name": "Prod. by DEXTAH"
+        },
+        {
+          "id": 30855374,
+          "name": "Style MiSia & Dextah"
+        },
+        {
+          "id": 94449486,
+          "name": "Prod. DEXTAH & trustmelucien"
+        },
+        {
+          "id": 13489761,
+          "name": "Dday One | Dextah"
+        },
+        {
+          "id": 96703582,
+          "name": "Dextahh"
+        },
+        {
+          "id": 61283574,
+          "name": "DextahMoon"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

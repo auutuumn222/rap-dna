@@ -1,0 +1,56 @@
+{
+  "id": "cYW5hbnNp",
+  "name": "Anansi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 100056,
+          "name": "Skunk Anansie"
+        },
+        {
+          "id": 49806048,
+          "name": "Anansi"
+        },
+        {
+          "id": 206271,
+          "name": "Anansi"
+        },
+        {
+          "id": 124546373,
+          "name": "Santu Ba Anansi"
+        },
+        {
+          "id": 46831339,
+          "name": "Anansi Wop"
+        },
+        {
+          "id": 125937507,
+          "name": "Anansi DUI"
+        },
+        {
+          "id": 99649333,
+          "name": "Anansi Spider"
+        },
+        {
+          "id": 37035976,
+          "name": "Anansi Rex"
+        },
+        {
+          "id": 35897801,
+          "name": "Anansi and Jxnv$"
+        },
+        {
+          "id": 54306913,
+          "name": "Anansi Gold Presents"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

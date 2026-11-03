@@ -1,0 +1,36 @@
+{
+  "id": "n35884195",
+  "name": "翁杰Winjay",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35884195,
+          "name": "翁杰Winjay"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "翁杰Winjay",
+    "image": "./assets/people/n35884195.jpg",
+    "source": "https://music.163.com/artist?id=35884195",
+    "imageSource": "https://p1.music.126.net/rtP5KlpX97D16QROC9WYng==/109951172549373407.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 35884195,
+      "works": [
+        {
+          "id": 3334713998,
+          "title": "蛇吞象"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=3334713998"
+      ]
+    }
+  }
+}

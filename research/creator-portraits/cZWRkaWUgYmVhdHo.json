@@ -1,0 +1,48 @@
+{
+  "id": "cZWRkaWUgYmVhdHo",
+  "name": "Eddie Beatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12118563,
+          "name": "也是福"
+        },
+        {
+          "id": 36259676,
+          "name": "Eddie Beatz"
+        },
+        {
+          "id": 36191142,
+          "name": "Eddie J Beatz"
+        },
+        {
+          "id": 50876874,
+          "name": "Eddie e Beatz"
+        },
+        {
+          "id": 13457093,
+          "name": "Eddie Deng & Beatz Projekted"
+        },
+        {
+          "id": 54414075,
+          "name": "Eddie T Beatz"
+        },
+        {
+          "id": 49062494,
+          "name": "Eddy Beatz"
+        },
+        {
+          "id": 60621456,
+          "name": "Boy Eddy Beatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

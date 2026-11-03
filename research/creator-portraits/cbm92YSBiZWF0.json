@@ -1,0 +1,56 @@
+{
+  "id": "cbm92YSBiZWF0",
+  "name": "NOVA beat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14759469,
+          "name": "Bossa Nova Beats"
+        },
+        {
+          "id": 127037393,
+          "name": "NOVA BEAT"
+        },
+        {
+          "id": 12696378,
+          "name": "Nova Beat"
+        },
+        {
+          "id": 51637824,
+          "name": "NOVA Beats"
+        },
+        {
+          "id": 128105148,
+          "name": "NoVA Beats"
+        },
+        {
+          "id": 96608946,
+          "name": "Nova Beats-SS"
+        },
+        {
+          "id": 122898795,
+          "name": "Nova Beat Labs"
+        },
+        {
+          "id": 125891725,
+          "name": "Phantom Nova Beats"
+        },
+        {
+          "id": 98583281,
+          "name": "Feat Nova Beat"
+        },
+        {
+          "id": 97526846,
+          "name": "Remigio Nova Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

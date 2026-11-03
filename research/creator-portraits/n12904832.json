@@ -1,0 +1,46 @@
+{
+  "id": "n12904832",
+  "name": "荨麻疹",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12904832,
+          "name": "荨麻疹"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "荨麻疹",
+    "image": "./assets/people/n12904832.jpg",
+    "source": "https://music.163.com/artist?id=12904832",
+    "imageSource": "https://p2.music.126.net/dzgIKnImd4ZVMmbHlGHDmA==/109951170491674093.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12904832,
+      "works": [
+        {
+          "id": 3423058694,
+          "title": "迷失暹罗Feat.荨麻疹"
+        },
+        {
+          "id": 1381001808,
+          "title": "ALONE&LONG"
+        },
+        {
+          "id": 1460304378,
+          "title": "四哥喪币"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1381001808",
+        "https://music.163.com/song?id=1460304378",
+        "https://music.163.com/song?id=1853864505"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cemxvZ2Fu",
+  "name": "ZLOGAN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13908261,
+          "name": "ZloganRMB"
+        },
+        {
+          "id": 12774416,
+          "name": "Zlogan"
+        },
+        {
+          "id": 99214928,
+          "name": "Zlogan a2r"
+        },
+        {
+          "id": 12064019,
+          "name": "连麻Swimming"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

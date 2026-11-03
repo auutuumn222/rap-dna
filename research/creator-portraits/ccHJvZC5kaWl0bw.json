@@ -1,0 +1,15 @@
+{
+  "id": "ccHJvZC5kaWl0bw",
+  "name": "Prod.diito",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

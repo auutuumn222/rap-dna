@@ -1,0 +1,20 @@
+{
+  "id": "c5L6v6IiS5oms",
+  "name": "侯舒扬",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37152619,
+          "name": "侯舒扬"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

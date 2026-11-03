@@ -1,0 +1,56 @@
+{
+  "id": "ceG16",
+  "name": "XMZ",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49898103,
+          "name": "于悸xmzc"
+        },
+        {
+          "id": 35112698,
+          "name": "Xmz"
+        },
+        {
+          "id": 52115314,
+          "name": "XMZ"
+        },
+        {
+          "id": 12563820,
+          "name": "Xmz"
+        },
+        {
+          "id": 48887538,
+          "name": "XMZ"
+        },
+        {
+          "id": 48961179,
+          "name": "XMZ"
+        },
+        {
+          "id": 123789989,
+          "name": "xMzSuddenx"
+        },
+        {
+          "id": 53144053,
+          "name": "XMZQ"
+        },
+        {
+          "id": 123825507,
+          "name": "xmzd"
+        },
+        {
+          "id": 48123367,
+          "name": "Xmzzy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

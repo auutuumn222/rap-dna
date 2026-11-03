@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O6YeR5Z-OKGtpbmdoYW5kLiBsZWUp",
+  "name": "李金城（Kinghand. Lee）",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1575699526,
+          "name": "李金城"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

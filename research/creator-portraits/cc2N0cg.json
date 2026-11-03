@@ -1,0 +1,52 @@
+{
+  "id": "cc2N0cg",
+  "name": "SCTR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34847687,
+          "name": "SCTRS"
+        },
+        {
+          "id": 36909210,
+          "name": "Sctr"
+        },
+        {
+          "id": 95486698,
+          "name": "SHIFTmásCTRL"
+        },
+        {
+          "id": 61124495,
+          "name": "S C TR"
+        },
+        {
+          "id": 51144103,
+          "name": "Sc Troop"
+        },
+        {
+          "id": 34900537,
+          "name": "SC Truth"
+        },
+        {
+          "id": 37312637,
+          "name": "Sc Trap"
+        },
+        {
+          "id": 61976823,
+          "name": "sc trill"
+        },
+        {
+          "id": 55479143,
+          "name": "SC Troopers"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

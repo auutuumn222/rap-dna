@@ -1,0 +1,36 @@
+{
+  "id": "ccmVtZG9sbGE",
+  "name": "remdolla",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 126915014,
+          "name": "remdolla"
+        },
+        {
+          "id": 49387226,
+          "name": "rémdolla"
+        },
+        {
+          "id": 97633796,
+          "name": "Prod. by Remdolla"
+        },
+        {
+          "id": 51144110,
+          "name": "Prod. Remdolla"
+        },
+        {
+          "id": 94634684,
+          "name": "Instrumental by Rémdolla"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

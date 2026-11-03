@@ -1,0 +1,32 @@
+{
+  "id": "c5p2O6YeR5Z-O",
+  "name": "李金城",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 55008672,
+          "name": "李金城"
+        },
+        {
+          "id": 53708574,
+          "name": "李金城"
+        },
+        {
+          "id": 12371177,
+          "name": "李金城"
+        },
+        {
+          "id": 126601,
+          "name": "DEUX"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

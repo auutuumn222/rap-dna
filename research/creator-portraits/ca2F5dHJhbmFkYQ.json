@@ -1,0 +1,44 @@
+{
+  "id": "ca2F5dHJhbmFkYQ",
+  "name": "Kaytranada",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 777140,
+          "name": "KAYTRANADA"
+        },
+        {
+          "id": 129199131,
+          "name": "Kaytranada"
+        },
+        {
+          "id": 129253438,
+          "name": "Kaytranada"
+        },
+        {
+          "id": 29462521,
+          "name": "Amaarae"
+        },
+        {
+          "id": 12107275,
+          "name": "Aminé"
+        },
+        {
+          "id": 12062187,
+          "name": "Syd"
+        },
+        {
+          "id": 56294814,
+          "name": "KAYTRAMINÉ"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

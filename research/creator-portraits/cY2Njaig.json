@@ -1,0 +1,28 @@
+{
+  "id": "cY2Njaig",
+  "name": "CccJ（",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12264773,
+          "name": "CccJ"
+        },
+        {
+          "id": 122748253,
+          "name": "cccj"
+        },
+        {
+          "id": 121671251,
+          "name": "SAMORAY CCCJ"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

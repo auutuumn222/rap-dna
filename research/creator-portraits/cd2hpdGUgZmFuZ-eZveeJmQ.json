@@ -1,0 +1,48 @@
+{
+  "id": "cd2hpdGUgZmFuZ-eZveeJmQ",
+  "name": "WHITE FANG白牙",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29030120,
+          "name": "White Fang白牙"
+        },
+        {
+          "id": 61835196,
+          "name": "White Fang白牙"
+        },
+        {
+          "id": 12085631,
+          "name": "HEAT J"
+        },
+        {
+          "id": 37343744,
+          "name": "Katastic卡老师"
+        },
+        {
+          "id": 30281266,
+          "name": "李子木"
+        },
+        {
+          "id": 54744860,
+          "name": "Fancy"
+        },
+        {
+          "id": 12528836,
+          "name": "WILDIN"
+        },
+        {
+          "id": 53972198,
+          "name": "FVN"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

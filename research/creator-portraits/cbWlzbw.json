@@ -1,0 +1,56 @@
+{
+  "id": "cbWlzbw",
+  "name": "miso",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12213223,
+          "name": "MISO"
+        },
+        {
+          "id": 12699701,
+          "name": "miso"
+        },
+        {
+          "id": 31244310,
+          "name": "MisoilePunch♪"
+        },
+        {
+          "id": 29759344,
+          "name": "cybermiso"
+        },
+        {
+          "id": 53227497,
+          "name": "MisomyL"
+        },
+        {
+          "id": 1081345,
+          "name": "MISOGI"
+        },
+        {
+          "id": 31155430,
+          "name": "MiSO"
+        },
+        {
+          "id": 30616250,
+          "name": "DreamNote"
+        },
+        {
+          "id": 17068,
+          "name": "misono"
+        },
+        {
+          "id": 54048339,
+          "name": "Miso Colt"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

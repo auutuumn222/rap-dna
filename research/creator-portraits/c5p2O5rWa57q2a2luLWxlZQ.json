@@ -1,0 +1,20 @@
+{
+  "id": "c5p2O5rWa57q2a2luLWxlZQ",
+  "name": "李浚纶Kin-Lee",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34328803,
+          "name": "李浚纶Kin-Lee"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ceW91bmcgdGF5bG9y",
+  "name": "Young Taylor",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14742665,
+          "name": "Young Taylor"
+        },
+        {
+          "id": 36307345,
+          "name": "Young Taylor & trabbey"
+        },
+        {
+          "id": 57560352,
+          "name": "Young Taylor ZA"
+        },
+        {
+          "id": 60295272,
+          "name": "young Taylormade"
+        },
+        {
+          "id": 53190702,
+          "name": "Prod. By Young Taylor"
+        },
+        {
+          "id": 46682841,
+          "name": "Prod by Young Taylor"
+        },
+        {
+          "id": 52298663,
+          "name": "Young & Taylor"
+        },
+        {
+          "id": 126908495,
+          "name": "Young taylor"
+        },
+        {
+          "id": 35276570,
+          "name": "Young Taylor Maan"
+        },
+        {
+          "id": 58933994,
+          "name": "(young Taylor prod.)"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

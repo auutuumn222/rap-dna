@@ -1,0 +1,24 @@
+{
+  "id": "cZGF2aWQgYXJjYWRl",
+  "name": "David Arcade",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47086860,
+          "name": "David Arcade Beats"
+        },
+        {
+          "id": 98827212,
+          "name": "David Arcade"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

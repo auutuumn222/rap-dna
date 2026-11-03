@@ -1,0 +1,56 @@
+{
+  "id": "cZGVlIGI",
+  "name": "Dee b",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46605791,
+          "name": "Dee Billz"
+        },
+        {
+          "id": 31703817,
+          "name": "Dee Black"
+        },
+        {
+          "id": 28511156,
+          "name": "Dee B"
+        },
+        {
+          "id": 55890271,
+          "name": "Dee BiIIz"
+        },
+        {
+          "id": 46542027,
+          "name": "Dee Baby"
+        },
+        {
+          "id": 47436846,
+          "name": "Dee Beatz"
+        },
+        {
+          "id": 31243314,
+          "name": "Dee Blaze"
+        },
+        {
+          "id": 53566761,
+          "name": "Dee Bills"
+        },
+        {
+          "id": 30370886,
+          "name": "Dee Boi"
+        },
+        {
+          "id": 60141079,
+          "name": "Dee Beano"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

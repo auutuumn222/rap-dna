@@ -1,0 +1,15 @@
+{
+  "id": "ccHJvZGJ5IHBoYW50b200cmVhbCBmaXJl",
+  "name": "Prodby Phantom4real Fire",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

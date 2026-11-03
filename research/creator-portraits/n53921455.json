@@ -1,0 +1,36 @@
+{
+  "id": "n53921455",
+  "name": "Liue",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53921455,
+          "name": "Liue"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Liue",
+    "image": "./assets/people/n53921455.jpg",
+    "source": "https://music.163.com/artist?id=53921455",
+    "imageSource": "https://p2.music.126.net/lEYlE9Zo-bth-zeitaRsoQ==/109951174126451929.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 53921455,
+      "works": [
+        {
+          "id": 2020295743,
+          "title": "IOOU"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2020295743"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cd2lyc3R5",
+  "name": "WIRSTY",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cY2xvdWTpmYg",
+  "name": "Cloud陈",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 99999799,
+          "name": "陈瀚云cloud"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

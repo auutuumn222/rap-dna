@@ -1,0 +1,16 @@
+{
+  "id": "n12127362",
+  "name": "GALI",
+  "attempts": [],
+  "entry": {
+    "name": "GALI",
+    "catalogName": "GALI",
+    "aliases": [],
+    "image": "./assets/people/n12127362.jpg",
+    "source": "https://music.163.com/artist?id=12127362",
+    "imageSource": "https://p2.music.126.net/YSda_aNO30ZGCsxoTgch8Q==/109951169463813274.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

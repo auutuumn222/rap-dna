@@ -1,0 +1,24 @@
+{
+  "id": "c6auY5a6H6LGqY2hyaXM",
+  "name": "高宇豪Chris",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12226484,
+          "name": "高宇豪"
+        },
+        {
+          "id": 59509194,
+          "name": "高宇豪"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

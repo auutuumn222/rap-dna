@@ -1,0 +1,36 @@
+{
+  "id": "c6YeR5ZiG",
+  "name": "金嘆",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 95079594,
+          "name": "金叹9811"
+        },
+        {
+          "id": 34400339,
+          "name": "金叹"
+        },
+        {
+          "id": 100237497,
+          "name": "金圣叹"
+        },
+        {
+          "id": 124798021,
+          "name": "曾召金"
+        },
+        {
+          "id": 30584357,
+          "name": "贡敏"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

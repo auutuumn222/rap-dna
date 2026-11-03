@@ -1,0 +1,20 @@
+{
+  "id": "cbWFyayBnb2JsZSBtdXNpYw",
+  "name": "Mark Goble Music",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46492042,
+          "name": "Mark Goble Music"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

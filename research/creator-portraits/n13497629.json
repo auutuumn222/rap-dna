@@ -1,0 +1,18 @@
+{
+  "id": "n13497629",
+  "name": "KANNA BUSH",
+  "attempts": [],
+  "entry": {
+    "name": "KANNA BUSH",
+    "catalogName": "KANNA BUSH",
+    "aliases": [
+      "孟子坤"
+    ],
+    "image": "./assets/people/n13497629.jpg",
+    "source": "https://music.163.com/artist?id=13497629",
+    "imageSource": "https://p2.music.126.net/EIC5eHMbMlwQIQLXlxR5qA==/109951173940094157.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

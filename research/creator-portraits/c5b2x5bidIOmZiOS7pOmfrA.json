@@ -1,0 +1,15 @@
+{
+  "id": "c5b2x5bidIOmZiOS7pOmfrA",
+  "name": "影帝 陈令韬",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

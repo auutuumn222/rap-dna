@@ -1,0 +1,56 @@
+{
+  "id": "cbGVhbg",
+  "name": "Lean",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 123283677,
+          "name": "lean"
+        },
+        {
+          "id": 792648,
+          "name": "Yung Lean"
+        },
+        {
+          "id": 96370904,
+          "name": "Lean"
+        },
+        {
+          "id": 12904368,
+          "name": "Lean"
+        },
+        {
+          "id": 51334332,
+          "name": "Lean"
+        },
+        {
+          "id": 48982439,
+          "name": "Lean"
+        },
+        {
+          "id": 94805855,
+          "name": "Young Lean"
+        },
+        {
+          "id": 34847474,
+          "name": "Ada LeAnn"
+        },
+        {
+          "id": 48336327,
+          "name": "Sei Lean"
+        },
+        {
+          "id": 47025416,
+          "name": "Lean Slim"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

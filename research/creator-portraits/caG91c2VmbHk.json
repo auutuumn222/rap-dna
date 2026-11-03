@@ -1,0 +1,56 @@
+{
+  "id": "caG91c2VmbHk",
+  "name": "Housefly",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13620772,
+          "name": "Housefly"
+        },
+        {
+          "id": 36640917,
+          "name": "Seanie Ranz & AllTheHipe & Astral Housefly"
+        },
+        {
+          "id": 35698906,
+          "name": "Astral Housefly &AllTheHipe"
+        },
+        {
+          "id": 31452585,
+          "name": "Housefly Hum"
+        },
+        {
+          "id": 35057089,
+          "name": "Housefly Army"
+        },
+        {
+          "id": 35292922,
+          "name": "Astral Housefly"
+        },
+        {
+          "id": 49539104,
+          "name": "AllTheHipe & Astral Housefly"
+        },
+        {
+          "id": 36012167,
+          "name": "Buddha & the Housefly"
+        },
+        {
+          "id": 37187884,
+          "name": "The Uncommon Houseflies"
+        },
+        {
+          "id": 32666920,
+          "name": "Houseflies In December"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "caXZu",
+  "name": "IVN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 121525862,
+          "name": "IVNIT"
+        },
+        {
+          "id": 53694620,
+          "name": "IVNFIL"
+        },
+        {
+          "id": 28717964,
+          "name": "IVNZ"
+        },
+        {
+          "id": 34496336,
+          "name": "IVN Worship"
+        },
+        {
+          "id": 47685716,
+          "name": "IVNS"
+        },
+        {
+          "id": 54453001,
+          "name": "IVNSKY"
+        },
+        {
+          "id": 46400431,
+          "name": "ivndrr"
+        },
+        {
+          "id": 30973557,
+          "name": "Ivna Ji"
+        },
+        {
+          "id": 125499507,
+          "name": "IVN"
+        },
+        {
+          "id": 28497941,
+          "name": "Ivn"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

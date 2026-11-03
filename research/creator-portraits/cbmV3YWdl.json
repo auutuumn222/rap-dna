@@ -1,0 +1,56 @@
+{
+  "id": "cbmV3YWdl",
+  "name": "Newage",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52483082,
+          "name": "Newage 6.5"
+        },
+        {
+          "id": 12450251,
+          "name": "NewAgeStory"
+        },
+        {
+          "id": 12082092,
+          "name": "Urban Newage"
+        },
+        {
+          "id": 31156297,
+          "name": "뉴에이지"
+        },
+        {
+          "id": 55002206,
+          "name": "NEWAGE SINNY"
+        },
+        {
+          "id": 50363793,
+          "name": "NEWAGE"
+        },
+        {
+          "id": 27822535,
+          "name": "NewAgeMuzik"
+        },
+        {
+          "id": 15024162,
+          "name": "Newage Star"
+        },
+        {
+          "id": 54014640,
+          "name": "Newage Bo7"
+        },
+        {
+          "id": 49115354,
+          "name": "newage."
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cdGhhdGJvaW5lY28",
+  "name": "thatboineco",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34362865,
+          "name": "thatboineco"
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊"
+        },
+        {
+          "id": 30475296,
+          "name": "ksovii"
+        },
+        {
+          "id": 30790939,
+          "name": "Dazzle曹轩"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

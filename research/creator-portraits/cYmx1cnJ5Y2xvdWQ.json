@@ -1,0 +1,20 @@
+{
+  "id": "cYmx1cnJ5Y2xvdWQ",
+  "name": "BlurryCloud",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1038371,
+          "name": "BlurryCloud"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

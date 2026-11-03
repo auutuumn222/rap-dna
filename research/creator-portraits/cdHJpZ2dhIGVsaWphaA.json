@@ -1,0 +1,20 @@
+{
+  "id": "cdHJpZ2dhIGVsaWphaA",
+  "name": "Trigga Elijah",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12156047,
+          "name": "Trigga Elijah"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

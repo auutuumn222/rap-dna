@@ -1,0 +1,18 @@
+{
+  "id": "n1047049",
+  "name": "Yoken_Official",
+  "attempts": [],
+  "entry": {
+    "name": "Yoken_Official",
+    "catalogName": "Yoken_Official",
+    "aliases": [
+      "YOKEN@YBM"
+    ],
+    "image": "./assets/people/n1047049.jpg",
+    "source": "https://music.163.com/artist?id=1047049",
+    "imageSource": "https://p1.music.126.net/X9Peqwsml-tJ2OidCZLtRA==/109951165844122653.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

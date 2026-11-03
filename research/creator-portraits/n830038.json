@@ -1,0 +1,37 @@
+{
+  "id": "n830038",
+  "name": "郑宇界",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 830038,
+          "name": "郑宇界"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "郑宇界",
+    "image": "./assets/people/n830038.jpg",
+    "source": "https://music.163.com/artist?id=830038",
+    "imageSource": "https://p2.music.126.net/vhoB4AVIPPqLGurNBy3XGA==/109951172399500687.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 830038,
+      "works": [
+        {
+          "id": 1334297124,
+          "title": "大气层"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1334297124",
+        "https://music.163.com/song?id=523251338"
+      ]
+    }
+  }
+}

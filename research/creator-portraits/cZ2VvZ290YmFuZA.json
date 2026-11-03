@@ -1,0 +1,24 @@
+{
+  "id": "cZ2VvZ290YmFuZA",
+  "name": "geogotband",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47379818,
+          "name": "GeoGotBands"
+        },
+        {
+          "id": 51608121,
+          "name": "Prod. GeoGotBands"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

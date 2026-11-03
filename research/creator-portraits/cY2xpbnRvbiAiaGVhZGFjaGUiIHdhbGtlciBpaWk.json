@@ -1,0 +1,15 @@
+{
+  "id": "cY2xpbnRvbiAiaGVhZGFjaGUiIHdhbGtlciBpaWk",
+  "name": "Clinton \"HeadAche\" Walker III",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

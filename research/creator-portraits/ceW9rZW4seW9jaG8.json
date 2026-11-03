@@ -1,0 +1,15 @@
+{
+  "id": "ceW9rZW4seW9jaG8",
+  "name": "Yoken，Yocho",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

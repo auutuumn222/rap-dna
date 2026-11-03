@@ -1,0 +1,15 @@
+{
+  "id": "cd29uZGVybHVzYmVhdHM",
+  "name": "wonderlusbeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

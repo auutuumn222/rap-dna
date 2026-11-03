@@ -1,0 +1,16 @@
+{
+  "id": "n29304235",
+  "name": "Melo",
+  "attempts": [],
+  "entry": {
+    "name": "Melo",
+    "catalogName": "Melo",
+    "aliases": [],
+    "image": "./assets/people/n29304235.jpg",
+    "source": "https://music.163.com/artist?id=29304235",
+    "imageSource": "https://p2.music.126.net/XWX1ZKCTVt9y9mkoBwQMhg==/109951173446925721.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

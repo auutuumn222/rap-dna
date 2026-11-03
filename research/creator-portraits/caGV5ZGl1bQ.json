@@ -1,0 +1,24 @@
+{
+  "id": "caGV5ZGl1bQ",
+  "name": "heydium",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36616138,
+          "name": "heydium"
+        },
+        {
+          "id": 47533259,
+          "name": "prod. Heydium"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

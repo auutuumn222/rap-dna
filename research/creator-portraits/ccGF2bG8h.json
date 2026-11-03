@@ -1,0 +1,56 @@
+{
+  "id": "ccGF2bG8h",
+  "name": "Pavlo!",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 41849,
+          "name": "Pavlo"
+        },
+        {
+          "id": 249634,
+          "name": "Pavlo Beznosiuk"
+        },
+        {
+          "id": 60325273,
+          "name": "Pavlo Gaponenko"
+        },
+        {
+          "id": 36349558,
+          "name": "Pavlo Nikolaienko"
+        },
+        {
+          "id": 50244442,
+          "name": "Pavlo"
+        },
+        {
+          "id": 30838168,
+          "name": "Pavlo Hunka"
+        },
+        {
+          "id": 100504127,
+          "name": "Pavlo Lapikov"
+        },
+        {
+          "id": 59360709,
+          "name": "Pavlo Paloka"
+        },
+        {
+          "id": 48461622,
+          "name": "Pavlo Tambien"
+        },
+        {
+          "id": 52537022,
+          "name": "Pavlo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

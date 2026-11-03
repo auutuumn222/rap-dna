@@ -1,0 +1,16 @@
+{
+  "id": "n14925064",
+  "name": "MULA SAKEE",
+  "attempts": [],
+  "entry": {
+    "name": "MULA SAKEE",
+    "catalogName": "MULA SAKEE",
+    "aliases": [],
+    "image": "./assets/people/n14925064.jpg",
+    "source": "https://music.163.com/artist?id=14925064",
+    "imageSource": "https://p1.music.126.net/_a8e2BhWCxV7kYaUBU_l2Q==/109951173489955335.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

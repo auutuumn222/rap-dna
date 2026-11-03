@@ -1,0 +1,28 @@
+{
+  "id": "caG96YXliZWF0cw",
+  "name": "Hozaybeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47886776,
+          "name": "HozayBeats"
+        },
+        {
+          "id": 37259043,
+          "name": "飞行羊 avi goat"
+        },
+        {
+          "id": 32599637,
+          "name": "Hozay Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

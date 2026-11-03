@@ -1,0 +1,20 @@
+{
+  "id": "cYWxhbiB6aHU",
+  "name": "Alan Zhu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 985276,
+          "name": "Alan Zhu"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

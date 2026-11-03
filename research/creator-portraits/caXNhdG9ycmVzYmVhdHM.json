@@ -1,0 +1,20 @@
+{
+  "id": "caXNhdG9ycmVzYmVhdHM",
+  "name": "Isatorresbeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31348905,
+          "name": "Isatorresbeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

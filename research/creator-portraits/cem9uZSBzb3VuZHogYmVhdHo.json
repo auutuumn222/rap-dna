@@ -1,0 +1,15 @@
+{
+  "id": "cem9uZSBzb3VuZHogYmVhdHo",
+  "name": "Zone Soundz Beatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "n12200029",
+  "name": "HARIKIRI",
+  "attempts": [],
+  "entry": {
+    "name": "HARIKIRI",
+    "catalogName": "HARIKIRI",
+    "aliases": [],
+    "image": "./assets/people/n12200029.jpg",
+    "source": "https://music.163.com/artist?id=12200029",
+    "imageSource": "https://p1.music.126.net/yWw5dvuTn7dRpXbpv50lfw==/109951165776309282.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cZGI",
+  "name": "DB",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 2514,
+          "name": "蛋堡"
+        },
+        {
+          "id": 35304890,
+          "name": "DB"
+        },
+        {
+          "id": 46757688,
+          "name": "DB."
+        },
+        {
+          "id": 28083572,
+          "name": "db"
+        },
+        {
+          "id": 55390223,
+          "name": "DBAA"
+        },
+        {
+          "id": 21307,
+          "name": "三枝夕夏 IN db"
+        },
+        {
+          "id": 12131650,
+          "name": "Dbo"
+        },
+        {
+          "id": 48507531,
+          "name": "db INSIDE"
+        },
+        {
+          "id": 49343315,
+          "name": "DB Saint"
+        },
+        {
+          "id": 12611962,
+          "name": "DB"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

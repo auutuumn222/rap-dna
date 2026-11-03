@@ -1,0 +1,20 @@
+{
+  "id": "ccXVpbmN5c3hicmE",
+  "name": "quincysxbra",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50500656,
+          "name": "quincy sxbra."
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

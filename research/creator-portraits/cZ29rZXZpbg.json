@@ -1,0 +1,36 @@
+{
+  "id": "cZ29rZXZpbg",
+  "name": "GoKevin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52405426,
+          "name": "Gokevin"
+        },
+        {
+          "id": 46355446,
+          "name": "redwhite"
+        },
+        {
+          "id": 50973279,
+          "name": "亚当魔星"
+        },
+        {
+          "id": 30443320,
+          "name": "LoMo"
+        },
+        {
+          "id": 32439646,
+          "name": "GODTIER"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

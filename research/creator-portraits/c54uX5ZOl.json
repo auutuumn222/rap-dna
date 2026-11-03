@@ -1,0 +1,61 @@
+{
+  "id": "c54uX5ZOl",
+  "name": "狗哥",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 869001,
+          "name": "Gary"
+        },
+        {
+          "id": 125344442,
+          "name": "狗哥"
+        },
+        {
+          "id": 36519465,
+          "name": "可爱的土狗哥"
+        },
+        {
+          "id": 51083656,
+          "name": "狗哥不奶"
+        },
+        {
+          "id": 32977699,
+          "name": "Jakub狗子哥"
+        },
+        {
+          "id": 123001187,
+          "name": "狗哥"
+        },
+        {
+          "id": 46357696,
+          "name": "Shoger_21"
+        },
+        {
+          "id": 56667925,
+          "name": "狗哥晚安"
+        },
+        {
+          "id": 54153104,
+          "name": "小狗哥"
+        },
+        {
+          "id": 33261868,
+          "name": "狗哥"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": [
+        {
+          "id": 1645985780,
+          "name": "狗哥"
+        }
+      ]
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ccm9ja3k",
+  "name": "Rocky",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29100,
+          "name": "A$AP Rocky"
+        },
+        {
+          "id": 46961912,
+          "name": "Rocky"
+        },
+        {
+          "id": 37995,
+          "name": "Kendrick Lamar"
+        },
+        {
+          "id": 12417065,
+          "name": "Gunna"
+        },
+        {
+          "id": 40424,
+          "name": "Nas"
+        },
+        {
+          "id": 43862,
+          "name": "ScHoolboy Q"
+        },
+        {
+          "id": 70183,
+          "name": "Nicki Minaj"
+        },
+        {
+          "id": 38118,
+          "name": "Lil Wayne"
+        },
+        {
+          "id": 12086073,
+          "name": "Quavo"
+        },
+        {
+          "id": 29337,
+          "name": "Bon Iver"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

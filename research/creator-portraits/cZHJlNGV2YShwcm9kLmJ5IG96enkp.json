@@ -1,0 +1,15 @@
+{
+  "id": "cZHJlNGV2YShwcm9kLmJ5IG96enkp",
+  "name": "Dre4eva（prod.by Ozzy）",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

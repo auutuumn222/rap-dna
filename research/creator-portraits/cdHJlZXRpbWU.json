@@ -1,0 +1,40 @@
+{
+  "id": "cdHJlZXRpbWU",
+  "name": "TREETIME",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28682545,
+          "name": "treetime"
+        },
+        {
+          "id": 54204394,
+          "name": "Prod by .(TREETIME)"
+        },
+        {
+          "id": 52703815,
+          "name": "prod. by TREETIME"
+        },
+        {
+          "id": 49446650,
+          "name": "prod by TREETIME"
+        },
+        {
+          "id": 52275876,
+          "name": "prod. treetime"
+        },
+        {
+          "id": 61088912,
+          "name": "Beat Prod. TREETIME"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

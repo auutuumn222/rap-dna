@@ -1,0 +1,20 @@
+{
+  "id": "c5qKB5qC56I2jIGdlbiBuZW8",
+  "name": "梁根荣 Gen Neo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12213153,
+          "name": "Gen Neo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

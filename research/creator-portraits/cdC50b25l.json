@@ -1,0 +1,32 @@
+{
+  "id": "cdC50b25l",
+  "name": "T.tone",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47791920,
+          "name": "T.toneofficial"
+        },
+        {
+          "id": 46650088,
+          "name": "T.Tone"
+        },
+        {
+          "id": 34479700,
+          "name": "T.Tone Smokin Stress"
+        },
+        {
+          "id": 54225323,
+          "name": "T. T ONE"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "c6ZqG5Y6G5aWH",
+  "name": "隆历奇",
+  "attempts": [],
+  "entry": {
+    "name": "隆历奇",
+    "image": "./assets/people/n12065015.jpg",
+    "source": "https://music.163.com/artist?id=12065015",
+    "imageSource": "https://p2.music.126.net/6LMxYMm0NtTKG4tuBU4pVA==/109951168203000632.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=2019537535",
+        "https://music.163.com/song?id=2052741279",
+        "https://music.163.com/song?id=2053382973"
+      ]
+    },
+    "matchedPersonId": "n12065015"
+  },
+  "match": "existing-verified-name"
+}

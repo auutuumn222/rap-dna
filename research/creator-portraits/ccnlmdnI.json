@@ -1,0 +1,20 @@
+{
+  "id": "ccnlmdnI",
+  "name": "RYFVR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49770702,
+          "name": "Ryfvr"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

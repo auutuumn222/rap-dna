@@ -1,0 +1,20 @@
+{
+  "id": "c5p2o5YaweW91bmdiaW5n",
+  "name": "杨冰YOUNGBING",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33914303,
+          "name": "杨冰YOUNGBING"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

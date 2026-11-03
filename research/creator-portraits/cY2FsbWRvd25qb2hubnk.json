@@ -1,0 +1,20 @@
+{
+  "id": "cY2FsbWRvd25qb2hubnk",
+  "name": "calmdownjohnny",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 124255527,
+          "name": "calmdownjohnny"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

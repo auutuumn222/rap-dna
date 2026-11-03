@@ -1,0 +1,20 @@
+{
+  "id": "cc2FvIGJlYXI",
+  "name": "SAO BEAR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12320515,
+          "name": "SAOBEAR"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

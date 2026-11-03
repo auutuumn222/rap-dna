@@ -1,0 +1,56 @@
+{
+  "id": "ceml0dG8",
+  "name": "Zitto",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29033073,
+          "name": "Zitto"
+        },
+        {
+          "id": 46723338,
+          "name": "Vanel Zittoun"
+        },
+        {
+          "id": 36454334,
+          "name": "Zitto阿彤"
+        },
+        {
+          "id": 50234534,
+          "name": "ZITTO"
+        },
+        {
+          "id": 13240436,
+          "name": "Alex Zitto (Walakolombo)"
+        },
+        {
+          "id": 50232697,
+          "name": "Zitto"
+        },
+        {
+          "id": 27920567,
+          "name": "Zitto Segovia"
+        },
+        {
+          "id": 29697974,
+          "name": "Zitto Baia"
+        },
+        {
+          "id": 121713325,
+          "name": "Zitto Schroeder"
+        },
+        {
+          "id": 13002284,
+          "name": "Alex Zitto"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

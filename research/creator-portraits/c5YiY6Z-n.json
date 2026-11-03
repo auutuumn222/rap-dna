@@ -1,0 +1,20 @@
+{
+  "id": "c5YiY6Z-n",
+  "name": "刘韧",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12198514,
+          "name": "刘韧"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

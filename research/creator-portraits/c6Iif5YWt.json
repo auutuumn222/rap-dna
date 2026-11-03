@@ -1,0 +1,24 @@
+{
+  "id": "c6Iif5YWt",
+  "name": "舟六",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33339182,
+          "name": "舟六"
+        },
+        {
+          "id": 12606242,
+          "name": "8bite"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

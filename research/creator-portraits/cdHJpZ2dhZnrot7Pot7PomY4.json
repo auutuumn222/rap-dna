@@ -1,0 +1,56 @@
+{
+  "id": "cdHJpZ2dhZnrot7Pot7PomY4",
+  "name": "TriggaFZ跳跳虎",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 122806427,
+          "name": "跳跳虎"
+        },
+        {
+          "id": 36671480,
+          "name": "粉红跳跳虎"
+        },
+        {
+          "id": 59778533,
+          "name": "橱窗里的跳跳虎"
+        },
+        {
+          "id": 29415550,
+          "name": "跳跳虎Tanvik"
+        },
+        {
+          "id": 123265236,
+          "name": "跳跳虎"
+        },
+        {
+          "id": 34745087,
+          "name": "跳跳虎没吃饱"
+        },
+        {
+          "id": 47683929,
+          "name": "无趣跳跳虎"
+        },
+        {
+          "id": 51211683,
+          "name": "跳跳虎"
+        },
+        {
+          "id": 47300161,
+          "name": "跳跳虎的夏天"
+        },
+        {
+          "id": 122421221,
+          "name": "佳木斯跳跳虎"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

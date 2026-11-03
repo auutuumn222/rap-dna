@@ -1,0 +1,20 @@
+{
+  "id": "cdGhpc2lzd2Fua3N0YQ",
+  "name": "ThisIsWanksta",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35087521,
+          "name": "ThisIsWanksta"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ccGFubmRp",
+  "name": "Panndi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56687689,
+          "name": "Panndi"
+        },
+        {
+          "id": 123153799,
+          "name": "Panndix"
+        },
+        {
+          "id": 94576973,
+          "name": "Prod. Panndi"
+        },
+        {
+          "id": 130257875,
+          "name": "Panndill2"
+        },
+        {
+          "id": 59888449,
+          "name": "Mannu Panndit"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

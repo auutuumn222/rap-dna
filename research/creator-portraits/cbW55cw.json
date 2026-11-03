@@ -1,0 +1,28 @@
+{
+  "id": "cbW55cw",
+  "name": "MNYS",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12389269,
+          "name": "MNYS"
+        },
+        {
+          "id": 57881876,
+          "name": "MNYSLIME"
+        },
+        {
+          "id": 57766030,
+          "name": "7mnyst"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

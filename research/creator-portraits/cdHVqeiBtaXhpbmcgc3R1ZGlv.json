@@ -1,0 +1,32 @@
+{
+  "id": "cdHVqeiBtaXhpbmcgc3R1ZGlv",
+  "name": "TUJZ MIXING STUDIO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12487174,
+          "name": "HOYO-MiX"
+        },
+        {
+          "id": 94007859,
+          "name": "三Z-STUDIO"
+        },
+        {
+          "id": 12105057,
+          "name": "苏诗丁"
+        },
+        {
+          "id": 12110189,
+          "name": "Sihan"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

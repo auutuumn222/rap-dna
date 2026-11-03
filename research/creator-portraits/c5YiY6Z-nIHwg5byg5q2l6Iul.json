@@ -1,0 +1,56 @@
+{
+  "id": "c5YiY6Z-nIHwg5byg5q2l6Iul",
+  "name": "刘韧 | 张步若",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1088047,
+          "name": "张若昀"
+        },
+        {
+          "id": 6472,
+          "name": "张杰"
+        },
+        {
+          "id": 1024308,
+          "name": "张碧晨"
+        },
+        {
+          "id": 6460,
+          "name": "张学友"
+        },
+        {
+          "id": 10562,
+          "name": "张韶涵"
+        },
+        {
+          "id": 13112601,
+          "name": "Wiz_H张子豪"
+        },
+        {
+          "id": 10559,
+          "name": "张惠妹"
+        },
+        {
+          "id": 6453,
+          "name": "张震岳"
+        },
+        {
+          "id": 6454,
+          "name": "张信哲"
+        },
+        {
+          "id": 15194340,
+          "name": "张方钊"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

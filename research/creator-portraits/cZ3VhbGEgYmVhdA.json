@@ -1,0 +1,24 @@
+{
+  "id": "cZ3VhbGEgYmVhdA",
+  "name": "Guala Beat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29976833,
+          "name": "Guala beatz"
+        },
+        {
+          "id": 49159345,
+          "name": "Guala Beatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5byg5pm65Z6a",
+  "name": "张智垚",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12204160,
+          "name": "张智垚"
+        },
+        {
+          "id": 94230365,
+          "name": "VK YANG"
+        },
+        {
+          "id": 37080565,
+          "name": "许清雅"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

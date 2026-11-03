@@ -1,0 +1,15 @@
+{
+  "id": "cdC7QsHh4a3d5d2Qg5bCP5q2m",
+  "name": "T.Аxxkwywd 小武",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cc2hyZWRkZWQ",
+  "name": "SHREDDED",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 96478627,
+          "name": "Shredded Corpse"
+        },
+        {
+          "id": 51986234,
+          "name": "SHREDDED"
+        },
+        {
+          "id": 55558680,
+          "name": "SHREDDED"
+        },
+        {
+          "id": 50863584,
+          "name": "Shredded Sun"
+        },
+        {
+          "id": 58791128,
+          "name": "Shredded Hercules"
+        },
+        {
+          "id": 94219725,
+          "name": "Shredded Riq"
+        },
+        {
+          "id": 56729829,
+          "name": "Shredded Testie"
+        },
+        {
+          "id": 58846058,
+          "name": "SHREDDED CHEESE"
+        },
+        {
+          "id": 30385272,
+          "name": "Shredded Nerve"
+        },
+        {
+          "id": 37365179,
+          "name": "Shredded Bulbs"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

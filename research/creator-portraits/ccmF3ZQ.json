@@ -1,0 +1,56 @@
+{
+  "id": "ccmF3ZQ",
+  "name": "RAWE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 123509230,
+          "name": "RawEch0_"
+        },
+        {
+          "id": 49230650,
+          "name": "Rawen"
+        },
+        {
+          "id": 15356594,
+          "name": "Rawe"
+        },
+        {
+          "id": 54636450,
+          "name": "Rawesome"
+        },
+        {
+          "id": 57179792,
+          "name": "Xay Rawe"
+        },
+        {
+          "id": 46577814,
+          "name": "Rawest Chick"
+        },
+        {
+          "id": 56339322,
+          "name": "Rawex"
+        },
+        {
+          "id": 47010899,
+          "name": "Raweinn"
+        },
+        {
+          "id": 13622766,
+          "name": "Ohrix & Rawed"
+        },
+        {
+          "id": 13622401,
+          "name": "Rawed"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

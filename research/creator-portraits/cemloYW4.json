@@ -1,0 +1,56 @@
+{
+  "id": "cemloYW4",
+  "name": "Zihan",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12157036,
+          "name": "ZiHanDaDa"
+        },
+        {
+          "id": 97148957,
+          "name": "Wang Zihan"
+        },
+        {
+          "id": 59793872,
+          "name": "UnWizenH"
+        },
+        {
+          "id": 32870261,
+          "name": "Zihan"
+        },
+        {
+          "id": 53682827,
+          "name": "Lil Zihan"
+        },
+        {
+          "id": 51251707,
+          "name": "ZihanS"
+        },
+        {
+          "id": 50927535,
+          "name": "zihang94"
+        },
+        {
+          "id": 1197141,
+          "name": "ZIHAN"
+        },
+        {
+          "id": 52416491,
+          "name": "Zihan"
+        },
+        {
+          "id": 98643316,
+          "name": "Liu Zihan 刘子涵"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

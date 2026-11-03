@@ -1,0 +1,56 @@
+{
+  "id": "cbmljayByb2Nr",
+  "name": "Nick Rock",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52509946,
+          "name": "Nick Rock"
+        },
+        {
+          "id": 37470936,
+          "name": "Nick Rock"
+        },
+        {
+          "id": 99646137,
+          "name": "Nick rock 1970"
+        },
+        {
+          "id": 53734070,
+          "name": "Nick Rock-n-Roll"
+        },
+        {
+          "id": 523269,
+          "name": "Nick Rockwell"
+        },
+        {
+          "id": 36217142,
+          "name": "Nick Rockett"
+        },
+        {
+          "id": 36421913,
+          "name": "Nick Rock'n'Roll"
+        },
+        {
+          "id": 99551767,
+          "name": "Nick Rock Group"
+        },
+        {
+          "id": 13786929,
+          "name": "Nick Luce and The Nick Luce Rock Experience"
+        },
+        {
+          "id": 56671041,
+          "name": "NickRock"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

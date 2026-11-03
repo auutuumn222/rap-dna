@@ -1,0 +1,40 @@
+{
+  "id": "c6YKi57-w57u0",
+  "name": "邢翰维",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12194053,
+          "name": "邢翰维"
+        },
+        {
+          "id": 35884195,
+          "name": "翁杰Winjay"
+        },
+        {
+          "id": 52122208,
+          "name": "NakedX"
+        },
+        {
+          "id": 35169519,
+          "name": "Taco"
+        },
+        {
+          "id": 30475296,
+          "name": "ksovii"
+        },
+        {
+          "id": 121660276,
+          "name": "Hades"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

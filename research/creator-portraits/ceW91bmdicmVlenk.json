@@ -1,0 +1,52 @@
+{
+  "id": "ceW91bmdicmVlenk",
+  "name": "YoungBreezy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27909409,
+          "name": "YoungBreezy"
+        },
+        {
+          "id": 125948894,
+          "name": "YouNGBReeZY rsa"
+        },
+        {
+          "id": 50291420,
+          "name": "YNR YoungBreezy"
+        },
+        {
+          "id": 12491449,
+          "name": "Young Breezy"
+        },
+        {
+          "id": 48695773,
+          "name": "Young Breezy"
+        },
+        {
+          "id": 32903337,
+          "name": "Young Breezy"
+        },
+        {
+          "id": 35060109,
+          "name": "Young Breezy Baby"
+        },
+        {
+          "id": 35590152,
+          "name": "Young Breezy thegod"
+        },
+        {
+          "id": 52129987,
+          "name": "Young breezy mellow"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

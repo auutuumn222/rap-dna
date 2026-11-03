@@ -1,0 +1,15 @@
+{
+  "id": "ccnlhYm92IHNlcmdleSwgaWdvciBmYXRpbg",
+  "name": "Ryabov Sergey, Igor Fatin",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

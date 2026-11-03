@@ -1,0 +1,28 @@
+{
+  "id": "cMzBoZXJ0emJlYXRz",
+  "name": "30hertzbeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29950576,
+          "name": "30hertzbeats"
+        },
+        {
+          "id": 27836847,
+          "name": "30Hertz Beats"
+        },
+        {
+          "id": 31468610,
+          "name": "30 Hertz Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n12085631",
+  "name": "HEAT J",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12085631,
+          "name": "HEAT J"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "HEAT J",
+    "image": "./assets/people/n12085631.jpg",
+    "source": "https://music.163.com/artist?id=12085631",
+    "imageSource": "https://p1.music.126.net/DNgZ0F94-v9PZWpa7lhDKg==/109951173475045178.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12085631,
+      "works": [
+        {
+          "id": 1422571387,
+          "title": "谁的错？？？"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1422571387",
+        "https://music.163.com/song?id=2619810975"
+      ]
+    }
+  }
+}

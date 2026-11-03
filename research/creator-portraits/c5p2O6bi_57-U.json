@@ -1,0 +1,48 @@
+{
+  "id": "c5p2O6bi_57-U",
+  "name": "李鸿翔",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27729363,
+          "name": "LeeHX李鸿翔"
+        },
+        {
+          "id": 34493118,
+          "name": "李鴻翔"
+        },
+        {
+          "id": 52059632,
+          "name": "李佳鸿&罗翔"
+        },
+        {
+          "id": 12110173,
+          "name": "THOME"
+        },
+        {
+          "id": 27868624,
+          "name": "KnowKnow"
+        },
+        {
+          "id": 12529648,
+          "name": "KIV"
+        },
+        {
+          "id": 33072389,
+          "name": "Dove鸽子"
+        },
+        {
+          "id": 96087275,
+          "name": "ZmjjKKAsuka"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

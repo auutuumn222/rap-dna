@@ -1,0 +1,56 @@
+{
+  "id": "cayBlbGV2ZW4",
+  "name": "K ELEVEN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12493703,
+          "name": "K11"
+        },
+        {
+          "id": 12072073,
+          "name": "Gosh Music"
+        },
+        {
+          "id": 12064019,
+          "name": "连麻Swimming"
+        },
+        {
+          "id": 13200392,
+          "name": "DANNY K"
+        },
+        {
+          "id": 12493701,
+          "name": "布瑞吉Bridge"
+        },
+        {
+          "id": 59528211,
+          "name": "鼠尾草"
+        },
+        {
+          "id": 13701382,
+          "name": "FEEEleven"
+        },
+        {
+          "id": 12905307,
+          "name": "EINK"
+        },
+        {
+          "id": 12966930,
+          "name": "JYnostop"
+        },
+        {
+          "id": 12702147,
+          "name": "周夏影"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

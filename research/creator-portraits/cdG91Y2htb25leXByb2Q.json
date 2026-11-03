@@ -1,0 +1,15 @@
+{
+  "id": "cdG91Y2htb25leXByb2Q",
+  "name": "Touchmoneyprod",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

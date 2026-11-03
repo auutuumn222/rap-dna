@@ -1,0 +1,20 @@
+{
+  "id": "cZGV4dGVyIHl1",
+  "name": "Dexter Yu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48817579,
+          "name": "Dexter Yu"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

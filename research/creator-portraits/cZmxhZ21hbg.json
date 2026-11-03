@@ -1,0 +1,56 @@
+{
+  "id": "cZmxhZ21hbg",
+  "name": "FLAGMAN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 100407963,
+          "name": "李宥希-flagman"
+        },
+        {
+          "id": 37578227,
+          "name": "Flagman"
+        },
+        {
+          "id": 13925411,
+          "name": "Flagman Djs"
+        },
+        {
+          "id": 99785146,
+          "name": "FLAGMAN MUSIC"
+        },
+        {
+          "id": 124642733,
+          "name": "Flagman uk"
+        },
+        {
+          "id": 48891951,
+          "name": "Flagmann"
+        },
+        {
+          "id": 34728455,
+          "name": "Dave Flagman"
+        },
+        {
+          "id": 35752378,
+          "name": "eX flagman"
+        },
+        {
+          "id": 28589408,
+          "name": "Tom Flagman"
+        },
+        {
+          "id": 50139272,
+          "name": "TLFM The lonely Flagman"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

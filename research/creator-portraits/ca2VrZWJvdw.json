@@ -1,0 +1,20 @@
+{
+  "id": "ca2VrZWJvdw",
+  "name": "KeKeBow",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34420511,
+          "name": "KeKeBow"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

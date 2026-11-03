@@ -1,0 +1,24 @@
+{
+  "id": "c5ZGo5aSp5r6I",
+  "name": "周天澈",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50784250,
+          "name": "周天澈"
+        },
+        {
+          "id": 2153,
+          "name": "常石磊"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

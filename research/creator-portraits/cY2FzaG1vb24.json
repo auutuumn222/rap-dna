@@ -1,0 +1,56 @@
+{
+  "id": "cY2FzaG1vb24",
+  "name": "CashMoon",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34516758,
+          "name": "CashMoon"
+        },
+        {
+          "id": 94365563,
+          "name": "沉默的螺旋"
+        },
+        {
+          "id": 95274315,
+          "name": "CashMoon"
+        },
+        {
+          "id": 49328808,
+          "name": "Cashmoon"
+        },
+        {
+          "id": 33097968,
+          "name": "LSGCsikoriot"
+        },
+        {
+          "id": 48277407,
+          "name": "BOBBYNOPEACE"
+        },
+        {
+          "id": 12626077,
+          "name": "万乐体"
+        },
+        {
+          "id": 34036614,
+          "name": "梶"
+        },
+        {
+          "id": 13000013,
+          "name": "鱼骨妹"
+        },
+        {
+          "id": 50239262,
+          "name": "Cash Mooney"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "canVzdHhyb2xv",
+  "name": "Justxrolo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50031329,
+          "name": "prod. justxrolo"
+        },
+        {
+          "id": 36936454,
+          "name": "Justxrolo"
+        },
+        {
+          "id": 14117457,
+          "name": "SASIOVERLXRD"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

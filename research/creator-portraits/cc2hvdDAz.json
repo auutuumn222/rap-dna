@@ -1,0 +1,36 @@
+{
+  "id": "cc2hvdDAz",
+  "name": "Shot03",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58490568,
+          "name": "Shot03"
+        },
+        {
+          "id": 94779,
+          "name": "Imagine Dragons"
+        },
+        {
+          "id": 886022,
+          "name": "Broiler"
+        },
+        {
+          "id": 30926747,
+          "name": "Variation 5"
+        },
+        {
+          "id": 48284054,
+          "name": "ukee17"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

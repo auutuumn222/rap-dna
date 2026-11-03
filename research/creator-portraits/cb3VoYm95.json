@@ -1,0 +1,40 @@
+{
+  "id": "cb3VoYm95",
+  "name": "OUHBOY",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32801362,
+          "name": "OUHBOY"
+        },
+        {
+          "id": 51223367,
+          "name": "Ouhboy"
+        },
+        {
+          "id": 50715239,
+          "name": "Prod. by OUHBOY"
+        },
+        {
+          "id": 48209075,
+          "name": "Fewtile & Ouhboy"
+        },
+        {
+          "id": 46574493,
+          "name": "Khyn Smith, Ouhboy"
+        },
+        {
+          "id": 95430699,
+          "name": "@OUHBOYPROFILE"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

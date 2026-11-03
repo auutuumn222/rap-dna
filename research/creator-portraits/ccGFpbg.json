@@ -1,0 +1,56 @@
+{
+  "id": "ccGFpbg",
+  "name": "Pain",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 41136,
+          "name": "PAIN"
+        },
+        {
+          "id": 126783541,
+          "name": "PAIN"
+        },
+        {
+          "id": 49970802,
+          "name": "PAIN"
+        },
+        {
+          "id": 34376396,
+          "name": "Pain."
+        },
+        {
+          "id": 44277,
+          "name": "T-Pain"
+        },
+        {
+          "id": 20983,
+          "name": "Pay money To my Pain"
+        },
+        {
+          "id": 12902524,
+          "name": "Pain"
+        },
+        {
+          "id": 66366,
+          "name": "Mélanie Pain"
+        },
+        {
+          "id": 54707648,
+          "name": "4Pain"
+        },
+        {
+          "id": 12594361,
+          "name": "pain"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

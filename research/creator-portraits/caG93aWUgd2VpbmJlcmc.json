@@ -1,0 +1,15 @@
+{
+  "id": "caG93aWUgd2VpbmJlcmc",
+  "name": "Howie Weinberg",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

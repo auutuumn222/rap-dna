@@ -1,0 +1,24 @@
+{
+  "id": "cYWRl6Zm25YW06L2p",
+  "name": "ADE陶兴轩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14587791,
+          "name": "ADE陶兴轩"
+        },
+        {
+          "id": 14020742,
+          "name": "石川光希"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ca2treW9ncmU",
+  "name": "kkkyogre",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33813058,
+          "name": "kkkyogre"
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        },
+        {
+          "id": 48993031,
+          "name": "叶霁晨"
+        },
+        {
+          "id": 29597180,
+          "name": "Dracooo"
+        },
+        {
+          "id": 33511920,
+          "name": "Kkot"
+        },
+        {
+          "id": 12060060,
+          "name": "OB03"
+        },
+        {
+          "id": 46885488,
+          "name": "Kimmick"
+        },
+        {
+          "id": 13909342,
+          "name": "AceWayne"
+        },
+        {
+          "id": 37560826,
+          "name": "伤心的蓝"
+        },
+        {
+          "id": 48992775,
+          "name": "Innersup Records"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

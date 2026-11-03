@@ -1,0 +1,21 @@
+{
+  "id": "cdG9kZCBtYWxvbmU",
+  "name": "Todd Malone",
+  "attempts": [],
+  "entry": {
+    "name": "Todd Malone",
+    "image": "./assets/people/n12183619.jpg",
+    "source": "https://music.163.com/artist?id=12183619",
+    "imageSource": "https://p2.music.126.net/PR9LnYJPkxWBgr62prN2xQ==/109951169814352729.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "unique-exact-catalog-name",
+      "creditSources": [
+        "https://music.163.com/song?id=2610631230"
+      ]
+    },
+    "matchedPersonId": "n12183619"
+  },
+  "match": "existing-verified-name"
+}

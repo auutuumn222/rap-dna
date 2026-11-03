@@ -1,0 +1,44 @@
+{
+  "id": "c5byg5aSq6YOO",
+  "name": "张太郎",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1153005,
+          "name": "situasian张太郎"
+        },
+        {
+          "id": 865007,
+          "name": "法老"
+        },
+        {
+          "id": 12118400,
+          "name": "山姆十四Samwise"
+        },
+        {
+          "id": 12236269,
+          "name": "高天佐"
+        },
+        {
+          "id": 12319383,
+          "name": "胖胖胖"
+        },
+        {
+          "id": 1145064,
+          "name": "Kp"
+        },
+        {
+          "id": 12138507,
+          "name": "zPone"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

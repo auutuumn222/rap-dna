@@ -1,0 +1,56 @@
+{
+  "id": "cZGVlem8",
+  "name": "Deezo",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33048257,
+          "name": "DeeZoo"
+        },
+        {
+          "id": 53986144,
+          "name": "Deezoo"
+        },
+        {
+          "id": 97862844,
+          "name": "G Deezo"
+        },
+        {
+          "id": 14784248,
+          "name": "Deezo.OG"
+        },
+        {
+          "id": 46540777,
+          "name": "Ben and Deezo Jones"
+        },
+        {
+          "id": 36014026,
+          "name": "Deezobands"
+        },
+        {
+          "id": 125380129,
+          "name": "DEEZO"
+        },
+        {
+          "id": 13801381,
+          "name": "Deezo"
+        },
+        {
+          "id": 36177600,
+          "name": "3800DEEZO"
+        },
+        {
+          "id": 31793905,
+          "name": "Deezo Corleon"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

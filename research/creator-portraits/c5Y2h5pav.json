@@ -1,0 +1,56 @@
+{
+  "id": "c5Y2h5pav",
+  "name": "卡斯",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 222404,
+          "name": "卡斯Kas$"
+        },
+        {
+          "id": 12916109,
+          "name": "Casper卡斯柏"
+        },
+        {
+          "id": 36884393,
+          "name": "熊猫堂_卡斯"
+        },
+        {
+          "id": 13282044,
+          "name": "张卡斯"
+        },
+        {
+          "id": 34469632,
+          "name": "米卡斯给MIKASUKI"
+        },
+        {
+          "id": 124523697,
+          "name": "xxLucas卢卡斯"
+        },
+        {
+          "id": 122411155,
+          "name": "卡斯巴尔戴肯"
+        },
+        {
+          "id": 52477183,
+          "name": "卡斯塔MQLX"
+        },
+        {
+          "id": 12490368,
+          "name": "Lucas Z"
+        },
+        {
+          "id": 48775731,
+          "name": "奥卡斯Leo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

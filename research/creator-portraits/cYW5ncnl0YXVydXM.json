@@ -1,0 +1,24 @@
+{
+  "id": "cYW5ncnl0YXVydXM",
+  "name": "AngryTaurus",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 27871690,
+          "name": "嘻哈融合体"
+        },
+        {
+          "id": 12084523,
+          "name": "CBG"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

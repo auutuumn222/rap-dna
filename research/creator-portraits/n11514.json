@@ -1,0 +1,36 @@
+{
+  "id": "n11514",
+  "name": "二手玫瑰",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 11514,
+          "name": "二手玫瑰"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "二手玫瑰",
+    "image": "./assets/people/n11514.jpg",
+    "source": "https://music.163.com/artist?id=11514",
+    "imageSource": "https://p1.music.126.net/--XNCdRHliDXu5o647cwsg==/109951165912473511.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 11514,
+      "works": [
+        {
+          "id": 1980024415,
+          "title": "耍猴儿 (LIVE版)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1980024415"
+      ]
+    }
+  }
+}

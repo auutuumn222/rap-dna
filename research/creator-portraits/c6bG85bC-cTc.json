@@ -1,0 +1,20 @@
+{
+  "id": "c6bG85bC-cTc",
+  "name": "鱼尾Q7",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36634384,
+          "name": "鱼尾Q7"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

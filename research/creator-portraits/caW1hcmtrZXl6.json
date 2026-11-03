@@ -1,0 +1,20 @@
+{
+  "id": "caW1hcmtrZXl6",
+  "name": "iMarkkeyz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34586970,
+          "name": "iMarkkeyz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

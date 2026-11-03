@@ -1,0 +1,56 @@
+{
+  "id": "c5YWL6YeM5pav",
+  "name": "克里斯",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31465504,
+          "name": "克里斯Chris"
+        },
+        {
+          "id": 14810290,
+          "name": "龚耀华Chris"
+        },
+        {
+          "id": 121965753,
+          "name": "克里斯的呆毛"
+        },
+        {
+          "id": 99535468,
+          "name": "克里斯"
+        },
+        {
+          "id": 1139056,
+          "name": "克里斯矿"
+        },
+        {
+          "id": 123656769,
+          "name": "今天克里斯不关门"
+        },
+        {
+          "id": 123585021,
+          "name": "克里斯"
+        },
+        {
+          "id": 31668440,
+          "name": "Mc·Chris克里斯"
+        },
+        {
+          "id": 12866023,
+          "name": "克里斯鱼"
+        },
+        {
+          "id": 47735405,
+          "name": "克里斯.维娜"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

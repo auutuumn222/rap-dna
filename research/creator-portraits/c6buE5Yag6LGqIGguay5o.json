@@ -1,0 +1,24 @@
+{
+  "id": "c6buE5Yag6LGqIGguay5o",
+  "name": "黄冠豪 H.K.H",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28293376,
+          "name": "黄冠豪"
+        },
+        {
+          "id": 37641651,
+          "name": "黄冠豪"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

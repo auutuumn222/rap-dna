@@ -1,0 +1,24 @@
+{
+  "id": "cc2FwamVy",
+  "name": "Sapjer",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47789052,
+          "name": "Sapjer"
+        },
+        {
+          "id": 94257430,
+          "name": "Sapjer"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

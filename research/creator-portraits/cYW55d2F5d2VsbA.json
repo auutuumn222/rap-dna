@@ -1,0 +1,52 @@
+{
+  "id": "cYW55d2F5d2VsbA",
+  "name": "Anywaywell",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31745849,
+          "name": "ANywaywell"
+        },
+        {
+          "id": 128007644,
+          "name": "Anywaywell"
+        },
+        {
+          "id": 128007867,
+          "name": "Anywaywell"
+        },
+        {
+          "id": 32118359,
+          "name": "Anywaywell Beats"
+        },
+        {
+          "id": 128007645,
+          "name": "Anywaywell"
+        },
+        {
+          "id": 128007646,
+          "name": "Anywaywell"
+        },
+        {
+          "id": 128007869,
+          "name": "Anywaywell"
+        },
+        {
+          "id": 128007871,
+          "name": "Anywaywell"
+        },
+        {
+          "id": 128007868,
+          "name": "Anywaywell"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

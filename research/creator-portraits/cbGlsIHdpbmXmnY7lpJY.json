@@ -1,0 +1,15 @@
+{
+  "id": "cbGlsIHdpbmXmnY7lpJY",
+  "name": "Lil wine李外",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

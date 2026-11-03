@@ -1,0 +1,44 @@
+{
+  "id": "c546L5YWD5Y2a",
+  "name": "王元博",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46587355,
+          "name": "cury"
+        },
+        {
+          "id": 51095877,
+          "name": "王元博"
+        },
+        {
+          "id": 48436890,
+          "name": "Taisheng Music"
+        },
+        {
+          "id": 13159,
+          "name": "TF家族"
+        },
+        {
+          "id": 35966931,
+          "name": "格莱美汇"
+        },
+        {
+          "id": 13286731,
+          "name": "Nec_Ho"
+        },
+        {
+          "id": 52730134,
+          "name": "Epoch Sound"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

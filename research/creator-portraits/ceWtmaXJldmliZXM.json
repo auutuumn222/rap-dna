@@ -1,0 +1,24 @@
+{
+  "id": "ceWtmaXJldmliZXM",
+  "name": "YKFireVibes",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48816818,
+          "name": "YKFireVibes"
+        },
+        {
+          "id": 123375904,
+          "name": "和梅"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

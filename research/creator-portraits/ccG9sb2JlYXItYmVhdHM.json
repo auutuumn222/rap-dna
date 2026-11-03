@@ -1,0 +1,15 @@
+{
+  "id": "ccG9sb2JlYXItYmVhdHM",
+  "name": "Polobear-Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

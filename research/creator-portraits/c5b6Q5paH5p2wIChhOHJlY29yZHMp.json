@@ -1,0 +1,28 @@
+{
+  "id": "c5b6Q5paH5p2wIChhOHJlY29yZHMp",
+  "name": "徐文杰 (A8records)",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51906824,
+          "name": "徐文杰"
+        },
+        {
+          "id": 121703338,
+          "name": "徐文杰"
+        },
+        {
+          "id": 97158325,
+          "name": "徐文杰杰"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ccmlubmU",
+  "name": "RINNE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50661194,
+          "name": "Rinne"
+        },
+        {
+          "id": 1139025,
+          "name": "Rinne"
+        },
+        {
+          "id": 47017950,
+          "name": "Rinne"
+        },
+        {
+          "id": 73859,
+          "name": "RinneRadio"
+        },
+        {
+          "id": 31265080,
+          "name": "Rinnessy"
+        },
+        {
+          "id": 14885034,
+          "name": "Rinnegone"
+        },
+        {
+          "id": 35060929,
+          "name": "Joshua Rinne"
+        },
+        {
+          "id": 127405075,
+          "name": "RINNE"
+        },
+        {
+          "id": 37007837,
+          "name": "Nano Rinnegato"
+        },
+        {
+          "id": 81640,
+          "name": "Tapani Rinne"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

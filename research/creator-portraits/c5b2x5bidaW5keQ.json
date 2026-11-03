@@ -1,0 +1,20 @@
+{
+  "id": "c5b2x5bidaW5keQ",
+  "name": "影帝inDy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34864481,
+          "name": "影帝inDy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

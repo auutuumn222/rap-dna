@@ -1,0 +1,20 @@
+{
+  "id": "camF5ZGFsb3Zl",
+  "name": "JaydaLove",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 99017298,
+          "name": "Jayda Lovett"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

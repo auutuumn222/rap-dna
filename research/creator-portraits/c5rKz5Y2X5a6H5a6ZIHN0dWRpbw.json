@@ -1,0 +1,56 @@
+{
+  "id": "c5rKz5Y2X5a6H5a6ZIHN0dWRpbw",
+  "name": "河南宇宙 studio",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 123668928,
+          "name": "宇宙银河猫"
+        },
+        {
+          "id": 49144727,
+          "name": "王宇宙Leto"
+        },
+        {
+          "id": 128160166,
+          "name": "宇宙引力"
+        },
+        {
+          "id": 13434,
+          "name": "宇宙人"
+        },
+        {
+          "id": 34574994,
+          "name": "三体宇宙"
+        },
+        {
+          "id": 1193531,
+          "name": "宇宙少女"
+        },
+        {
+          "id": 34637540,
+          "name": "宇宙草"
+        },
+        {
+          "id": 94870628,
+          "name": "宇宙使者"
+        },
+        {
+          "id": 49504260,
+          "name": "宇宙疗愈师Mr.Perfect"
+        },
+        {
+          "id": 95534595,
+          "name": "宇宙盲盒Galaxy Blind-box"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

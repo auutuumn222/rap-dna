@@ -1,0 +1,24 @@
+{
+  "id": "c5byg5q2l6Iul",
+  "name": "张步若",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54548976,
+          "name": "张步若"
+        },
+        {
+          "id": 1088047,
+          "name": "张若昀"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

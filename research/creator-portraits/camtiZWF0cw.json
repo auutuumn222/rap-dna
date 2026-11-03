@@ -1,0 +1,40 @@
+{
+  "id": "camtiZWF0cw",
+  "name": "Jkbeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28797676,
+          "name": "jkbeats"
+        },
+        {
+          "id": 128780866,
+          "name": "JKBeats"
+        },
+        {
+          "id": 60006807,
+          "name": "Jkbeats4"
+        },
+        {
+          "id": 46305531,
+          "name": "JK Beats"
+        },
+        {
+          "id": 47530721,
+          "name": "JKBeat"
+        },
+        {
+          "id": 60657708,
+          "name": "JK Beats Prod"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

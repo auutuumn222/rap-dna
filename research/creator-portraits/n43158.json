@@ -1,0 +1,37 @@
+{
+  "id": "n43158",
+  "name": "病态男孩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 43158,
+          "name": "病态男孩"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "病态男孩",
+    "image": "./assets/people/n43158.jpg",
+    "source": "https://music.163.com/artist?id=43158",
+    "imageSource": "https://p2.music.126.net/SthyEqSH0qVoE43k4occwA==/109951174194316454.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 43158,
+      "works": [
+        {
+          "id": 1979302371,
+          "title": "沉默"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1979302371",
+        "https://music.163.com/song?id=3436813098"
+      ]
+    }
+  }
+}

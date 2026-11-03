@@ -1,0 +1,20 @@
+{
+  "id": "cODA4ZWF6eQ",
+  "name": "808eazy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54471160,
+          "name": "Eazy Ernie 808 Blanco"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

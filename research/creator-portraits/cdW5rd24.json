@@ -1,0 +1,56 @@
+{
+  "id": "cdW5rd24",
+  "name": "UNKWN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12121261,
+          "name": "UNKWN"
+        },
+        {
+          "id": 56519134,
+          "name": "UNKWN_FELLA"
+        },
+        {
+          "id": 36222236,
+          "name": "Unkwnthefaux"
+        },
+        {
+          "id": 125821965,
+          "name": "unkwn.user296765771"
+        },
+        {
+          "id": 47130205,
+          "name": "Unkwn6"
+        },
+        {
+          "id": 96981665,
+          "name": "00UNKWN"
+        },
+        {
+          "id": 56089004,
+          "name": "2UnKwn"
+        },
+        {
+          "id": 54001162,
+          "name": "Unkwn Savage"
+        },
+        {
+          "id": 47696819,
+          "name": "UNKWN DESTINATION"
+        },
+        {
+          "id": 47334938,
+          "name": "Unkwn sinner"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

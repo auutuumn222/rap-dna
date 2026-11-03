@@ -1,0 +1,56 @@
+{
+  "id": "c5YiY5L-K5p2wIHpldXMgcHJvZHVjdGlvbg",
+  "name": "刘俊杰 Zeus Production",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 52504665,
+          "name": "大刘—刘俊杰"
+        },
+        {
+          "id": 94842032,
+          "name": "刘俊杰"
+        },
+        {
+          "id": 789554,
+          "name": "刘俊杰"
+        },
+        {
+          "id": 37512148,
+          "name": "刘俊杰"
+        },
+        {
+          "id": 35077651,
+          "name": "海丰刘俊杰"
+        },
+        {
+          "id": 124359223,
+          "name": "刘俊杰"
+        },
+        {
+          "id": 47603138,
+          "name": "Seeun.서시운；刘俊杰"
+        },
+        {
+          "id": 123382679,
+          "name": "刘俊杰"
+        },
+        {
+          "id": 122259260,
+          "name": "刘俊杰"
+        },
+        {
+          "id": 123996387,
+          "name": "刘俊杰"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

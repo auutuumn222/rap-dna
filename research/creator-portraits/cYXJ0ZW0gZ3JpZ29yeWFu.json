@@ -1,0 +1,15 @@
+{
+  "id": "cYXJ0ZW0gZ3JpZ29yeWFu",
+  "name": "Artem Grigoryan",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c5qyn5Lit5bu6cmljaGFyZA",
+  "name": "欧中建Richard",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 4708,
+          "name": "欧中建"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

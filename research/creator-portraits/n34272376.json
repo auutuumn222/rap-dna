@@ -1,0 +1,36 @@
+{
+  "id": "n34272376",
+  "name": "MarioLikeMe",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34272376,
+          "name": "MarioLikeMe"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "MarioLikeMe",
+    "image": "./assets/people/n34272376.jpg",
+    "source": "https://music.163.com/artist?id=34272376",
+    "imageSource": "https://p1.music.126.net/rED19o-DX3jlQU71HCA2IQ==/109951169670827203.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 34272376,
+      "works": [
+        {
+          "id": 2020322384,
+          "title": "Deja Vu"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2020322384"
+      ]
+    }
+  }
+}

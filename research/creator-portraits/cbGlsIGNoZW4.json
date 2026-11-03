@@ -1,0 +1,56 @@
+{
+  "id": "cbGlsIGNoZW4",
+  "name": "Lil Chen",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34197847,
+          "name": "Lil-Chen#"
+        },
+        {
+          "id": 32915205,
+          "name": "LIL-Chen"
+        },
+        {
+          "id": 52562769,
+          "name": "LilChenXMoMa"
+        },
+        {
+          "id": 34564547,
+          "name": "Lil chen"
+        },
+        {
+          "id": 51936519,
+          "name": "Lil Chen"
+        },
+        {
+          "id": 58805237,
+          "name": "Lil Chen"
+        },
+        {
+          "id": 37258630,
+          "name": "Lil chen陈"
+        },
+        {
+          "id": 53826493,
+          "name": "Lil Cheny"
+        },
+        {
+          "id": 29818463,
+          "name": "Lil Cheng"
+        },
+        {
+          "id": 57795852,
+          "name": "Lil Chenzi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

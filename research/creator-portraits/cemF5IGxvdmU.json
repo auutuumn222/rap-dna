@@ -1,0 +1,32 @@
+{
+  "id": "cemF5IGxvdmU",
+  "name": "Zay Love",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48358705,
+          "name": "Zay Love"
+        },
+        {
+          "id": 53553451,
+          "name": "Zay Lovell"
+        },
+        {
+          "id": 35049215,
+          "name": "Love Zay"
+        },
+        {
+          "id": 36053119,
+          "name": "zaylove"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

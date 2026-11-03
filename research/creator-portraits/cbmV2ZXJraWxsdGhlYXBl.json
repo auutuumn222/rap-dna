@@ -1,0 +1,20 @@
+{
+  "id": "cbmV2ZXJraWxsdGhlYXBl",
+  "name": "neverkilltheape",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50445808,
+          "name": "neverkilltheape"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

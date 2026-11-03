@@ -1,0 +1,31 @@
+{
+  "id": "n59528211",
+  "name": "鼠尾草",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 59528211,
+          "name": "鼠尾草"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "鼠尾草",
+    "image": "./assets/people/n59528211.jpg",
+    "source": "https://music.163.com/artist?id=59528211",
+    "imageSource": "https://p2.music.126.net/sv15Ht_46qotsbPU5zEIGg==/109951169200216608.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 59528211,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2103764064"
+      ]
+    }
+  }
+}

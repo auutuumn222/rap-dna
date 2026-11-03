@@ -1,0 +1,56 @@
+{
+  "id": "cYXN0cm8",
+  "name": "astro",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 11996164,
+          "name": "ASTRO"
+        },
+        {
+          "id": 52113597,
+          "name": "ASTRO"
+        },
+        {
+          "id": 99461484,
+          "name": "Astro"
+        },
+        {
+          "id": 100615994,
+          "name": "Astro"
+        },
+        {
+          "id": 125165702,
+          "name": "Astro"
+        },
+        {
+          "id": 49237461,
+          "name": "Astro"
+        },
+        {
+          "id": 37409641,
+          "name": "Astro Boyz"
+        },
+        {
+          "id": 127947915,
+          "name": "ASTRO DONUTS"
+        },
+        {
+          "id": 35220670,
+          "name": "Team Astro"
+        },
+        {
+          "id": 12121252,
+          "name": "车银优"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

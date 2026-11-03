@@ -1,0 +1,36 @@
+{
+  "id": "c6I2S5LqV5Y2B5LiA",
+  "name": "荒井十一",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 29800442,
+          "name": "荒井十一"
+        },
+        {
+          "id": 12121264,
+          "name": "Ice Paper"
+        },
+        {
+          "id": 1193259,
+          "name": "苏运莹"
+        },
+        {
+          "id": 61890676,
+          "name": "Karen Mok & The Masters"
+        },
+        {
+          "id": 6884,
+          "name": "朱家明"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

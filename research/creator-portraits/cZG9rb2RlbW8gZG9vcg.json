@@ -1,0 +1,28 @@
+{
+  "id": "cZG9rb2RlbW8gZG9vcg",
+  "name": "Dokodemo Door",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53721241,
+          "name": "Dokodemo Door"
+        },
+        {
+          "id": 51088331,
+          "name": "付思遥"
+        },
+        {
+          "id": 12065015,
+          "name": "隆历奇"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

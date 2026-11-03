@@ -1,0 +1,56 @@
+{
+  "id": "cbmFkZGE",
+  "name": "Nadda",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37067326,
+          "name": "Nadda Mercenary"
+        },
+        {
+          "id": 48303890,
+          "name": "Nadda Band"
+        },
+        {
+          "id": 34295236,
+          "name": "Nadda"
+        },
+        {
+          "id": 13013063,
+          "name": "Nadda Wiyakarn"
+        },
+        {
+          "id": 60152570,
+          "name": "Nadda B"
+        },
+        {
+          "id": 57247072,
+          "name": "Nadda Wiyakan"
+        },
+        {
+          "id": 50975127,
+          "name": "Young Nadda"
+        },
+        {
+          "id": 57520825,
+          "name": "Nohn Nadda"
+        },
+        {
+          "id": 46629417,
+          "name": "Naddan"
+        },
+        {
+          "id": 56578510,
+          "name": "Hamza Naddar"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cZHjogpblpI8",
+  "name": "DX肖夏",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12537270,
+          "name": "DX肖夏"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

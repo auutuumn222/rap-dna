@@ -1,0 +1,24 @@
+{
+  "id": "ca29uYWJlYXR6",
+  "name": "KonaBeatz",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47980032,
+          "name": "Konabeatz"
+        },
+        {
+          "id": 47502410,
+          "name": "Kona Beatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

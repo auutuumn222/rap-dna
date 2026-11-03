@@ -1,0 +1,56 @@
+{
+  "id": "ca2FpaQ",
+  "name": "KAII",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1050520,
+          "name": "KAII"
+        },
+        {
+          "id": 28457718,
+          "name": "Kaii"
+        },
+        {
+          "id": 126327181,
+          "name": "kaiii恩恩"
+        },
+        {
+          "id": 985296,
+          "name": "Kaiia"
+        },
+        {
+          "id": 123774991,
+          "name": "Kaii（凯一）"
+        },
+        {
+          "id": 12675098,
+          "name": "Kaii Dreams"
+        },
+        {
+          "id": 28279333,
+          "name": "Kaiit"
+        },
+        {
+          "id": 51727151,
+          "name": "kaii"
+        },
+        {
+          "id": 126834019,
+          "name": "KaiiG"
+        },
+        {
+          "id": 58893128,
+          "name": "KAII"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

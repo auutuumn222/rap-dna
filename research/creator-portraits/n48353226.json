@@ -1,0 +1,36 @@
+{
+  "id": "n48353226",
+  "name": "COOZI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48353226,
+          "name": "COOZI"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "COOZI",
+    "image": "./assets/people/n48353226.jpg",
+    "source": "https://music.163.com/artist?id=48353226",
+    "imageSource": "https://p2.music.126.net/LMAM6LJDcwwvfOx7FKBHaw==/109951172283117039.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 48353226,
+      "works": [
+        {
+          "id": 1916925121,
+          "title": "Weirdcore Dinner"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1916925121"
+      ]
+    }
+  }
+}

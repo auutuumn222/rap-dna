@@ -1,0 +1,20 @@
+{
+  "id": "ceXVuZyBzd2lzaGVy",
+  "name": "Yung Swisher",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34962297,
+          "name": "Yung Swisher"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

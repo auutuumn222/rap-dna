@@ -1,0 +1,56 @@
+{
+  "id": "cbWFudHJh",
+  "name": "Mantra",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 68585,
+          "name": "Mantra"
+        },
+        {
+          "id": 35248590,
+          "name": "mantra"
+        },
+        {
+          "id": 837659,
+          "name": "Mantra"
+        },
+        {
+          "id": 12735888,
+          "name": "Mantra Beats"
+        },
+        {
+          "id": 46542099,
+          "name": "MANTRA"
+        },
+        {
+          "id": 54805047,
+          "name": "Mantra"
+        },
+        {
+          "id": 46695876,
+          "name": "Mantra"
+        },
+        {
+          "id": 34133074,
+          "name": "MANTRA"
+        },
+        {
+          "id": 33331,
+          "name": "E-Mantra"
+        },
+        {
+          "id": 1081888,
+          "name": "Yantra Mantra"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

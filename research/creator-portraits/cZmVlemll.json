@@ -1,0 +1,56 @@
+{
+  "id": "cZmVlemll",
+  "name": "feezie",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47304108,
+          "name": "Feezie"
+        },
+        {
+          "id": 100246181,
+          "name": "J Feezie"
+        },
+        {
+          "id": 53482366,
+          "name": "Feezie M.B."
+        },
+        {
+          "id": 130243832,
+          "name": "G Feeziee"
+        },
+        {
+          "id": 12003155,
+          "name": "直火帮 Straight Fire Gang"
+        },
+        {
+          "id": 30000024,
+          "name": "直火帮Feezy"
+        },
+        {
+          "id": 29213777,
+          "name": "DJ E-Feezy"
+        },
+        {
+          "id": 98165689,
+          "name": "Feezy Feez"
+        },
+        {
+          "id": 29783606,
+          "name": "Feezy"
+        },
+        {
+          "id": 54623114,
+          "name": "Dj Feezy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

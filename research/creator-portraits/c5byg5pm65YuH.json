@@ -1,0 +1,24 @@
+{
+  "id": "c5byg5pm65YuH",
+  "name": "张智勇",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1049870,
+          "name": "张智勇"
+        },
+        {
+          "id": 99837515,
+          "name": "张智勇"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

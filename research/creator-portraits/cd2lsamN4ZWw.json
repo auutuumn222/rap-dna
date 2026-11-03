@@ -1,0 +1,20 @@
+{
+  "id": "cd2lsamN4ZWw",
+  "name": "wiljcxel",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 126053669,
+          "name": "wiljcxel"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

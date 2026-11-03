@@ -1,0 +1,56 @@
+{
+  "id": "c5bqf54mp6LaF5biC",
+  "name": "废物超市",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30792494,
+          "name": "废物超市"
+        },
+        {
+          "id": 94417254,
+          "name": "废物超市"
+        },
+        {
+          "id": 32431990,
+          "name": "奚缘"
+        },
+        {
+          "id": 12155122,
+          "name": "ZY"
+        },
+        {
+          "id": 12760223,
+          "name": "layx"
+        },
+        {
+          "id": 12039063,
+          "name": "Side Men边缘人"
+        },
+        {
+          "id": 30953876,
+          "name": "二爱夫"
+        },
+        {
+          "id": 12789444,
+          "name": "SAO"
+        },
+        {
+          "id": 30549014,
+          "name": "HealerHill"
+        },
+        {
+          "id": 12939044,
+          "name": "Klay"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

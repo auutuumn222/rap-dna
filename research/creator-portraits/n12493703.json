@@ -1,0 +1,37 @@
+{
+  "id": "n12493703",
+  "name": "K11",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12493703,
+          "name": "K11"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "K11",
+    "image": "./assets/people/n12493703.jpg",
+    "source": "https://music.163.com/artist?id=12493703",
+    "imageSource": "https://p1.music.126.net/uXbpvnGfHDpub3CrOIgxwA==/109951172160438899.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12493703,
+      "works": [
+        {
+          "id": 1436520262,
+          "title": "林弯弯 (Prod K eleven)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1436520262",
+        "https://music.163.com/song?id=2105406239"
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cZ3U",
+  "name": "Gu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 188274,
+          "name": "GUMI"
+        },
+        {
+          "id": 93183,
+          "name": "Guns N' Roses"
+        },
+        {
+          "id": 31211,
+          "name": "David Guetta"
+        },
+        {
+          "id": 60928191,
+          "name": "GuTs"
+        },
+        {
+          "id": 12140265,
+          "name": "鬼鬼_非凡Gus"
+        },
+        {
+          "id": 99093,
+          "name": "The Piano Guys"
+        },
+        {
+          "id": 55298728,
+          "name": "Phonk Remix Guys"
+        },
+        {
+          "id": 29345,
+          "name": "Buddy Guy"
+        },
+        {
+          "id": 12355551,
+          "name": "Gus Dapperton"
+        },
+        {
+          "id": 33858,
+          "name": "Gustavo Santaolalla"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

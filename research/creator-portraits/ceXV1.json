@@ -1,0 +1,56 @@
+{
+  "id": "ceXV1",
+  "name": "Yuu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 53959727,
+          "name": "ゆう。"
+        },
+        {
+          "id": 95939825,
+          "name": "YUU"
+        },
+        {
+          "id": 36163163,
+          "name": "Tani Yuuki"
+        },
+        {
+          "id": 52866446,
+          "name": "Yuuna Nini"
+        },
+        {
+          "id": 53868952,
+          "name": "YuuKi林嘉"
+        },
+        {
+          "id": 12322247,
+          "name": "YUUKI MIYAKE"
+        },
+        {
+          "id": 57401574,
+          "name": "江予Yuuu"
+        },
+        {
+          "id": 61251790,
+          "name": "小鱼yuuu."
+        },
+        {
+          "id": 60197860,
+          "name": "YUuHI"
+        },
+        {
+          "id": 12323268,
+          "name": "yuukiss"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

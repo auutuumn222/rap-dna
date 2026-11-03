@@ -1,0 +1,28 @@
+{
+  "id": "ceW91bmdwaW5l",
+  "name": "YoungPine",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54483007,
+          "name": "Young Pine"
+        },
+        {
+          "id": 29779391,
+          "name": "Young Pine"
+        },
+        {
+          "id": 32739052,
+          "name": "Young Pineapple"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cd29vZHkgd29uZw",
+  "name": "Woody wong",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 96956981,
+          "name": "sorryforyourLoss"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

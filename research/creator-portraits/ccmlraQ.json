@@ -1,0 +1,56 @@
+{
+  "id": "ccmlraQ",
+  "name": "riki",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36309276,
+          "name": "RIKI"
+        },
+        {
+          "id": 36623449,
+          "name": "RiKi"
+        },
+        {
+          "id": 35901103,
+          "name": "DJ Riki"
+        },
+        {
+          "id": 12302152,
+          "name": "RIKI"
+        },
+        {
+          "id": 47723517,
+          "name": "力丸"
+        },
+        {
+          "id": 985337,
+          "name": "Rikin8r"
+        },
+        {
+          "id": 12451133,
+          "name": "RIKI"
+        },
+        {
+          "id": 30385996,
+          "name": "Rikii"
+        },
+        {
+          "id": 54693679,
+          "name": "riki"
+        },
+        {
+          "id": 123383207,
+          "name": "芮尔Riki"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

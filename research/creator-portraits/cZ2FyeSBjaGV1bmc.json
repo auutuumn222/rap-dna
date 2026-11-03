@@ -1,0 +1,20 @@
+{
+  "id": "cZ2FyeSBjaGV1bmc",
+  "name": "Gary Cheung",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32252263,
+          "name": "GaryCheung"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

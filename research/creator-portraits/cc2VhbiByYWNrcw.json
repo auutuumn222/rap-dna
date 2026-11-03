@@ -1,0 +1,24 @@
+{
+  "id": "cc2VhbiByYWNrcw",
+  "name": "Sean Racks",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34097497,
+          "name": "Sean Racks"
+        },
+        {
+          "id": 97317634,
+          "name": "Seanracks"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

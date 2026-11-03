@@ -1,0 +1,20 @@
+{
+  "id": "cZHJlIG1pbm9y",
+  "name": "DRE MINOR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28227846,
+          "name": "Dre Minor"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

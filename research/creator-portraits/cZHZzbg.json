@@ -1,0 +1,52 @@
+{
+  "id": "cZHZzbg",
+  "name": "DVSN",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1192492,
+          "name": "dvsn"
+        },
+        {
+          "id": 33184606,
+          "name": "Unit Dvsn"
+        },
+        {
+          "id": 121321492,
+          "name": "DUST DVSN"
+        },
+        {
+          "id": 129388643,
+          "name": "Dvsn0"
+        },
+        {
+          "id": 94835534,
+          "name": "Dvsnho.808"
+        },
+        {
+          "id": 126609469,
+          "name": "DUST DVSN & Truenoys"
+        },
+        {
+          "id": 33207982,
+          "name": "BK & Unit DVSN"
+        },
+        {
+          "id": 789235,
+          "name": "Ty Dolla $ign"
+        },
+        {
+          "id": 524161,
+          "name": "Dvs Nme"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

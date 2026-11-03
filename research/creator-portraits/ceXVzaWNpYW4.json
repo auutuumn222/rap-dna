@@ -1,0 +1,28 @@
+{
+  "id": "ceXVzaWNpYW4",
+  "name": "Yusician",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49805634,
+          "name": "Yusician"
+        },
+        {
+          "id": 53949152,
+          "name": "YuSician"
+        },
+        {
+          "id": 54678498,
+          "name": "利世奈"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

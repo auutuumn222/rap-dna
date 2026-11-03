@@ -1,0 +1,56 @@
+{
+  "id": "cZGF5",
+  "name": "Day",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51197738,
+          "name": "Day 许轶"
+        },
+        {
+          "id": 900106,
+          "name": "Zella Day"
+        },
+        {
+          "id": 93187,
+          "name": "Green Day"
+        },
+        {
+          "id": 53254,
+          "name": "Doris Day"
+        },
+        {
+          "id": 1146052,
+          "name": "DAY6"
+        },
+        {
+          "id": 13788584,
+          "name": "Tiffany Day"
+        },
+        {
+          "id": 1081186,
+          "name": "Daya"
+        },
+        {
+          "id": 12120169,
+          "name": "狄迪（D-DAY）"
+        },
+        {
+          "id": 126828,
+          "name": "Girl's Day"
+        },
+        {
+          "id": 54119684,
+          "name": "Dayan"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

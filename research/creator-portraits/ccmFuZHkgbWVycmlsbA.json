@@ -1,0 +1,20 @@
+{
+  "id": "ccmFuZHkgbWVycmlsbA",
+  "name": "Randy Merrill",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32707603,
+          "name": "Randy Merrill"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

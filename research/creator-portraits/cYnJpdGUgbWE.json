@@ -1,0 +1,24 @@
+{
+  "id": "cYnJpdGUgbWE",
+  "name": "Brite Ma",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37436624,
+          "name": "Britemachine"
+        },
+        {
+          "id": 32883247,
+          "name": "Britemata"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

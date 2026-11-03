@@ -1,0 +1,36 @@
+{
+  "id": "ca2lubyBiZWF0cw",
+  "name": "Kino Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13105429,
+          "name": "Kino Beats"
+        },
+        {
+          "id": 49891743,
+          "name": "9kino beats"
+        },
+        {
+          "id": 48582767,
+          "name": "Masiwei"
+        },
+        {
+          "id": 14402839,
+          "name": "Dell Harris"
+        },
+        {
+          "id": 35594283,
+          "name": "KinoBeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

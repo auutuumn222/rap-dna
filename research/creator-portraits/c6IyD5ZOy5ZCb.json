@@ -1,0 +1,15 @@
+{
+  "id": "c6IyD5ZOy5ZCb",
+  "name": "范哲君",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

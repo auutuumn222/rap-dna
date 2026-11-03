@@ -1,0 +1,20 @@
+{
+  "id": "c6L6w57696bij",
+  "name": "辰羽鸣",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12119134,
+          "name": "辰羽鸣"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
+  "status": "unresolved"
+}

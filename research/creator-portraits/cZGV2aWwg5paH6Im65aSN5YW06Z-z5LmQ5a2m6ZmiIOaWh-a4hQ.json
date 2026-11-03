@@ -1,0 +1,56 @@
+{
+  "id": "cZGV2aWwg5paH6Im65aSN5YW06Z-z5LmQ5a2m6ZmiIOaWh-a4hQ",
+  "name": "devil 文艺复兴音乐学院 文清",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12138062,
+          "name": "文艺复兴乐队"
+        },
+        {
+          "id": 94964275,
+          "name": "RENASCIMENTO文藝復興樂團"
+        },
+        {
+          "id": 94901541,
+          "name": "RENASCIMENTO文艺复兴乐团"
+        },
+        {
+          "id": 12002061,
+          "name": "景德镇文艺复兴"
+        },
+        {
+          "id": 125460213,
+          "name": "文艺复兴Children's Day"
+        },
+        {
+          "id": 52236260,
+          "name": "文艺复兴"
+        },
+        {
+          "id": 98861333,
+          "name": "文艺复兴§"
+        },
+        {
+          "id": 52322238,
+          "name": "文艺复兴"
+        },
+        {
+          "id": 46816958,
+          "name": "文艺复兴（Renaissance）"
+        },
+        {
+          "id": 96392899,
+          "name": "文艺复兴唐代Lo-Fi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

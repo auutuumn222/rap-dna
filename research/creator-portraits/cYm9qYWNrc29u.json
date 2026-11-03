@@ -1,0 +1,28 @@
+{
+  "id": "cYm9qYWNrc29u",
+  "name": "Bojackson",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 97137663,
+          "name": "bojackson"
+        },
+        {
+          "id": 31736182,
+          "name": "Bo Jackson"
+        },
+        {
+          "id": 35190522,
+          "name": "Bo Jackson & Konscience Beatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

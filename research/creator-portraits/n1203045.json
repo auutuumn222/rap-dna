@@ -1,0 +1,38 @@
+{
+  "id": "n1203045",
+  "name": "艾热 AIR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1203045,
+          "name": "艾热 AIR"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "艾热 AIR",
+    "image": "./assets/people/n1203045.jpg",
+    "source": "https://music.163.com/artist?id=1203045",
+    "imageSource": "https://p1.music.126.net/tvy9BeZWZhqKfYKLHsSf-w==/109951172651091852.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 1203045,
+      "works": [
+        {
+          "id": 1980392121,
+          "title": "人来疯（LIVE版）"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1980392121",
+        "https://music.163.com/song?id=1987823308",
+        "https://music.163.com/song?id=2065921543"
+      ]
+    }
+  }
+}

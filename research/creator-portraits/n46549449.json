@@ -1,0 +1,31 @@
+{
+  "id": "n46549449",
+  "name": "Akemen",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46549449,
+          "name": "Akemen"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Akemen",
+    "image": "./assets/people/n46549449.jpg",
+    "source": "https://music.163.com/artist?id=46549449",
+    "imageSource": "https://p2.music.126.net/qR_NN4qSC3oU47nuGHm2mw==/109951173684109398.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 46549449,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2141298734"
+      ]
+    }
+  }
+}

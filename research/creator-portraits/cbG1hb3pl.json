@@ -1,0 +1,20 @@
+{
+  "id": "cbG1hb3pl",
+  "name": "Lmaoze",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13701365,
+          "name": "Lmaoze"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

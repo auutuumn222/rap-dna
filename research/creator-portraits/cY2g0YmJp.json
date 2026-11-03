@@ -1,0 +1,15 @@
+{
+  "id": "cY2g0YmJp",
+  "name": "CH4BBI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

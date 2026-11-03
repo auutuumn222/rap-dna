@@ -1,0 +1,24 @@
+{
+  "id": "cZHJlYW15IHBpZQ",
+  "name": "dreamy pie",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31792499,
+          "name": "Dreamy Pierrot"
+        },
+        {
+          "id": 60364577,
+          "name": "dreamypie"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

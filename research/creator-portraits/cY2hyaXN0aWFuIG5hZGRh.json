@@ -1,0 +1,15 @@
+{
+  "id": "cY2hyaXN0aWFuIG5hZGRh",
+  "name": "Christian Nadda",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

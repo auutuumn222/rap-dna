@@ -1,0 +1,56 @@
+{
+  "id": "ca2FzJA",
+  "name": "Kas$",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 15289438,
+          "name": "KAS:ST"
+        },
+        {
+          "id": 222404,
+          "name": "卡斯Kas$"
+        },
+        {
+          "id": 308188,
+          "name": "Kas"
+        },
+        {
+          "id": 35649041,
+          "name": "Kas 7"
+        },
+        {
+          "id": 12883258,
+          "name": "DJ Kas"
+        },
+        {
+          "id": 123993450,
+          "name": "ı̣ɯɐuɐɥ ı̣ʞɐS"
+        },
+        {
+          "id": 12251138,
+          "name": "Kas Product"
+        },
+        {
+          "id": 54580603,
+          "name": "VGM Kas"
+        },
+        {
+          "id": 29835252,
+          "name": "Obnoxious Kas"
+        },
+        {
+          "id": 31578884,
+          "name": "Dima Kas"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "n54247662",
+  "name": "刀脚",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54247662,
+          "name": "刀脚"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "刀脚",
+    "image": "./assets/people/n54247662.jpg",
+    "source": "https://music.163.com/artist?id=54247662",
+    "imageSource": "https://p1.music.126.net/1boUUGnDBkl8vc1Vk54Ohw==/109951173569640287.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 54247662,
+      "works": [
+        {
+          "id": 2155972625,
+          "title": "哦（That'it）"
+        },
+        {
+          "id": 2738934515,
+          "title": "哦 (Live)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1948055313",
+        "https://music.163.com/song?id=2048971457",
+        "https://music.163.com/song?id=2100264951"
+      ]
+    }
+  }
+}

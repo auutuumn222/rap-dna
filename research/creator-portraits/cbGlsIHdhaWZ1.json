@@ -1,0 +1,20 @@
+{
+  "id": "cbGlsIHdhaWZ1",
+  "name": "Lil Waifu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 59077004,
+          "name": "Sun7y1n300_"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

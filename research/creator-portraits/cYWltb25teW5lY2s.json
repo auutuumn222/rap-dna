@@ -1,0 +1,15 @@
+{
+  "id": "cYWltb25teW5lY2s",
+  "name": "aimonmyneck",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

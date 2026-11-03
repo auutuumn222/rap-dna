@@ -1,0 +1,20 @@
+{
+  "id": "camF5ei5w",
+  "name": "JayZ.P",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13701055,
+          "name": "JayZ.P"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

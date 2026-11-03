@@ -1,0 +1,20 @@
+{
+  "id": "c5qmZ5YWJ5pe25Luj",
+  "name": "橙光时代",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 58553769,
+          "name": "橙光时代"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

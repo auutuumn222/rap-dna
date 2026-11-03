@@ -1,0 +1,15 @@
+{
+  "id": "cbm9uYnJ1aA",
+  "name": "nonbruh",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

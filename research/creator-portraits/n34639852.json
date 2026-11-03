@@ -1,0 +1,54 @@
+{
+  "id": "n34639852",
+  "name": "叶轩池",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34639852,
+          "name": "叶轩池"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "叶轩池",
+    "image": "./assets/people/n34639852.jpg",
+    "source": "https://music.163.com/artist?id=34639852",
+    "imageSource": "https://p2.music.126.net/aCsJGTmvI1pz14d-Xs9BZw==/109951173439210907.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 34639852,
+      "works": [
+        {
+          "id": 3433370241,
+          "title": "交大绿岭又停电了"
+        },
+        {
+          "id": 3433370242,
+          "title": "虚焦"
+        },
+        {
+          "id": 2033031045,
+          "title": "年兽"
+        },
+        {
+          "id": 2033069712,
+          "title": "南极洲Kanye"
+        },
+        {
+          "id": 2166832617,
+          "title": "神啊，你能给我买点什么吗？"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2033031045",
+        "https://music.163.com/song?id=2033069712",
+        "https://music.163.com/song?id=2166832617"
+      ]
+    }
+  }
+}

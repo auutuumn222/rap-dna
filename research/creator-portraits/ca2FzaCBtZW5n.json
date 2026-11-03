@@ -1,0 +1,20 @@
+{
+  "id": "ca2FzaCBtZW5n",
+  "name": "Kash Meng",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13528616,
+          "name": "Kash Meng"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

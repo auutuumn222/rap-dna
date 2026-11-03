@@ -1,0 +1,56 @@
+{
+  "id": "cbWc",
+  "name": "MG",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30548303,
+          "name": "周周MG"
+        },
+        {
+          "id": 38861,
+          "name": "MGMT"
+        },
+        {
+          "id": 121369332,
+          "name": "MG"
+        },
+        {
+          "id": 296434,
+          "name": "MGD"
+        },
+        {
+          "id": 40329,
+          "name": "mgk"
+        },
+        {
+          "id": 94929040,
+          "name": "MGL"
+        },
+        {
+          "id": 213712,
+          "name": "MG Traxx"
+        },
+        {
+          "id": 15986,
+          "name": "5mg"
+        },
+        {
+          "id": 50682026,
+          "name": "Mg"
+        },
+        {
+          "id": 126775554,
+          "name": "MG.尘"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

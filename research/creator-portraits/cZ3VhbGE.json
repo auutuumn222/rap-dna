@@ -1,0 +1,56 @@
+{
+  "id": "cZ3VhbGE",
+  "name": "Guala",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 42688,
+          "name": "Raphael Gualazzi"
+        },
+        {
+          "id": 51910956,
+          "name": "Gualae Huncho"
+        },
+        {
+          "id": 30893928,
+          "name": "Guala"
+        },
+        {
+          "id": 36460334,
+          "name": "Fo Guala"
+        },
+        {
+          "id": 49686226,
+          "name": "J Guala"
+        },
+        {
+          "id": 95403582,
+          "name": "gualaopium"
+        },
+        {
+          "id": 471391,
+          "name": "Packo Gualandris"
+        },
+        {
+          "id": 34650896,
+          "name": "Guala Guala Blanco"
+        },
+        {
+          "id": 34729265,
+          "name": "Guala Boy"
+        },
+        {
+          "id": 29976833,
+          "name": "Guala beatz"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

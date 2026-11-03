@@ -1,0 +1,38 @@
+{
+  "id": "n12183619",
+  "name": "Todd Malone",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12183619,
+          "name": "Todd Malone"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "Todd Malone",
+    "image": "./assets/people/n12183619.jpg",
+    "source": "https://music.163.com/artist?id=12183619",
+    "imageSource": "https://p2.music.126.net/PR9LnYJPkxWBgr62prN2xQ==/109951169814352729.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12183619,
+      "works": [
+        {
+          "id": 1819970423,
+          "title": "纵容"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1819970423",
+        "https://music.163.com/song?id=1877751496",
+        "https://music.163.com/song?id=1908081373"
+      ]
+    }
+  }
+}

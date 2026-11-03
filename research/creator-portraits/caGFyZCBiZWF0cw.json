@@ -1,0 +1,56 @@
+{
+  "id": "caGFyZCBiZWF0cw",
+  "name": "Hard Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37596064,
+          "name": "Hard Beats"
+        },
+        {
+          "id": 60901612,
+          "name": "hard beats channel"
+        },
+        {
+          "id": 57713593,
+          "name": "Hard Beats Vibes"
+        },
+        {
+          "id": 94652257,
+          "name": "Go Hard Beats"
+        },
+        {
+          "id": 56644254,
+          "name": "Bank Hard Beats"
+        },
+        {
+          "id": 12767094,
+          "name": "Sexy Hard Beats"
+        },
+        {
+          "id": 49717024,
+          "name": "Rich Hard Beats"
+        },
+        {
+          "id": 37171806,
+          "name": "Rain End Hard Beats"
+        },
+        {
+          "id": 32523386,
+          "name": "Count Jaye & the Hard Beats"
+        },
+        {
+          "id": 60774808,
+          "name": "Hard Beats Forever"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

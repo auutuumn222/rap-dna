@@ -1,0 +1,36 @@
+{
+  "id": "c5a6J5p6X55G2",
+  "name": "安林瑶",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12415043,
+          "name": "安林瑶Alia"
+        },
+        {
+          "id": 29303235,
+          "name": "PSY.P"
+        },
+        {
+          "id": 12092433,
+          "name": "JarStick"
+        },
+        {
+          "id": 12085585,
+          "name": "SIMBA辛巴"
+        },
+        {
+          "id": 60483461,
+          "name": "大努"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ceXlrYnrmnajkuIA",
+  "name": "YYKBZ杨一",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12268099,
+          "name": "YYKBZ"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

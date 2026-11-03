@@ -1,0 +1,44 @@
+{
+  "id": "canVycml2aA",
+  "name": "Jurrivh",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12090068,
+          "name": "Jurrivh"
+        },
+        {
+          "id": 122904734,
+          "name": "Jurrivh"
+        },
+        {
+          "id": 98647706,
+          "name": "Jurrivh"
+        },
+        {
+          "id": 37384790,
+          "name": "Jurrivh & Joni Van Rossum"
+        },
+        {
+          "id": 55874136,
+          "name": "JurrivhxSoulkiller"
+        },
+        {
+          "id": 12276430,
+          "name": "Cubi"
+        },
+        {
+          "id": 1199148,
+          "name": "多多Aydos"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

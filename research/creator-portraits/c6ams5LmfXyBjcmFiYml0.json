@@ -1,0 +1,20 @@
+{
+  "id": "c6ams5LmfXyBjcmFiYml0",
+  "name": "马也_ Crabbit",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13288861,
+          "name": "马也_Crabbit"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "n12119322",
+  "name": "K9TIONN",
+  "attempts": [],
+  "entry": {
+    "name": "K9TIONN",
+    "catalogName": "K9TIONN",
+    "aliases": [
+      "奈神"
+    ],
+    "image": "./assets/people/n12119322.jpg",
+    "source": "https://music.163.com/artist?id=12119322",
+    "imageSource": "https://p1.music.126.net/ifI5NSVv44_0XKBNy8kR7g==/109951171028376864.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

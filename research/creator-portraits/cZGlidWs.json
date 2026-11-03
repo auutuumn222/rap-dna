@@ -1,0 +1,48 @@
+{
+  "id": "cZGlidWs",
+  "name": "Dibuk",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50343667,
+          "name": "Dibuk"
+        },
+        {
+          "id": 125092564,
+          "name": "Dibuk"
+        },
+        {
+          "id": 57469911,
+          "name": "Dibuk"
+        },
+        {
+          "id": 121613312,
+          "name": "DJ DiBuk"
+        },
+        {
+          "id": 37459380,
+          "name": "李汶骏"
+        },
+        {
+          "id": 53089632,
+          "name": "Aquatic Tank"
+        },
+        {
+          "id": 35879712,
+          "name": "Blxe"
+        },
+        {
+          "id": 122361015,
+          "name": "Dibu Khan"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

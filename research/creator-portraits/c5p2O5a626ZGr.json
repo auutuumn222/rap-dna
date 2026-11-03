@@ -1,0 +1,28 @@
+{
+  "id": "c5p2O5a626ZGr",
+  "name": "李家鑫",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34203883,
+          "name": "李家鑫"
+        },
+        {
+          "id": 53806368,
+          "name": "李家鑫"
+        },
+        {
+          "id": 53721915,
+          "name": "李家鑫u"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c5aSP5ZGI6Z2SbWZpbmRtZQ",
+  "name": "夏呈青MFindMe",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

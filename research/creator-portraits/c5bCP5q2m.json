@@ -1,0 +1,56 @@
+{
+  "id": "c5bCP5q2m",
+  "name": "小武",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1038231,
+          "name": "Doris小武"
+        },
+        {
+          "id": 12256091,
+          "name": "FIVEMIX 小武"
+        },
+        {
+          "id": 49745456,
+          "name": "小武不虎"
+        },
+        {
+          "id": 100601868,
+          "name": "Hansing小武"
+        },
+        {
+          "id": 125901508,
+          "name": "小武"
+        },
+        {
+          "id": 46451520,
+          "name": "小小小武"
+        },
+        {
+          "id": 60063766,
+          "name": "小武"
+        },
+        {
+          "id": 34203864,
+          "name": "小武的武XW"
+        },
+        {
+          "id": 12059046,
+          "name": "小武"
+        },
+        {
+          "id": 130069882,
+          "name": "小武Kevin"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

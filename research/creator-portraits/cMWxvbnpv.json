@@ -1,0 +1,24 @@
+{
+  "id": "cMWxvbnpv",
+  "name": "1LONZO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 49829063,
+          "name": "1LONZO"
+        },
+        {
+          "id": 62353410,
+          "name": "1k Lonzo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

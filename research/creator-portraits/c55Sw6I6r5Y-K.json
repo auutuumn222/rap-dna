@@ -1,0 +1,20 @@
+{
+  "id": "c55Sw6I6r5Y-K",
+  "name": "田莫及",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13608863,
+          "name": "田莫及"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

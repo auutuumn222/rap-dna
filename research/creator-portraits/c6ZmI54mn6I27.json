@@ -1,0 +1,36 @@
+{
+  "id": "c6ZmI54mn6I27",
+  "name": "陈牧荻",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51002045,
+          "name": "陈牧荻@TalentUnion"
+        },
+        {
+          "id": 122347081,
+          "name": "陈牧歌"
+        },
+        {
+          "id": 52891219,
+          "name": "陈牧雨"
+        },
+        {
+          "id": 7239,
+          "name": "陈美龄"
+        },
+        {
+          "id": 129579336,
+          "name": "你好，陈以安"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

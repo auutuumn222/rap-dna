@@ -1,0 +1,36 @@
+{
+  "id": "n31060023",
+  "name": "7-VV-N_总监",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31060023,
+          "name": "7-VV-N_总监"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "7-VV-N_总监",
+    "image": "./assets/people/n31060023.jpg",
+    "source": "https://music.163.com/artist?id=31060023",
+    "imageSource": "https://p2.music.126.net/ex3-XsZ7Gx7siRSWlnCkiQ==/109951169389973102.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 31060023,
+      "works": [
+        {
+          "id": 1412618266,
+          "title": "暴雨海洋"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1412618266"
+      ]
+    }
+  }
+}

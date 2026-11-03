@@ -1,0 +1,40 @@
+{
+  "id": "ccHJvZC4gbGV2ZWw",
+  "name": "Prod. level",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 32088990,
+          "name": "prod. level"
+        },
+        {
+          "id": 50441252,
+          "name": "prod.level"
+        },
+        {
+          "id": 32591843,
+          "name": "Prod Level"
+        },
+        {
+          "id": 52229360,
+          "name": "Prod. by Level"
+        },
+        {
+          "id": 50879664,
+          "name": "Prod. Otro Level"
+        },
+        {
+          "id": 55905483,
+          "name": "Prod. Six x level"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

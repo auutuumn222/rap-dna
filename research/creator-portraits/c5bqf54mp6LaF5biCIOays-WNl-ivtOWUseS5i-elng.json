@@ -1,0 +1,15 @@
+{
+  "id": "c5bqf54mp6LaF5biCIOays-WNl-ivtOWUseS5i-elng",
+  "name": "废物超市 河南说唱之神",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

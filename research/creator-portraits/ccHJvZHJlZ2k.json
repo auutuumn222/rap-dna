@@ -1,0 +1,24 @@
+{
+  "id": "ccHJvZHJlZ2k",
+  "name": "ProdRegi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54884691,
+          "name": "Prodregi"
+        },
+        {
+          "id": 52203537,
+          "name": "Prod Regi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

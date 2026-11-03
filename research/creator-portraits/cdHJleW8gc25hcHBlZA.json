@@ -1,0 +1,20 @@
+{
+  "id": "cdHJleW8gc25hcHBlZA",
+  "name": "Treyo Snapped",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50192613,
+          "name": "Treyo Snapped"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

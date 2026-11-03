@@ -1,0 +1,20 @@
+{
+  "id": "c5p2c5oyv54aZIHNvZnQgbGlwYQ",
+  "name": "杜振熙 Soft Lipa",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 2514,
+          "name": "蛋堡"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

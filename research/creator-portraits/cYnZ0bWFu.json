@@ -1,0 +1,28 @@
+{
+  "id": "cYnZ0bWFu",
+  "name": "bvtman",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34183952,
+          "name": "Bvtman"
+        },
+        {
+          "id": 56925776,
+          "name": "BVTMANE"
+        },
+        {
+          "id": 55504766,
+          "name": "BVTMAN225"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

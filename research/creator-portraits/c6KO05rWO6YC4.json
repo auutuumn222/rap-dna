@@ -1,0 +1,20 @@
+{
+  "id": "c6KO05rWO6YC4",
+  "name": "裴济逸",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56816286,
+          "name": "裴济逸"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

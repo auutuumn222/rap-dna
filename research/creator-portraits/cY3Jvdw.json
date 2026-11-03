@@ -1,0 +1,56 @@
+{
+  "id": "cY3Jvdw",
+  "name": "Crow",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50523186,
+          "name": "crow"
+        },
+        {
+          "id": 19553,
+          "name": "GARNET CROW"
+        },
+        {
+          "id": 51199,
+          "name": "Crow"
+        },
+        {
+          "id": 61925732,
+          "name": "Crow17"
+        },
+        {
+          "id": 61010309,
+          "name": "Crow"
+        },
+        {
+          "id": 74628,
+          "name": "Sheryl Crow"
+        },
+        {
+          "id": 79915,
+          "name": "The Crows"
+        },
+        {
+          "id": 34173697,
+          "name": "Crow"
+        },
+        {
+          "id": 42789,
+          "name": "Russell Crowe"
+        },
+        {
+          "id": 55701656,
+          "name": "Crow"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

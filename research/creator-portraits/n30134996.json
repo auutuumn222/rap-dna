@@ -1,0 +1,41 @@
+{
+  "id": "n30134996",
+  "name": "杭异凡",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30134996,
+          "name": "杭异凡"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "杭异凡",
+    "image": "./assets/people/n30134996.jpg",
+    "source": "https://music.163.com/artist?id=30134996",
+    "imageSource": "https://p2.music.126.net/F9uNQdRvctzxWVTENq220Q==/109951172581485455.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 30134996,
+      "works": [
+        {
+          "id": 2612729185,
+          "title": "山河"
+        },
+        {
+          "id": 3316584402,
+          "title": "回声"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2612729185",
+        "https://music.163.com/song?id=3316584402"
+      ]
+    }
+  }
+}

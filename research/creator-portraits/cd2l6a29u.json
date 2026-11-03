@@ -1,0 +1,36 @@
+{
+  "id": "cd2l6a29u",
+  "name": "Wizkon",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28304203,
+          "name": "Wizkon王子坤"
+        },
+        {
+          "id": 122171179,
+          "name": "Wizkon"
+        },
+        {
+          "id": 12277282,
+          "name": "Ranhot"
+        },
+        {
+          "id": 35515546,
+          "name": "Royal"
+        },
+        {
+          "id": 94672994,
+          "name": "Wiz Konnect"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

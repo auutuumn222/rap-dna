@@ -1,0 +1,56 @@
+{
+  "id": "cc2xv",
+  "name": "SLO",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 46528188,
+          "name": "SLO斯洛"
+        },
+        {
+          "id": 533559,
+          "name": "Slone"
+        },
+        {
+          "id": 12475024,
+          "name": "Slom"
+        },
+        {
+          "id": 12646102,
+          "name": "Sasha Alex Sloan"
+        },
+        {
+          "id": 35422804,
+          "name": "slowedDB"
+        },
+        {
+          "id": 58472946,
+          "name": "Slowed Audios"
+        },
+        {
+          "id": 893459,
+          "name": "Really Slow Motion"
+        },
+        {
+          "id": 276525,
+          "name": "Slo"
+        },
+        {
+          "id": 54785935,
+          "name": "slowed songs"
+        },
+        {
+          "id": 54786324,
+          "name": "slowed + reverb songs"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

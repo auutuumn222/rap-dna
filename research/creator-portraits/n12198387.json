@@ -1,0 +1,15 @@
+{
+  "id": "n12198387",
+  "name": "艾志恒Asen",
+  "attempts": [],
+  "entry": {
+    "name": "艾志恒 Asen",
+    "image": "./assets/asen-portrait.jpg",
+    "source": "https://music.163.com/artist?id=12198387",
+    "imageSource": "https://p2.music.126.net/alpJxinPEXCuYkeEMnCDWA==/109951172058047957.jpg",
+    "checkedAt": "2026-10-28",
+    "kind": "person",
+    "reused": true
+  },
+  "match": "existing-platform-id"
+}

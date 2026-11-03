@@ -1,0 +1,20 @@
+{
+  "id": "cYWRlIOmZtuWFtOi9qQ",
+  "name": "ADE 陶兴轩",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14587791,
+          "name": "ADE陶兴轩"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

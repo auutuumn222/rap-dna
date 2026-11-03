@@ -1,0 +1,56 @@
+{
+  "id": "cZWZl",
+  "name": "Efe",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 54384066,
+          "name": "Efe Ateş"
+        },
+        {
+          "id": 12131574,
+          "name": "Efe Tekin"
+        },
+        {
+          "id": 122357242,
+          "name": "Efe Noir"
+        },
+        {
+          "id": 31800129,
+          "name": "Efendi"
+        },
+        {
+          "id": 46575107,
+          "name": "Efe"
+        },
+        {
+          "id": 30538143,
+          "name": "Efe Navas"
+        },
+        {
+          "id": 53588449,
+          "name": "Efe INC."
+        },
+        {
+          "id": 127721163,
+          "name": "Emir Efe"
+        },
+        {
+          "id": 12214040,
+          "name": "Jota Efe"
+        },
+        {
+          "id": 626684,
+          "name": "Efe"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

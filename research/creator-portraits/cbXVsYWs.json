@@ -1,0 +1,56 @@
+{
+  "id": "cbXVsYWs",
+  "name": "MULAK",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12636161,
+          "name": "Remulak"
+        },
+        {
+          "id": 47410796,
+          "name": "MULAK"
+        },
+        {
+          "id": 126547670,
+          "name": "Mulak"
+        },
+        {
+          "id": 122363513,
+          "name": "Deejay Mulak"
+        },
+        {
+          "id": 52397763,
+          "name": "Caleb Mulak"
+        },
+        {
+          "id": 33221049,
+          "name": "Sardool Mulak Waleya"
+        },
+        {
+          "id": 49249970,
+          "name": "The Mulak Mind"
+        },
+        {
+          "id": 50982079,
+          "name": "Mulaks"
+        },
+        {
+          "id": 37089352,
+          "name": "Mulakid$"
+        },
+        {
+          "id": 47249409,
+          "name": "MuLaKami"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

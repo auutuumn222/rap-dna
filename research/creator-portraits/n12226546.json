@@ -1,0 +1,36 @@
+{
+  "id": "n12226546",
+  "name": "YABYesFu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12226546,
+          "name": "YABYesFu"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "YABYesFu",
+    "image": "./assets/people/n12226546.jpg",
+    "source": "https://music.163.com/artist?id=12226546",
+    "imageSource": "https://p1.music.126.net/mUya0GYN4OSpqW5STNTPCg==/109951167471905949.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 12226546,
+      "works": [
+        {
+          "id": 1912492166,
+          "title": "Purple Lamborghini"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=1912492166"
+      ]
+    }
+  }
+}

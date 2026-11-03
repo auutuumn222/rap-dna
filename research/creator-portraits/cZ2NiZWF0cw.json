@@ -1,0 +1,24 @@
+{
+  "id": "cZ2NiZWF0cw",
+  "name": "gcbeats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37539884,
+          "name": "Gcbeats"
+        },
+        {
+          "id": 29998800,
+          "name": "GC BEATS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

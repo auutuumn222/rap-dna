@@ -1,0 +1,18 @@
+{
+  "id": "n13132045",
+  "name": "JIMI天赐",
+  "attempts": [],
+  "entry": {
+    "name": "JIMI天赐",
+    "catalogName": "JIMI天赐",
+    "aliases": [
+      "JIMMY_TC"
+    ],
+    "image": "./assets/people/n13132045.jpg",
+    "source": "https://music.163.com/artist?id=13132045",
+    "imageSource": "https://p2.music.126.net/mXCI_4datC8yHZ4xPu1NXg==/109951168287113478.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

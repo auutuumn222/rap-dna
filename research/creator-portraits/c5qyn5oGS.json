@@ -1,0 +1,20 @@
+{
+  "id": "c5qyn5oGS",
+  "name": "欧恒",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 31582657,
+          "name": "欧恒"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

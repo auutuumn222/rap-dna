@@ -1,0 +1,15 @@
+{
+  "id": "ccy5tYXJ0w61uZXogYmVhdHM",
+  "name": "S.Martínez Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

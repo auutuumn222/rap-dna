@@ -1,0 +1,56 @@
+{
+  "id": "cOHBt",
+  "name": "8PM",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30001410,
+          "name": "8PM.srd"
+        },
+        {
+          "id": 12812721,
+          "name": "8PM"
+        },
+        {
+          "id": 98366449,
+          "name": "8PM JAM"
+        },
+        {
+          "id": 46618450,
+          "name": "8pm Eastern"
+        },
+        {
+          "id": 123312054,
+          "name": "8PM Mourning"
+        },
+        {
+          "id": 121834378,
+          "name": "8PM Bad"
+        },
+        {
+          "id": 124031141,
+          "name": "Sunday 8PM"
+        },
+        {
+          "id": 94020740,
+          "name": "8PM'"
+        },
+        {
+          "id": 128408585,
+          "name": "8pm"
+        },
+        {
+          "id": 122027749,
+          "name": "8PM MUSIQ"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

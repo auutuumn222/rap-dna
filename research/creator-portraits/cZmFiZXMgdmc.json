@@ -1,0 +1,28 @@
+{
+  "id": "cZmFiZXMgdmc",
+  "name": "Fabes VG",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48388604,
+          "name": "Fabes VG"
+        },
+        {
+          "id": 51539445,
+          "name": "Electrojax"
+        },
+        {
+          "id": 34490137,
+          "name": "prod混浊"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

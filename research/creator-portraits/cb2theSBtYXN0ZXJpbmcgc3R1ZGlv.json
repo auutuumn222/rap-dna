@@ -1,0 +1,15 @@
+{
+  "id": "cb2theSBtYXN0ZXJpbmcgc3R1ZGlv",
+  "name": "Okay Mastering Studio",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

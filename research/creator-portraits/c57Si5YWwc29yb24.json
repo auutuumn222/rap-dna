@@ -1,0 +1,20 @@
+{
+  "id": "c57Si5YWwc29yb24",
+  "name": "索兰SORON",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51497911,
+          "name": "索兰SORON"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

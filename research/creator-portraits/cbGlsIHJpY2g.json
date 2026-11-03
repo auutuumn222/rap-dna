@@ -1,0 +1,56 @@
+{
+  "id": "cbGlsIHJpY2g",
+  "name": "Lil Rich",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13520419,
+          "name": "夏提lil rich"
+        },
+        {
+          "id": 12692001,
+          "name": "Lil Rich"
+        },
+        {
+          "id": 46358006,
+          "name": "Lil- Rich"
+        },
+        {
+          "id": 98461138,
+          "name": "Lil Richie"
+        },
+        {
+          "id": 288838,
+          "name": "Lil Richard"
+        },
+        {
+          "id": 122292124,
+          "name": "李浩冉Lil Rich"
+        },
+        {
+          "id": 35660992,
+          "name": "Lil Richhh"
+        },
+        {
+          "id": 53440567,
+          "name": "lil richard tease"
+        },
+        {
+          "id": 61715904,
+          "name": "Lil Rich RD"
+        },
+        {
+          "id": 49840509,
+          "name": "Lil Richi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

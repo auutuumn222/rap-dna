@@ -1,0 +1,36 @@
+{
+  "id": "cbG9jYWxib2k",
+  "name": "Localboi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48045741,
+          "name": "Localboi本地小子雷"
+        },
+        {
+          "id": 14318222,
+          "name": "Localboi"
+        },
+        {
+          "id": 34454638,
+          "name": "localboi"
+        },
+        {
+          "id": 12553434,
+          "name": "Vayk浪味仙"
+        },
+        {
+          "id": 30116792,
+          "name": "张亚文KISOS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

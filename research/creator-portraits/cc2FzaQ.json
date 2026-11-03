@@ -1,0 +1,56 @@
+{
+  "id": "cc2FzaQ",
+  "name": "SASI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14117457,
+          "name": "SASIOVERLXRD"
+        },
+        {
+          "id": 34186087,
+          "name": "Sasi"
+        },
+        {
+          "id": 95686193,
+          "name": "sasily"
+        },
+        {
+          "id": 100103407,
+          "name": "SASI"
+        },
+        {
+          "id": 54956013,
+          "name": "SASIPAIN"
+        },
+        {
+          "id": 98414681,
+          "name": "Sasi"
+        },
+        {
+          "id": 48581423,
+          "name": "SASIOVERLXRD"
+        },
+        {
+          "id": 49104084,
+          "name": "SASISEREIN"
+        },
+        {
+          "id": 62076875,
+          "name": "SASICRYBABY"
+        },
+        {
+          "id": 28111932,
+          "name": "Vinayak Sasikumar"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

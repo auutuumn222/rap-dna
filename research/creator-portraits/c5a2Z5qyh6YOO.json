@@ -1,0 +1,41 @@
+{
+  "id": "c5a2Z5qyh6YOO",
+  "name": "孙次郎",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12060043,
+          "name": "孙次郎"
+        },
+        {
+          "id": 36772893,
+          "name": "Starling8"
+        },
+        {
+          "id": 53483506,
+          "name": "OuttaWave"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "孙次郎",
+    "image": "./assets/people/c5a2Z5qyh6YOO.jpg",
+    "source": "https://music.163.com/artist?id=12060043",
+    "imageSource": "https://p2.music.126.net/tGqaOBNnKw3r2NH_KBrk0g==/109951168871122294.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-name-and-existing-catalog-artist-id",
+      "artistId": 12060043,
+      "works": [],
+      "creditSources": [
+        "https://music.163.com/song?id=2645759396",
+        "https://music.163.com/song?id=2645759403",
+        "https://music.163.com/song?id=2645759411"
+      ]
+    }
+  }
+}

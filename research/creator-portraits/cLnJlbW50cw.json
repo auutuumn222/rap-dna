@@ -1,0 +1,24 @@
+{
+  "id": "cLnJlbW50cw",
+  "name": ".remnts",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33286629,
+          "name": "remnts"
+        },
+        {
+          "id": 55716776,
+          "name": "REMNT"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

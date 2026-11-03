@@ -1,0 +1,32 @@
+{
+  "id": "c5LyK5bCU5aSP",
+  "name": "伊尔夏",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47193889,
+          "name": "EA Music Project"
+        },
+        {
+          "id": 36402058,
+          "name": "伊尔夏提·艾山"
+        },
+        {
+          "id": 122952198,
+          "name": "伊尔夏提"
+        },
+        {
+          "id": 34402858,
+          "name": "Erxat"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

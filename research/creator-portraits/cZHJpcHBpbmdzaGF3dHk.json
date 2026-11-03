@@ -1,0 +1,40 @@
+{
+  "id": "cZHJpcHBpbmdzaGF3dHk",
+  "name": "drippingshawty",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12328955,
+          "name": "Udigg"
+        },
+        {
+          "id": 30443363,
+          "name": "吉他张"
+        },
+        {
+          "id": 12529503,
+          "name": "KSA"
+        },
+        {
+          "id": 12897263,
+          "name": "drippinshawty"
+        },
+        {
+          "id": 13445517,
+          "name": "iso punk"
+        },
+        {
+          "id": 30546641,
+          "name": "Boat"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

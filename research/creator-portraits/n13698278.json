@@ -1,0 +1,36 @@
+{
+  "id": "n13698278",
+  "name": "FlyingJacuzzi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 13698278,
+          "name": "FlyingJacuzzi"
+        }
+      ]
+    }
+  ],
+  "entry": {
+    "name": "FlyingJacuzzi",
+    "image": "./assets/people/n13698278.jpg",
+    "source": "https://music.163.com/artist?id=13698278",
+    "imageSource": "https://p1.music.126.net/tztWnJ7i87YH7RXCn4uB-A==/109951163211737317.jpg?param=300y300",
+    "platform": "netease",
+    "checkedAt": "2026-10-30",
+    "evidence": {
+      "method": "exact-platform-id",
+      "artistId": 13698278,
+      "works": [
+        {
+          "id": 2095299916,
+          "title": "差点意思 Try Harder(feat.thomeboydontkill)"
+        }
+      ],
+      "creditSources": [
+        "https://music.163.com/song?id=2095299916"
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "ccmMgYmVhdHM",
+  "name": "RC Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36206722,
+          "name": "RC Beats"
+        },
+        {
+          "id": 48121095,
+          "name": "RC Beats"
+        },
+        {
+          "id": 54217566,
+          "name": "RC no Beat"
+        },
+        {
+          "id": 30555514,
+          "name": "RC Beat Maker"
+        },
+        {
+          "id": 36804332,
+          "name": "DJ RC Beat"
+        },
+        {
+          "id": 57145345,
+          "name": "RC on the Beat Boy"
+        },
+        {
+          "id": 54932954,
+          "name": "RC no Beat 77"
+        },
+        {
+          "id": 57728773,
+          "name": "RC Music on the beat"
+        },
+        {
+          "id": 35267737,
+          "name": "Rcbeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

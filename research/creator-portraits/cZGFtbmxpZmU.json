@@ -1,0 +1,44 @@
+{
+  "id": "cZGFtbmxpZmU",
+  "name": "DAMNLIFE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 56362111,
+          "name": "DAMNLIFE"
+        },
+        {
+          "id": 36985574,
+          "name": "DAMNLIFE"
+        },
+        {
+          "id": 34146331,
+          "name": "skiboyvv"
+        },
+        {
+          "id": 35169519,
+          "name": "Taco"
+        },
+        {
+          "id": 54271480,
+          "name": "Human Register"
+        },
+        {
+          "id": 52403907,
+          "name": "Akiiyaki"
+        },
+        {
+          "id": 48569182,
+          "name": "know the vibe"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

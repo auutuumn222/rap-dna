@@ -1,0 +1,16 @@
+{
+  "id": "n12268099",
+  "name": "YYKBZ",
+  "attempts": [],
+  "entry": {
+    "name": "YYKBZ",
+    "catalogName": "YYKBZ",
+    "aliases": [],
+    "image": "./assets/people/n12268099.jpg",
+    "source": "https://music.163.com/artist?id=12268099",
+    "imageSource": "https://p2.music.126.net/88Qjxict_qPJXtbm1gHLNg==/109951170624463244.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

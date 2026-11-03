@@ -1,0 +1,28 @@
+{
+  "id": "cYWxsZW7okpnmn68",
+  "name": "Allen蒙柯",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12507344,
+          "name": "Allen蒙柯"
+        },
+        {
+          "id": 51839693,
+          "name": "Emma艾玛"
+        },
+        {
+          "id": 49301033,
+          "name": "orlog"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

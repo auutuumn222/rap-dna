@@ -1,0 +1,56 @@
+{
+  "id": "cbml2aWE",
+  "name": "NIVIA",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57005995,
+          "name": "Niviah"
+        },
+        {
+          "id": 61638704,
+          "name": "Nivia Maria"
+        },
+        {
+          "id": 48581188,
+          "name": "Ivan Nivia"
+        },
+        {
+          "id": 12947189,
+          "name": "Niviane"
+        },
+        {
+          "id": 59029024,
+          "name": "Nivia Mendes"
+        },
+        {
+          "id": 129175104,
+          "name": "Nivia Henri"
+        },
+        {
+          "id": 61011342,
+          "name": "Nivia Oliveira"
+        },
+        {
+          "id": 127858276,
+          "name": "Nivia Redondo"
+        },
+        {
+          "id": 95026837,
+          "name": "Nivia Zanon"
+        },
+        {
+          "id": 46571635,
+          "name": "Nivia La Salmista"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

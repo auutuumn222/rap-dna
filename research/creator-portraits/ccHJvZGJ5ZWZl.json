@@ -1,0 +1,24 @@
+{
+  "id": "ccHJvZGJ5ZWZl",
+  "name": "prodbyefe",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50360938,
+          "name": "Prodbyefe"
+        },
+        {
+          "id": 94484281,
+          "name": "Prod by Efel"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cc2V2ZW425L2V5paH5rab",
+  "name": "Seven6何文涛",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34787648,
+          "name": "Seven6何文涛"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

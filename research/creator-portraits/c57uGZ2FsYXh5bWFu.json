@@ -1,0 +1,56 @@
+{
+  "id": "c57uGZ2FsYXh5bWFu",
+  "name": "细GalaxyMan",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12194886,
+          "name": "细GalaxyMan"
+        },
+        {
+          "id": 35784564,
+          "name": "弹壳Danko"
+        },
+        {
+          "id": 36109845,
+          "name": "有三"
+        },
+        {
+          "id": 12258204,
+          "name": "林渝植Anoryz"
+        },
+        {
+          "id": 12037292,
+          "name": "Person"
+        },
+        {
+          "id": 1213034,
+          "name": "Azoom"
+        },
+        {
+          "id": 12126382,
+          "name": "叶晓粤"
+        },
+        {
+          "id": 12026508,
+          "name": "麦丽素Mylikes"
+        },
+        {
+          "id": 189836,
+          "name": "壹指团体AFinger"
+        },
+        {
+          "id": 12028165,
+          "name": "J.SIX"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

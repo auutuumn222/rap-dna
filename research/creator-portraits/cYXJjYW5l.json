@@ -1,0 +1,56 @@
+{
+  "id": "cYXJjYW5l",
+  "name": "Arcane",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36466123,
+          "name": "Arcane"
+        },
+        {
+          "id": 50428486,
+          "name": "双城之战"
+        },
+        {
+          "id": 47469735,
+          "name": "Arcane"
+        },
+        {
+          "id": 2116,
+          "name": "陈奕迅"
+        },
+        {
+          "id": 908180,
+          "name": "Bea Miller"
+        },
+        {
+          "id": 46106,
+          "name": "Woodkid"
+        },
+        {
+          "id": 60960,
+          "name": "Jazmine Sullivan"
+        },
+        {
+          "id": 533062,
+          "name": "陈锐"
+        },
+        {
+          "id": 294811,
+          "name": "Ramsey"
+        },
+        {
+          "id": 12047651,
+          "name": "Arcane Echo"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

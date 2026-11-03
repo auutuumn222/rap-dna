@@ -1,0 +1,56 @@
+{
+  "id": "caG96YXk",
+  "name": "Hozay",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 383655,
+          "name": "Hozay"
+        },
+        {
+          "id": 35553848,
+          "name": "OTM HOZAY"
+        },
+        {
+          "id": 48137792,
+          "name": "Hozay Ovana"
+        },
+        {
+          "id": 47861505,
+          "name": "HoZay Ghostman"
+        },
+        {
+          "id": 100544644,
+          "name": "Hozay Quavo"
+        },
+        {
+          "id": 32599637,
+          "name": "Hozay Beats"
+        },
+        {
+          "id": 48799957,
+          "name": "Hozay Bandz"
+        },
+        {
+          "id": 122114012,
+          "name": "CornBread Hozay"
+        },
+        {
+          "id": 48079847,
+          "name": "Duryea Hozay"
+        },
+        {
+          "id": 35211668,
+          "name": "BrickBoy Hozay"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

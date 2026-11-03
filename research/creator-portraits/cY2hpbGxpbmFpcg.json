@@ -1,0 +1,20 @@
+{
+  "id": "cY2hpbGxpbmFpcg",
+  "name": "ChillinAir",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35784617,
+          "name": "ChillinAir"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

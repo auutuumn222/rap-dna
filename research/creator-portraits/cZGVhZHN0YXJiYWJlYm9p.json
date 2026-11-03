@@ -1,0 +1,15 @@
+{
+  "id": "cZGVhZHN0YXJiYWJlYm9p",
+  "name": "DEADSTARBABEBOI",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

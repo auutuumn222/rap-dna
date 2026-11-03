@@ -1,0 +1,28 @@
+{
+  "id": "cbWF0d3lyZQ",
+  "name": "matwyre",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34170001,
+          "name": "MatWyre"
+        },
+        {
+          "id": 55604070,
+          "name": "MatWyreBeats"
+        },
+        {
+          "id": 95518933,
+          "name": "prod. by Dazay x Matwyre"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

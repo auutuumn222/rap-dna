@@ -1,0 +1,16 @@
+{
+  "id": "n12538970",
+  "name": "NeeN",
+  "attempts": [],
+  "entry": {
+    "name": "NeeN",
+    "catalogName": "NeeN",
+    "aliases": [],
+    "image": "./assets/people/n12538970.jpg",
+    "source": "https://music.163.com/artist?id=12538970",
+    "imageSource": "https://p2.music.126.net/QcR_i_5-HgcTol4cfFDbYA==/109951165805919429.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

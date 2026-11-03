@@ -1,0 +1,15 @@
+{
+  "id": "cZHJhZ29uIHRpcmVkIGJveQ",
+  "name": "Dragon Tired Boy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

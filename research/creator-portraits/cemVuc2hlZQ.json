@@ -1,0 +1,24 @@
+{
+  "id": "cemVuc2hlZQ",
+  "name": "zenshee",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 57236362,
+          "name": "Zenshee"
+        },
+        {
+          "id": 13623208,
+          "name": "Zenshee Fell"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

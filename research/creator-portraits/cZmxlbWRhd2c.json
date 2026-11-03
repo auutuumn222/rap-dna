@@ -1,0 +1,24 @@
+{
+  "id": "cZmxlbWRhd2c",
+  "name": "FlemDawg",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48119552,
+          "name": "Flemdawg"
+        },
+        {
+          "id": 48097831,
+          "name": "Flem Dawg"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cYmVjayBiZWF0",
+  "name": "Beck Beat",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36932756,
+          "name": "Beck beats"
+        },
+        {
+          "id": 34502566,
+          "name": "Beck Beatz"
+        },
+        {
+          "id": 55064147,
+          "name": "3Beck Beats"
+        },
+        {
+          "id": 60621357,
+          "name": "BECK NO BEAT"
+        },
+        {
+          "id": 99133868,
+          "name": "Beck´z Beat"
+        },
+        {
+          "id": 37566481,
+          "name": "The Hyde, Charley Beck, Sluggy Beats"
+        },
+        {
+          "id": 37074946,
+          "name": "The Hyde, Charley Beck, Sluggy Beats, DannyInSpace"
+        },
+        {
+          "id": 46756084,
+          "name": "Beckbeatz"
+        },
+        {
+          "id": 32661425,
+          "name": "Beckbeat"
+        },
+        {
+          "id": 49537709,
+          "name": "@Beckbeat"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

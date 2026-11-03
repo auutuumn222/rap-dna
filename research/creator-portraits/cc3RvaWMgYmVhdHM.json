@@ -1,0 +1,24 @@
+{
+  "id": "cc3RvaWMgYmVhdHM",
+  "name": "Stoic Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33418244,
+          "name": "Stoic Beats"
+        },
+        {
+          "id": 46577575,
+          "name": "Stoicbeats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

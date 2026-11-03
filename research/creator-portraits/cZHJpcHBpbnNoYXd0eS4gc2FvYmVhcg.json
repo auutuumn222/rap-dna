@@ -1,0 +1,15 @@
+{
+  "id": "cZHJpcHBpbnNoYXd0eS4gc2FvYmVhcg",
+  "name": "drippinshawty. SAOBEAR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

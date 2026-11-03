@@ -1,0 +1,20 @@
+{
+  "id": "cZ3IzM25hcnQgYmVhdHM",
+  "name": "Gr33nart Beats",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47293047,
+          "name": "Gr33nart Beats"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

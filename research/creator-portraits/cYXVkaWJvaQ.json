@@ -1,0 +1,48 @@
+{
+  "id": "cYXVkaWJvaQ",
+  "name": "AudiBoi",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 37553762,
+          "name": "AudiBoi"
+        },
+        {
+          "id": 12730273,
+          "name": "TOYOKI"
+        },
+        {
+          "id": 35829916,
+          "name": "Osama"
+        },
+        {
+          "id": 53849454,
+          "name": "evl66"
+        },
+        {
+          "id": 33778851,
+          "name": "tomoya"
+        },
+        {
+          "id": 121863934,
+          "name": "natspII"
+        },
+        {
+          "id": 53991431,
+          "name": "Audi Boi"
+        },
+        {
+          "id": 36646329,
+          "name": "Audi Boii"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

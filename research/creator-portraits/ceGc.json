@@ -1,0 +1,56 @@
+{
+  "id": "ceGc",
+  "name": "Xg",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 51849113,
+          "name": "XG"
+        },
+        {
+          "id": 47227703,
+          "name": "XG"
+        },
+        {
+          "id": 50495365,
+          "name": "XG"
+        },
+        {
+          "id": 49291282,
+          "name": "陌玖XG"
+        },
+        {
+          "id": 36588743,
+          "name": "Xguiz"
+        },
+        {
+          "id": 57281281,
+          "name": "3xg233"
+        },
+        {
+          "id": 60102320,
+          "name": "XGIVERED RANDMUS"
+        },
+        {
+          "id": 48163109,
+          "name": "XG3707"
+        },
+        {
+          "id": 34477265,
+          "name": "xGod戏神"
+        },
+        {
+          "id": 32900101,
+          "name": "XG星光."
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

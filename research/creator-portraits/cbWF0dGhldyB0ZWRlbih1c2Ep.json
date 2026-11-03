@@ -1,0 +1,15 @@
+{
+  "id": "cbWF0dGhldyB0ZWRlbih1c2Ep",
+  "name": "Matthew Teden（USA）",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

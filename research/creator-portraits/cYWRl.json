@@ -1,0 +1,56 @@
+{
+  "id": "cYWRl",
+  "name": "ADE",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36404838,
+          "name": "Ade"
+        },
+        {
+          "id": 99710285,
+          "name": "ADE"
+        },
+        {
+          "id": 46487,
+          "name": "Adele"
+        },
+        {
+          "id": 54354709,
+          "name": "Aden Foyer"
+        },
+        {
+          "id": 121660584,
+          "name": "小丑ADE"
+        },
+        {
+          "id": 31005630,
+          "name": "ADee Aydos"
+        },
+        {
+          "id": 48091676,
+          "name": "Carol Ades"
+        },
+        {
+          "id": 47722205,
+          "name": "Aden"
+        },
+        {
+          "id": 58034957,
+          "name": "Adee A."
+        },
+        {
+          "id": 29809689,
+          "name": "Ade"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

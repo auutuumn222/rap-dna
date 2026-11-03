@@ -1,0 +1,32 @@
+{
+  "id": "cZWxpb3QgbGVl",
+  "name": "Eliot Lee",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33001797,
+          "name": "Eliot Lee"
+        },
+        {
+          "id": 1025202,
+          "name": "黄子韬"
+        },
+        {
+          "id": 52972103,
+          "name": "DAYDREAM"
+        },
+        {
+          "id": 862024,
+          "name": "范忆堂"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

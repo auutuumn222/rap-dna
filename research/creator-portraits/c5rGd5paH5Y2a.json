@@ -1,0 +1,24 @@
+{
+  "id": "c5rGd5paH5Y2a",
+  "name": "汝文博",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 50734525,
+          "name": "汝文博"
+        },
+        {
+          "id": 33949782,
+          "name": "迟文博"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

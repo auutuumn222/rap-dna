@@ -1,0 +1,56 @@
+{
+  "id": "cam9zaHk",
+  "name": "joshy",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35875225,
+          "name": "Joshykun"
+        },
+        {
+          "id": 123207063,
+          "name": "Yo Joshy"
+        },
+        {
+          "id": 55783088,
+          "name": "Joshy!"
+        },
+        {
+          "id": 34879931,
+          "name": "Joshy Soul"
+        },
+        {
+          "id": 37379590,
+          "name": "Joshydrop"
+        },
+        {
+          "id": 100624257,
+          "name": "JoshYyyyy"
+        },
+        {
+          "id": 35855392,
+          "name": "Joshy X"
+        },
+        {
+          "id": 12711100,
+          "name": "Joshy Rotten"
+        },
+        {
+          "id": 31069944,
+          "name": "jōshy"
+        },
+        {
+          "id": 57659358,
+          "name": "joshyswy"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

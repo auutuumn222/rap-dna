@@ -1,0 +1,44 @@
+{
+  "id": "c54Gr5p-055uSc3R1ZGlv",
+  "name": "火柴盒Studio",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12798946,
+          "name": "火柴盒P.S.L"
+        },
+        {
+          "id": 100519139,
+          "name": "火柴盒"
+        },
+        {
+          "id": 30701280,
+          "name": "火柴盒"
+        },
+        {
+          "id": 99267227,
+          "name": "火柴盒"
+        },
+        {
+          "id": 12347189,
+          "name": "于鹏火柴盒psl"
+        },
+        {
+          "id": 121621810,
+          "name": "火柴盒"
+        },
+        {
+          "id": 66353,
+          "name": "Matchbox Twenty"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "candidates": []
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cdmljaW91c3dhbmc",
+  "name": "ViciousWang",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34825764,
+          "name": "isojade"
+        },
+        {
+          "id": 34559241,
+          "name": "Semi-Crippled Boys"
+        },
+        {
+          "id": 49682665,
+          "name": "再也不写悲歌"
+        },
+        {
+          "id": 50525883,
+          "name": "张郎"
+        },
+        {
+          "id": 53393770,
+          "name": "陈凯KEEF"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

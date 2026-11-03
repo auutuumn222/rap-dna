@@ -1,0 +1,15 @@
+{
+  "id": "ca29uZ3Bhaw",
+  "name": "KONGPAK",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

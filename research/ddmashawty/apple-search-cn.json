@@ -1,0 +1,99 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "DD Ma Shawty",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dd-ma-shawty/1851131317?uo=4",
+      "artistId": 1851131317,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "DD Ma Shawty",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/dd-ma-shawty/1874468820?uo=4",
+      "artistId": 1874468820
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "PnB Rock",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/pnb-rock/943088005?uo=4",
+      "artistId": 943088005,
+      "amgArtistId": 3150970,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "ScHoolboy Q",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/schoolboy-q/333097675?uo=4",
+      "artistId": 333097675,
+      "amgArtistId": 2337766,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "City Girls",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%9F%8E%E5%B8%82%E5%B0%91%E5%A5%B3/42052432?uo=4",
+      "artistId": 42052432,
+      "amgArtistId": 3406652,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Ice Spice",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/ice-spice/1552372505?uo=4",
+      "artistId": 1552372505,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Enrique Iglesias",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/enrique-iglesias/90895?uo=4",
+      "artistId": 90895,
+      "amgArtistId": 169286,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Tems",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/tems/1413909060?uo=4",
+      "artistId": 1413909060,
+      "primaryGenreName": "Alte",
+      "primaryGenreId": 41
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Yung Bleu",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/yung-bleu/547367027?uo=4",
+      "artistId": 547367027,
+      "amgArtistId": 3109534,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Donell Jones",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/donell-jones/291924?uo=4",
+      "artistId": 291924,
+      "amgArtistId": 199775,
+      "primaryGenreName": "R&B/灵魂乐",
+      "primaryGenreId": 15
+    }
+  ]
+}

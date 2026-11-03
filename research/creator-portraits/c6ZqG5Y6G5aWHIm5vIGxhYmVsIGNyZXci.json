@@ -1,0 +1,15 @@
+{
+  "id": "c6ZqG5Y6G5aWHIm5vIGxhYmVsIGNyZXci",
+  "name": "隆历奇＂No Label Crew＂",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

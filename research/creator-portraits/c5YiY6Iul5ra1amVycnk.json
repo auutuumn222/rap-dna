@@ -1,0 +1,24 @@
+{
+  "id": "c5YiY6Iul5ra1amVycnk",
+  "name": "刘若涵Jerry",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35599000,
+          "name": "刘若涵"
+        },
+        {
+          "id": 12578188,
+          "name": "海一帆/韩润翔/李文博/马冰/徐若洋/王涵宁/刘依霏/张智翔"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

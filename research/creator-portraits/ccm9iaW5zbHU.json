@@ -1,0 +1,20 @@
+{
+  "id": "ccm9iaW5zbHU",
+  "name": "RobinsLu",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12490483,
+          "name": "Robins Lu"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

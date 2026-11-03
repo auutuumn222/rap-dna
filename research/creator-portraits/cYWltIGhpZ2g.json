@@ -1,0 +1,56 @@
+{
+  "id": "cYWltIGhpZ2g",
+  "name": "Aim high",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 36701589,
+          "name": "Aim high"
+        },
+        {
+          "id": 32239246,
+          "name": "Aim High"
+        },
+        {
+          "id": 13022914,
+          "name": "Aim Higher"
+        },
+        {
+          "id": 122124630,
+          "name": "Aim high creations"
+        },
+        {
+          "id": 49678403,
+          "name": "AC AIM HIGH"
+        },
+        {
+          "id": 50183729,
+          "name": "SDA Aim High Choir"
+        },
+        {
+          "id": 34123914,
+          "name": "Just Aim High"
+        },
+        {
+          "id": 13412804,
+          "name": "Lay Low, Aim High"
+        },
+        {
+          "id": 12285372,
+          "name": "9m88"
+        },
+        {
+          "id": 32432482,
+          "name": "Billy Choi"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

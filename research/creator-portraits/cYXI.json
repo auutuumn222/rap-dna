@@ -1,0 +1,56 @@
+{
+  "id": "cYXI",
+  "name": "AR",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12002184,
+          "name": "AR刘夫阳"
+        },
+        {
+          "id": 18619,
+          "name": "Arte Refact"
+        },
+        {
+          "id": 127815,
+          "name": "T-ara"
+        },
+        {
+          "id": 104700,
+          "name": "Various Artists"
+        },
+        {
+          "id": 40858,
+          "name": "Ólafur Arnalds"
+        },
+        {
+          "id": 1137410,
+          "name": "Arc North"
+        },
+        {
+          "id": 51316343,
+          "name": "Ari Abdul"
+        },
+        {
+          "id": 95774911,
+          "name": "VISUAL ARTS / Key"
+        },
+        {
+          "id": 12541250,
+          "name": "Arthur Rubinstein"
+        },
+        {
+          "id": 47669702,
+          "name": "ARI HICKS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

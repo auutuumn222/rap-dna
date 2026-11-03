@@ -1,0 +1,15 @@
+{
+  "id": "cc2VybXN0eWxl",
+  "name": "Sermstyle",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "caGFhZ2E",
+  "name": "Haaga",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35049036,
+          "name": "Trent Haaga"
+        },
+        {
+          "id": 31586896,
+          "name": "Haaga"
+        },
+        {
+          "id": 39344,
+          "name": "Michael Haaga"
+        },
+        {
+          "id": 98705865,
+          "name": "Sammy Haaga"
+        },
+        {
+          "id": 51206242,
+          "name": "JJ Haaga"
+        },
+        {
+          "id": 55750338,
+          "name": "Prod. Haaga"
+        },
+        {
+          "id": 61707473,
+          "name": "BENNY HAAGASON"
+        },
+        {
+          "id": 32131774,
+          "name": "Ane Linn Haagaas"
+        },
+        {
+          "id": 48842858,
+          "name": "Nolan Haagar"
+        },
+        {
+          "id": 123459037,
+          "name": "Haaga Hustla"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

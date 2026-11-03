@@ -1,0 +1,56 @@
+{
+  "id": "caGVhZGFjaGU",
+  "name": "HeadAche",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 625811,
+          "name": "Headache"
+        },
+        {
+          "id": 58271315,
+          "name": "headache"
+        },
+        {
+          "id": 125927401,
+          "name": "Headaches"
+        },
+        {
+          "id": 27883507,
+          "name": "Headache Relief Unit"
+        },
+        {
+          "id": 598196,
+          "name": "HeadAches"
+        },
+        {
+          "id": 32512618,
+          "name": "Headache Relief"
+        },
+        {
+          "id": 36807652,
+          "name": "Terrible Headache"
+        },
+        {
+          "id": 30303617,
+          "name": "Headache Migrane Relief"
+        },
+        {
+          "id": 99975,
+          "name": "Royal Headache"
+        },
+        {
+          "id": 14674363,
+          "name": "Violent Headache"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

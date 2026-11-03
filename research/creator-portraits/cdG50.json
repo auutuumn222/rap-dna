@@ -1,0 +1,56 @@
+{
+  "id": "cdG50",
+  "name": "TNT",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 102345,
+          "name": "TNT"
+        },
+        {
+          "id": 32942638,
+          "name": "TNT"
+        },
+        {
+          "id": 33806754,
+          "name": "时代少年团"
+        },
+        {
+          "id": 12118643,
+          "name": "TNT-Studio"
+        },
+        {
+          "id": 123530983,
+          "name": "墨瑞TNT"
+        },
+        {
+          "id": 48983976,
+          "name": "Fortunate·TNT"
+        },
+        {
+          "id": 34468346,
+          "name": "TNTTP"
+        },
+        {
+          "id": 127408344,
+          "name": "TNT载体"
+        },
+        {
+          "id": 51219988,
+          "name": "Hotline TNT"
+        },
+        {
+          "id": 100336139,
+          "name": "TNTcs17"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

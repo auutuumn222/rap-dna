@@ -1,0 +1,16 @@
+{
+  "id": "n12064019",
+  "name": "连麻Swimming",
+  "attempts": [],
+  "entry": {
+    "name": "连麻Swimming",
+    "catalogName": "连麻Swimming",
+    "aliases": [],
+    "image": "./assets/people/n12064019.jpg",
+    "source": "https://music.163.com/artist?id=12064019",
+    "imageSource": "https://p2.music.126.net/xZOAVvJ9_8K__iqBI_YJGg==/109951174144762778.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cdGVkeXN0ZXI",
+  "name": "TEDYSTER",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 28125998,
+          "name": "TEDYSTER"
+        },
+        {
+          "id": 125556497,
+          "name": "Tedyster"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

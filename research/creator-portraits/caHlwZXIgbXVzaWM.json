@@ -1,0 +1,56 @@
+{
+  "id": "caHlwZXIgbXVzaWM",
+  "name": "HYPER MUSIC",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 14119278,
+          "name": "HYPER MUSIC"
+        },
+        {
+          "id": 37576096,
+          "name": "Hyper Music"
+        },
+        {
+          "id": 51287218,
+          "name": "HYPER MUSIC ZONE"
+        },
+        {
+          "id": 96284377,
+          "name": "Hyper Videogame Music"
+        },
+        {
+          "id": 123396790,
+          "name": "Hyper Focus Music"
+        },
+        {
+          "id": 62142706,
+          "name": "Hyper Concentration Music"
+        },
+        {
+          "id": 33617167,
+          "name": "Hyper Gaming Music"
+        },
+        {
+          "id": 37713648,
+          "name": "Hyper Fenton & Moflo Music"
+        },
+        {
+          "id": 34937236,
+          "name": "JStu & Hyper Fenton & Moflo Music"
+        },
+        {
+          "id": 96267,
+          "name": "Muse"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

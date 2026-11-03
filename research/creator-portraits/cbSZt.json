@@ -1,0 +1,56 @@
+{
+  "id": "cbSZt",
+  "name": "M&M",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 127202,
+          "name": "M&M"
+        },
+        {
+          "id": 50979386,
+          "name": "M&M"
+        },
+        {
+          "id": 32805497,
+          "name": "M&M"
+        },
+        {
+          "id": 12532988,
+          "name": "M&M Band"
+        },
+        {
+          "id": 60514515,
+          "name": "M&M"
+        },
+        {
+          "id": 31966399,
+          "name": "2m&m"
+        },
+        {
+          "id": 31708890,
+          "name": "M&M"
+        },
+        {
+          "id": 122142721,
+          "name": "M&M"
+        },
+        {
+          "id": 96576147,
+          "name": "M&M"
+        },
+        {
+          "id": 48817424,
+          "name": "M&M"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

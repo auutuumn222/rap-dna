@@ -1,0 +1,56 @@
+{
+  "id": "cbGEgY3Jpc2lz",
+  "name": "LA Crisis",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 33043922,
+          "name": "Charanga La Crisis"
+        },
+        {
+          "id": 14555459,
+          "name": "La Crisis"
+        },
+        {
+          "id": 47806786,
+          "name": "La Crisis La Banda"
+        },
+        {
+          "id": 15171834,
+          "name": "La Crisis de Eugenio"
+        },
+        {
+          "id": 30122779,
+          "name": "Euflor y la Crisis"
+        },
+        {
+          "id": 12749078,
+          "name": "Eugenio y La Crisis"
+        },
+        {
+          "id": 147383,
+          "name": "Chico Che y La Crisis"
+        },
+        {
+          "id": 30133421,
+          "name": "Eugenio y La Crisis de Chico Che"
+        },
+        {
+          "id": 34453010,
+          "name": "Euflor y la Crisis de Chico Che"
+        },
+        {
+          "id": 13589431,
+          "name": "MARIO CRUZ Y EL GRUPO LA CRISIS"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

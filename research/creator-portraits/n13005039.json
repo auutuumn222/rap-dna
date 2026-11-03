@@ -1,0 +1,16 @@
+{
+  "id": "n13005039",
+  "name": "V.O.B",
+  "attempts": [],
+  "entry": {
+    "name": "V.O.B",
+    "catalogName": "V.O.B",
+    "aliases": [],
+    "image": "./assets/people/n13005039.jpg",
+    "source": "https://music.163.com/artist?id=13005039",
+    "imageSource": "https://p2.music.126.net/55oxw3F_yj5U1QP2UVfziA==/109951163094545924.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "collective"
+  },
+  "match": "existing-platform-id"
+}

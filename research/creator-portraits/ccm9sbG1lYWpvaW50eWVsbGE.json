@@ -1,0 +1,15 @@
+{
+  "id": "ccm9sbG1lYWpvaW50eWVsbGE",
+  "name": "ROLLMEAJOINTYELLA",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 403"
+    }
+  ],
+  "status": "unresolved"
+}

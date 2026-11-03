@@ -1,0 +1,56 @@
+{
+  "id": "cbWlra2k",
+  "name": "mikki",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 124177731,
+          "name": "Mikki （米琪）"
+        },
+        {
+          "id": 57299839,
+          "name": "Mikki Johansson"
+        },
+        {
+          "id": 218722,
+          "name": "Mikki"
+        },
+        {
+          "id": 13179856,
+          "name": "Mikki Bleu"
+        },
+        {
+          "id": 47064690,
+          "name": "Mikki ASMR"
+        },
+        {
+          "id": 96678,
+          "name": "Mikkim"
+        },
+        {
+          "id": 34577304,
+          "name": "mikki"
+        },
+        {
+          "id": 123089367,
+          "name": "Mikki Likki"
+        },
+        {
+          "id": 14223647,
+          "name": "Mikki Gera"
+        },
+        {
+          "id": 36276255,
+          "name": "Mikki White"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

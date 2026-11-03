@@ -1,0 +1,28 @@
+{
+  "id": "c6buE5bCR6ZuN",
+  "name": "黄少雍",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 30998536,
+          "name": "黄少雍"
+        },
+        {
+          "id": 3690,
+          "name": "卢广仲"
+        },
+        {
+          "id": 31873469,
+          "name": "张瀚中"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

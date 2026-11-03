@@ -1,0 +1,28 @@
+{
+  "id": "c6buE5Y-v54ix",
+  "name": "黄可爱",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 48674818,
+          "name": "小黄可爱在线"
+        },
+        {
+          "id": 32433909,
+          "name": "可爱小黄"
+        },
+        {
+          "id": 127870205,
+          "name": "黄是超可爱"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

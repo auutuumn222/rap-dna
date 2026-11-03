@@ -1,0 +1,20 @@
+{
+  "id": "c5rKI56uL5ZiJ",
+  "name": "沈立嘉",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1081603,
+          "name": "Animal Pop"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

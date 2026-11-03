@@ -1,0 +1,15 @@
+{
+  "id": "cYm9uayBiZWF0eg",
+  "name": "BONK BEATZ",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": []
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

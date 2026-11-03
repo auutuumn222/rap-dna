@@ -1,0 +1,32 @@
+{
+  "id": "ceXZuZ2sx",
+  "name": "YVNGk1",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 47380607,
+          "name": "YVNGk1"
+        },
+        {
+          "id": 94208633,
+          "name": "yvngk1ng"
+        },
+        {
+          "id": 97714486,
+          "name": "Yvng K1d"
+        },
+        {
+          "id": 99103232,
+          "name": "Yvng K1ng"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "c6IKW5aSPZHg",
+  "name": "肖夏DX",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12537270,
+          "name": "DX肖夏"
+        },
+        {
+          "id": 37058226,
+          "name": "沧桑Cang333"
+        },
+        {
+          "id": 36080509,
+          "name": "虎皮蛋"
+        },
+        {
+          "id": 31062035,
+          "name": "曲甲"
+        },
+        {
+          "id": 12287129,
+          "name": "小精灵"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

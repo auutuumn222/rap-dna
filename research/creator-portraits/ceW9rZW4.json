@@ -1,0 +1,56 @@
+{
+  "id": "ceW9rZW4",
+  "name": "Yoken",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 1047049,
+          "name": "Yoken_Official"
+        },
+        {
+          "id": 32721370,
+          "name": "yoken lazy"
+        },
+        {
+          "id": 34888107,
+          "name": "YOKEN"
+        },
+        {
+          "id": 128811417,
+          "name": "yoken"
+        },
+        {
+          "id": 60635301,
+          "name": "Yokendo Sironi"
+        },
+        {
+          "id": 50071960,
+          "name": "YOKEN"
+        },
+        {
+          "id": 127787531,
+          "name": "YoKen"
+        },
+        {
+          "id": 94096015,
+          "name": "YoKenny"
+        },
+        {
+          "id": 127914607,
+          "name": "Yokendry Martínez"
+        },
+        {
+          "id": 55288045,
+          "name": "Yokenza"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

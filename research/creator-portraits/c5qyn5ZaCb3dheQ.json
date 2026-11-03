@@ -1,0 +1,20 @@
+{
+  "id": "c5qyn5ZaCb3dheQ",
+  "name": "欧喂Oway",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 35607323,
+          "name": "欧喂Oway"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

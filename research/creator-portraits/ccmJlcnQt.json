@@ -1,0 +1,28 @@
+{
+  "id": "ccmJlcnQt",
+  "name": "Rbert-",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 34492432,
+          "name": "Rbert-"
+        },
+        {
+          "id": 28019353,
+          "name": "rBert"
+        },
+        {
+          "id": 14098466,
+          "name": "Rbert Lamoureux"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

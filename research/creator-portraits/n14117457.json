@@ -1,0 +1,16 @@
+{
+  "id": "n14117457",
+  "name": "SASIOVERLXRD",
+  "attempts": [],
+  "entry": {
+    "name": "SASIOVERLXRD",
+    "catalogName": "SASIOVERLXRD",
+    "aliases": [],
+    "image": "./assets/people/n14117457.jpg",
+    "source": "https://music.163.com/artist?id=14117457",
+    "imageSource": "https://p2.music.126.net/VSWNU8cLz6arkK6L2Dh3HA==/109951173348504450.jpg",
+    "checkedAt": "2026-10-29",
+    "kind": "person"
+  },
+  "match": "existing-platform-id"
+}

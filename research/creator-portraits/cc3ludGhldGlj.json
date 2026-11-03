@@ -1,0 +1,56 @@
+{
+  "id": "cc3ludGhldGlj",
+  "name": "Synthetic",
+  "attempts": [
+    {
+      "platform": "netease",
+      "candidates": [
+        {
+          "id": 12038224,
+          "name": "Synthetic"
+        },
+        {
+          "id": 776702,
+          "name": "The Blake Robinson Synthetic Orchestra"
+        },
+        {
+          "id": 44191,
+          "name": "Syntheticsax"
+        },
+        {
+          "id": 101948,
+          "name": "Synthetic Epiphany"
+        },
+        {
+          "id": 1086060,
+          "name": "Synthetic Impulse"
+        },
+        {
+          "id": 48570712,
+          "name": "Synthetic Mind"
+        },
+        {
+          "id": 129682012,
+          "name": "SYNTHETIC RHYTHM ORCHESTRA"
+        },
+        {
+          "id": 48165335,
+          "name": "Synthetic Architect"
+        },
+        {
+          "id": 36449209,
+          "name": "VGH Synthetic Orchestra"
+        },
+        {
+          "id": 92007,
+          "name": "Eden Synthetic Corps"
+        }
+      ]
+    },
+    {
+      "platform": "apple",
+      "error": "HTTP 429"
+    }
+  ],
+  "status": "unresolved"
+}

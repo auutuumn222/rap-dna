@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 49320722,
+  "reportedTracks": 101,
+  "returnedTracks": 101,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 1,
+      "more": false
+    }
+  ],
+  "listedReleases": 46,
+  "associatedReleases": 73,
+  "explicitCredits": 5797,
+  "albumDetails": 1305,
+  "appleCnReleases": 14,
+  "appleUsReleases": 30,
+  "appleSongRecords": 42,
+  "failures": []
+}

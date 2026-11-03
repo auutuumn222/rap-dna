@@ -1,0 +1,98 @@
+{
+  "resultCount": 10,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "加木",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%8A%A0%E6%9C%A8/1710934456?uo=4",
+      "artistId": 1710934456,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "阿加木呷",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%98%BF%E5%8A%A0%E6%9C%A8%E5%91%B7/1480544340?uo=4",
+      "artistId": 1480544340,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JVKE",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jvke/1439925456?uo=4",
+      "artistId": 1439925456,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Fujii Kaze",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%97%A4%E4%BA%95%E9%A3%8E/1486113150?uo=4",
+      "artistId": 1486113150,
+      "amgArtistId": 3589625,
+      "primaryGenreName": "国际流行",
+      "primaryGenreId": 14
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "汪苏泷",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B1%AA%E8%8B%8F%E6%B3%B7/657686835?uo=4",
+      "artistId": 657686835,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "梁靜茹",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%A2%81%E9%9D%99%E8%8C%B9/531134701?uo=4",
+      "artistId": 531134701,
+      "amgArtistId": 871652,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Nogizaka46",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E4%B9%83%E6%9C%A8%E5%9D%8246/571990937?uo=4",
+      "artistId": 571990937,
+      "amgArtistId": 2859517,
+      "primaryGenreName": "J-Pop",
+      "primaryGenreId": 27
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Kana Nishino",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%A5%BF%E9%87%8E%E5%8A%A0%E5%A5%88/410542403?uo=4",
+      "artistId": 410542403,
+      "primaryGenreName": "J-Pop",
+      "primaryGenreId": 27
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "瘦子E.SO",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%98%A6%E5%AD%90e-so/1476379003?uo=4",
+      "artistId": 1476379003,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "step.jad依加",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/step-jad%E4%BE%9D%E5%8A%A0/1471515939?uo=4",
+      "artistId": 1471515939,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

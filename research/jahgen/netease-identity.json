@@ -1,0 +1,81 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 3,
+    "hlWords": [
+      "贾真Jahgen"
+    ],
+    "artists": [
+      {
+        "id": 55315624,
+        "name": "贾真Jahgen",
+        "picUrl": "https://p2.music.126.net/wmRjN-OnQzw9wPTw0yXoTA==/109951168227339022.jpg",
+        "alias": [
+          "MC Souljah"
+        ],
+        "albumSize": 8,
+        "musicSize": 61,
+        "picId": 109951168227339020,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 48196,
+        "img1v1Url": "https://p2.music.126.net/g4X90Ts7RYg0olhYQfC1gw==/109951174214951721.jpg",
+        "accountId": 592816486,
+        "img1v1": 109951174214951730,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "MC Souljah"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12110173,
+        "name": "THOME",
+        "picUrl": "https://p2.music.126.net/2c7is0sgsgFjK4QN37N3tA==/109951169207382984.jpg",
+        "alias": [],
+        "albumSize": 32,
+        "musicSize": 203,
+        "picId": 109951169207382980,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 907294,
+        "img1v1Url": "https://p2.music.126.net/rIr78XiLso-Dlz00JjcLxw==/109951170999422334.jpg",
+        "accountId": 105020003,
+        "img1v1": 109951170999422340,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 17,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 12529648,
+        "name": "KIV",
+        "picUrl": "https://p2.music.126.net/bwedTUhDraCQ8Itw1NG99A==/109951170278152880.jpg",
+        "alias": [],
+        "albumSize": 16,
+        "musicSize": 91,
+        "picId": 109951170278152880,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 198620,
+        "img1v1Url": "https://p2.music.126.net/L2IegKgopP9WLDpepkHQqA==/109951170020234818.jpg",
+        "accountId": 322040198,
+        "img1v1": 109951170020234820,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 8,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

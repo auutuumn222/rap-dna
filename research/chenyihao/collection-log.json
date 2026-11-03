@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 32893629,
+  "reportedTracks": 131,
+  "returnedTracks": 131,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 31,
+      "more": false
+    }
+  ],
+  "listedReleases": 27,
+  "associatedReleases": 46,
+  "explicitCredits": 3089,
+  "albumDetails": 832,
+  "appleCnReleases": 4,
+  "appleUsReleases": 6,
+  "appleSongRecords": 17,
+  "failures": []
+}

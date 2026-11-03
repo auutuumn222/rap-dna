@@ -1,0 +1,32 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "BabyBAKO",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/babybako/6815259433?uo=4",
+      "artistId": 6815259433,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "RichNomadic",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/richnomadic/1637058522?uo=4",
+      "artistId": 1637058522,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "CashTrippy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/cashtrippy/1550156401?uo=4",
+      "artistId": 1550156401,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

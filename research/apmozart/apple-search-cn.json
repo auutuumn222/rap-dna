@@ -1,0 +1,48 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "APMOZART",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/apmozart/1501683339?uo=4",
+      "artistId": 1501683339,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "APMOZART",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/apmozart/1823549013?uo=4",
+      "artistId": 1823549013
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "陈麒竹",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%99%88%E9%BA%92%E7%AB%B9/1581747993?uo=4",
+      "artistId": 1581747993,
+      "primaryGenreName": "中文嘻哈",
+      "primaryGenreId": 1241
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SKAI ISYOURGOD",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%8F%BD%E4%BD%ACskai-isyourgod/1663437158?uo=4",
+      "artistId": 1663437158,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SASIOVERLXRD",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sasioverlxrd/1614374830?uo=4",
+      "artistId": 1614374830,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

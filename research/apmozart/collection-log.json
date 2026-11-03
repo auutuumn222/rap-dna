@@ -1,0 +1,95 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 48045511,
+  "reportedTracks": 104,
+  "returnedTracks": 104,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 4,
+      "more": false
+    }
+  ],
+  "listedReleases": 19,
+  "associatedReleases": 38,
+  "explicitCredits": 6399,
+  "albumDetails": 1369,
+  "appleCnReleases": 4,
+  "appleUsReleases": 7,
+  "appleSongRecords": 20,
+  "failures": [
+    {
+      "item": 356788787,
+      "error": "API -462"
+    },
+    {
+      "item": 353836944,
+      "error": "API -462"
+    },
+    {
+      "item": 400117250,
+      "error": "API -462"
+    },
+    {
+      "item": 278475006,
+      "error": "API -462"
+    },
+    {
+      "item": 276206286,
+      "error": "API -462"
+    },
+    {
+      "item": 275954353,
+      "error": "API -462"
+    },
+    {
+      "item": 261193047,
+      "error": "API -462"
+    },
+    {
+      "item": 265456004,
+      "error": "API -462"
+    },
+    {
+      "item": 244913422,
+      "error": "API -462"
+    },
+    {
+      "item": 183971154,
+      "error": "API -462"
+    },
+    {
+      "item": 145251740,
+      "error": "API -462"
+    },
+    {
+      "item": 127605650,
+      "error": "API -462"
+    },
+    {
+      "item": 390020960,
+      "error": "API -462"
+    },
+    {
+      "item": 276781063,
+      "error": "API -462"
+    },
+    {
+      "item": 274537222,
+      "error": "API -462"
+    },
+    {
+      "item": 157730447,
+      "error": "API -462"
+    },
+    {
+      "item": 129971471,
+      "error": "API -462"
+    }
+  ]
+}

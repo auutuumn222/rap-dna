@@ -1,0 +1,105 @@
+{
+  "result": {
+    "hasMore": false,
+    "artistCount": 4,
+    "hlWords": [
+      "周乘羽"
+    ],
+    "artists": [
+      {
+        "id": 46356020,
+        "name": "周乘羽",
+        "picUrl": "https://p2.music.126.net/Uvx4uK5MZDYj_nf59dwVKw==/109951165565753750.jpg",
+        "alias": [
+          "杰西马吉拉"
+        ],
+        "albumSize": 11,
+        "musicSize": 85,
+        "picId": 109951165565753740,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 99008,
+        "img1v1Url": "https://p2.music.126.net/7HYUGjbQHQ__tzjh352bCg==/109951170063220002.jpg",
+        "accountId": 137254040,
+        "img1v1": 109951170063220000,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 3,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "杰西马吉拉"
+        ],
+        "trans": null
+      },
+      {
+        "id": 12205952,
+        "name": "卡力老虎",
+        "picUrl": "https://p2.music.126.net/UJxoGQOBaj7NTghEQvIeZA==/109951163398383358.jpg",
+        "alias": [],
+        "albumSize": 11,
+        "musicSize": 90,
+        "picId": 109951163398383360,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 114084,
+        "img1v1Url": "https://p2.music.126.net/etnJ3zmTQB4ajXNc_TgSaw==/109951173998104388.jpg",
+        "accountId": 89573284,
+        "img1v1": 109951173998104380,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 94851099,
+        "name": "UDG Records",
+        "picUrl": "https://p2.music.126.net/u8ZQNePYywagVhMKW750cQ==/109951169871909554.jpg",
+        "alias": [],
+        "albumSize": 3,
+        "musicSize": 35,
+        "picId": 109951169871909550,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 20099,
+        "img1v1Url": "https://p2.music.126.net/_RgePWPe_Jkcl6dh6YpdTA==/109951169869496467.jpg",
+        "img1v1": 109951169869496460,
+        "mvSize": 0,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "trans": null
+      },
+      {
+        "id": 50040751,
+        "name": "SABER徐天知",
+        "picUrl": "https://p2.music.126.net/SkZqc8lj8BFgOsyUb4pIlQ==/109951166507159631.jpg",
+        "alias": [
+          "Saber然后"
+        ],
+        "albumSize": 12,
+        "musicSize": 43,
+        "picId": 109951166507159630,
+        "fansGroup": null,
+        "recommendText": "",
+        "appendRecText": "",
+        "fansSize": 54824,
+        "img1v1Url": "https://p2.music.126.net/BH58VS8EKrQ6D47spptGEA==/109951170700254792.jpg",
+        "accountId": 1896858918,
+        "img1v1": 109951170700254780,
+        "identityIconUrl": "https://p5.music.126.net/obj/wo3DlcOGw6DClTvDisK1/4874132307/4499/f228/d867/da64b9725e125943ad4e14e4c72d0884.png",
+        "mvSize": 2,
+        "followed": false,
+        "alg": "alg_search_precision_artist_tab_basic",
+        "alia": [
+          "Saber然后"
+        ],
+        "trans": null
+      }
+    ],
+    "searchQcReminder": null
+  },
+  "code": 200
+}

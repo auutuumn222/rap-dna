@@ -1,0 +1,50 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "kkluv",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kkluv/1698673364?uo=4",
+      "artistId": 1698673364,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "那奇沃夫",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E9%82%A3%E5%A5%87%E6%B2%83%E5%A4%AB/1548298768?uo=4",
+      "artistId": 1548298768,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "连麻",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%BF%9E%E9%BA%BBswimming/1577300746?uo=4",
+      "artistId": 1577300746,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "CashTrippy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/cashtrippy/1550156401?uo=4",
+      "artistId": 1550156401,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "罗言",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E7%BD%97%E8%A8%80/1556188208?uo=4",
+      "artistId": 1556188208,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

@@ -1,0 +1,7443 @@
+{
+  "artist": {
+    "img1v1Id": 109951172355663420,
+    "topicPerson": 0,
+    "picId": 109951167002668340,
+    "musicSize": 138,
+    "albumSize": 55,
+    "briefDesc": "^Location:Sichuan\n^Genre: HipHop / Rap\n^WEIBO: @KenRobb",
+    "picUrl": "https://p1.music.126.net/jW6Lu2pPwpDL3vikWO3buw==/109951167002668333.jpg",
+    "img1v1Url": "https://p1.music.126.net/c5uvnFo5PW7r3QSPkeXx1g==/109951172355663423.jpg",
+    "followed": false,
+    "trans": "",
+    "alias": [],
+    "name": "KenRobb",
+    "id": 12529780,
+    "publishTime": 1541940966698,
+    "accountId": 273712674,
+    "picId_str": "109951167002668333",
+    "img1v1Id_str": "109951172355663423",
+    "mvSize": 26
+  },
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 163040720,
+        "name": "哥们废了",
+        "picUrl": "https://p1.music.126.net/NNM3fa9IYdVEUX-eCjxZHw==/109951169927701708.jpg",
+        "pic_str": "109951169927701708",
+        "pic": 109951169927701710
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 134545,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5384685,
+        "vd": -53352,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1020483,
+        "fid": 0,
+        "size": 17162684,
+        "vd": -53718,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1790615,
+        "fid": 0,
+        "size": 30114902,
+        "vd": -53346,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2153901,
+        "vd": -49269,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3230829,
+        "vd": -50809,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "现在 你才不幸福",
+      "id": 2036226011,
+      "privilege": {
+        "id": 2036226011,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p2.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 1,
+      "mv": 14486600,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 196839,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7875885,
+        "vd": 17315,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 901424,
+        "fid": 0,
+        "size": 22179546,
+        "vd": 17323,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3150381,
+        "vd": 21641,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4725549,
+        "vd": 19934,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "诅咒",
+      "id": 1896063814,
+      "privilege": {
+        "id": 1896063814,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 47975606,
+          "name": "Young Harry"
+        }
+      ],
+      "al": {
+        "id": 139710534,
+        "name": "答案",
+        "picUrl": "https://p1.music.126.net/wNTg-qf15oQrLjTNNbVFkg==/109951167002600410.jpg",
+        "pic_str": "109951167002600410",
+        "pic": 109951167002600420
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 19,
+      "dt": 184839,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7395885,
+        "vd": -413,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 959808,
+        "fid": 0,
+        "size": 22176372,
+        "vd": -403,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2958381,
+        "vd": 3739,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4437549,
+        "vd": 2158,
+        "sr": 48000
+      },
+      "mark": 8256,
+      "name": "答案",
+      "id": 1916700564,
+      "privilege": {
+        "id": 1916700564,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p1.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 211000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8442819,
+        "vd": 11754,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1358865,
+        "fid": 0,
+        "size": 35840088,
+        "vd": 11754,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3377154,
+        "vd": 16063,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5065709,
+        "vd": 14379,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "Leave me alone",
+      "id": 1896063029,
+      "privilege": {
+        "id": 1896063029,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 159622248,
+        "name": "雪季日记（Snow Season）",
+        "picUrl": "https://p2.music.126.net/ftuopqWumWi3-LiCiBh9yQ==/109951168292939168.jpg",
+        "pic_str": "109951168292939168",
+        "pic": 109951168292939170
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 1,
+      "mv": 14603083,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 193398,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7738558,
+        "vd": -36087,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 830922,
+        "fid": 0,
+        "size": 20087408,
+        "vd": -36037,
+        "sr": 44100
+      },
+      "hr": {
+        "br": 2541314,
+        "fid": 0,
+        "size": 61435820,
+        "vd": -36061,
+        "sr": 88200
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3095449,
+        "vd": -31716,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4643152,
+        "vd": -33460,
+        "sr": 44100
+      },
+      "mark": 536879168,
+      "name": "雪",
+      "id": 2020651040,
+      "privilege": {
+        "id": 2020651040,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 46921476,
+          "name": "Uzzy",
+          "alia": [
+            "乌泽"
+          ]
+        }
+      ],
+      "al": {
+        "id": 146415133,
+        "name": "恼火 remix",
+        "picUrl": "https://p1.music.126.net/Etvl7SX_2b3elxdAf6xwBA==/109951167544834964.jpg",
+        "pic_str": "109951167544834964",
+        "pic": 109951167544834960
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 23,
+      "dt": 176618,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7067565,
+        "vd": 10364,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 804340,
+        "fid": 0,
+        "size": 17757705,
+        "vd": 10395,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 2696071,
+        "fid": 0,
+        "size": 59522110,
+        "vd": 10398,
+        "sr": 96000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2827053,
+        "vd": 14490,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4240557,
+        "vd": 12946,
+        "sr": 48000
+      },
+      "mark": 17716748352,
+      "name": "恼火",
+      "id": 1955501364,
+      "tns": [
+        "remix"
+      ],
+      "privilege": {
+        "id": 1955501364,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 48045511,
+          "name": "APMOZART",
+          "alia": [
+            "Mr.Finest"
+          ]
+        }
+      ],
+      "al": {
+        "id": 128223676,
+        "name": "All",
+        "picUrl": "https://p1.music.126.net/eMVL7ltYO-_3RjP7qNu80Q==/109951166047581894.jpg",
+        "pic_str": "109951166047581894",
+        "pic": 109951166047581890
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14291845,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 150696,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6030150,
+        "vd": -32660,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1483618,
+        "fid": 0,
+        "size": 27947003,
+        "vd": -32655,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2412086,
+        "vd": -28523,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3618107,
+        "vd": -30071,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "All（Prod.Aper&AllenJ）",
+      "id": 1849276971,
+      "privilege": {
+        "id": 1849276971,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 283080124,
+        "name": "钱专",
+        "picUrl": "https://p1.music.126.net/qHTjyT3VTl0tZyWnq9VaSA==/109951173955320630.jpg",
+        "pic_str": "109951173955320630",
+        "pic": 109951173955320620
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "2 我得赚钱",
+      "t": 0,
+      "v": 12,
+      "dt": 168000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7002,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6721965,
+        "vd": -65796,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1012536,
+        "fid": 0,
+        "size": 21266360,
+        "vd": -65792,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1782413,
+        "fid": 0,
+        "size": 37433789,
+        "vd": -65792,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2688813,
+        "vd": -61566,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4033197,
+        "vd": -63207,
+        "sr": 48000
+      },
+      "mark": 17716740096,
+      "name": "简单的",
+      "id": 2740498686,
+      "privilege": {
+        "id": 2740498686,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 12328044,
+          "name": "Ash-1",
+          "alia": [
+            "阿屎"
+          ]
+        }
+      ],
+      "al": {
+        "id": 151512282,
+        "name": "车子 remix",
+        "picUrl": "https://p1.music.126.net/RWsWmwkdJlTQqXBaQA-uDA==/109951167874674378.jpg",
+        "pic_str": "109951167874674378",
+        "pic": 109951167874674380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 23,
+      "dt": 175483,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7021485,
+        "vd": -45911,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 786845,
+        "fid": 0,
+        "size": 17259836,
+        "vd": -45911,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1540486,
+        "fid": 0,
+        "size": 33791308,
+        "vd": -45911,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2808621,
+        "vd": -41545,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4212909,
+        "vd": -43281,
+        "sr": 48000
+      },
+      "mark": 17716748352,
+      "name": "车子 remix",
+      "id": 1981082284,
+      "privilege": {
+        "id": 1981082284,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 30704161,
+          "name": "mac ova seas"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 14925064,
+          "name": "皇昶枢（MULA SAKEE）",
+          "alia": [
+            "永玄神武太初韧文大帝"
+          ]
+        }
+      ],
+      "al": {
+        "id": 88186995,
+        "name": "Born 2 Be",
+        "picUrl": "https://p1.music.126.net/6MR8pawUv3JLVLV_kJ8FEQ==/109951164917272861.jpg",
+        "pic_str": "109951164917272861",
+        "pic": 109951164917272860
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 267168,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10688685,
+        "vd": -32416,
+        "sr": 48000
+      },
+      "sq": null,
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4275501,
+        "vd": -28182,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6413229,
+        "vd": -29809,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "从无到有",
+      "id": 1441576907,
+      "privilege": {
+        "id": 1441576907,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 320000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 320000,
+        "downloadMaxbr": 320000,
+        "maxBrLevel": "exhigh",
+        "playMaxBrLevel": "exhigh",
+        "downloadMaxBrLevel": "exhigh",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 137966886,
+        "name": "Justin Bieber",
+        "picUrl": "https://p2.music.126.net/XNDPai5u6hQ4HgSa87PMrQ==/109951166788700325.jpg",
+        "pic_str": "109951166788700325",
+        "pic": 109951166788700320
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14486601,
+      "cd": "01",
+      "t": 0,
+      "v": 22,
+      "dt": 156199,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [
+        "她说我像贾斯汀比伯"
+      ],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6250623,
+        "vd": -15623,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1464140,
+        "fid": 0,
+        "size": 28587341,
+        "vd": -15619,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2500275,
+        "vd": -11258,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3750391,
+        "vd": -12992,
+        "sr": 44100
+      },
+      "mark": 17180139584,
+      "name": "Justin Bieber",
+      "id": 1906281210,
+      "privilege": {
+        "id": 1906281210,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 130827293,
+        "name": "Doctor",
+        "picUrl": "https://p1.music.126.net/4iKanN3kRAI1wLrV6MFJsg==/109951166210144337.jpg",
+        "pic_str": "109951166210144337",
+        "pic": 109951166210144340
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 1,
+      "mv": 14486599,
+      "cd": "01",
+      "t": 0,
+      "v": 10,
+      "dt": 127116,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5087652,
+        "vd": -11768,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1520224,
+        "fid": 0,
+        "size": 24155756,
+        "vd": -11771,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2035087,
+        "vd": -7613,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3052609,
+        "vd": -9177,
+        "sr": 44100
+      },
+      "mark": 8256,
+      "name": "二娃（Prod.JASON）",
+      "id": 1865897872,
+      "privilege": {
+        "id": 1865897872,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 46921476,
+          "name": "Uzzy",
+          "alia": [
+            "乌泽"
+          ]
+        }
+      ],
+      "al": {
+        "id": 149885135,
+        "name": "痛",
+        "picUrl": "https://p1.music.126.net/9mBWoCj9d9aldxU0weqg3g==/109951167790516587.jpg",
+        "pic_str": "109951167790516587",
+        "pic": 109951167790516590
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14555853,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 174508,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6983097,
+        "vd": -32798,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 754146,
+        "fid": 0,
+        "size": 16450610,
+        "vd": -32798,
+        "sr": 44100
+      },
+      "hr": {
+        "br": 2402169,
+        "fid": 0,
+        "size": 52399808,
+        "vd": -32756,
+        "sr": 88200
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2793265,
+        "vd": -28519,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4189875,
+        "vd": -30188,
+        "sr": 44100
+      },
+      "mark": 17716748288,
+      "name": "痛",
+      "id": 1973103529,
+      "privilege": {
+        "id": 1973103529,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p2.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 150280,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6013431,
+        "vd": -2994,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1354278,
+        "fid": 0,
+        "size": 25440121,
+        "vd": -2996,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2405399,
+        "vd": 1376,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3608076,
+        "vd": -366,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "我的城市没有爱",
+      "id": 1896063702,
+      "privilege": {
+        "id": 1896063702,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 48277407,
+          "name": "BOBBYNOPEACE"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 156129365,
+        "name": "花与蛇",
+        "picUrl": "https://p1.music.126.net/ZT24w0ptAI2sqpj3wxkQGQ==/109951168126592947.jpg",
+        "pic_str": "109951168126592947",
+        "pic": 109951168126592940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 158333,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6336045,
+        "vd": -49270,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 901559,
+        "fid": 0,
+        "size": 17843366,
+        "vd": -49120,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1668927,
+        "fid": 0,
+        "size": 33030849,
+        "vd": -49252,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2534445,
+        "vd": -45045,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3801645,
+        "vd": -46677,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "处 Ft.Kenrobb",
+      "id": 2005294530,
+      "privilege": {
+        "id": 2005294530,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 30443363,
+          "name": "吉他张",
+          "alia": [
+            "我一直在哭",
+            "CartierRR"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 352217674,
+        "name": "我一直在哭",
+        "picUrl": "https://p2.music.126.net/0f4aeidMM_ZVP0da0WKuBw==/109951172352587848.jpg",
+        "pic_str": "109951172352587848",
+        "pic": 109951172352587840
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 152884,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6118125,
+        "vd": -59840,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 950169,
+        "fid": 0,
+        "size": 18161119,
+        "vd": -59833,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2447277,
+        "vd": -55557,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3670893,
+        "vd": -57236,
+        "sr": 48000
+      },
+      "mark": 17180925952,
+      "name": "为什么这个世界这么坏",
+      "id": 3322531153,
+      "privilege": {
+        "id": 3322531153,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p2.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 105985,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 4242329,
+        "vd": 6229,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1361522,
+        "fid": 0,
+        "size": 18037774,
+        "vd": 6229,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 1696958,
+        "vd": 10500,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 2545415,
+        "vd": 8789,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "Star",
+      "id": 1896063855,
+      "privilege": {
+        "id": 1896063855,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49406467,
+          "name": "Lil Asian",
+          "alia": [
+            "里尔爱夏",
+            "小亚洲"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 145476733,
+        "name": "Hood Star",
+        "picUrl": "https://p2.music.126.net/vDgXVj6ZW3cSUkcqmEx7tw==/109951170629348893.jpg",
+        "pic_str": "109951170629348893",
+        "pic": 109951170629348900
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 229999,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 9202605,
+        "vd": -45864,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 931351,
+        "fid": 0,
+        "size": 26776359,
+        "vd": -45949,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1700897,
+        "fid": 0,
+        "size": 48900794,
+        "vd": -45849,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3681069,
+        "vd": -41608,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5521581,
+        "vd": -43230,
+        "sr": 48000
+      },
+      "mark": 17717010432,
+      "name": "Hood Star",
+      "id": 1950392236,
+      "privilege": {
+        "id": 1950392236,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 15194340,
+          "name": "张方钊",
+          "alia": [
+            "河南说唱之神"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 148817435,
+        "name": "答应我会幸福",
+        "picUrl": "https://p2.music.126.net/oX5o-Jww_qAj2IjnCi_aSQ==/109951173999073878.jpg",
+        "pic_str": "109951173999073878",
+        "pic": 109951173999073870
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 14,
+      "fee": 8,
+      "mv": 14547965,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 175411,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7018605,
+        "vd": -57767,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 971426,
+        "fid": 0,
+        "size": 21299881,
+        "vd": -57765,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1740311,
+        "fid": 0,
+        "size": 38158739,
+        "vd": -57764,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2807469,
+        "vd": -53531,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4211181,
+        "vd": -55168,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Selfish (Ft.KenRobb)",
+      "id": 1967704613,
+      "privilege": {
+        "id": 1967704613,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 193683027,
+        "name": "烙印",
+        "picUrl": "https://p1.music.126.net/C0NFtCjDggd9zDojMk4A3w==/109951169533921706.jpg",
+        "pic_str": "109951169533921706",
+        "pic": 109951169533921710
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 14716627,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 134010,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320003,
+        "fid": 0,
+        "size": 5363505,
+        "vd": -42889,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 784011,
+        "fid": 0,
+        "size": 13133204,
+        "vd": -42888,
+        "sr": 44100
+      },
+      "hr": {
+        "br": 2498944,
+        "fid": 0,
+        "size": 41860524,
+        "vd": -42879,
+        "sr": 88200
+      },
+      "l": {
+        "br": 128003,
+        "fid": 0,
+        "size": 2145428,
+        "vd": -38505,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192003,
+        "fid": 0,
+        "size": 3218120,
+        "vd": -40257,
+        "sr": 44100
+      },
+      "mark": 17716740224,
+      "name": "烙印",
+      "id": 2149779592,
+      "privilege": {
+        "id": 2149779592,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 320000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "exhigh",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 146096796,
+        "name": "GET OUT",
+        "picUrl": "https://p2.music.126.net/MV-wAm9H4xb-qm5lYm6Ykg==/109951167520576117.jpg",
+        "pic_str": "109951167520576117",
+        "pic": 109951167520576110
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 151199,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6049965,
+        "vd": -12070,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 727563,
+        "fid": 0,
+        "size": 13750941,
+        "vd": -12069,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 2595065,
+        "fid": 0,
+        "size": 49046715,
+        "vd": -12073,
+        "sr": 96000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2420013,
+        "vd": -7719,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3629997,
+        "vd": -9413,
+        "sr": 48000
+      },
+      "mark": 536879296,
+      "name": "GET OUT",
+      "id": 1953915008,
+      "privilege": {
+        "id": 1953915008,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 7,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 182577354,
+        "name": "搁浅的鱼",
+        "picUrl": "https://p2.music.126.net/CUDe0zW2us_kwpzb3dgmGw==/109951169239952284.jpg",
+        "pic_str": "109951169239952284",
+        "pic": 109951169239952290
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 165968,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6641415,
+        "vd": -42981,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 817232,
+        "fid": 0,
+        "size": 16954412,
+        "vd": -43107,
+        "sr": 44100
+      },
+      "hr": {
+        "br": 2506607,
+        "fid": 0,
+        "size": 52002381,
+        "vd": -42968,
+        "sr": 88200
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2656592,
+        "vd": -38691,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3984866,
+        "vd": -40367,
+        "sr": 44100
+      },
+      "mark": 17716748288,
+      "name": "搁浅的鱼",
+      "id": 2114994548,
+      "privilege": {
+        "id": 2114994548,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p1.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 1,
+      "mv": 14495443,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 132678,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5310215,
+        "vd": 395,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1338915,
+        "fid": 0,
+        "size": 22205677,
+        "vd": 393,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2124112,
+        "vd": 4772,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3186146,
+        "vd": 3025,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "Tell Me Why",
+      "id": 1896063247,
+      "privilege": {
+        "id": 1896063247,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p2.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 155199,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6210917,
+        "vd": -11832,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1426228,
+        "fid": 0,
+        "size": 27668828,
+        "vd": -11834,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2484393,
+        "vd": -7484,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3726568,
+        "vd": -9209,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "Loney Day",
+      "id": 1896063838,
+      "privilege": {
+        "id": 1896063838,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 145429274,
+        "name": "Incurable",
+        "picUrl": "https://p1.music.126.net/9qpHRjJwVL6mmCIuMEix9w==/109951167468768479.jpg",
+        "pic_str": "109951167468768479",
+        "pic": 109951167468768480
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 137614,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5506605,
+        "vd": 10823,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 714085,
+        "fid": 0,
+        "size": 12283590,
+        "vd": 10811,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 2525236,
+        "fid": 0,
+        "size": 43438711,
+        "vd": 10854,
+        "sr": 96000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2202669,
+        "vd": 15037,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3303981,
+        "vd": 13434,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Incurable",
+      "id": 1950122422,
+      "privilege": {
+        "id": 1950122422,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 36931149,
+          "name": "生生SurvivaL",
+          "alia": [
+            "Puppybechill"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 403476999,
+        "name": "SurvivaL Say Something Pt.2",
+        "picUrl": "https://p1.music.126.net/C3Jzshpk2qObChcnRFuKkA==/109951174097694980.jpg",
+        "pic_str": "109951174097694980",
+        "pic": 109951174097694980
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 131506,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416318,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5262765,
+        "vd": -39689,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 944915,
+        "fid": 0,
+        "size": 15535310,
+        "vd": -39685,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1713698,
+        "fid": 0,
+        "size": 28172848,
+        "vd": -39686,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2105133,
+        "vd": -35400,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3157677,
+        "vd": -37075,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Well",
+      "id": 3447049307,
+      "privilege": {
+        "id": 3447049307,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 172095807,
+        "name": "With You",
+        "picUrl": "https://p2.music.126.net/enKdRTEbx3vLb_msmJzrjA==/109951168837499329.jpg",
+        "pic_str": "109951168837499329",
+        "pic": 109951168837499330
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14655915,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 160528,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6424076,
+        "vd": -21075,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1475984,
+        "fid": 0,
+        "size": 29617149,
+        "vd": -21479,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2569657,
+        "vd": -16733,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3854463,
+        "vd": -18448,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "With You",
+      "id": 2072877890,
+      "privilege": {
+        "id": 2072877890,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32638512,
+          "name": "刘嘉一"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 157282903,
+        "name": "摩天轮",
+        "picUrl": "https://p2.music.126.net/66YXrlwVBrWUkY9UhaZ0DA==/109951168185052734.jpg",
+        "pic_str": "109951168185052734",
+        "pic": 109951168185052740
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14594624,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 180408,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7219244,
+        "vd": -50332,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 843139,
+        "fid": 0,
+        "size": 19013716,
+        "vd": -50329,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2887724,
+        "vd": -46087,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4331564,
+        "vd": -47725,
+        "sr": 44100
+      },
+      "mark": 17180925952,
+      "name": "摩天轮",
+      "id": 2010032281,
+      "privilege": {
+        "id": 2010032281,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 171327006,
+        "name": "Summer Day",
+        "picUrl": "https://p2.music.126.net/H0XxFlnHM9XMxm8AT42vNg==/109951168811599110.jpg",
+        "pic_str": "109951168811599110",
+        "pic": 109951168811599100
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 177942,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7119978,
+        "vd": -42160,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 816208,
+        "fid": 0,
+        "size": 18154726,
+        "vd": -42182,
+        "sr": 44100
+      },
+      "hr": {
+        "br": 2514788,
+        "fid": 0,
+        "size": 55935826,
+        "vd": -42151,
+        "sr": 88200
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2848017,
+        "vd": -37892,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4272004,
+        "vd": -39562,
+        "sr": 44100
+      },
+      "mark": 17716740160,
+      "name": "Summer Day",
+      "id": 2070313881,
+      "privilege": {
+        "id": 2070313881,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 2,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 36703053,
+          "name": "ZIKK",
+          "alia": [
+            "zyz"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 186754419,
+        "name": "花乡蝶",
+        "picUrl": "https://p2.music.126.net/ycXQwd9GQPvkbeIHCiJQ0A==/109951169357671450.jpg",
+        "pic_str": "109951169357671450",
+        "pic": 109951169357671460
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 163395,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6537970,
+        "vd": -49631,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 896713,
+        "fid": 0,
+        "size": 18314860,
+        "vd": -49679,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2615214,
+        "vd": -45444,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3922800,
+        "vd": -47054,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "花乡蝶",
+      "id": 2128885054,
+      "privilege": {
+        "id": 2128885054,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 30704161,
+          "name": "mac ova seas"
+        }
+      ],
+      "al": {
+        "id": 39389511,
+        "name": "Retro Vol.1",
+        "picUrl": "https://p2.music.126.net/BI5eRBNrC8AF8Qd5caK4zw==/109951163322721035.jpg",
+        "pic_str": "109951163322721035",
+        "pic": 109951163322721040
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 34,
+      "dt": 203889,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8158607,
+        "vd": -36492,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 996108,
+        "fid": 0,
+        "size": 25387005,
+        "vd": -36470,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3263469,
+        "vd": -32381,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4895182,
+        "vd": -33963,
+        "sr": 44100
+      },
+      "mark": 17180139584,
+      "name": "Deserve",
+      "id": 569675522,
+      "privilege": {
+        "id": 569675522,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 12467024,
+          "name": "Flavordash"
+        }
+      ],
+      "al": {
+        "id": 138530142,
+        "name": "Sad",
+        "picUrl": "https://p1.music.126.net/wdSsWCxyr9n_Ua8Z4SEyxg==/109951166905106356.jpg",
+        "pic_str": "109951166905106356",
+        "pic": 109951166905106350
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 190357,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7616685,
+        "vd": 3890,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 737419,
+        "fid": 0,
+        "size": 17546615,
+        "vd": 3892,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3046701,
+        "vd": 8225,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4570029,
+        "vd": 6505,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "Sad",
+      "id": 1910068249,
+      "privilege": {
+        "id": 1910068249,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 12870490,
+          "name": "Toryondacloud"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p2.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 160282,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6413627,
+        "vd": -8877,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1409009,
+        "fid": 0,
+        "size": 28229878,
+        "vd": -8880,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2565477,
+        "vd": -4533,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3848194,
+        "vd": -6253,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "AFBK",
+      "id": 1896063212,
+      "privilege": {
+        "id": 1896063212,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 159622248,
+        "name": "雪季日记（Snow Season）",
+        "picUrl": "https://p2.music.126.net/ftuopqWumWi3-LiCiBh9yQ==/109951168292939168.jpg",
+        "pic_str": "109951168292939168",
+        "pic": 109951168292939170
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 14624603,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 147511,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5902672,
+        "vd": -39713,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 776055,
+        "fid": 0,
+        "size": 14309677,
+        "vd": -39717,
+        "sr": 44100
+      },
+      "hr": {
+        "br": 2454417,
+        "fid": 0,
+        "size": 45256975,
+        "vd": -39686,
+        "sr": 88200
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2361095,
+        "vd": -35425,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3541621,
+        "vd": -37114,
+        "sr": 44100
+      },
+      "mark": 17716748352,
+      "name": "Taxi Love（出租车一样的爱）",
+      "id": 2020650133,
+      "privilege": {
+        "id": 2020650133,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 92836983,
+        "name": "Ruins",
+        "picUrl": "https://p2.music.126.net/GUmvqLv5xyZDrxjQEhE6TQ==/109951165179140805.jpg",
+        "pic_str": "109951165179140805",
+        "pic": 109951165179140800
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 176923,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7079085,
+        "vd": -46857,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1670669,
+        "fid": 0,
+        "size": 36947490,
+        "vd": -46846,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2831661,
+        "vd": -42803,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4247469,
+        "vd": -44296,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "廢墟",
+      "id": 1466402060,
+      "privilege": {
+        "id": 1466402060,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 46847010,
+          "name": "4everVVS"
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p1.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 163999,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6563048,
+        "vd": -5244,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1380747,
+        "fid": 0,
+        "size": 28305313,
+        "vd": -5245,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2625245,
+        "vd": -879,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3937846,
+        "vd": -2613,
+        "sr": 44100
+      },
+      "mark": 17180139584,
+      "name": "Why Pt2",
+      "id": 1896066621,
+      "privilege": {
+        "id": 1896066621,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 92836983,
+        "name": "Ruins",
+        "picUrl": "https://p1.music.126.net/GUmvqLv5xyZDrxjQEhE6TQ==/109951165179140805.jpg",
+        "pic_str": "109951165179140805",
+        "pic": 109951165179140800
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 154766,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6193005,
+        "vd": -59308,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1706498,
+        "fid": 0,
+        "size": 33013564,
+        "vd": -59300,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2477229,
+        "vd": -55202,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3715821,
+        "vd": -56725,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "劉少爺",
+      "id": 1466425068,
+      "privilege": {
+        "id": 1466425068,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49406467,
+          "name": "Lil Asian",
+          "alia": [
+            "里尔爱夏",
+            "小亚洲"
+          ]
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 138527836,
+        "name": "Who By My Side",
+        "picUrl": "https://p2.music.126.net/V2DtXyDYNMhGm_4DhbHYpA==/109951166904088523.jpg",
+        "pic_str": "109951166904088523",
+        "pic": 109951166904088530
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 18,
+      "dt": 147754,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5912685,
+        "vd": -33358,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1603065,
+        "fid": 0,
+        "size": 29607573,
+        "vd": -33349,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2365101,
+        "vd": -29345,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3547629,
+        "vd": -30801,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "Who By My Side",
+      "id": 1909993663,
+      "privilege": {
+        "id": 1909993663,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 271076144,
+        "name": "Save me",
+        "picUrl": "https://p1.music.126.net/TJG10ki9KOXy9GszOe-_Pg==/109951170952600761.jpg",
+        "pic_str": "109951170952600761",
+        "pic": 109951170952600770
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 163012,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6523245,
+        "vd": -43971,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 824909,
+        "fid": 0,
+        "size": 16811852,
+        "vd": -43971,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1594349,
+        "fid": 0,
+        "size": 32490381,
+        "vd": -43971,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2609325,
+        "vd": -39815,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3913965,
+        "vd": -41376,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Save me",
+      "id": 2701979853,
+      "privilege": {
+        "id": 2701979853,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 37549415,
+          "name": "Uno",
+          "tns": [
+            "우노"
+          ]
+        }
+      ],
+      "al": {
+        "id": 136293754,
+        "name": "L.M.A",
+        "picUrl": "https://p2.music.126.net/VdCAQcm9LkVypVyFbMjY6w==/109951166634844942.jpg",
+        "pic_str": "109951166634844942",
+        "pic": 109951166634844940
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 222648,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8908844,
+        "vd": 971,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1398956,
+        "fid": 0,
+        "size": 38934385,
+        "vd": 971,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3563564,
+        "vd": 5347,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5345324,
+        "vd": 3602,
+        "sr": 44100
+      },
+      "mark": 17180139584,
+      "name": "Waiting for u",
+      "id": 1896063813,
+      "privilege": {
+        "id": 1896063813,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34326822,
+          "name": "Tlatre特雷西"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 151901213,
+        "name": "为爱癫狂 2 Rag3 4 Luv",
+        "picUrl": "https://p2.music.126.net/DiR4y7ERB2jarHr595ulHA==/109951167901426841.jpg",
+        "pic_str": "109951167901426841",
+        "pic": 109951167901426850
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 14,
+      "fee": 8,
+      "mv": 14611047,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 206317,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8255085,
+        "vd": -32595,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 780369,
+        "fid": 0,
+        "size": 20125451,
+        "vd": -32595,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1544070,
+        "fid": 0,
+        "size": 39821029,
+        "vd": -32595,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3302061,
+        "vd": -28269,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4953069,
+        "vd": -29973,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "为爱癫狂 2 Rag3 4 Luv（Ft.Kenrobb）",
+      "id": 1983803841,
+      "privilege": {
+        "id": 1983803841,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 33990144,
+          "name": "amazi"
+        },
+        {
+          "id": 48045511,
+          "name": "APMOZART",
+          "alia": [
+            "Mr.Finest"
+          ]
+        }
+      ],
+      "al": {
+        "id": 171327006,
+        "name": "Summer Day",
+        "picUrl": "https://p1.music.126.net/H0XxFlnHM9XMxm8AT42vNg==/109951168811599110.jpg",
+        "pic_str": "109951168811599110",
+        "pic": 109951168811599100
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 0,
+      "mv": 14651659,
+      "cd": "01",
+      "t": 0,
+      "v": 20,
+      "dt": 175199,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7009965,
+        "vd": -50897,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 878613,
+        "fid": 0,
+        "size": 19241642,
+        "vd": -50895,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1645781,
+        "fid": 0,
+        "size": 36042602,
+        "vd": -51104,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2804013,
+        "vd": -46666,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4205997,
+        "vd": -48303,
+        "sr": 48000
+      },
+      "mark": 17716740096,
+      "name": "Summer Day Pt.2",
+      "id": 2070261069,
+      "privilege": {
+        "id": 2070261069,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 33097968,
+          "name": "LSGCsikoriot",
+          "alia": [
+            "四口"
+          ]
+        }
+      ],
+      "al": {
+        "id": 130827293,
+        "name": "Doctor",
+        "picUrl": "https://p2.music.126.net/4iKanN3kRAI1wLrV6MFJsg==/109951166210144337.jpg",
+        "pic_str": "109951166210144337",
+        "pic": 109951166210144340
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 18,
+      "dt": 148000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 5922525,
+        "vd": -51345,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1526163,
+        "fid": 0,
+        "size": 28234028,
+        "vd": -51343,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2369036,
+        "vd": -47166,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3553533,
+        "vd": -48747,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "Sober",
+      "id": 1863723642,
+      "privilege": {
+        "id": 1863723642,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 126488660,
+        "name": "44",
+        "picUrl": "https://p2.music.126.net/CGi71X74YcHns6z_xEiTBg==/109951165920178018.jpg",
+        "pic_str": "109951165920178018",
+        "pic": 109951165920178020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14283930,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 162471,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6501399,
+        "vd": -39733,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 1555727,
+        "fid": 0,
+        "size": 31595115,
+        "vd": -39729,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2600586,
+        "vd": -35477,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3900857,
+        "vd": -37153,
+        "sr": 44100
+      },
+      "mark": 17179877440,
+      "name": "44（Prod.Bvlloon&Miller）",
+      "id": 1839893750,
+      "privilege": {
+        "id": 1839893750,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12870490,
+          "name": "Toryondacloud"
+        },
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 46356652,
+          "name": "TivAaa"
+        }
+      ],
+      "al": {
+        "id": 150242561,
+        "name": "Toryondacloud Vol.2:Top Asian",
+        "picUrl": "https://p2.music.126.net/-WOWHWVsxCVGE7jk29Wj4A==/109951170629591706.jpg",
+        "pic_str": "109951170629591706",
+        "pic": 109951170629591710
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 12,
+      "dt": 253269,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 10132845,
+        "vd": -59141,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 870778,
+        "fid": 0,
+        "size": 27572316,
+        "vd": -59139,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 4053165,
+        "vd": -54983,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 6079725,
+        "vd": -56547,
+        "sr": 48000
+      },
+      "mark": 17179877376,
+      "name": "老家传奇",
+      "id": 1974976094,
+      "privilege": {
+        "id": 1974976094,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 84026594,
+        "name": "no luv",
+        "picUrl": "https://p1.music.126.net/JINfQ_A7ZKAVNSQlkgEtNQ==/109951164548926148.jpg",
+        "pic_str": "109951164548926148",
+        "pic": 109951164548926140
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 14,
+      "dt": 169311,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6774765,
+        "vd": -74350,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 3072000,
+        "fid": 0,
+        "size": 36097952,
+        "vd": -74348,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2709933,
+        "vd": -70183,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4064877,
+        "vd": -71761,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "my bad (prod. aquinaswc)",
+      "id": 1409581350,
+      "privilege": {
+        "id": 1409581350,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 12467024,
+          "name": "Flavordash"
+        }
+      ],
+      "al": {
+        "id": 124268015,
+        "name": "Titanic",
+        "picUrl": "https://p1.music.126.net/iKf1ihwtwTy3yS-hKRyIzQ==/109951165806046359.jpg",
+        "pic_str": "109951165806046359",
+        "pic": 109951165806046350
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 150081,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6005805,
+        "vd": -6687,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1596809,
+        "fid": 0,
+        "size": 29956489,
+        "vd": -6670,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2402349,
+        "vd": -2712,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3603501,
+        "vd": -4171,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "Titanic（Prod.shinelikevvs）",
+      "id": 1829728160,
+      "privilege": {
+        "id": 1829728160,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 50722529,
+          "name": "SC4F",
+          "tns": [
+            "스카프"
+          ]
+        }
+      ],
+      "al": {
+        "id": 139924057,
+        "name": "海鸥",
+        "picUrl": "https://p1.music.126.net/84TZQeqIGT1-4UmwcIn_8Q==/109951167014375548.jpg",
+        "pic_str": "109951167014375548",
+        "pic": 109951167014375550
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 17,
+      "dt": 140199,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5610285,
+        "vd": -21869,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 994229,
+        "fid": 0,
+        "size": 17423869,
+        "vd": -21865,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2244141,
+        "vd": -17551,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3366189,
+        "vd": -19247,
+        "sr": 48000
+      },
+      "mark": 17180139584,
+      "name": "海鸥",
+      "id": 1917607248,
+      "privilege": {
+        "id": 1917607248,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        }
+      ],
+      "al": {
+        "id": 242072266,
+        "name": "Loser",
+        "picUrl": "https://p1.music.126.net/r4HTaahlzJgaUByHJAT-Yw==/109951169778875175.jpg",
+        "pic_str": "109951169778875175",
+        "pic": 109951169778875170
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 154572,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6185325,
+        "vd": -47572,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 918234,
+        "fid": 0,
+        "size": 17741681,
+        "vd": -47564,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 2775748,
+        "fid": 0,
+        "size": 53631677,
+        "vd": -47570,
+        "sr": 96000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2474157,
+        "vd": -43400,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3711213,
+        "vd": -44996,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Loser",
+      "id": 2607732694,
+      "privilege": {
+        "id": 2607732694,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12529780,
+          "name": "KenRobb"
+        },
+        {
+          "id": 32462969,
+          "name": "尤利艾尔"
+        }
+      ],
+      "al": {
+        "id": 97017852,
+        "name": "我的街道&小娃兒",
+        "picUrl": "https://p1.music.126.net/fuF6R8kSyOinkiN9HaGNmg==/109951165402275543.jpg",
+        "pic_str": "109951165402275543",
+        "pic": 109951165402275540
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 159251,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6372525,
+        "vd": -22368,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1483009,
+        "fid": 0,
+        "size": 29521395,
+        "vd": -22369,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2549037,
+        "vd": -18053,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3823533,
+        "vd": -19779,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "小娃兒（Prod.DuHu）",
+      "id": 1488457003,
+      "privilege": {
+        "id": 1488457003,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "more": true,
+  "code": 200
+}

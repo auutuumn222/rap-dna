@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 28869014,
+  "reportedTracks": 118,
+  "returnedTracks": 118,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 18,
+      "more": false
+    }
+  ],
+  "listedReleases": 15,
+  "associatedReleases": 67,
+  "explicitCredits": 2911,
+  "albumDetails": 710,
+  "appleCnReleases": 6,
+  "appleUsReleases": 6,
+  "appleSongRecords": 26,
+  "failures": []
+}

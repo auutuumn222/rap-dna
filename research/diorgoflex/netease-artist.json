@@ -1,0 +1,7836 @@
+{
+  "artist": {
+    "img1v1Id": 109951168975273810,
+    "topicPerson": 0,
+    "briefDesc": "PoorStreetBoys\n超哥\n商业联系：15228730659",
+    "musicSize": 118,
+    "albumSize": 15,
+    "picId": 109951165488991490,
+    "picUrl": "https://p1.music.126.net/ti037oWDEMtbR9hpw_wxcw==/109951165488991480.jpg",
+    "img1v1Url": "https://p1.music.126.net/ZpzlvD9ffMjH1s5m6T5T-w==/109951168975273804.jpg",
+    "followed": false,
+    "trans": "",
+    "alias": [],
+    "name": "DiorGoFlex",
+    "id": 28869014,
+    "publishTime": 1537838661903,
+    "accountId": 1552584833,
+    "picId_str": "109951165488991480",
+    "img1v1Id_str": "109951168975273804",
+    "mvSize": 4
+  },
+  "hotSongs": [
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 32712412,
+          "name": "斑比Bambii"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p1.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 150912,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6038445,
+        "vd": -33473,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 816862,
+        "fid": 0,
+        "size": 15412088,
+        "vd": -33470,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1584053,
+        "fid": 0,
+        "size": 29884383,
+        "vd": -33470,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2415405,
+        "vd": -29238,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3623085,
+        "vd": -30865,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "谎言（Luv like zombie）",
+      "id": 2709071098,
+      "privilege": {
+        "id": 2709071098,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 33135764,
+          "name": "SOSA"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 245135339,
+        "name": "All eyes on me",
+        "picUrl": "https://p2.music.126.net/unObqXLWdvzB0tj80efxLA==/109951169872503670.jpg",
+        "tns": [
+          "万众瞩目"
+        ],
+        "pic_str": "109951169872503670",
+        "pic": 109951169872503660
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 168432,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6740205,
+        "vd": -38952,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 701600,
+        "fid": 0,
+        "size": 14771521,
+        "vd": -38946,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1463639,
+        "fid": 0,
+        "size": 30815507,
+        "vd": -38957,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2696109,
+        "vd": -34525,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4044141,
+        "vd": -36337,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "All eyes on me",
+      "id": 2617609277,
+      "tns": [
+        "万众瞩目"
+      ],
+      "privilege": {
+        "id": 2617609277,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 33097968,
+          "name": "LSGCsikoriot",
+          "alia": [
+            "四口"
+          ]
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 150769,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6033645,
+        "vd": -59446,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 826266,
+        "fid": 0,
+        "size": 15574749,
+        "vd": -59441,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1588089,
+        "fid": 0,
+        "size": 29932181,
+        "vd": -59441,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2413485,
+        "vd": -55230,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3620205,
+        "vd": -56847,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "瘦马",
+      "id": 2709072260,
+      "privilege": {
+        "id": 2709072260,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 113305,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 4535085,
+        "vd": -53661,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1025356,
+        "fid": 0,
+        "size": 14524458,
+        "vd": -53652,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1794736,
+        "fid": 0,
+        "size": 25421331,
+        "vd": -53652,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 1814061,
+        "vd": -50171,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 2721069,
+        "vd": -51275,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "绵阳省巴黎市",
+      "id": 2709070739,
+      "privilege": {
+        "id": 2709070739,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 31009591,
+          "name": "肆",
+          "alia": [
+            "赵辉翔"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 29589197,
+          "name": "Alexxx"
+        }
+      ],
+      "al": {
+        "id": 243580681,
+        "name": "粤爱粤痛",
+        "picUrl": "https://p2.music.126.net/74exy4zU7XOVxbTLuHkBZA==/109951169829971619.jpg",
+        "pic_str": "109951169829971619",
+        "pic": 109951169829971620
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 166961,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6680685,
+        "vd": -41507,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 988083,
+        "fid": 0,
+        "size": 20621432,
+        "vd": -41501,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1756691,
+        "fid": 0,
+        "size": 36662381,
+        "vd": -41485,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2672301,
+        "vd": -37417,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4008429,
+        "vd": -38953,
+        "sr": 48000
+      },
+      "mark": 17716740096,
+      "name": "粤爱粤痛",
+      "id": 2612741956,
+      "privilege": {
+        "id": 2612741956,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 256,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 33435403,
+          "name": "华云龙KLE"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 272444963,
+        "name": "龙年",
+        "picUrl": "https://p2.music.126.net/eSoVpvVnsS6TCvDUWZWptQ==/109951171005786628.jpg",
+        "pic_str": "109951171005786628",
+        "pic": 109951171005786620
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 193077,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7725165,
+        "vd": -23768,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 780403,
+        "fid": 0,
+        "size": 18838377,
+        "vd": -23763,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1545659,
+        "fid": 0,
+        "size": 37307623,
+        "vd": -23763,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3090093,
+        "vd": -19604,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4635117,
+        "vd": -21169,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "常胜将军",
+      "id": 2706742977,
+      "privilege": {
+        "id": 2706742977,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 162888,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6517485,
+        "vd": -48993,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 829648,
+        "fid": 0,
+        "size": 16895493,
+        "vd": -48991,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1597334,
+        "fid": 0,
+        "size": 32526338,
+        "vd": -48991,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2607021,
+        "vd": -44730,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3910509,
+        "vd": -46378,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "未泯",
+      "id": 2709072832,
+      "privilege": {
+        "id": 2709072832,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 53100043,
+          "name": "艾洛樱Aluvin"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 349476766,
+        "name": "旧路新门",
+        "picUrl": "https://p2.music.126.net/pmQHrxbUrLdXnekGoMQz4w==/109951172244742918.jpg",
+        "pic_str": "109951172244742918",
+        "pic": 109951172244742910
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 202181,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 100,
+      "rt": "",
+      "mst": 9,
+      "cp": 7003,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8089644,
+        "vd": -41101,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 795773,
+        "fid": 0,
+        "size": 20115106,
+        "vd": -41097,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3235884,
+        "vd": -37157,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4853804,
+        "vd": -38533,
+        "sr": 44100
+      },
+      "mark": 17179869184,
+      "name": "暗巷",
+      "id": 3315212397,
+      "privilege": {
+        "id": 3315212397,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 0,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 12195296,
+          "name": "YOUNG13DBABY"
+        }
+      ],
+      "al": {
+        "id": 168512330,
+        "name": "白坦白",
+        "picUrl": "https://p2.music.126.net/g7JY957lbnGa4VpbnhcPHA==/109951168704180131.jpg",
+        "pic_str": "109951168704180131",
+        "pic": 109951168704180130
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 203616,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8147565,
+        "vd": -46485,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 842259,
+        "fid": 0,
+        "size": 21437197,
+        "vd": -47059,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1609356,
+        "fid": 0,
+        "size": 40961374,
+        "vd": -46567,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3259053,
+        "vd": -42131,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4888557,
+        "vd": -43855,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "白坦白",
+      "id": 2059532264,
+      "privilege": {
+        "id": 2059532264,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 147121701,
+        "name": "PoorStreetBoy's Drilling",
+        "picUrl": "https://p2.music.126.net/5VZawGqtO6j5Bjdlp-arpQ==/109951167592256778.jpg",
+        "pic_str": "109951167592256778",
+        "pic": 109951167592256780
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 14542405,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 142226,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 95,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5691885,
+        "vd": -57601,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 888115,
+        "fid": 0,
+        "size": 15789227,
+        "vd": -57598,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1657163,
+        "fid": 0,
+        "size": 29461642,
+        "vd": -57598,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2276781,
+        "vd": -53344,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3415149,
+        "vd": -54981,
+        "sr": 48000
+      },
+      "mark": 536879168,
+      "name": "后座女孩",
+      "id": 1959179673,
+      "privilege": {
+        "id": 1959179673,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 177463,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7101165,
+        "vd": -55215,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1018118,
+        "fid": 0,
+        "size": 22584835,
+        "vd": -54910,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1786462,
+        "fid": 0,
+        "size": 39628924,
+        "vd": -55226,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2840493,
+        "vd": -51591,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4260717,
+        "vd": -52805,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "门铃",
+      "id": 2021404514,
+      "privilege": {
+        "id": 2021404514,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 220229,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8811885,
+        "vd": -47285,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 775615,
+        "fid": 0,
+        "size": 21355738,
+        "vd": -47286,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1539840,
+        "fid": 0,
+        "size": 42393863,
+        "vd": -47286,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3524781,
+        "vd": -43194,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5287149,
+        "vd": -44691,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "念想",
+      "id": 2709074785,
+      "privilege": {
+        "id": 2709074785,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 31009591,
+          "name": "肆",
+          "alia": [
+            "赵辉翔"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 166017949,
+        "name": "“雨”",
+        "picUrl": "https://p2.music.126.net/NNKfzSuAN2FqO6KOyWYwcQ==/109951168624526923.jpg",
+        "pic_str": "109951168624526923",
+        "pic": 109951168624526930
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 212450,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8500845,
+        "vd": -20118,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 879484,
+        "fid": 0,
+        "size": 23355908,
+        "vd": -20340,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1647455,
+        "fid": 0,
+        "size": 43750429,
+        "vd": -20120,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3400365,
+        "vd": -15794,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5100525,
+        "vd": -17510,
+        "sr": 48000
+      },
+      "mark": 536871104,
+      "name": "“雨”feat.DiorGoFlex",
+      "id": 2048884350,
+      "privilege": {
+        "id": 2048884350,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 259,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32078926,
+          "name": "Heavyy",
+          "alia": [
+            "烧鸡",
+            "SHOCKIE"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 379390365,
+        "name": "Heavyy Flow",
+        "picUrl": "https://p2.music.126.net/7NOPwi1WtKt1zBsBS96uvg==/109951173313143384.jpg",
+        "pic_str": "109951173313143384",
+        "pic": 109951173313143400
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 171428,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6859245,
+        "vd": -61481,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 966251,
+        "fid": 0,
+        "size": 20708570,
+        "vd": -61484,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1713578,
+        "fid": 0,
+        "size": 36722721,
+        "vd": -61484,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2743725,
+        "vd": -57229,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4115565,
+        "vd": -58871,
+        "sr": 48000
+      },
+      "mark": 537927680,
+      "name": "暧昧",
+      "id": 3388624645,
+      "privilege": {
+        "id": 3388624645,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 33436148,
+          "name": "Haysen郑景曦",
+          "alia": [
+            "Haysen Cheng "
+          ]
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 242033,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 90,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 9683565,
+        "vd": -53253,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1019015,
+        "fid": 0,
+        "size": 30829548,
+        "vd": -53293,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1789185,
+        "fid": 0,
+        "size": 54130444,
+        "vd": -53282,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3873453,
+        "vd": -49249,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5810157,
+        "vd": -50810,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "街女Ghetto Lady Ft：Haysen郑景曦",
+      "id": 2021403561,
+      "privilege": {
+        "id": 2021403561,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32291733,
+          "name": "Gz"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 151913489,
+        "name": "痛（Feat.DiorGoFlex）",
+        "picUrl": "https://p2.music.126.net/Lbm4mPVsqgMLWSXaBESruw==/109951167894356695.jpg",
+        "pic_str": "109951167894356695",
+        "pic": 109951167894356690
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 9,
+      "dt": 194594,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7786605,
+        "vd": -58526,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 995186,
+        "fid": 0,
+        "size": 24207234,
+        "vd": -58520,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1765102,
+        "fid": 0,
+        "size": 42934914,
+        "vd": -58520,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3114669,
+        "vd": -54331,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4671981,
+        "vd": -55930,
+        "sr": 48000
+      },
+      "mark": 536879168,
+      "name": "痛（Feat.DiorGoFlex）",
+      "id": 1983084053,
+      "privilege": {
+        "id": 1983084053,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 147121701,
+        "name": "PoorStreetBoy's Drilling",
+        "picUrl": "https://p2.music.126.net/5VZawGqtO6j5Bjdlp-arpQ==/109951167592256778.jpg",
+        "pic_str": "109951167592256778",
+        "pic": 109951167592256780
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 205727,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8231085,
+        "vd": -67884,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 910244,
+        "fid": 0,
+        "size": 23407806,
+        "vd": -67881,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1673049,
+        "fid": 0,
+        "size": 43024060,
+        "vd": -67881,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3292461,
+        "vd": -64135,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4938669,
+        "vd": -65393,
+        "sr": 48000
+      },
+      "mark": 17716748352,
+      "name": "Daily Life",
+      "id": 1959179747,
+      "privilege": {
+        "id": 1959179747,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 37466423,
+          "name": "1219"
+        },
+        {
+          "id": 32078926,
+          "name": "Heavyy",
+          "alia": [
+            "烧鸡",
+            "SHOCKIE"
+          ]
+        },
+        {
+          "id": 28185321,
+          "name": "dopeYsoul"
+        },
+        {
+          "id": 31009591,
+          "name": "肆",
+          "alia": [
+            "赵辉翔"
+          ]
+        },
+        {
+          "id": 35244719,
+          "name": "杨寒云9"
+        },
+        {
+          "id": 49800238,
+          "name": "绵阳STAR"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 196320,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 85,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7854765,
+        "vd": -57994,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 950165,
+        "fid": 0,
+        "size": 23320674,
+        "vd": -57979,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1719630,
+        "fid": 0,
+        "size": 42203346,
+        "vd": -57979,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3141933,
+        "vd": -53903,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4712877,
+        "vd": -55455,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "BB都发财",
+      "id": 2709071063,
+      "privilege": {
+        "id": 2709071063,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 33435403,
+          "name": "华云龙KLE"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159211714,
+        "name": "SAVAGE 22",
+        "picUrl": "https://p2.music.126.net/0c54r0FjpBLKNIi1CFPLWA==/109951168277566058.jpg",
+        "pic_str": "109951168277566058",
+        "pic": 109951168277566060
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 177952,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7120365,
+        "vd": -44954,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 966716,
+        "fid": 0,
+        "size": 21503663,
+        "vd": -45187,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1736585,
+        "fid": 0,
+        "size": 38628646,
+        "vd": -44952,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2848173,
+        "vd": -40707,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4272237,
+        "vd": -42357,
+        "sr": 48000
+      },
+      "mark": 536871104,
+      "name": "罗密欧ROMEO",
+      "id": 2019060573,
+      "privilege": {
+        "id": 2019060573,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 259,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 173337,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6936045,
+        "vd": -52524,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 921477,
+        "fid": 0,
+        "size": 19969051,
+        "vd": -52509,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1689394,
+        "fid": 0,
+        "size": 36607681,
+        "vd": -52509,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2774445,
+        "vd": -48483,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4161645,
+        "vd": -50013,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "七星楼",
+      "id": 2709070669,
+      "privilege": {
+        "id": 2709070669,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 273223135,
+        "name": "Dior的人上岸",
+        "picUrl": "https://p2.music.126.net/5NxIXhfCmi-b8VRx3MUz-g==/109951171032960298.jpg",
+        "pic_str": "109951171032960298",
+        "pic": 109951171032960300
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 147428,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5899245,
+        "vd": -48170,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 938145,
+        "fid": 0,
+        "size": 17291422,
+        "vd": -48161,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1707721,
+        "fid": 0,
+        "size": 31473605,
+        "vd": -48161,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2359725,
+        "vd": -44157,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3539565,
+        "vd": -45628,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "钱StPD（Ft. DiorGoFlex ）",
+      "id": 2709074485,
+      "privilege": {
+        "id": 2709074485,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12852768,
+          "name": "Line 2 Studio"
+        },
+        {
+          "id": 31039171,
+          "name": "Xcab"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 35244719,
+          "name": "杨寒云9"
+        }
+      ],
+      "al": {
+        "id": 74898708,
+        "name": "Line 2 Studio Mixtape",
+        "picUrl": "https://p1.music.126.net/Xt_kc8ZBUbzHksKfQ_SCrw==/109951164076150554.jpg",
+        "pic_str": "109951164076150554",
+        "pic": 109951164076150560
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 63,
+      "dt": 195343,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 80,
+      "rt": null,
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7815880,
+        "vd": -17434,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 836789,
+        "fid": 0,
+        "size": 20432686,
+        "vd": -17432,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3126378,
+        "vd": -13320,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4689546,
+        "vd": -14871,
+        "sr": 44100
+      },
+      "mark": 0,
+      "name": "No Love（prod by Lehvi）",
+      "id": 1333899907,
+      "privilege": {
+        "id": 1333899907,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 256,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "lossless",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 33796073,
+          "name": "kill bad feelings"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 359284856,
+        "name": "风雨恋",
+        "picUrl": "https://p2.music.126.net/dfb_lfznYAbJ7UdYVSpA7A==/109951172627151123.jpg",
+        "pic_str": "109951172627151123",
+        "pic": 109951172627151120
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 168031,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6723885,
+        "vd": -52338,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1017036,
+        "fid": 0,
+        "size": 21364906,
+        "vd": -52311,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1787733,
+        "fid": 0,
+        "size": 37552590,
+        "vd": -52311,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2689581,
+        "vd": -48212,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4034349,
+        "vd": -49804,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "K歌之王.vibe",
+      "id": 3341978484,
+      "privilege": {
+        "id": 3341978484,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 147121701,
+        "name": "PoorStreetBoy's Drilling",
+        "picUrl": "https://p2.music.126.net/5VZawGqtO6j5Bjdlp-arpQ==/109951167592256778.jpg",
+        "pic_str": "109951167592256778",
+        "pic": 109951167592256780
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 177538,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7104045,
+        "vd": -43170,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 832292,
+        "fid": 0,
+        "size": 18470472,
+        "vd": -43169,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1595916,
+        "fid": 0,
+        "size": 35417051,
+        "vd": -43169,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2841645,
+        "vd": -39007,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4262445,
+        "vd": -40561,
+        "sr": 48000
+      },
+      "mark": 536879168,
+      "name": "吻/别",
+      "id": 1959179784,
+      "privilege": {
+        "id": 1959179784,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49768929,
+          "name": "blessing kid",
+          "alia": [
+            "娃子"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 49141872,
+          "name": "Top Barry",
+          "alia": [
+            "掰瑞"
+          ]
+        }
+      ],
+      "al": {
+        "id": 169357283,
+        "name": "纪元",
+        "picUrl": "https://p2.music.126.net/231litwm6FaAUFcJ0J3AqQ==/109951168730905098.jpg",
+        "pic_str": "109951168730905098",
+        "pic": 109951168730905100
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 180171,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7209645,
+        "vd": -49069,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 986224,
+        "fid": 0,
+        "size": 22211212,
+        "vd": -48988,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1752847,
+        "fid": 0,
+        "size": 39476657,
+        "vd": -49055,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2883885,
+        "vd": -45179,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4325805,
+        "vd": -46532,
+        "sr": 48000
+      },
+      "mark": 17717796864,
+      "name": "纪元 pt1 ft.top barry&Diorgoflex",
+      "id": 2062939694,
+      "privilege": {
+        "id": 2062939694,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 36456805,
+          "name": "CHILLSENONE",
+          "alia": [
+            "天选之子",
+            "恒儿哥",
+            "抽森万",
+            "汤程竣"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 373225246,
+        "name": "V8",
+        "picUrl": "https://p2.music.126.net/4NbUWGcSUwK_KS2awOjYMA==/109951173132859393.jpg",
+        "pic_str": "109951173132859393",
+        "pic": 109951173132859400
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 154000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6162285,
+        "vd": -39000,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1046683,
+        "fid": 0,
+        "size": 20151516,
+        "vd": -39047,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1814690,
+        "fid": 0,
+        "size": 34935649,
+        "vd": -39047,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2464941,
+        "vd": -34834,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3697389,
+        "vd": -36437,
+        "sr": 48000
+      },
+      "mark": 17717796864,
+      "name": "极速快艇",
+      "id": 3375326057,
+      "privilege": {
+        "id": 3375326057,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14607646,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 170188,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6810285,
+        "vd": -56735,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1088728,
+        "fid": 0,
+        "size": 23161075,
+        "vd": -56755,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1858952,
+        "fid": 0,
+        "size": 39546428,
+        "vd": -56688,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2724141,
+        "vd": -53261,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4086189,
+        "vd": -54335,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Go Flex",
+      "id": 2021403558,
+      "privilege": {
+        "id": 2021403558,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 30962717,
+          "name": "杨继森",
+          "alia": [
+            "7up"
+          ]
+        }
+      ],
+      "al": {
+        "id": 254460465,
+        "name": "兰桂坊Pt.1",
+        "picUrl": "https://p2.music.126.net/TZGO49QPTM9gvW1Ye1Jf3g==/109951170174913182.jpg",
+        "pic_str": "109951170174913182",
+        "pic": 109951170174913180
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 128955,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5161005,
+        "vd": -16881,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 693480,
+        "fid": 0,
+        "size": 11178493,
+        "vd": -16877,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1446888,
+        "fid": 0,
+        "size": 23322975,
+        "vd": -16826,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2064429,
+        "vd": -12521,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3096621,
+        "vd": -14258,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "兰桂坊Pt.1",
+      "id": 2648591950,
+      "privilege": {
+        "id": 2648591950,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 10,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 164582,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 75,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6585645,
+        "vd": -31061,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 868594,
+        "fid": 0,
+        "size": 17869451,
+        "vd": -31054,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1637062,
+        "fid": 0,
+        "size": 33679030,
+        "vd": -31050,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2634285,
+        "vd": -27193,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3951405,
+        "vd": -28524,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Moon碑",
+      "id": 2021403562,
+      "privilege": {
+        "id": 2021403562,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 52118688,
+          "name": "九莲",
+          "alia": [
+            "奉天大拿"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 376265117,
+        "name": "面子",
+        "picUrl": "https://p2.music.126.net/QnwEHiJEk_Rbhd2hQN6jXw==/109951173217649799.jpg",
+        "pic_str": "109951173217649799",
+        "pic": 109951173217649800
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 7,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 144500,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5782125,
+        "vd": -53883,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1016965,
+        "fid": 0,
+        "size": 18371661,
+        "vd": -53855,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1787420,
+        "fid": 0,
+        "size": 32288016,
+        "vd": -53855,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2312877,
+        "vd": -49890,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3469293,
+        "vd": -51319,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "苞米面儿",
+      "id": 3381780210,
+      "privilege": {
+        "id": 3381780210,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 234146,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9368685,
+        "vd": -57213,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 958471,
+        "fid": 0,
+        "size": 28052820,
+        "vd": -57350,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1727208,
+        "fid": 0,
+        "size": 50552431,
+        "vd": -57206,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3747501,
+        "vd": -53207,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5621229,
+        "vd": -54675,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "叶归根",
+      "id": 2021404516,
+      "privilege": {
+        "id": 2021404516,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 49457631,
+          "name": "缪锦泽",
+          "alia": [
+            "缪锦泽"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 375201703,
+        "name": "堰塘角",
+        "picUrl": "https://p2.music.126.net/8wP9ojPPAu3TTnCeU6BXLg==/109951173190563223.jpg",
+        "pic_str": "109951173190563223",
+        "pic": 109951173190563220
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 164745,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6592365,
+        "vd": -69799,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1054890,
+        "fid": 0,
+        "size": 21726639,
+        "vd": -69784,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1824685,
+        "fid": 0,
+        "size": 37579195,
+        "vd": -69784,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2636973,
+        "vd": -65733,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3955437,
+        "vd": -67260,
+        "sr": 48000
+      },
+      "mark": 536871040,
+      "name": "堰塘角",
+      "id": 3379704549,
+      "privilege": {
+        "id": 3379704549,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 31009591,
+          "name": "肆",
+          "alia": [
+            "赵辉翔"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 12852768,
+          "name": "Line 2 Studio"
+        }
+      ],
+      "al": {
+        "id": 142870085,
+        "name": "雪藏我的爱",
+        "picUrl": "https://p2.music.126.net/Oxtleuq4_-EFPNeL7jQWIw==/109951167230092388.jpg",
+        "pic_str": "109951167230092388",
+        "pic": 109951167230092380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 14618284,
+      "cd": "01",
+      "t": 0,
+      "v": 17,
+      "dt": 176000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 70,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7042655,
+        "vd": -45792,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 996797,
+        "fid": 0,
+        "size": 21929553,
+        "vd": -45784,
+        "sr": 48000
+      },
+      "hr": null,
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2817119,
+        "vd": -41429,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4225631,
+        "vd": -43166,
+        "sr": 48000
+      },
+      "mark": 17179877440,
+      "name": "雪藏我的爱 (prod by uvi）",
+      "id": 1934169181,
+      "privilege": {
+        "id": 1934169181,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 30126492,
+          "name": "Andy Yue",
+          "alia": [
+            "岳杨晋宁"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 177588622,
+        "name": "游龙",
+        "picUrl": "https://p2.music.126.net/4OljQWCqlI2qWCIfoomMGA==/109951169007608364.jpg",
+        "pic_str": "109951169007608364",
+        "pic": 109951169007608370
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 168984,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6761578,
+        "vd": -32307,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 851477,
+        "fid": 0,
+        "size": 17985795,
+        "vd": -32470,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2704657,
+        "vd": -27966,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4056964,
+        "vd": -29682,
+        "sr": 44100
+      },
+      "mark": 17179877376,
+      "name": "江湖爱",
+      "id": 2085364190,
+      "privilege": {
+        "id": 2085364190,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 31915435,
+          "name": "Capella Luv",
+          "alia": [
+            "佩拉"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 153570361,
+        "name": "Hate You",
+        "picUrl": "https://p2.music.126.net/WOUFhPqR1UjGQPWyIYIr3w==/109951167985468828.jpg",
+        "pic_str": "109951167985468828",
+        "pic": 109951167985468830
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 13,
+      "dt": 173856,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 65,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6956205,
+        "vd": -42347,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 752193,
+        "fid": 0,
+        "size": 16346663,
+        "vd": -42345,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1513475,
+        "fid": 0,
+        "size": 32890846,
+        "vd": -42345,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2782509,
+        "vd": -37965,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4173741,
+        "vd": -39712,
+        "sr": 48000
+      },
+      "mark": 17716748352,
+      "name": "Hate You",
+      "id": 1991147942,
+      "privilege": {
+        "id": 1991147942,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 50977078,
+          "name": "Wynn"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 5,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 152571,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 60,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6105645,
+        "vd": -40595,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 946758,
+        "fid": 0,
+        "size": 18056033,
+        "vd": -40585,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1714271,
+        "fid": 0,
+        "size": 32693595,
+        "vd": -40585,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2442285,
+        "vd": -36616,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3663405,
+        "vd": -38039,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "瘾来登Ft：Wynn The rapper",
+      "id": 2021404515,
+      "privilege": {
+        "id": 2021404515,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 147121701,
+        "name": "PoorStreetBoy's Drilling",
+        "picUrl": "https://p2.music.126.net/5VZawGqtO6j5Bjdlp-arpQ==/109951167592256778.jpg",
+        "pic_str": "109951167592256778",
+        "pic": 109951167592256780
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 6,
+      "fee": 8,
+      "mv": 14541692,
+      "cd": "01",
+      "t": 0,
+      "v": 19,
+      "dt": 160000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 60,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6402285,
+        "vd": -71299,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1033237,
+        "fid": 0,
+        "size": 20664741,
+        "vd": -71322,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1803412,
+        "fid": 0,
+        "size": 36068246,
+        "vd": -71322,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2560941,
+        "vd": -67168,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3841389,
+        "vd": -68728,
+        "sr": 48000
+      },
+      "mark": 536879168,
+      "name": "拆迁户",
+      "id": 1959757379,
+      "privilege": {
+        "id": 1959757379,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 2,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 183000,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 55,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7321965,
+        "vd": -65415,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1077344,
+        "fid": 0,
+        "size": 24644264,
+        "vd": -65517,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1847911,
+        "fid": 0,
+        "size": 42270965,
+        "vd": -65410,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2928813,
+        "vd": -61476,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4393197,
+        "vd": -62868,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "底层男孩",
+      "id": 2021403559,
+      "privilege": {
+        "id": 2021403559,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 47307499,
+          "name": "卓玛殷措"
+        }
+      ],
+      "al": {
+        "id": 147121701,
+        "name": "PoorStreetBoy's Drilling",
+        "picUrl": "https://p2.music.126.net/5VZawGqtO6j5Bjdlp-arpQ==/109951167592256778.jpg",
+        "pic_str": "109951167592256778",
+        "pic": 109951167592256780
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 11,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 8,
+      "dt": 218124,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 50,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 8727405,
+        "vd": -48431,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 883683,
+        "fid": 0,
+        "size": 24094171,
+        "vd": -48433,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1650875,
+        "fid": 0,
+        "size": 45012139,
+        "vd": -48433,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 3490989,
+        "vd": -44135,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 5236461,
+        "vd": -45801,
+        "sr": 48000
+      },
+      "mark": 17716748352,
+      "name": "蒙娜丽莎（feat.卓玛殷措）",
+      "id": 1959179786,
+      "privilege": {
+        "id": 1959179786,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 9,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 176097,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 50,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 7046445,
+        "vd": -59556,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 952101,
+        "fid": 0,
+        "size": 20957783,
+        "vd": -59562,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1721415,
+        "fid": 0,
+        "size": 37892033,
+        "vd": -59548,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2818605,
+        "vd": -55541,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 4227885,
+        "vd": -56995,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "Drill King",
+      "id": 2021404517,
+      "privilege": {
+        "id": 2021404517,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 31009591,
+          "name": "肆",
+          "alia": [
+            "赵辉翔"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 35244719,
+          "name": "杨寒云9"
+        },
+        {
+          "id": 12133107,
+          "name": "Slime马强",
+          "alia": [
+            "Slime",
+            "马老师"
+          ]
+        }
+      ],
+      "al": {
+        "id": 151013916,
+        "name": "Just 4,4",
+        "picUrl": "https://p2.music.126.net/XThlyaunOVsKtQzN4DMIWg==/109951167847634908.jpg",
+        "pic_str": "109951167847634908",
+        "pic": 109951167847634910
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 8,
+      "fee": 0,
+      "mv": 14596255,
+      "cd": "01",
+      "t": 0,
+      "v": 21,
+      "dt": 164951,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 45,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6600045,
+        "vd": -58727,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 870344,
+        "fid": 0,
+        "size": 17945598,
+        "vd": -58724,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1632135,
+        "fid": 0,
+        "size": 33652913,
+        "vd": -58724,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2640045,
+        "vd": -54577,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3960045,
+        "vd": -56135,
+        "sr": 48000
+      },
+      "mark": 536871104,
+      "name": "德阳王（feat.DiorGoFlexfeat.YangHanYun949.$limMan）",
+      "id": 1978697667,
+      "privilege": {
+        "id": 1978697667,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 3,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 32931336,
+          "name": "KITO"
+        }
+      ],
+      "al": {
+        "id": 159837788,
+        "name": "Go Flex上岸",
+        "picUrl": "https://p2.music.126.net/wvPlgGneuj7FZUVJsEMN9w==/109951168299540013.jpg",
+        "pic_str": "109951168299540013",
+        "pic": 109951168299540020
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 213550,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 45,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8544045,
+        "vd": -49900,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1039191,
+        "fid": 0,
+        "size": 27740000,
+        "vd": -49852,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1809698,
+        "fid": 0,
+        "size": 48307771,
+        "vd": -49836,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3417645,
+        "vd": -46735,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5126445,
+        "vd": -47734,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "高尔夫Ft:KITO",
+      "id": 2021404513,
+      "privilege": {
+        "id": 2021404513,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 12923042,
+          "name": "梁处令Truly"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 166332455,
+        "name": "萨普（feat.DiorGoFlex)",
+        "picUrl": "https://p2.music.126.net/iRU7JfYriSF5EdYU6iTv3g==/109951168637231870.jpg",
+        "pic_str": "109951168637231870",
+        "pic": 109951168637231870
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 171768,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 45,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 6873645,
+        "vd": -23763,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 872422,
+        "fid": 0,
+        "size": 18731788,
+        "vd": -23384,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1642219,
+        "fid": 0,
+        "size": 35260114,
+        "vd": -23763,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2749485,
+        "vd": -19702,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4124205,
+        "vd": -21178,
+        "sr": 48000
+      },
+      "mark": 17716748352,
+      "name": "萨普（feat.DiorGoFlex)",
+      "id": 2050425569,
+      "privilege": {
+        "id": 2050425569,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 262,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 36184309,
+          "name": "林晨桉L-Now"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 374843347,
+        "name": "破碎",
+        "picUrl": "https://p2.music.126.net/djJAinHYOy1blFlG4yTTZQ==/109951173181229899.jpg",
+        "pic_str": "109951173181229899",
+        "pic": 109951173181229900
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 158132,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 40,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320002,
+        "fid": 0,
+        "size": 6327405,
+        "vd": -58339,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 951490,
+        "fid": 0,
+        "size": 18810622,
+        "vd": -58331,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1721520,
+        "fid": 0,
+        "size": 34031451,
+        "vd": -58331,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128002,
+        "fid": 0,
+        "size": 2530989,
+        "vd": -54225,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192002,
+        "fid": 0,
+        "size": 3796461,
+        "vd": -55759,
+        "sr": 48000
+      },
+      "mark": 536871040,
+      "name": "破碎",
+      "id": 3378936437,
+      "privilege": {
+        "id": 3378936437,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 1,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 36338748,
+          "name": "雪娃儿SnowBoy"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 184601572,
+        "name": "九寨男孩",
+        "picUrl": "https://p2.music.126.net/Wn3UB2hLxmu6neKyN7e8og==/109951169297250391.jpg",
+        "pic_str": "109951169297250391",
+        "pic": 109951169297250380
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 4,
+      "dt": 149825,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 40,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5995245,
+        "vd": -41040,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 910993,
+        "fid": 0,
+        "size": 17061204,
+        "vd": -40850,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1680298,
+        "fid": 0,
+        "size": 31468852,
+        "vd": -41031,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2398125,
+        "vd": -36869,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3597165,
+        "vd": -38468,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "拉萨的酒吧",
+      "id": 2122228993,
+      "privilege": {
+        "id": 2122228993,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 34256225,
+          "name": "金昊"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 123343179,
+        "name": "爽惨",
+        "picUrl": "https://p2.music.126.net/zQQcnhjZgWZt57xXjTzwew==/109951165748057542.jpg",
+        "pic_str": "109951165748057542",
+        "pic": 109951165748057540
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 15,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 11,
+      "dt": 175409,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 40,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7018605,
+        "vd": -54409,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 934371,
+        "fid": 0,
+        "size": 20487214,
+        "vd": -54411,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1703208,
+        "fid": 0,
+        "size": 37344898,
+        "vd": -54660,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2807469,
+        "vd": -50413,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4211181,
+        "vd": -51866,
+        "sr": 48000
+      },
+      "mark": 536879168,
+      "name": "拿走我的点 (ft.DiorGoFlex)",
+      "id": 2003023348,
+      "privilege": {
+        "id": 2003023348,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 6,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 55227607,
+          "name": "路铭Dualkiller",
+          "alia": [
+            "双面杀手"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 349644583,
+        "name": "IDYLL",
+        "picUrl": "https://p2.music.126.net/XrpMsBYV_efe7RpMpjWXKw==/109951172250038566.jpg",
+        "pic_str": "109951172250038566",
+        "pic": 109951172250038560
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 4,
+      "fee": 8,
+      "mv": 34703286,
+      "cd": "01",
+      "t": 0,
+      "v": 5,
+      "dt": 188689,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 35,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 7550445,
+        "vd": -49080,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 905375,
+        "fid": 0,
+        "size": 21357845,
+        "vd": -49071,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1673134,
+        "fid": 0,
+        "size": 39466379,
+        "vd": -49071,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3020205,
+        "vd": -45062,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 4530285,
+        "vd": -46519,
+        "sr": 48000
+      },
+      "mark": 17716748288,
+      "name": "没什么说法",
+      "id": 3315627696,
+      "privilege": {
+        "id": 3315627696,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 31009591,
+          "name": "肆",
+          "alia": [
+            "赵辉翔"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        },
+        {
+          "id": 50039963,
+          "name": "非日姜JANGO",
+          "alia": [
+            "WJANGO"
+          ]
+        }
+      ],
+      "al": {
+        "id": 180039998,
+        "name": "4LIME",
+        "picUrl": "https://p2.music.126.net/VcxsvviM0dH02LXzVVBizg==/109951169209229622.jpg",
+        "pic_str": "109951169209229622",
+        "pic": 109951169209229620
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 0,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 7,
+      "dt": 226294,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 35,
+      "rt": "",
+      "mst": 9,
+      "cp": 0,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 9053805,
+        "vd": -31632,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 1112335,
+        "fid": 0,
+        "size": 31464432,
+        "vd": -31931,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1882675,
+        "fid": 0,
+        "size": 53254935,
+        "vd": -31689,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3621549,
+        "vd": -27663,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5432301,
+        "vd": -29217,
+        "sr": 48000
+      },
+      "mark": 536871040,
+      "name": "眉飞色舞feat.DiorGoFlex.非日姜",
+      "id": 2104043515,
+      "privilege": {
+        "id": 2104043515,
+        "fee": 0,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 999000,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 257,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "exhigh",
+        "dlLevel": "hires",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 32743623,
+          "name": "王锐淇Ricky"
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 286355991,
+        "name": "痴情男子汉",
+        "picUrl": "https://p2.music.126.net/NyIKJrv5g2EwvCBBm0GHPQ==/109951172084289245.jpg",
+        "pic_str": "109951172084289245",
+        "pic": 109951172084289250
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 3,
+      "fee": 1,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 6,
+      "dt": 147272,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 30,
+      "rt": "",
+      "mst": 9,
+      "cp": 22036,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 5893485,
+        "vd": -48276,
+        "sr": 48000
+      },
+      "sq": {
+        "br": 953052,
+        "fid": 0,
+        "size": 17547570,
+        "vd": -48272,
+        "sr": 48000
+      },
+      "hr": {
+        "br": 1723213,
+        "fid": 0,
+        "size": 31725532,
+        "vd": -48272,
+        "sr": 48000
+      },
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 2357421,
+        "vd": -43992,
+        "sr": 48000
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 3536109,
+        "vd": -45674,
+        "sr": 48000
+      },
+      "mark": 536879104,
+      "name": "陷阱",
+      "id": 2749817998,
+      "privilege": {
+        "id": 2749817998,
+        "fee": 1,
+        "payed": 0,
+        "st": 0,
+        "pl": 0,
+        "dl": 0,
+        "sp": 0,
+        "cp": 0,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 0,
+        "toast": false,
+        "flag": 4,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "hires",
+        "playMaxBrLevel": "hires",
+        "downloadMaxBrLevel": "hires",
+        "plLevel": "none",
+        "dlLevel": "none",
+        "flLevel": "none",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": true,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          },
+          {
+            "rate": 1999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    },
+    {
+      "rtUrls": [],
+      "ar": [
+        {
+          "id": 46997329,
+          "name": "Raelion",
+          "alia": [
+            "瑞麗昂"
+          ]
+        },
+        {
+          "id": 28869014,
+          "name": "DiorGoFlex"
+        }
+      ],
+      "al": {
+        "id": 196002472,
+        "name": "大声发",
+        "picUrl": "https://p2.music.126.net/Ynb5P62FukaGL9QSfLrVDA==/109951169592503767.jpg",
+        "pic_str": "109951169592503767",
+        "pic": 109951169592503760
+      },
+      "st": 1,
+      "noCopyrightRcmd": null,
+      "artistClassics": null,
+      "songJumpInfo": null,
+      "djId": 0,
+      "no": 1,
+      "fee": 8,
+      "mv": 0,
+      "cd": "01",
+      "t": 0,
+      "v": 3,
+      "dt": 210461,
+      "rtype": 0,
+      "rurl": null,
+      "pst": 0,
+      "alia": [],
+      "pop": 25,
+      "rt": "",
+      "mst": 9,
+      "cp": 1416618,
+      "crbt": null,
+      "cf": "",
+      "h": {
+        "br": 320000,
+        "fid": 0,
+        "size": 8420876,
+        "vd": -47759,
+        "sr": 44100
+      },
+      "sq": {
+        "br": 956475,
+        "fid": 0,
+        "size": 25162671,
+        "vd": -48292,
+        "sr": 44100
+      },
+      "hr": null,
+      "l": {
+        "br": 128000,
+        "fid": 0,
+        "size": 3368377,
+        "vd": -43531,
+        "sr": 44100
+      },
+      "rtUrl": null,
+      "ftype": 0,
+      "a": null,
+      "m": {
+        "br": 192000,
+        "fid": 0,
+        "size": 5052543,
+        "vd": -45166,
+        "sr": 44100
+      },
+      "mark": 1056768,
+      "name": "大声发",
+      "id": 2156265936,
+      "privilege": {
+        "id": 2156265936,
+        "fee": 8,
+        "payed": 0,
+        "st": 0,
+        "pl": 320000,
+        "dl": 0,
+        "sp": 7,
+        "cp": 1,
+        "subp": 1,
+        "cs": false,
+        "maxbr": 999000,
+        "fl": 320000,
+        "toast": false,
+        "flag": 260,
+        "preSell": false,
+        "playMaxbr": 999000,
+        "downloadMaxbr": 999000,
+        "maxBrLevel": "lossless",
+        "playMaxBrLevel": "lossless",
+        "downloadMaxBrLevel": "lossless",
+        "plLevel": "exhigh",
+        "dlLevel": "none",
+        "flLevel": "exhigh",
+        "rscl": null,
+        "freeTrialPrivilege": {
+          "resConsumable": false,
+          "userConsumable": false,
+          "listenType": null,
+          "cannotListenReason": null,
+          "playReason": null,
+          "freeLimitTagType": null
+        },
+        "rightSource": 0,
+        "chargeInfoList": [
+          {
+            "rate": 128000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 192000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 320000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 0
+          },
+          {
+            "rate": 999000,
+            "chargeUrl": null,
+            "chargeMessage": null,
+            "chargeType": 1
+          }
+        ],
+        "code": 0,
+        "message": null,
+        "plLevels": null,
+        "dlLevels": null,
+        "ignoreCache": null,
+        "bd": null
+      }
+    }
+  ],
+  "more": true,
+  "code": 200
+}

@@ -1,0 +1,74 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile,access} from 'node:fs/promises';
+import {connections,filterTracks} from '../dist/model.js';
+import {neteaseSongId} from '../dist/player.js';
+
+const read=async p=>JSON.parse(await readFile(new URL('../'+p,import.meta.url),'utf8'));
+const c=await read('dist/catalog-xiaojingling.json');
+
+test('小精灵 exact identity and exhaustive public pagination',async()=>{
+ const pages=await Promise.all([0,100].map(n=>read(`research/xiaojingling/netease-songs-${n}.json`)));
+ const ids=new Set(pages.flatMap(p=>p.songs.map(t=>'n'+t.id)));
+ assert.equal(ids.size,111);
+ assert.equal(ids.size,pages[0].total);
+ assert.equal(pages.at(-1).more,false);
+ assert.deepEqual(new Set(c.tracks.filter(t=>neteaseSongId(t)).map(t=>t.id)),ids);
+ assert.equal(c.artist.id,'n12287129');
+ assert.equal(c.tracks.length,111);
+ assert.equal(c.coverage.historicallyComplete,false);
+ assert.equal(c.tracks.filter(t=>t.id.startsWith('a')).length,0);
+});
+
+test('小精灵 song references, dates and relationship evidence are explicit',()=>{
+ const people=new Set(c.people.map(p=>p.id)),albums=new Map(c.albums.map(a=>[a.id,a]));
+ assert.equal(new Set(c.tracks.map(t=>t.id)).size,111);
+ for(const t of c.tracks){
+  assert.ok(t.artistIds.includes(c.artist.id));
+  assert.ok(albums.get(t.albumId).trackIds.includes(t.id));
+  if(t.date){
+   assert.ok(t.date>=c.coverage.from&&t.date<=c.checkedAt);
+  }
+  for(const id of t.artistIds)assert.ok(people.has(id));
+  for(const x of t.credits){
+   assert.ok(people.has(x.personId));
+   assert.equal(x.level,'track');
+   assert.equal(x.source,t.source);
+   assert.ok(t.creditLines.includes(x.raw));
+  }
+ }
+ for(const mode of ['artists','credits']){
+  for(const p of connections(c,{mode})){
+   for(const e of p.evidence){
+    const t=c.tracks.find(t=>t.id===e.trackId);
+    assert.ok(mode==='artists'?t.artistIds.includes(p.id):t.credits.some(x=>x.personId===p.id&&x.role===e.role));
+   }
+  }
+ }
+ assert.equal(c.tracks.filter(t=>t.creditLines.length).length,103);
+});
+
+test('four main core projects, partial features and aliases retain their boundaries',()=>{
+ assert.equal(c.albums.filter(a=>a.core).length,4);
+ for(const a of c.albums.filter(a=>a.core&&a.id!=='n153023757')){
+  assert.equal(a.trackIds.length,a.totalTracks,`${a.title} must include its entire listed tracklist`);
+ }
+ const jianjiang=c.albums.find(a=>a.id==='n153023757');
+ assert.equal(jianjiang.totalTracks,11);
+ assert.equal(jianjiang.trackIds.length,6);
+
+ const wokenDay=c.albums.find(a=>a.id==='n81262294');
+ assert.equal(wokenDay.totalTracks,11);
+ assert.equal(wokenDay.trackIds.length,2);
+
+ for(const query of ['小精灵','陈峥宇']){
+  assert.equal(filterTracks(c,{query}).length,111);
+ }
+});
+
+test('all 小精灵 portraits and cover art exist locally',async()=>{
+ for(const a of c.albums){
+  await access(new URL('../dist/'+a.artwork.slice(2),import.meta.url));
+ }
+ await access(new URL('../dist/'+c.artist.portrait.slice(2),import.meta.url));
+});

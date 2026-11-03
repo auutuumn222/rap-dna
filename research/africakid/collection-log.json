@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 37409740,
+  "reportedTracks": 68,
+  "returnedTracks": 68,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 68,
+      "more": false
+    }
+  ],
+  "listedReleases": 4,
+  "associatedReleases": 22,
+  "explicitCredits": 5853,
+  "albumDetails": 1321,
+  "appleCnReleases": 2,
+  "appleUsReleases": 2,
+  "appleSongRecords": 26,
+  "failures": []
+}

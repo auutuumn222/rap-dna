@@ -1,0 +1,32 @@
+{
+  "resultCount": 3,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Africakid",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/africakid/1784655288?uo=4",
+      "artistId": 1784655288,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "ATM Hanson",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/atm-hanson/1580657943?uo=4",
+      "artistId": 1580657943,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "BombWayne",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/bombwayne/1694320918?uo=4",
+      "artistId": 1694320918,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

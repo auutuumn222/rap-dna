@@ -1,0 +1,60 @@
+{
+  "resultCount": 6,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "RichNomadic",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/richnomadic/1637058522?uo=4",
+      "artistId": 1637058522,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "SASIOVERLXRD",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/sasioverlxrd/1614374830?uo=4",
+      "artistId": 1614374830,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "JinJiBeWater_隼",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/jinjibewater-%E9%9A%BC/1625179719?uo=4",
+      "artistId": 1625179719,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Higher Brothers",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/higher-brothers/1149096753?uo=4",
+      "artistId": 1149096753,
+      "amgArtistId": 3446644,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "连麻",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E8%BF%9E%E9%BA%BBswimming/1577300746?uo=4",
+      "artistId": 1577300746,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "江雪左文字(CV:佐藤拓也)",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B1%9F%E9%9B%AA%E5%B7%A6%E6%96%87%E5%AD%97-cv-%E4%BD%90%E8%97%A4%E6%8B%93%E4%B9%9F/1340016909?uo=4",
+      "artistId": 1340016909,
+      "primaryGenreName": "动画",
+      "primaryGenreId": 29
+    }
+  ]
+}

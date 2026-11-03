@@ -1,0 +1,23 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "极品贵公子",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%9E%81%E5%93%81%E8%B4%B5%E5%85%AC%E5%AD%90/1558105101?uo=4",
+      "artistId": 1558105101,
+      "primaryGenreName": "Hip-Hop",
+      "primaryGenreId": 1073
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "KIV",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/kiv/1463828929?uo=4",
+      "artistId": 1463828929,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

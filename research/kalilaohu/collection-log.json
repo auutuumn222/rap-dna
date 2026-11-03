@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 12205952,
+  "reportedTracks": 90,
+  "returnedTracks": 90,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 90,
+      "more": false
+    }
+  ],
+  "listedReleases": 22,
+  "associatedReleases": 50,
+  "explicitCredits": 2983,
+  "albumDetails": 792,
+  "appleCnReleases": 5,
+  "appleUsReleases": 8,
+  "appleSongRecords": 25,
+  "failures": []
+}

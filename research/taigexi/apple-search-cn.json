@@ -1,0 +1,39 @@
+{
+  "resultCount": 4,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "泰格西",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%B0%E6%A0%BC%E8%A5%BF/1645496384?uo=4",
+      "artistId": 1645496384,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "泰格西",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%B0%E6%A0%BC%E8%A5%BF/1819308434?uo=4",
+      "artistId": 1819308434
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Théotime Langlois de Swarte",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E6%B3%B0%E5%A5%A5%E8%92%82-%E6%9C%97%E6%A0%BC%E6%B4%9B%E7%93%A6-%E5%BE%B7-%E6%96%AF%E7%93%A6%E7%89%B9/1440062244?uo=4",
+      "artistId": 1440062244,
+      "primaryGenreName": "古典",
+      "primaryGenreId": 5
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "弹壳Danko",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/%E5%BC%B9%E5%A3%B3danko/1556605586?uo=4",
+      "artistId": 1556605586,
+      "primaryGenreName": "国语流行",
+      "primaryGenreId": 1253
+    }
+  ]
+}

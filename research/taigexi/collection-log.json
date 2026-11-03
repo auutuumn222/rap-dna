@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 52410166,
+  "reportedTracks": 89,
+  "returnedTracks": 89,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 89,
+      "more": false
+    }
+  ],
+  "listedReleases": 25,
+  "associatedReleases": 52,
+  "explicitCredits": 6040,
+  "albumDetails": 1462,
+  "appleCnReleases": 6,
+  "appleUsReleases": 7,
+  "appleSongRecords": 31,
+  "failures": []
+}

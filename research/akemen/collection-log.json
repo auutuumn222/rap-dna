@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-11-02",
+  "artistId": 46549449,
+  "reportedTracks": 165,
+  "returnedTracks": 165,
+  "pages": [
+    {
+      "offset": 0,
+      "count": 100,
+      "more": true
+    },
+    {
+      "offset": 100,
+      "count": 65,
+      "more": false
+    }
+  ],
+  "listedReleases": 65,
+  "associatedReleases": 105,
+  "explicitCredits": 5967,
+  "albumDetails": 1417,
+  "appleCnReleases": 5,
+  "appleUsReleases": 5,
+  "appleSongRecords": 11,
+  "failures": []
+}

@@ -1,0 +1,50 @@
+{
+  "resultCount": 5,
+  "results": [
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Akemen杀",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/akemen%E6%9D%80/1740716076?uo=4",
+      "artistId": 1740716076,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Africakid",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/africakid/1784655288?uo=4",
+      "artistId": 1784655288,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "44 Duzzy",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/akemen%E6%9D%80/1740716050?uo=4",
+      "artistId": 1740716050,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "ATM Hanson",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/atm-hanson/1580657943?uo=4",
+      "artistId": 1580657943,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    },
+    {
+      "wrapperType": "artist",
+      "artistType": "Artist",
+      "artistName": "Taisheng Music",
+      "artistLinkUrl": "https://music.apple.com/cn/artist/taisheng-music/1651578949?uo=4",
+      "artistId": 1651578949,
+      "primaryGenreName": "嘻哈/说唱",
+      "primaryGenreId": 18
+    }
+  ]
+}

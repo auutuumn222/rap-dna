@@ -1,0 +1,4697 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n55315624",
+    "name": "贾真Jahgen",
+    "short": "贾真Jahgen",
+    "aliases": [
+      "贾真Jahgen",
+      "贾真",
+      "Jahgen",
+      "MC Souljah",
+      "Souljah"
+    ],
+    "portrait": "./assets/jahgen-portrait.jpg",
+    "portraitSource": "https://p2.music.126.net/g4X90Ts7RYg0olhYQfC1gw==/109951174214951721.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=55315624"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1803577824"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 61,
+    "neteaseCollected": 61,
+    "neteaseHasMore": false,
+    "listedReleases": 10,
+    "associatedNeteaseReleases": 26,
+    "appleComparedReleases": 4,
+    "appleExtraTracks": 0,
+    "coreAlbums": 3,
+    "from": "2023-03-03",
+    "through": "2026-10-31",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 61 条公开目录记录，涵盖《Motion Music》、《上机人生》、《Jress Kode》等 3 个核心项目及《FLXR》联合项目。合作发行按逐曲署名收录，早期及下架作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n12529648",
+      "name": "KIV",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12529648"
+    },
+    {
+      "id": "n55315624",
+      "name": "贾真Jahgen",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=55315624"
+    },
+    {
+      "id": "n46997329",
+      "name": "Raelion",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46997329"
+    },
+    {
+      "id": "n50973279",
+      "name": "亚当魔星",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50973279"
+    },
+    {
+      "id": "n33796073",
+      "name": "kill bad feelings",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33796073"
+    },
+    {
+      "id": "n99107145",
+      "name": "尚",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=99107145"
+    },
+    {
+      "id": "n30704161",
+      "name": "mac ova seas",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30704161"
+    },
+    {
+      "id": "n50493223",
+      "name": "nxne",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50493223"
+    },
+    {
+      "id": "n12110173",
+      "name": "THOME",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12110173"
+    },
+    {
+      "id": "n62162956",
+      "name": "yz",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=62162956"
+    },
+    {
+      "id": "n32870400",
+      "name": "heechoo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32870400"
+    },
+    {
+      "id": "n37409740",
+      "name": "africakid",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37409740"
+    },
+    {
+      "id": "n32931336",
+      "name": "KITO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32931336"
+    },
+    {
+      "id": "n35139045",
+      "name": "SHURA",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35139045"
+    },
+    {
+      "id": "n53597603",
+      "name": "迪诺哥",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53597603"
+    },
+    {
+      "id": "n14117457",
+      "name": "SASIOVERLXRD",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14117457"
+    },
+    {
+      "id": "n14116746",
+      "name": "黄格雷",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14116746"
+    },
+    {
+      "id": "n52891211",
+      "name": "Alyway",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52891211"
+    },
+    {
+      "id": "n32436403",
+      "name": "Monovisa",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32436403"
+    },
+    {
+      "id": "n13911452",
+      "name": "ATM Hanson",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13911452"
+    },
+    {
+      "id": "n46549449",
+      "name": "Akemen",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46549449"
+    },
+    {
+      "id": "n48436890",
+      "name": "Taisheng Music",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48436890"
+    },
+    {
+      "id": "n48277407",
+      "name": "BOBBYNOPEACE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48277407"
+    },
+    {
+      "id": "n12328955",
+      "name": "Udigg",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12328955"
+    },
+    {
+      "id": "n52253891",
+      "name": "季承泽",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52253891"
+    },
+    {
+      "id": "n51088331",
+      "name": "付思遥",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51088331"
+    },
+    {
+      "id": "n13867193",
+      "name": "P2Y",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13867193"
+    },
+    {
+      "id": "cdGVyY2g",
+      "name": "terch",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWRlX-mZtuWFtOi9qQ",
+      "name": "Ade_陶兴轩",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb2Nk",
+      "name": "Ocd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cMWxvbnpv",
+      "name": "1lonzo",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWxjaGU",
+      "name": "alche",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camltaeWkqei1kA",
+      "name": "JIMI天赐",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHVodQ",
+      "name": "Duhu",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGxhc3l1YW5lcmQ",
+      "name": "PlasyUaNerd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbmFhYWg",
+      "name": "naaah",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdXRha2U",
+      "name": "utake",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ2VhbQ",
+      "name": "GEAM",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZWVi",
+      "name": "EEB",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccmF2M24",
+      "name": "rav3n",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cem9uZSBzb3VuZHogYmVhdHo",
+      "name": "Zone Soundz Beatz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LCt546J5aCC",
+      "name": "谭玉堂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY3NudiBzdHVkaW8",
+      "name": "CSNV STUDIO",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbmV2ZXJraWxsdGhlYXBl",
+      "name": "neverkilltheape",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camFja3dhdnk",
+      "name": "JACKWAVY",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c55i-5rW3aW5vY2Vhbg",
+      "name": "瘾海INOCEAN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5bqf54mp6LaF5biC",
+      "name": "废物超市",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2o6J-S54m5",
+      "name": "杨蟒特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5paH5qOu54m5",
+      "name": "文森特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2lsbHRoaXNzb255",
+      "name": "killthissony",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGluYWs",
+      "name": "Pinak",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWxleHh4",
+      "name": "Alexxx",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camVycnk",
+      "name": "Jerry",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ICZ6IKJ5bCP5a2Q",
+      "name": "耙肉小子",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccm9sbGJvdA",
+      "name": "RollBot",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caGF3aw",
+      "name": "hawk",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdmdvb28",
+      "name": "Vgooo",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5pS_5YW4",
+      "name": "王政典",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXN0cm8",
+      "name": "Astro",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHJhY3k",
+      "name": "Tracy",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ZmI57-A5Y2O",
+      "name": "陈翀华",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caG9vZHdpdGhhbm90aGEx",
+      "name": "HoodwithAnotha1",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW91bmcgZW1waGFzaXM",
+      "name": "young emphasis",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ2hvc3RkYW5ueQ",
+      "name": "GhostDanny",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cOTlsYQ",
+      "name": "99LA",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cemF5c2F2dg",
+      "name": "Zaysavv",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGlsIGNhbA",
+      "name": "Lil Cal",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGV4c3RheXBhaWQ",
+      "name": "DEXSTAYPAID",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdzRkZGxlcw",
+      "name": "W4ddles",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n406112381",
+      "title": "Jress Kode",
+      "date": "2026-10-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "KIV",
+        "贾真Jahgen"
+      ],
+      "label": "INDEcompany",
+      "artwork": "./assets/album-406112381.jpg",
+      "artworkSource": "https://p2.music.126.net/1ImAA6YrmV1mOwUXAOvA4w==/109951174175102049.jpg",
+      "source": "https://music.163.com/album?id=406112381",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3453976884",
+        "n3453976883",
+        "n3453976882",
+        "n3453975014",
+        "n3453975013",
+        "n3453975012",
+        "n3417231865"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n398941403",
+      "title": "呛",
+      "date": "2026-09-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "Raelion"
+      ],
+      "label": null,
+      "artwork": "./assets/album-398941403.jpg",
+      "artworkSource": "https://p2.music.126.net/xF0wGV_zpACrXU88zJA0mw==/109951173956269190.jpg",
+      "source": "https://music.163.com/album?id=398941403",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3437649174"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n378439209",
+      "title": "Rebuild",
+      "date": "2026-05-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "mac ova seas"
+      ],
+      "label": "Believe Artist Service",
+      "artwork": "./assets/album-378439209.jpg",
+      "artworkSource": "https://p2.music.126.net/7OPRoqlntrxzaTw2oXeloA==/109951173283851286.jpg",
+      "source": "https://music.163.com/album?id=378439209",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3386453713"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n366805974",
+      "title": "#S3",
+      "date": "2026-03-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "nxne"
+      ],
+      "label": "种梦音乐",
+      "artwork": "./assets/album-366805974.jpg",
+      "artworkSource": "https://p2.music.126.net/4j-JYKFtBLLC2pnp52PQOQ==/109951172904105556.jpg",
+      "source": "https://music.163.com/album?id=366805974",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3360465422"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n364357655",
+      "title": "SAYLESS MIXTAPE VOL.1",
+      "date": "2026-03-06",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "THOME",
+        "贾真Jahgen"
+      ],
+      "label": "THOME/Believe Artist Service",
+      "artwork": "./assets/album-364357655.jpg",
+      "artworkSource": "https://p2.music.126.net/DuodfjV-V4kxypFcZRKC_g==/109951172829937441.jpg",
+      "source": "https://music.163.com/album?id=364357655",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3355047509"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n360423768",
+      "title": "spend 3 racks",
+      "date": "2026-02-01",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "yz"
+      ],
+      "label": null,
+      "artwork": "./assets/album-360423768.jpg",
+      "artworkSource": "https://p2.music.126.net/cIMSEAi4Qwh_hHjgBEOFFw==/109951172676616927.jpg",
+      "source": "https://music.163.com/album?id=360423768",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3345347731"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n354217637",
+      "title": "Motion Music",
+      "date": "2025-12-12",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": null,
+      "artwork": "./assets/album-354217637.jpg",
+      "artworkSource": "https://p1.music.126.net/U5s0TBN8-dxzd5AcAPFMvA==/109951172414213413.jpg",
+      "source": "https://music.163.com/album?id=354217637",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3327459265",
+        "n3327459242",
+        "n3327459192",
+        "n3327459158",
+        "n3327458994",
+        "n3327458926",
+        "n3327458879",
+        "n3327458275",
+        "n3327458233",
+        "n3327457908",
+        "n3327457879",
+        "n3327457781",
+        "n3327457762",
+        "n3327457468",
+        "n3327457438"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n352017935",
+      "title": "季节2025",
+      "date": "2025-11-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "黄格雷"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-352017935.jpg",
+      "artworkSource": "https://p2.music.126.net/g1dNtU_xWd5nvXBjNpLgKQ==/109951172346576628.jpg",
+      "source": "https://music.163.com/album?id=352017935",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3322064340"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n350445489",
+      "title": "想你的夜",
+      "date": "2025-11-14",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 2,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": "独立发行",
+      "artwork": "./assets/album-350445489.jpg",
+      "artworkSource": "https://p2.music.126.net/dIHl4dsXXiUsrMBqjd6A2A==/109951172284279981.jpg",
+      "source": "https://music.163.com/album?id=350445489",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3318032872",
+        "n3318032677"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n348612212",
+      "title": "Vesigner",
+      "date": "2025-11-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "Monovisa"
+      ],
+      "label": "种梦音乐",
+      "artwork": "./assets/album-348612212.jpg",
+      "artworkSource": "https://p2.music.126.net/zqzsorB8fq8W9E6uhKaoUw==/109951172214188752.jpg",
+      "source": "https://music.163.com/album?id=348612212",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3312589620"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n286591314",
+      "title": "永恒",
+      "date": "2025-09-27",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "尚"
+      ],
+      "label": null,
+      "artwork": "./assets/album-286591314.jpg",
+      "artworkSource": "https://p2.music.126.net/OtwUfXiN4XYBTHw1aCQkvA==/109951172075360250.jpg",
+      "source": "https://music.163.com/album?id=286591314",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2750522581"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n285506659",
+      "title": "GAMEBOI",
+      "date": "2025-09-21",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 25,
+      "artistNames": [
+        "africakid",
+        "ATM Hanson"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-285506659.jpg",
+      "artworkSource": "https://p1.music.126.net/razwufN2bH4Ng0Hrrx3Hfg==/109951172030981268.jpg",
+      "source": "https://music.163.com/album?id=285506659",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2747401480",
+        "n2747401478",
+        "n2747401476"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n284767566",
+      "title": "ART MUSIC(艺术音乐）",
+      "date": "2025-09-15",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "Akemen",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-284767566.jpg",
+      "artworkSource": "https://p1.music.126.net/KYVU01cq9P4UYXMJ7JnTOg==/109951173753564544.jpg",
+      "source": "https://music.163.com/album?id=284767566",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2745443289"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n276667550",
+      "title": "贾总",
+      "date": "2025-06-29",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": null,
+      "artwork": "./assets/album-276667550.jpg",
+      "artworkSource": "https://p1.music.126.net/bz1PkCidyieFhxl1z0Pp8w==/109951171373869488.jpg",
+      "source": "https://music.163.com/album?id=276667550",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2720538811"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n274537222",
+      "title": "Lost City失落城",
+      "date": "2025-06-09",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "BOBBYNOPEACE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-274537222.jpg",
+      "artworkSource": "https://p1.music.126.net/bWPm7fvLuwiNPSDqi-uxqQ==/109951171280488543.jpg",
+      "source": "https://music.163.com/album?id=274537222",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2713395164"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n274245818",
+      "title": "WANTAL",
+      "date": "2025-06-07",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "Udigg",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-274245818.jpg",
+      "artworkSource": "https://p2.music.126.net/nWxg3G3viGAnI45wvM6X0Q==/109951173753562636.jpg",
+      "source": "https://music.163.com/album?id=274245818",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2712265332"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n270801595",
+      "title": "事闹大了",
+      "date": "2025-05-04",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 18,
+      "artistNames": [
+        "迪诺哥"
+      ],
+      "label": "网易·云上×MicBee",
+      "artwork": "./assets/album-270801595.jpg",
+      "artworkSource": "https://p1.music.126.net/mPz94aplVAwjNqqSn13rXA==/109951170938602322.jpg",
+      "source": "https://music.163.com/album?id=270801595",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2701003896"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n269559123",
+      "title": "罪责",
+      "date": "2025-04-20",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "贾真Jahgen",
+        "季承泽"
+      ],
+      "label": null,
+      "artwork": "./assets/album-269559123.jpg",
+      "artworkSource": "https://p2.music.126.net/czNpd8FVYnh9AUFfnvk5ig==/109951170749098803.jpg",
+      "source": "https://music.163.com/album?id=269559123",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2696713112"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n266984528",
+      "title": "FLXR",
+      "date": "2025-03-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "贾真Jahgen",
+        "Alyway"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-266984528.jpg",
+      "artworkSource": "https://p1.music.126.net/XOX3Yip3UVV-rgc0pWVqpg==/109951170647958983.jpg",
+      "source": "https://music.163.com/album?id=266984528",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "联合项目",
+      "trackIds": [
+        "n2688217336",
+        "n2688217335",
+        "n2688217334",
+        "n2688215085",
+        "n2688215084",
+        "n2688215083",
+        "n2688215081"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n261878670",
+      "title": "你的感觉不重要",
+      "date": "2025-02-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "季承泽"
+      ],
+      "label": null,
+      "artwork": "./assets/album-261878670.jpg",
+      "artworkSource": "https://p1.music.126.net/4fKs4P662Z-14RxdGeHd4w==/109951170454823756.jpg",
+      "source": "https://music.163.com/album?id=261878670",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2672244269"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n253212745",
+      "title": "AFRICAKID",
+      "date": "2024-11-08",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "africakid"
+      ],
+      "label": null,
+      "artwork": "./assets/album-253212745.jpg",
+      "artworkSource": "https://p1.music.126.net/jQklrtH6VK5afWRy0pE10g==/109951170130659740.jpg",
+      "source": "https://music.163.com/album?id=253212745",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2644541839"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n188105819",
+      "title": "上机人生",
+      "date": "2024-03-08",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 6,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": null,
+      "artwork": "./assets/album-188105819.jpg",
+      "artworkSource": "https://p2.music.126.net/Dy6qJE6nltF2NKClhq-Xmg==/109951169392973777.jpg",
+      "source": "https://music.163.com/album?id=188105819",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2133337452",
+        "n2133331157",
+        "n2133329254",
+        "n2133327009",
+        "n2133320792",
+        "n2133320256"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n178526155",
+      "title": "Krocodile",
+      "date": "2023-11-19",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "KITO"
+      ],
+      "label": "网易 云上",
+      "artwork": "./assets/album-178526155.jpg",
+      "artworkSource": "https://p2.music.126.net/gvzEBuzUOArI26iDWNOCaA==/109951169063966962.jpg",
+      "source": "https://music.163.com/album?id=178526155",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2097533028"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n166332352",
+      "title": "Go get it",
+      "date": "2023-05-25",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 2,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": null,
+      "artwork": "./assets/album-166332352.jpg",
+      "artworkSource": "https://p1.music.126.net/UoNyWCw8Qu08517tzeMX1Q==/109951169244886213.jpg",
+      "source": "https://music.163.com/album?id=166332352",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2050400505",
+        "n2016965199"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n161798379",
+      "title": "Heart away",
+      "date": "2023-03-16",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "贾真Jahgen",
+        "P2Y"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-161798379.jpg",
+      "artworkSource": "https://p2.music.126.net/1EBu5bmvsUpqlAaeXoI3SQ==/109951169244994904.jpg",
+      "source": "https://music.163.com/album?id=161798379",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2030198397"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n161190066",
+      "title": "为什么不可以",
+      "date": "2023-03-03",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 19,
+      "artistNames": [
+        "迪诺哥"
+      ],
+      "label": null,
+      "artwork": "./assets/album-161190066.jpg",
+      "artworkSource": "https://p2.music.126.net/RAc6JoHwt4GlUaHogPjLeg==/109951168440507259.jpg",
+      "source": "https://music.163.com/album?id=161190066",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2027251360"
+      ],
+      "listedOnArtist": false
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3453976882",
+      "platformId": 3453976882,
+      "title": "禅",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 1,
+      "duration": 143027,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxjaGU",
+          "role": "编曲",
+          "raw": "编曲 : alche",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音 : Ade_陶兴轩",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3453976882",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : alche",
+        "混音 : Ade_陶兴轩",
+        "录音 : KIV/贾真Jahgen",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3453976882",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3453975012",
+      "platformId": 3453975012,
+      "title": "天上",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 2,
+      "duration": 169218,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "cZHVodQ",
+          "role": "编曲",
+          "raw": "编曲 : Duhu",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音 : Ade_陶兴轩",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3453975012",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : Duhu",
+        "混音 : Ade_陶兴轩",
+        "录音 : KIV/贾真Jahgen",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3453975012",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3417231865",
+      "platformId": 3417231865,
+      "title": "黑白",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 3,
+      "duration": 167777,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2VhbQ",
+          "role": "编曲",
+          "raw": "编曲 : GEAM",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音/母带 : ADE_陶兴轩",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "母带",
+          "raw": "混音/母带 : ADE_陶兴轩",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        },
+        {
+          "personId": "cZWVi",
+          "role": "监制",
+          "raw": "监制 : EEB",
+          "source": "https://music.163.com/song?id=3417231865",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : GEAM",
+        "混音/母带 : ADE_陶兴轩",
+        "监制 : EEB"
+      ],
+      "source": "https://music.163.com/song?id=3417231865",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3453975013",
+      "platformId": 3453975013,
+      "title": "双开门",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 4,
+      "duration": 155675,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxjaGU",
+          "role": "编曲",
+          "raw": "编曲 : alche",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音 : Ade_陶兴轩",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3453975013",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : alche",
+        "混音 : Ade_陶兴轩",
+        "录音 : KIV/贾真Jahgen",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3453975013",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3453976883",
+      "platformId": 3453976883,
+      "title": "Ohh Yeahh",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 5,
+      "duration": 147599,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "cMWxvbnpv",
+          "role": "编曲",
+          "raw": "编曲 : 1lonzo",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音 : Ade_陶兴轩",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3453976883",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : 1lonzo",
+        "混音 : Ade_陶兴轩",
+        "录音 : KIV/贾真Jahgen",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3453976883",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3453975014",
+      "platformId": 3453975014,
+      "title": "Me and You",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 6,
+      "duration": 145135,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "camltaeWkqei1kA",
+          "role": "编曲",
+          "raw": "编曲 : JIMI天赐",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音 : Ade_陶兴轩",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3453975014",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : JIMI天赐",
+        "混音 : Ade_陶兴轩",
+        "录音 : KIV/贾真Jahgen",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3453975014",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3453976884",
+      "platformId": 3453976884,
+      "title": "Before the Mic Check",
+      "aliases": [],
+      "albumId": "n406112381",
+      "date": "2026-10-31",
+      "trackNumber": 7,
+      "duration": 159999,
+      "artistIds": [
+        "n12529648",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "cdGVyY2g",
+          "role": "编曲",
+          "raw": "编曲 : terch",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "cYWRlX-mZtuWFtOi9qQ",
+          "role": "混音",
+          "raw": "混音 : Ade_陶兴轩",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "录音",
+          "raw": "录音 : KIV/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3453976884",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KIV/贾真Jahgen",
+        "作曲 : KIV/贾真Jahgen",
+        "编曲 : terch",
+        "混音 : Ade_陶兴轩",
+        "录音 : KIV/贾真Jahgen",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3453976884",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3437649174",
+      "platformId": 3437649174,
+      "title": "文化宫",
+      "aliases": [],
+      "albumId": "n398941403",
+      "date": "2026-09-25",
+      "trackNumber": 5,
+      "duration": 265000,
+      "artistIds": [
+        "n46997329",
+        "n50973279",
+        "n33796073",
+        "n55315624",
+        "n99107145"
+      ],
+      "credits": [
+        {
+          "personId": "ccGxhc3l1YW5lcmQ",
+          "role": "编曲",
+          "raw": "编曲 : PlasyUaNerd/naaah",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "cbmFhYWg",
+          "role": "编曲",
+          "raw": "编曲 : PlasyUaNerd/naaah",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n46997329",
+          "role": "作词",
+          "raw": "作词 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n50973279",
+          "role": "作词",
+          "raw": "作词 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n33796073",
+          "role": "作词",
+          "raw": "作词 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n99107145",
+          "role": "作词",
+          "raw": "作词 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n46997329",
+          "role": "作曲",
+          "raw": "作曲 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n50973279",
+          "role": "作曲",
+          "raw": "作曲 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n33796073",
+          "role": "作曲",
+          "raw": "作曲 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "n99107145",
+          "role": "作曲",
+          "raw": "作曲 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        },
+        {
+          "personId": "cdXRha2U",
+          "role": "混音",
+          "raw": "混音 : utake",
+          "source": "https://music.163.com/song?id=3437649174",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : PlasyUaNerd/naaah",
+        "作词 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+        "作曲 : Raelion/亚当魔星/kill bad feelings/贾真Jahgen/尚",
+        "混音 : utake"
+      ],
+      "source": "https://music.163.com/song?id=3437649174",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3386453713",
+      "platformId": 3386453713,
+      "title": "Win",
+      "aliases": [],
+      "albumId": "n378439209",
+      "date": "2026-05-31",
+      "trackNumber": 5,
+      "duration": 182502,
+      "artistIds": [
+        "n30704161",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n30704161",
+          "role": "作词",
+          "raw": "作词 : mac ova seas/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3386453713",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : mac ova seas/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3386453713",
+          "level": "track"
+        },
+        {
+          "personId": "n30704161",
+          "role": "作曲",
+          "raw": "作曲 : mac ova seas/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3386453713",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : mac ova seas/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3386453713",
+          "level": "track"
+        },
+        {
+          "personId": "ccmF2M24",
+          "role": "制作人",
+          "raw": "PROD : rav3n",
+          "source": "https://music.163.com/song?id=3386453713",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : mac ova seas/贾真Jahgen",
+        "作曲 : mac ova seas/贾真Jahgen",
+        "PROD : rav3n"
+      ],
+      "source": "https://music.163.com/song?id=3386453713",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3360465422",
+      "platformId": 3360465422,
+      "title": "twin",
+      "aliases": [],
+      "albumId": "n366805974",
+      "date": "2026-03-23",
+      "trackNumber": 5,
+      "duration": 118733,
+      "artistIds": [
+        "n50493223",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n50493223",
+          "role": "作词",
+          "raw": "作词 : nxne/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3360465422",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : nxne/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3360465422",
+          "level": "track"
+        },
+        {
+          "personId": "n50493223",
+          "role": "作曲",
+          "raw": "作曲 : nxne/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3360465422",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : nxne/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3360465422",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : nxne/贾真Jahgen",
+        "作曲 : nxne/贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=3360465422",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3355047509",
+      "platformId": 3355047509,
+      "title": "high fashion girl",
+      "aliases": [],
+      "albumId": "n364357655",
+      "date": "2026-03-06",
+      "trackNumber": 1,
+      "duration": 226263,
+      "artistIds": [
+        "n12110173",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/Zone Soundz Beatz",
+          "source": "https://music.163.com/song?id=3355047509",
+          "level": "track"
+        },
+        {
+          "personId": "cem9uZSBzb3VuZHogYmVhdHo",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/Zone Soundz Beatz",
+          "source": "https://music.163.com/song?id=3355047509",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3355047509",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3355047509",
+          "level": "track"
+        },
+        {
+          "personId": "cY3NudiBzdHVkaW8",
+          "role": "录音",
+          "raw": "录音 : CSNV STUDIO",
+          "source": "https://music.163.com/song?id=3355047509",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 付思遥/Zone Soundz Beatz",
+        "混音 : 谭玉堂",
+        "母带 : 谭玉堂",
+        "录音 : CSNV STUDIO"
+      ],
+      "source": "https://music.163.com/song?id=3355047509",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3345347731",
+      "platformId": 3345347731,
+      "title": "spend three racks",
+      "aliases": [],
+      "albumId": "n360423768",
+      "date": "2026-02-01",
+      "trackNumber": 1,
+      "duration": 151028,
+      "artistIds": [
+        "n62162956",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n62162956",
+          "role": "作词",
+          "raw": "作词 : yz/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3345347731",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : yz/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3345347731",
+          "level": "track"
+        },
+        {
+          "personId": "n62162956",
+          "role": "作曲",
+          "raw": "作曲 : yz/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3345347731",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : yz/贾真Jahgen",
+          "source": "https://music.163.com/song?id=3345347731",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : yz/贾真Jahgen",
+        "作曲 : yz/贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=3345347731",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327457438",
+      "platformId": 3327457438,
+      "title": "Intro",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 1,
+      "duration": 157960,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327457438",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327457468",
+      "platformId": 3327457468,
+      "title": "MR CARTIER",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 2,
+      "duration": 157973,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "cbmV2ZXJraWxsdGhlYXBl",
+          "role": "编曲",
+          "raw": "编曲 : neverkilltheape",
+          "source": "https://music.163.com/song?id=3327457468",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : neverkilltheape"
+      ],
+      "source": "https://music.163.com/song?id=3327457468",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327457879",
+      "platformId": 3327457879,
+      "title": "I.G.M.N",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 3,
+      "duration": 185013,
+      "artistIds": [
+        "n55315624",
+        "n35139045",
+        "n53597603"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327457879",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327457908",
+      "platformId": 3327457908,
+      "title": "贾总",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 4,
+      "duration": 105493,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327457908",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327457762",
+      "platformId": 3327457762,
+      "title": "卡地亚",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 5,
+      "duration": 166880,
+      "artistIds": [
+        "n55315624",
+        "n14117457"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327457762",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327457781",
+      "platformId": 3327457781,
+      "title": "MAMA",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 6,
+      "duration": 110880,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327457781",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327458879",
+      "platformId": 3327458879,
+      "title": "老朋友",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 7,
+      "duration": 158026,
+      "artistIds": [
+        "n55315624",
+        "n32931336"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327458879",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327458926",
+      "platformId": 3327458926,
+      "title": "愈合Interlude",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 8,
+      "duration": 122066,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327458926",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327458994",
+      "platformId": 3327458994,
+      "title": "Stay 4 Da Night",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 9,
+      "duration": 167373,
+      "artistIds": [
+        "n55315624",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327458994",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327458233",
+      "platformId": 3327458233,
+      "title": "想你的夜",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 10,
+      "duration": 117946,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327458233",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327458275",
+      "platformId": 3327458275,
+      "title": "伤不起",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 11,
+      "duration": 173160,
+      "artistIds": [
+        "n55315624",
+        "n12529648"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327458275",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327459158",
+      "platformId": 3327459158,
+      "title": "Motion",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 12,
+      "duration": 152186,
+      "artistIds": [
+        "n55315624",
+        "n32870400"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327459158",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327459192",
+      "platformId": 3327459192,
+      "title": "原谅我、",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 13,
+      "duration": 116320,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327459192",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327459242",
+      "platformId": 3327459242,
+      "title": "The Back Of The Bach",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 14,
+      "duration": 161146,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327459242",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327459265",
+      "platformId": 3327459265,
+      "title": "Money Keeps Her",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 15,
+      "duration": 184706,
+      "artistIds": [
+        "n55315624",
+        "n99107145"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327459265",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3322064340",
+      "platformId": 3322064340,
+      "title": "Love Me Now",
+      "aliases": [],
+      "albumId": "n352017935",
+      "date": "2025-11-29",
+      "trackNumber": 7,
+      "duration": 218015,
+      "artistIds": [
+        "n14116746",
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n14116746",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n14116746",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "camFja3dhdnk",
+          "role": "编曲",
+          "raw": "编曲 : JACKWAVY",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c55i-5rW3aW5vY2Vhbg",
+          "role": "录音",
+          "raw": "录音 : 瘾海INOCEAN",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c5bqf54mp6LaF5biC",
+          "role": "混音",
+          "raw": "混音 : 废物超市",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o6J-S54m5",
+          "role": "监制",
+          "raw": "监制 : 杨蟒特/文森特",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c5paH5qOu54m5",
+          "role": "监制",
+          "raw": "监制 : 杨蟒特/文森特",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 黄格雷/贾真Jahgen/Alyway",
+        "作曲 : 黄格雷/贾真Jahgen/Alyway",
+        "编曲 : JACKWAVY",
+        "录音 : 瘾海INOCEAN",
+        "混音 : 废物超市",
+        "母带 : 谭玉堂",
+        "监制 : 杨蟒特/文森特"
+      ],
+      "source": "https://music.163.com/song?id=3322064340",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3318032872",
+      "platformId": 3318032872,
+      "title": "想你的夜",
+      "aliases": [],
+      "albumId": "n350445489",
+      "date": "2025-11-14",
+      "trackNumber": 1,
+      "duration": 117946,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3318032872",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3318032677",
+      "platformId": 3318032677,
+      "title": "想你的夜(和声伴奏)",
+      "aliases": [],
+      "albumId": "n350445489",
+      "date": "2025-11-14",
+      "trackNumber": 2,
+      "duration": 124320,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3318032677",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "instrumental",
+      "status": "platform"
+    },
+    {
+      "id": "n3312589620",
+      "platformId": 3312589620,
+      "title": "Typhoon",
+      "aliases": [],
+      "albumId": "n348612212",
+      "date": "2025-11-01",
+      "trackNumber": 3,
+      "duration": 132885,
+      "artistIds": [
+        "n32436403",
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n32436403",
+          "role": "作词",
+          "raw": "作词 : Monovisa/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Monovisa/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Monovisa/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n32436403",
+          "role": "作曲",
+          "raw": "作曲 : Monovisa",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "ca2lsbHRoaXNzb255",
+          "role": "编曲",
+          "raw": "编曲 : killthissony/Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "ccGluYWs",
+          "role": "编曲",
+          "raw": "编曲 : killthissony/Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxleHh4",
+          "role": "编曲",
+          "raw": "编曲 : killthissony/Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n32436403",
+          "role": "制作人",
+          "raw": "制作人 : Monovisa",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "camVycnk",
+          "role": "混音",
+          "raw": "混音 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "c6ICZ6IKJ5bCP5a2Q",
+          "role": "混音",
+          "raw": "混音 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "camVycnk",
+          "role": "母带",
+          "raw": "母带 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "c6ICZ6IKJ5bCP5a2Q",
+          "role": "母带",
+          "raw": "母带 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Monovisa/贾真Jahgen/Alyway",
+        "作曲 : Monovisa",
+        "编曲 : killthissony/Pinak/Alexxx",
+        "制作人 : Monovisa",
+        "混音 : Jerry/耙肉小子",
+        "母带 : Jerry/耙肉小子"
+      ],
+      "source": "https://music.163.com/song?id=3312589620",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2750522581",
+      "platformId": 2750522581,
+      "title": "永恒",
+      "aliases": [],
+      "albumId": "n286591314",
+      "date": "2025-09-27",
+      "trackNumber": 1,
+      "duration": 170995,
+      "artistIds": [
+        "n99107145",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n99107145",
+          "role": "作词",
+          "raw": "作词 : 尚/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2750522581",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 尚/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2750522581",
+          "level": "track"
+        },
+        {
+          "personId": "n99107145",
+          "role": "作曲",
+          "raw": "作曲 : 尚/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2750522581",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 尚/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2750522581",
+          "level": "track"
+        },
+        {
+          "personId": "ccm9sbGJvdA",
+          "role": "混音",
+          "raw": "混音:RollBot",
+          "source": "https://music.163.com/song?id=2750522581",
+          "level": "track"
+        },
+        {
+          "personId": "ccm9sbGJvdA",
+          "role": "母带",
+          "raw": "母带:Rollbot",
+          "source": "https://music.163.com/song?id=2750522581",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 尚/贾真Jahgen",
+        "作曲 : 尚/贾真Jahgen",
+        "混音:RollBot",
+        "母带:Rollbot"
+      ],
+      "source": "https://music.163.com/song?id=2750522581",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401476",
+      "platformId": 2747401476,
+      "title": "Chrome Heart Laces",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 10,
+      "duration": 137144,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401476",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401478",
+      "platformId": 2747401478,
+      "title": "唐僧肉",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 14,
+      "duration": 161016,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624",
+        "n32870400",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401478",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401480",
+      "platformId": 2747401480,
+      "title": "圣罗兰男装",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 17,
+      "duration": 203799,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624",
+        "n12110173"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen/THOME",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401480",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2745443289",
+      "platformId": 2745443289,
+      "title": "where u at",
+      "aliases": [],
+      "albumId": "n284767566",
+      "date": "2025-09-15",
+      "trackNumber": 7,
+      "duration": 161267,
+      "artistIds": [
+        "n46549449",
+        "n55315624",
+        "n48436890"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen/Akemen",
+          "source": "https://music.163.com/song?id=2745443289",
+          "level": "track"
+        },
+        {
+          "personId": "n46549449",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen/Akemen",
+          "source": "https://music.163.com/song?id=2745443289",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen/Akemen",
+          "source": "https://music.163.com/song?id=2745443289",
+          "level": "track"
+        },
+        {
+          "personId": "n46549449",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen/Akemen",
+          "source": "https://music.163.com/song?id=2745443289",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen/Akemen",
+        "作曲 : 贾真Jahgen/Akemen"
+      ],
+      "source": "https://music.163.com/song?id=2745443289",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2720538811",
+      "platformId": 2720538811,
+      "title": "贾总",
+      "aliases": [],
+      "albumId": "n276667550",
+      "date": "2025-06-29",
+      "trackNumber": 1,
+      "duration": 105497,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "caGF3aw",
+          "role": "编曲",
+          "raw": "编曲 : hawk",
+          "source": "https://music.163.com/song?id=2720538811",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2720538811",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典",
+          "source": "https://music.163.com/song?id=2720538811",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : hawk",
+        "混音 : Vgooo",
+        "监制：王政典"
+      ],
+      "source": "https://music.163.com/song?id=2720538811",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2713395164",
+      "platformId": 2713395164,
+      "title": "土哥们儿",
+      "aliases": [],
+      "albumId": "n274537222",
+      "date": "2025-06-09",
+      "trackNumber": 8,
+      "duration": 113684,
+      "artistIds": [
+        "n48277407",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n48277407",
+          "role": "作词",
+          "raw": "作词 : BOBBYNOPEACE/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : BOBBYNOPEACE/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "n48277407",
+          "role": "作曲",
+          "raw": "作曲 : BOBBYNOPEACE/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : BOBBYNOPEACE/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "Mix : Vgooo",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "cYXN0cm8",
+          "role": "制作人",
+          "raw": "Prod By : Astro",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典/Tracy",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        },
+        {
+          "personId": "cdHJhY3k",
+          "role": "监制",
+          "raw": "监制：王政典/Tracy",
+          "source": "https://music.163.com/song?id=2713395164",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BOBBYNOPEACE/贾真Jahgen",
+        "作曲 : BOBBYNOPEACE/贾真Jahgen",
+        "Mix : Vgooo",
+        "Prod By : Astro",
+        "监制：王政典/Tracy"
+      ],
+      "source": "https://music.163.com/song?id=2713395164",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2712265332",
+      "platformId": 2712265332,
+      "title": "疯狂的钻石体验",
+      "aliases": [],
+      "albumId": "n274245818",
+      "date": "2025-06-07",
+      "trackNumber": 10,
+      "duration": 115000,
+      "artistIds": [
+        "n12328955",
+        "n52891211",
+        "n55315624",
+        "n37409740",
+        "n48436890"
+      ],
+      "credits": [
+        {
+          "personId": "n12328955",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n12328955",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+        "作曲 : Udigg/Alyway/贾真Jahgen/africakid"
+      ],
+      "source": "https://music.163.com/song?id=2712265332",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2701003896",
+      "platformId": 2701003896,
+      "title": "LOVE ME TIL U READY",
+      "aliases": [],
+      "albumId": "n270801595",
+      "date": "2025-05-04",
+      "trackNumber": 13,
+      "duration": 150104,
+      "artistIds": [
+        "n53597603",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n53597603",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2701003896",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2701003896",
+          "level": "track"
+        },
+        {
+          "personId": "n53597603",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2701003896",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2701003896",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典",
+          "source": "https://music.163.com/song?id=2701003896",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 迪诺哥/贾真Jahgen",
+        "作曲 : 迪诺哥/贾真Jahgen",
+        "监制：王政典"
+      ],
+      "source": "https://music.163.com/song?id=2701003896",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2696713112",
+      "platformId": 2696713112,
+      "title": "罪责",
+      "aliases": [],
+      "albumId": "n269559123",
+      "date": "2025-04-20",
+      "trackNumber": 1,
+      "duration": 153230,
+      "artistIds": [
+        "n55315624",
+        "n52253891"
+      ],
+      "credits": [
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/陈翀华",
+          "source": "https://music.163.com/song?id=2696713112",
+          "level": "track"
+        },
+        {
+          "personId": "c6ZmI57-A5Y2O",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/陈翀华",
+          "source": "https://music.163.com/song?id=2696713112",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2696713112",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制 : 王政典",
+          "source": "https://music.163.com/song?id=2696713112",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 付思遥/陈翀华",
+        "混音 : Vgooo",
+        "监制 : 王政典"
+      ],
+      "source": "https://music.163.com/song?id=2696713112",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215081",
+      "platformId": 2688215081,
+      "title": "买",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 1,
+      "duration": 101034,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cdzRkZGxlcw",
+          "role": "编曲",
+          "raw": "编曲 : W4ddles",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "混音",
+          "raw": "混音 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "母带",
+          "raw": "母带 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : W4ddles",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : GhostDanny",
+        "母带 : GhostDanny",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215081",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215084",
+      "platformId": 2688215084,
+      "title": "Money Tall Yao Ming",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 2,
+      "duration": 177493,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/ATM Hanson",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/ATM Hanson",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音 : 谭玉堂",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 付思遥/ATM Hanson",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : 谭玉堂",
+        "母带 : 谭玉堂",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215084",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217334",
+      "platformId": 2688217334,
+      "title": "Banger",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 3,
+      "duration": 136719,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cOTlsYQ",
+          "role": "编曲",
+          "raw": "编曲 : 99LA/Zaysavv",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "cemF5c2F2dg",
+          "role": "编曲",
+          "raw": "编曲 : 99LA/Zaysavv",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 99LA/Zaysavv",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217334",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217336",
+      "platformId": 2688217336,
+      "title": "Nothing",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 4,
+      "duration": 210261,
+      "artistIds": [
+        "n55315624",
+        "n52891211",
+        "n32931336"
+      ],
+      "credits": [
+        {
+          "personId": "caG9vZHdpdGhhbm90aGEx",
+          "role": "编曲",
+          "raw": "编曲 : HoodwithAnotha1",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n32931336",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n32931336",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : HoodwithAnotha1",
+        "作词 : Alyway/贾真Jahgen/Kito",
+        "作曲 : Alyway/贾真Jahgen/Kito",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217336",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217335",
+      "platformId": 2688217335,
+      "title": "Emoney",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 5,
+      "duration": 139263,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "ceW91bmcgZW1waGFzaXM",
+          "role": "编曲",
+          "raw": "编曲 : young emphasis",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "混音",
+          "raw": "混音 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "母带",
+          "raw": "母带 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : young emphasis",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : GhostDanny",
+        "母带 : GhostDanny",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217335",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215085",
+      "platformId": 2688215085,
+      "title": "500",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 6,
+      "duration": 101034,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cbGlsIGNhbA",
+          "role": "编曲",
+          "raw": "编曲 : Lil Cal",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : Lil Cal",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215085",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215083",
+      "platformId": 2688215083,
+      "title": "因为我姓贾",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 7,
+      "duration": 112941,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "cZGV4c3RheXBhaWQ",
+          "role": "编曲",
+          "raw": "编曲 : DEXSTAYPAID",
+          "source": "https://music.163.com/song?id=2688215083",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215083",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215083",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688215083",
+          "level": "track"
+        },
+        {
+          "personId": "cdmdvb28",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688215083",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215083",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : DEXSTAYPAID",
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215083",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2672244269",
+      "platformId": 2672244269,
+      "title": "缅甸币",
+      "aliases": [],
+      "albumId": "n261878670",
+      "date": "2025-02-06",
+      "trackNumber": 11,
+      "duration": 174273,
+      "artistIds": [
+        "n52253891",
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2672244269",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541839",
+      "platformId": 2644541839,
+      "title": "WALK AROUND",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 7,
+      "duration": 136738,
+      "artistIds": [
+        "n37409740",
+        "n55315624",
+        "n51088331"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲: 付思遥",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid/贾真",
+        "作曲: africakid/贾真",
+        "编曲: 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2644541839",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133320792",
+      "platformId": 2133320792,
+      "title": "Stop playing!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 1,
+      "duration": 106849,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133320792",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133320792",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133320792",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2133320792",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133320256",
+      "platformId": 2133320256,
+      "title": "Chandelier!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 2,
+      "duration": 152973,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133320256",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133320256",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133320256",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2133320256",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133327009",
+      "platformId": 2133327009,
+      "title": "晚安!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 4,
+      "duration": 99080,
+      "artistIds": [
+        "n55315624",
+        "n35139045"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen/SHURA",
+          "source": "https://music.163.com/song?id=2133327009",
+          "level": "track"
+        },
+        {
+          "personId": "n35139045",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen/SHURA",
+          "source": "https://music.163.com/song?id=2133327009",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen/SHURA",
+          "source": "https://music.163.com/song?id=2133327009",
+          "level": "track"
+        },
+        {
+          "personId": "n35139045",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen/SHURA",
+          "source": "https://music.163.com/song?id=2133327009",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133327009",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen/SHURA",
+        "作曲 : 贾真Jahgen/SHURA",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2133327009",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133329254",
+      "platformId": 2133329254,
+      "title": "Thought u real!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 5,
+      "duration": 136056,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133329254",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133329254",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133329254",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2133329254",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133331157",
+      "platformId": 2133331157,
+      "title": "Throw it back!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 6,
+      "duration": 140288,
+      "artistIds": [
+        "n55315624",
+        "n52891211",
+        "n35139045"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2133331157",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133337452",
+      "platformId": 2133337452,
+      "title": "上机人生!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 7,
+      "duration": 214016,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133337452",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133337452",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2133337452",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2133337452",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2097533028",
+      "platformId": 2097533028,
+      "title": "Put in work",
+      "aliases": [],
+      "albumId": "n178526155",
+      "date": "2023-11-19",
+      "trackNumber": 6,
+      "duration": 232051,
+      "artistIds": [
+        "n32931336",
+        "n55315624"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2097533028",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2016965199",
+      "platformId": 2016965199,
+      "title": "昆山 Freestyle",
+      "aliases": [],
+      "albumId": "n166332352",
+      "date": "2023-05-25",
+      "trackNumber": 1,
+      "duration": 89952,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2016965199",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2016965199",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2016965199",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2016965199",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2050400505",
+      "platformId": 2050400505,
+      "title": "Go get it",
+      "aliases": [],
+      "albumId": "n166332352",
+      "date": "2023-05-25",
+      "trackNumber": 2,
+      "duration": 123807,
+      "artistIds": [
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2050400505",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2050400505",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "编曲",
+          "raw": "编曲 : 贾真Jahgen",
+          "source": "https://music.163.com/song?id=2050400505",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 贾真Jahgen",
+        "作曲 : 贾真Jahgen",
+        "编曲 : 贾真Jahgen"
+      ],
+      "source": "https://music.163.com/song?id=2050400505",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2030198397",
+      "platformId": 2030198397,
+      "title": "Heart away",
+      "aliases": [],
+      "albumId": "n161798379",
+      "date": "2023-03-16",
+      "trackNumber": 1,
+      "duration": 177801,
+      "artistIds": [
+        "n55315624",
+        "n13867193"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2030198397",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2027251360",
+      "platformId": 2027251360,
+      "title": "脚印",
+      "aliases": [],
+      "albumId": "n161190066",
+      "date": "2023-03-03",
+      "trackNumber": 16,
+      "duration": 192074,
+      "artistIds": [
+        "n53597603",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n53597603",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥",
+          "source": "https://music.163.com/song?id=2027251360",
+          "level": "track"
+        },
+        {
+          "personId": "n53597603",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥",
+          "source": "https://music.163.com/song?id=2027251360",
+          "level": "track"
+        },
+        {
+          "personId": "n53597603",
+          "role": "编曲",
+          "raw": "编曲 : 迪诺哥",
+          "source": "https://music.163.com/song?id=2027251360",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 迪诺哥",
+        "作曲 : 迪诺哥",
+        "编曲 : 迪诺哥"
+      ],
+      "source": "https://music.163.com/song?id=2027251360",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a6798532511",
+      "title": "黑白 - Single",
+      "date": "2026-08-09",
+      "trackCount": 1,
+      "artist": "KIV & 贾真",
+      "source": "https://music.apple.com/cn/album/%E9%BB%91%E7%99%BD-single/6798532511?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/06/56/3f0656bf-042c-ef3e-1fa3-927b22999d43/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6827524730",
+      "title": "Jress Kode",
+      "date": "2026-10-31",
+      "trackCount": 7,
+      "artist": "KIV & 贾真",
+      "source": "https://music.apple.com/cn/album/jress-kode/6827524730?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/7b/d2/e37bd298-d707-2986-4618-c91de943825e/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1881631379",
+      "title": "SAYLESS MIXTAPE VOL.1 (feat. ZHEN JIA) - Single",
+      "date": "2026-03-07",
+      "trackCount": 1,
+      "artist": "THOME",
+      "source": "https://music.apple.com/cn/album/sayless-mixtape-vol-1-feat-zhen-jia-single/1881631379?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8f/b7/64/8fb76476-80ea-4110-291b-fc8413108924/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1803593370",
+      "title": "FLXR",
+      "date": "2025-03-28",
+      "trackCount": 8,
+      "artist": "贾真 & 艾利威",
+      "source": "https://music.apple.com/cn/album/flxr/1803593370?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/94/15/3a941507-59c5-d378-7149-3a1348a7ddd9/5021732753816.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期、下架与未收录作品",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 61 首歌曲记录。部分早期作为 MC Souljah 时期的录音、地下单曲或未上架版本未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=55315624"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1803577824"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "网易云及 Apple Music 存在其他同名“贾真”候选账号（如网易云 ID 14946022、14019893，Apple ID 1639608515 等），经风格与发行核验属于无关同名人员，已严格隔离，不因拼写相同合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=55315624"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1803577824"
+        }
+      ]
+    },
+    {
+      "title": "联合发行逐曲参与",
+      "year": "合作发行",
+      "status": "按逐曲参与收录",
+      "detail": "与 Alyway 合作专辑《FLXR》按贾真实际逐曲参与收录 7/8 首（1首为合作方独唱），不把整张专辑算作个人全量作品。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=55315624"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "贾真Jahgen 艺名与别名",
+      "detail": "网易云主账号为“贾真Jahgen”，别名 MC Souljah，支持 贾真Jahgen、贾真、Jahgen、MC Souljah 搜索；Apple 官方主页为“Jahgen / 贾真”(ID 1803577824)。",
+      "sources": [
+        "https://music.163.com/artist?id=55315624",
+        "https://music.apple.com/cn/artist/1803577824"
+      ]
+    },
+    {
+      "title": "核心项目与联合项目",
+      "detail": "收录《Motion Music》、《上机人生》等个人核心项目，以及与 KIV 联合打造的《Jress Kode》（7首全量参与）。与 Alyway 的合作专辑《FLXR》按本人实际逐曲参与收录 7 首。",
+      "sources": [
+        "https://music.163.com/artist?id=55315624"
+      ]
+    },
+    {
+      "title": "跨平台命名与发行差异",
+      "detail": "在 Apple Music 中国区艺人显示为“贾真”，在美区等海外市场显示为“Jahgen”；各平台发行命名与单曲包装分别保留记录对照。",
+      "sources": [
+        "https://music.163.com/artist?id=55315624",
+        "https://music.apple.com/cn/artist/1803577824"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 61 条平台记录包含录音室版、合作单曲，不等于独立原创作品总数；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=55315624"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5406 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n37409740",
+    "name": "africakid",
+    "short": "africakid",
+    "aliases": [
+      "africakid",
+      "Africakid",
+      "AFRICAKID",
+      "Africa Kid",
+      "非洲孩子"
+    ],
+    "portrait": "./assets/africakid-portrait.jpg",
+    "portraitSource": "https://p2.music.126.net/0z0QmsHXpkVdYOsoqd_sEQ==/109951173480066482.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=37409740"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1784655288"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 68,
+    "neteaseCollected": 68,
+    "neteaseHasMore": false,
+    "listedReleases": 4,
+    "associatedNeteaseReleases": 22,
+    "appleComparedReleases": 2,
+    "appleExtraTracks": 0,
+    "coreAlbums": 2,
+    "from": "2024-11-08",
+    "through": "2026-07-04",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 68 条公开目录记录，涵盖《GAMEBOI》、《AFRICAKID》等 2 个核心项目及《NSG》团体项目。合作发行按逐曲署名收录，早期及未上架作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n12328955",
+      "name": "Udigg",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12328955"
+    },
+    {
+      "id": "n37409740",
+      "name": "africakid",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37409740",
+      "aliases": [
+        "africakid",
+        "Africakid",
+        "AFRICAKID",
+        "Africa Kid",
+        "非洲孩子"
+      ]
+    },
+    {
+      "id": "n55832201",
+      "name": "nato",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=55832201"
+    },
+    {
+      "id": "n13911452",
+      "name": "ATM Hanson",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13911452"
+    },
+    {
+      "id": "n36233708",
+      "name": "Hoozie",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=36233708"
+    },
+    {
+      "id": "n34146331",
+      "name": "skiboyvv",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34146331"
+    },
+    {
+      "id": "n35169519",
+      "name": "Taco",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35169519"
+    },
+    {
+      "id": "n46279529",
+      "name": "srrybtch",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46279529"
+    },
+    {
+      "id": "n55315624",
+      "name": "贾真Jahgen",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=55315624"
+    },
+    {
+      "id": "n50973279",
+      "name": "亚当魔星",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50973279"
+    },
+    {
+      "id": "n14116746",
+      "name": "黄格雷",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14116746"
+    },
+    {
+      "id": "n52891211",
+      "name": "Alyway",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52891211"
+    },
+    {
+      "id": "n13449974",
+      "name": "永力兄弟",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13449974"
+    },
+    {
+      "id": "n50971794",
+      "name": "九龙皇帝",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50971794"
+    },
+    {
+      "id": "n12870490",
+      "name": "Toryondacloud",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12870490"
+    },
+    {
+      "id": "n30003265",
+      "name": "Yung Raise",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30003265"
+    },
+    {
+      "id": "n12318443",
+      "name": "Yaokai",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12318443"
+    },
+    {
+      "id": "n48436890",
+      "name": "Taisheng Music",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48436890"
+    },
+    {
+      "id": "n56724807",
+      "name": "R!R!Riot",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=56724807"
+    },
+    {
+      "id": "n12110173",
+      "name": "THOME",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12110173"
+    },
+    {
+      "id": "n31559757",
+      "name": "BombWayne",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31559757"
+    },
+    {
+      "id": "n32870400",
+      "name": "heechoo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32870400"
+    },
+    {
+      "id": "n30223665",
+      "name": "狂兆北",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30223665"
+    },
+    {
+      "id": "n57037132",
+      "name": "CCFlights",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=57037132"
+    },
+    {
+      "id": "n34402395",
+      "name": "Lil Ken",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34402395"
+    },
+    {
+      "id": "n33937972",
+      "name": "CashTrippy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33937972"
+    },
+    {
+      "id": "n46549449",
+      "name": "Akemen",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46549449"
+    },
+    {
+      "id": "n94851099",
+      "name": "UDG Records",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94851099"
+    },
+    {
+      "id": "n53597603",
+      "name": "迪诺哥",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53597603"
+    },
+    {
+      "id": "n43158",
+      "name": "病态男孩",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=43158"
+    },
+    {
+      "id": "n52253891",
+      "name": "季承泽",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52253891"
+    },
+    {
+      "id": "n50493223",
+      "name": "nxne",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50493223"
+    },
+    {
+      "id": "n60280958",
+      "name": "Babyrabbit",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=60280958"
+    },
+    {
+      "id": "n59677702",
+      "name": "sun2brazy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=59677702"
+    },
+    {
+      "id": "n49439822",
+      "name": "Arthurnevawakes",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49439822"
+    },
+    {
+      "id": "n51088331",
+      "name": "付思遥",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51088331"
+    },
+    {
+      "id": "cYnZsbG9vbg",
+      "name": "Bvlloon",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZndjcw",
+      "name": "fwcs",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJpcHBpbnNoYXd0eQ",
+      "name": "drippinshawty",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb2Nk",
+      "name": "Ocd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXNoeXd5YQ",
+      "name": "ashywya",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca25vdyB0aGUgdmliZQ",
+      "name": "Know The Vibe",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceXhuZ2tlbmF5",
+      "name": "yxngkenay",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cemVuZXhvbmx5",
+      "name": "zenexonly",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGFtbmxpZmU",
+      "name": "DAMNLIFE",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc29jaWFsb3h5Z2Vu",
+      "name": "socialoxygen",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbWFhbHkgcmF3",
+      "name": "Maaly Raw",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZG9uIGNhbm5vbg",
+      "name": "Don Cannon",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hlZXB5",
+      "name": "sheepy",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2hldmls",
+      "name": "chevil",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6YKT5oCd5qWa",
+      "name": "邓思楚",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c55i-5rW3aW5vY2Vhbg",
+      "name": "瘾海INOCEAN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ29rZXZpbg",
+      "name": "GoKevin",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdWNodQ",
+      "name": "uchu",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LCt546J5aCC",
+      "name": "谭玉堂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2o6J-S54m5",
+      "name": "杨蟒特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5paH5qOu54m5",
+      "name": "文森特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGluYWs",
+      "name": "Pinak",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWxleHh4",
+      "name": "Alexxx",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caHVpbGFu",
+      "name": "HUILAN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hhbmdv",
+      "name": "shango",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5pS_5YW4",
+      "name": "王政典",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZGlidWs",
+      "name": "Dibuk",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2VpczQ0",
+      "name": "KEIS44",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca3J5ZHM",
+      "name": "Kryds",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZnJlZXppbmdob29keg",
+      "name": "FreezingHoodz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGFpbml5a2ljaw",
+      "name": "tainiykick",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LS-55yf",
+      "name": "贾真",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccmltYXRodWdnZXI",
+      "name": "rimathugger",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n384485393",
+      "title": "STUPID HIGH",
+      "date": "2026-07-04",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 18,
+      "artistNames": [
+        "Udigg",
+        "INDEcompany"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-384485393.jpg",
+      "artworkSource": "https://p1.music.126.net/e_d1JBhTPaSodLAAihIn3Q==/109951173483166242.jpg",
+      "source": "https://music.163.com/album?id=384485393",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n3399910906"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n372866368",
+      "title": "Let The Young Punks Dance",
+      "date": "2026-04-30",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 21,
+      "artistNames": [
+        "nato"
+      ],
+      "label": "AYO!",
+      "artwork": "./assets/album-372866368.jpg",
+      "artworkSource": "https://p1.music.126.net/FueqfAZB2H3xreIxXc_F1g==/109951173114663218.jpg",
+      "source": "https://music.163.com/album?id=372866368",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3374362165"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n360722491",
+      "title": "多少次",
+      "date": "2026-02-13",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ATM Hanson"
+      ],
+      "label": null,
+      "artwork": "./assets/album-360722491.jpg",
+      "artworkSource": "https://p1.music.126.net/ZEPjQf8p1t-hqLfSp6HnOg==/109951172687343867.jpg",
+      "source": "https://music.163.com/album?id=360722491",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3346142859"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n355960867",
+      "title": "NSG",
+      "date": "2025-12-25",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 17,
+      "artistNames": [
+        "srrybtch",
+        "Taco",
+        "Hoozie",
+        "africakid",
+        "skiboyvv"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-355960867.jpg",
+      "artworkSource": "https://p1.music.126.net/MHsrFWS1jMiq2c4r2p0GRQ==/109951172483999077.jpg",
+      "source": "https://music.163.com/album?id=355960867",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "团体项目",
+      "trackIds": [
+        "n3332167913",
+        "n3332167910",
+        "n3332167909",
+        "n3332167908",
+        "n3332167907",
+        "n3332167906",
+        "n3332166979",
+        "n3332166978",
+        "n3332166975",
+        "n3332166972"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n354217637",
+      "title": "Motion Music",
+      "date": "2025-12-12",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": null,
+      "artwork": "./assets/album-354217637.jpg",
+      "artworkSource": "https://p1.music.126.net/U5s0TBN8-dxzd5AcAPFMvA==/109951172414213413.jpg",
+      "source": "https://music.163.com/album?id=354217637",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3327458994"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n352031956",
+      "title": "M.C.S.A.",
+      "date": "2025-11-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "亚当魔星"
+      ],
+      "label": "九眼",
+      "artwork": "./assets/album-352031956.jpg",
+      "artworkSource": "https://p1.music.126.net/d7xyxo0Sm8-60SBJBXLSnQ==/109951172346326577.jpg",
+      "source": "https://music.163.com/album?id=352031956",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3322095505"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n352017935",
+      "title": "季节2025",
+      "date": "2025-11-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "黄格雷"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-352017935.jpg",
+      "artworkSource": "https://p2.music.126.net/g1dNtU_xWd5nvXBjNpLgKQ==/109951172346576628.jpg",
+      "source": "https://music.163.com/album?id=352017935",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3322063314"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n348605325",
+      "title": "VEmo",
+      "date": "2025-10-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 18,
+      "artistNames": [
+        "Alyway"
+      ],
+      "label": null,
+      "artwork": "./assets/album-348605325.jpg",
+      "artworkSource": "https://p2.music.126.net/ef928ozg-E8Tsuf6O0j7pw==/109951172214067729.jpg",
+      "source": "https://music.163.com/album?id=348605325",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3312879866",
+        "n3312879661",
+        "n3312878010"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n285580033",
+      "title": "RTVG TAPE VOL.3:DOUBLE UOGLOBE BRAND",
+      "date": "2025-09-22",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "永力兄弟",
+        "Toryondacloud",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-285580033.jpg",
+      "artworkSource": "https://p2.music.126.net/eo-LDtQrC8E3Na3OcAQzVg==/109951172032318448.jpg",
+      "source": "https://music.163.com/album?id=285580033",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n2747571928"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n285506659",
+      "title": "GAMEBOI",
+      "date": "2025-09-21",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 25,
+      "artistNames": [
+        "africakid",
+        "ATM Hanson"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-285506659.jpg",
+      "artworkSource": "https://p1.music.126.net/razwufN2bH4Ng0Hrrx3Hfg==/109951172030981268.jpg",
+      "source": "https://music.163.com/album?id=285506659",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2747401484",
+        "n2747401483",
+        "n2747401482",
+        "n2747401481",
+        "n2747401480",
+        "n2747401479",
+        "n2747401478",
+        "n2747401477",
+        "n2747401476",
+        "n2747401475",
+        "n2747401474",
+        "n2747400533",
+        "n2747400532",
+        "n2747400531",
+        "n2747400530",
+        "n2747400529",
+        "n2747400528",
+        "n2747400527",
+        "n2747400526",
+        "n2747400525",
+        "n2747400524",
+        "n2747400523",
+        "n2747400522",
+        "n2747400521",
+        "n2747400519"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n284767566",
+      "title": "ART MUSIC(艺术音乐）",
+      "date": "2025-09-15",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "Akemen",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-284767566.jpg",
+      "artworkSource": "https://p1.music.126.net/KYVU01cq9P4UYXMJ7JnTOg==/109951173753564544.jpg",
+      "source": "https://music.163.com/album?id=284767566",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n2745442672"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n284863885",
+      "title": "UDG FRESHMAN 2025 CYPHER",
+      "date": "2025-09-13",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "UDG Records"
+      ],
+      "label": "UNDERGR00VES",
+      "artwork": "./assets/album-284863885.jpg",
+      "artworkSource": "https://p1.music.126.net/1hZhMCW3My0D3aY_co0xmA==/109951172006702433.jpg",
+      "source": "https://music.163.com/album?id=284863885",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2745696270"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n281720707",
+      "title": "犯太SWAG",
+      "date": "2025-08-15",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "BombWayne"
+      ],
+      "label": null,
+      "artwork": "./assets/album-281720707.jpg",
+      "artworkSource": "https://p2.music.126.net/65oS8oK_OFcweYA1RRsxmw==/109951171876421835.jpg",
+      "source": "https://music.163.com/album?id=281720707",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2736777933"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n280844854",
+      "title": "VLONE",
+      "date": "2025-08-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "africakid",
+        "ATM Hanson"
+      ],
+      "label": "升音Sound",
+      "artwork": "./assets/album-280844854.jpg",
+      "artworkSource": "https://p1.music.126.net/lFan4VQTN_idYI4NWODoTQ==/109951171807932138.jpg",
+      "source": "https://music.163.com/album?id=280844854",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n2734192639"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n274245818",
+      "title": "WANTAL",
+      "date": "2025-06-07",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "Udigg",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-274245818.jpg",
+      "artworkSource": "https://p2.music.126.net/nWxg3G3viGAnI45wvM6X0Q==/109951173753562636.jpg",
+      "source": "https://music.163.com/album?id=274245818",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作项目",
+      "trackIds": [
+        "n2712265332"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n270801595",
+      "title": "事闹大了",
+      "date": "2025-05-04",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 18,
+      "artistNames": [
+        "迪诺哥"
+      ],
+      "label": "网易·云上×MicBee",
+      "artwork": "./assets/album-270801595.jpg",
+      "artworkSource": "https://p1.music.126.net/mPz94aplVAwjNqqSn13rXA==/109951170938602322.jpg",
+      "source": "https://music.163.com/album?id=270801595",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2701004459"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n265766370",
+      "title": "超都市",
+      "date": "2025-03-14",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "病态男孩"
+      ],
+      "label": null,
+      "artwork": "./assets/album-265766370.jpg",
+      "artworkSource": "https://p2.music.126.net/FzcIA2PuChmxf5NfEfaAmA==/109951170608061835.jpg",
+      "source": "https://music.163.com/album?id=265766370",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2684301237"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n261878670",
+      "title": "你的感觉不重要",
+      "date": "2025-02-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "季承泽"
+      ],
+      "label": null,
+      "artwork": "./assets/album-261878670.jpg",
+      "artworkSource": "https://p1.music.126.net/4fKs4P662Z-14RxdGeHd4w==/109951170454823756.jpg",
+      "source": "https://music.163.com/album?id=261878670",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2672238919"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n254774545",
+      "title": "Sequel sequel",
+      "date": "2024-11-24",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "nxne"
+      ],
+      "label": null,
+      "artwork": "./assets/album-254774545.jpg",
+      "artworkSource": "https://p1.music.126.net/WoYF6HrFdeFq8wlGjdBWUQ==/109951170182092887.jpg",
+      "source": "https://music.163.com/album?id=254774545",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2649599222"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n254036976",
+      "title": "Heyboy.Wyd",
+      "date": "2024-11-17",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 9,
+      "artistNames": [
+        "Babyrabbit"
+      ],
+      "label": null,
+      "artwork": "./assets/album-254036976.jpg",
+      "artworkSource": "https://p1.music.126.net/0iftD0Nr2vvAFl5jVBz5mg==/109951170158388916.jpg",
+      "source": "https://music.163.com/album?id=254036976",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2647229266"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n252507248",
+      "title": "To Infinity and Beyond",
+      "date": "2024-11-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "sun2brazy"
+      ],
+      "label": null,
+      "artwork": "./assets/album-252507248.jpg",
+      "artworkSource": "https://p1.music.126.net/o2CbbFtDIpx-x1iO1UsBjA==/109951170102919929.jpg",
+      "source": "https://music.163.com/album?id=252507248",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2644855321"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n253212745",
+      "title": "AFRICAKID",
+      "date": "2024-11-08",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "africakid"
+      ],
+      "label": null,
+      "artwork": "./assets/album-253212745.jpg",
+      "artworkSource": "https://p1.music.126.net/jQklrtH6VK5afWRy0pE10g==/109951170130659740.jpg",
+      "source": "https://music.163.com/album?id=253212745",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2644541949",
+        "n2644541927",
+        "n2644541892",
+        "n2644541880",
+        "n2644541839",
+        "n2644541800",
+        "n2644541781",
+        "n2644541756",
+        "n2644541741",
+        "n2644541677",
+        "n2644541039",
+        "n2644541014"
+      ],
+      "listedOnArtist": true
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3399910906",
+      "platformId": 3399910906,
+      "title": "Pink&Yellow",
+      "aliases": [],
+      "albumId": "n384485393",
+      "date": "2026-07-04",
+      "trackNumber": 7,
+      "duration": 106584,
+      "artistIds": [
+        "n12328955",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n12328955",
+          "role": "作词",
+          "raw": "作词 : Udigg/africakid",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Udigg/africakid",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "n12328955",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/africakid",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/africakid",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "cYnZsbG9vbg",
+          "role": "编曲",
+          "raw": "编曲 : Bvlloon",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "cZndjcw",
+          "role": "混音",
+          "raw": "混音 : fwcs",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJpcHBpbnNoYXd0eQ",
+          "role": "母带",
+          "raw": "母带 : drippinshawty",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd",
+          "source": "https://music.163.com/song?id=3399910906",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Udigg/africakid",
+        "作曲 : Udigg/africakid",
+        "编曲 : Bvlloon",
+        "混音 : fwcs",
+        "母带 : drippinshawty",
+        "监制 : Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3399910906",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3374362165",
+      "platformId": 3374362165,
+      "title": "tyler durden",
+      "aliases": [],
+      "albumId": "n372866368",
+      "date": "2026-04-30",
+      "trackNumber": 11,
+      "duration": 101156,
+      "artistIds": [
+        "n55832201",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3374362165",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3346142859",
+      "platformId": 3346142859,
+      "title": "多少次",
+      "aliases": [],
+      "albumId": "n360722491",
+      "date": "2026-02-13",
+      "trackNumber": 1,
+      "duration": 135106,
+      "artistIds": [
+        "n13911452",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n13911452",
+          "role": "作词",
+          "raw": "作词 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3346142859",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3346142859",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3346142859",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ATM Hanson",
+        "作曲 : ATM Hanson",
+        "编曲 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=3346142859",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332167906",
+      "platformId": 3332167906,
+      "title": "N5G",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 1,
+      "duration": 154727,
+      "artistIds": [
+        "n46279529",
+        "n35169519",
+        "n36233708",
+        "n37409740",
+        "n34146331"
+      ],
+      "credits": [
+        {
+          "personId": "cemVuZXhvbmx5",
+          "role": "编曲",
+          "raw": "编曲 : zenexonly",
+          "source": "https://music.163.com/song?id=3332167906",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167906",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167906",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : zenexonly",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332167906",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332166972",
+      "platformId": 3332166972,
+      "title": "梦游",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 2,
+      "duration": 147070,
+      "artistIds": [
+        "n36233708",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "cZGFtbmxpZmU",
+          "role": "编曲",
+          "raw": "编曲 : DAMNLIFE",
+          "source": "https://music.163.com/song?id=3332166972",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166972",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166972",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : DAMNLIFE",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332166972",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332167907",
+      "platformId": 3332167907,
+      "title": "Wassup",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 3,
+      "duration": 136992,
+      "artistIds": [
+        "n37409740",
+        "n46279529"
+      ],
+      "credits": [
+        {
+          "personId": "cYnZsbG9vbg",
+          "role": "编曲",
+          "raw": "编曲 : Bvlloon",
+          "source": "https://music.163.com/song?id=3332167907",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167907",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167907",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : Bvlloon",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332167907",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332167908",
+      "platformId": 3332167908,
+      "title": "Hit The Dance",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 5,
+      "duration": 103102,
+      "artistIds": [
+        "n37409740",
+        "n46279529"
+      ],
+      "credits": [
+        {
+          "personId": "cZGFtbmxpZmU",
+          "role": "编曲",
+          "raw": "编曲 : DAMNLIFE",
+          "source": "https://music.163.com/song?id=3332167908",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167908",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167908",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : DAMNLIFE",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332167908",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332167909",
+      "platformId": 3332167909,
+      "title": "梦幻泡影",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 6,
+      "duration": 170145,
+      "artistIds": [
+        "n37409740",
+        "n35169519",
+        "n34146331",
+        "n46279529"
+      ],
+      "credits": [
+        {
+          "personId": "cemVuZXhvbmx5",
+          "role": "编曲",
+          "raw": "编曲 : zenexonly",
+          "source": "https://music.163.com/song?id=3332167909",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167909",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167909",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : zenexonly",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332167909",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332166975",
+      "platformId": 3332166975,
+      "title": "钱太长 没感觉",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 8,
+      "duration": 136838,
+      "artistIds": [
+        "n37409740",
+        "n34146331"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/skiboyvv",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "n34146331",
+          "role": "作词",
+          "raw": "作词 : africakid/skiboyvv",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/skiboyvv",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "n34146331",
+          "role": "作曲",
+          "raw": "作曲 : africakid/skiboyvv",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFhbHkgcmF3",
+          "role": "编曲",
+          "raw": "编曲 : Maaly Raw/Don Cannon",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "cZG9uIGNhbm5vbg",
+          "role": "编曲",
+          "raw": "编曲 : Maaly Raw/Don Cannon",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166975",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/skiboyvv",
+        "作曲 : africakid/skiboyvv",
+        "编曲 : Maaly Raw/Don Cannon",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332166975",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332167910",
+      "platformId": 3332167910,
+      "title": "红",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 9,
+      "duration": 120766,
+      "artistIds": [
+        "n35169519",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "ceXhuZ2tlbmF5",
+          "role": "编曲",
+          "raw": "编曲 : yxngkenay",
+          "source": "https://music.163.com/song?id=3332167910",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167910",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167910",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : yxngkenay",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332167910",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332166978",
+      "platformId": 3332166978,
+      "title": "梵克雅宝",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 12,
+      "duration": 152582,
+      "artistIds": [
+        "n36233708",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "cemVuZXhvbmx5",
+          "role": "编曲",
+          "raw": "编曲 : zenexonly",
+          "source": "https://music.163.com/song?id=3332166978",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166978",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166978",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : zenexonly",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332166978",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332166979",
+      "platformId": 3332166979,
+      "title": "猫头鹰",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 13,
+      "duration": 85310,
+      "artistIds": [
+        "n35169519",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "cc29jaWFsb3h5Z2Vu",
+          "role": "编曲",
+          "raw": "编曲 : socialoxygen",
+          "source": "https://music.163.com/song?id=3332166979",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166979",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332166979",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : socialoxygen",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332166979",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332167913",
+      "platformId": 3332167913,
+      "title": "成都梦",
+      "aliases": [],
+      "albumId": "n355960867",
+      "date": "2025-12-25",
+      "trackNumber": 17,
+      "duration": 129062,
+      "artistIds": [
+        "n36233708",
+        "n34146331",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "cYXNoeXd5YQ",
+          "role": "编曲",
+          "raw": "编曲 : ashywya",
+          "source": "https://music.163.com/song?id=3332167913",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "混音",
+          "raw": "混音 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167913",
+          "level": "track"
+        },
+        {
+          "personId": "ca25vdyB0aGUgdmliZQ",
+          "role": "母带",
+          "raw": "母带 : Know The Vibe",
+          "source": "https://music.163.com/song?id=3332167913",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : ashywya",
+        "混音 : Know The Vibe",
+        "母带 : Know The Vibe"
+      ],
+      "source": "https://music.163.com/song?id=3332167913",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327458994",
+      "platformId": 3327458994,
+      "title": "Stay 4 Da Night",
+      "aliases": [],
+      "albumId": "n354217637",
+      "date": "2025-12-12",
+      "trackNumber": 9,
+      "duration": 167373,
+      "artistIds": [
+        "n55315624",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3327458994",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3322063314",
+      "platformId": 3322063314,
+      "title": "SWAGGER",
+      "aliases": [],
+      "albumId": "n352017935",
+      "date": "2025-11-29",
+      "trackNumber": 2,
+      "duration": 130064,
+      "artistIds": [
+        "n14116746",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n14116746",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/africakid",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/africakid",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "n14116746",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/africakid",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/africakid",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "n14116746",
+          "role": "编曲",
+          "raw": "编曲 : 黄格雷",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "c55i-5rW3aW5vY2Vhbg",
+          "role": "录音",
+          "raw": "录音 : 瘾海INOCEAN",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "cZ29rZXZpbg",
+          "role": "混音",
+          "raw": "混音 : GoKevin/uchu",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "cdWNodQ",
+          "role": "混音",
+          "raw": "混音 : GoKevin/uchu",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o6J-S54m5",
+          "role": "监制",
+          "raw": "监制 : 杨蟒特/文森特",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        },
+        {
+          "personId": "c5paH5qOu54m5",
+          "role": "监制",
+          "raw": "监制 : 杨蟒特/文森特",
+          "source": "https://music.163.com/song?id=3322063314",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 黄格雷/africakid",
+        "作曲 : 黄格雷/africakid",
+        "编曲 : 黄格雷",
+        "录音 : 瘾海INOCEAN",
+        "混音 : GoKevin/uchu",
+        "母带 : 谭玉堂",
+        "监制 : 杨蟒特/文森特"
+      ],
+      "source": "https://music.163.com/song?id=3322063314",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3322095505",
+      "platformId": 3322095505,
+      "title": "武侯",
+      "aliases": [],
+      "albumId": "n352031956",
+      "date": "2025-11-29",
+      "trackNumber": 25,
+      "duration": 109277,
+      "artistIds": [
+        "n50973279",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n50973279",
+          "role": "作词",
+          "raw": "作词 : 亚当魔星/africakid",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : 亚当魔星/africakid",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "n50973279",
+          "role": "作曲",
+          "raw": "作曲 : 亚当魔星/africakid",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : 亚当魔星/africakid",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hlZXB5",
+          "role": "编曲",
+          "raw": "编曲 : sheepy",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "cY2hldmls",
+          "role": "混音",
+          "raw": "混音/母带：chevil",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "cY2hldmls",
+          "role": "母带",
+          "raw": "混音/母带：chevil",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        },
+        {
+          "personId": "c6YKT5oCd5qWa",
+          "role": "监制",
+          "raw": "监制 : 邓思楚",
+          "source": "https://music.163.com/song?id=3322095505",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 亚当魔星/africakid",
+        "作曲 : 亚当魔星/africakid",
+        "编曲 : sheepy",
+        "混音/母带：chevil",
+        "监制 : 邓思楚"
+      ],
+      "source": "https://music.163.com/song?id=3322095505",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878010",
+      "platformId": 3312878010,
+      "title": "VEmo Popstar",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 5,
+      "duration": 110457,
+      "artistIds": [
+        "n52891211",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hhbmdv",
+          "role": "编曲",
+          "raw": "编曲 : shango",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/africakid",
+        "作曲 : Alyway/africakid",
+        "编曲 : shango"
+      ],
+      "source": "https://music.163.com/song?id=3312878010",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879866",
+      "platformId": 3312879866,
+      "title": "Perky N Xan",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 15,
+      "duration": 133219,
+      "artistIds": [
+        "n52891211",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "ccGluYWs",
+          "role": "编曲",
+          "raw": "编曲 : Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxleHh4",
+          "role": "编曲",
+          "raw": "编曲 : Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/africakid",
+        "作曲 : Alyway/africakid",
+        "编曲 : Pinak/Alexxx"
+      ],
+      "source": "https://music.163.com/song?id=3312879866",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879661",
+      "platformId": 3312879661,
+      "title": "我在外面不能看到你",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 16,
+      "duration": 130130,
+      "artistIds": [
+        "n52891211",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "caHVpbGFu",
+          "role": "编曲",
+          "raw": "编曲 : HUILAN",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/africakid",
+        "作曲 : Alyway/africakid",
+        "编曲 : HUILAN"
+      ],
+      "source": "https://music.163.com/song?id=3312879661",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747571928",
+      "platformId": 2747571928,
+      "title": "野蛮",
+      "aliases": [],
+      "albumId": "n285580033",
+      "date": "2025-09-22",
+      "trackNumber": 10,
+      "duration": 150244,
+      "artistIds": [
+        "n13449974",
+        "n50971794",
+        "n12870490",
+        "n30003265",
+        "n37409740",
+        "n12318443",
+        "n48436890"
+      ],
+      "credits": [
+        {
+          "personId": "n50971794",
+          "role": "作词",
+          "raw": "作词 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n12870490",
+          "role": "作词",
+          "raw": "作词 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n30003265",
+          "role": "作词",
+          "raw": "作词 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n12318443",
+          "role": "作词",
+          "raw": "作词 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n50971794",
+          "role": "作曲",
+          "raw": "作曲 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n12870490",
+          "role": "作曲",
+          "raw": "作曲 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n30003265",
+          "role": "作曲",
+          "raw": "作曲 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        },
+        {
+          "personId": "n12318443",
+          "role": "作曲",
+          "raw": "作曲 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+          "source": "https://music.163.com/song?id=2747571928",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai",
+        "作曲 : 九龙皇帝/Toryondacloud/Yung Raise/africakid/Yaokai"
+      ],
+      "source": "https://music.163.com/song?id=2747571928",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400519",
+      "platformId": 2747400519,
+      "title": "GaM3 sTaRT(R)",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 1,
+      "duration": 93894,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400519",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400519",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400519",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400519",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400519",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400519",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400519",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400521",
+      "platformId": 2747400521,
+      "title": "黑衣人",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 2,
+      "duration": 116098,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400521",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400521",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400521",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400521",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400521",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400521",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400521",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400522",
+      "platformId": 2747400522,
+      "title": "Balmain Jeans",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 3,
+      "duration": 114950,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n33937972"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/CashTrippy",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : africakid/CashTrippy",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/CashTrippy",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/CashTrippy",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/CashTrippy",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400522",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/CashTrippy",
+        "作曲 : africakid/ATM Hanson/CashTrippy",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400522",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400523",
+      "platformId": 2747400523,
+      "title": "钻石王老五",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 4,
+      "duration": 98681,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400523",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400523",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400523",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400523",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400523",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400523",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400523",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400524",
+      "platformId": 2747400524,
+      "title": "F1",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 5,
+      "duration": 132254,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400524",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400524",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400524",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400524",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400524",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400524",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400524",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401474",
+      "platformId": 2747401474,
+      "title": "Shanghai",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 6,
+      "duration": 141415,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747401474",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401474",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401474",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401474",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401474",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401474",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401474",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400525",
+      "platformId": 2747400525,
+      "title": "VLONE",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 7,
+      "duration": 170256,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n12110173"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/THOME",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作词",
+          "raw": "作词 : africakid/THOME",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/THOME",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/THOME",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/THOME",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400525",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/THOME",
+        "作曲 : africakid/ATM Hanson/THOME",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400525",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401475",
+      "platformId": 2747401475,
+      "title": "Mwah",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 8,
+      "duration": 181783,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747401475",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401475",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401475",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401475",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401475",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401475",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401475",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400526",
+      "platformId": 2747400526,
+      "title": "LYING",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 9,
+      "duration": 126775,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400526",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400526",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400526",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400526",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400526",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400526",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400526",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401476",
+      "platformId": 2747401476,
+      "title": "Chrome Heart Laces",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 10,
+      "duration": 137144,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401476",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401476",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400527",
+      "platformId": 2747400527,
+      "title": "差生逃亡",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 11,
+      "duration": 111401,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n34402395"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson/Lil Ken",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson/Lil Ken",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n34402395",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson/Lil Ken",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Lil Ken",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Lil Ken",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n34402395",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Lil Ken",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400527",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/ATM Hanson/Lil Ken",
+        "作曲 : africakid/ATM Hanson/Lil Ken",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400527",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401477",
+      "platformId": 2747401477,
+      "title": "老师你好",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 12,
+      "duration": 152868,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401477",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/ATM Hanson",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401477",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400528",
+      "platformId": 2747400528,
+      "title": "Gucci My Bag",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 13,
+      "duration": 144260,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n52891211",
+        "n57037132"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n57037132",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n57037132",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/Alyway/CCFlights",
+        "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400528",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401478",
+      "platformId": 2747401478,
+      "title": "唐僧肉",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 14,
+      "duration": 161016,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624",
+        "n32870400",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401478",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400529",
+      "platformId": 2747400529,
+      "title": "长发美男子x2",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 15,
+      "duration": 164113,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n30223665"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/狂兆北",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n30223665",
+          "role": "作词",
+          "raw": "作词 : africakid/狂兆北",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/狂兆北",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/狂兆北",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n30223665",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/狂兆北",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400529",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/狂兆北",
+        "作曲 : africakid/ATM Hanson/狂兆北",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400529",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401479",
+      "platformId": 2747401479,
+      "title": "ON ONE",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 16,
+      "duration": 147709,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n31559757"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/BombWayne",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n31559757",
+          "role": "作词",
+          "raw": "作词 : africakid/BombWayne",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/BombWayne",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/BombWayne",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n31559757",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/BombWayne",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401479",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/BombWayne",
+        "作曲 : africakid/ATM Hanson/BombWayne",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401479",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401480",
+      "platformId": 2747401480,
+      "title": "圣罗兰男装",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 17,
+      "duration": 203799,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624",
+        "n12110173"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401480",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen/THOME",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen/THOME",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401480",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401481",
+      "platformId": 2747401481,
+      "title": "炸弹爱",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 18,
+      "duration": 166834,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747401481",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401481",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401481",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401481",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401481",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401481",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401481",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400530",
+      "platformId": 2747400530,
+      "title": "需要我 2",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 19,
+      "duration": 122275,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400530",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400530",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400530",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400530",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400530",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400530",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400530",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401482",
+      "platformId": 2747401482,
+      "title": "你的电话我打不通",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 20,
+      "duration": 140706,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作词",
+          "raw": "作词 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401482",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/ATM Hanson",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401482",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401483",
+      "platformId": 2747401483,
+      "title": "几遍",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 21,
+      "duration": 145210,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n56724807"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/R!R!Riot",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n56724807",
+          "role": "作词",
+          "raw": "作词 : africakid/R!R!Riot",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/R!R!Riot",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/R!R!Riot",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n56724807",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/R!R!Riot",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401483",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/R!R!Riot",
+        "作曲 : africakid/ATM Hanson/R!R!Riot",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401483",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401484",
+      "platformId": 2747401484,
+      "title": "Game Over",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 22,
+      "duration": 140104,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/Alyway",
+        "作曲 : africakid/ATM Hanson/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401484",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400531",
+      "platformId": 2747400531,
+      "title": "复活币",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 23,
+      "duration": 124455,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/Alyway",
+        "作曲 : africakid/ATM Hanson/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400531",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400532",
+      "platformId": 2747400532,
+      "title": "OUCH",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 24,
+      "duration": 108336,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400532",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400532",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400532",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400532",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400532",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400532",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400532",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400533",
+      "platformId": 2747400533,
+      "title": "My WRLD",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 25,
+      "duration": 88406,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid",
+          "source": "https://music.163.com/song?id=2747400533",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400533",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400533",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400533",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400533",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400533",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid",
+        "作曲 : africakid/ATM Hanson",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400533",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2745442672",
+      "platformId": 2745442672,
+      "title": "Goyard",
+      "aliases": [],
+      "albumId": "n284767566",
+      "date": "2025-09-15",
+      "trackNumber": 8,
+      "duration": 116999,
+      "artistIds": [
+        "n46549449",
+        "n37409740",
+        "n13911452",
+        "n48436890"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2745442672",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2745696270",
+      "platformId": 2745696270,
+      "title": "Chainsaw",
+      "aliases": [],
+      "albumId": "n284863885",
+      "date": "2025-09-13",
+      "trackNumber": 3,
+      "duration": 74379,
+      "artistIds": [
+        "n94851099",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2745696270",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2736777933",
+      "platformId": 2736777933,
+      "title": "犯太SWAG",
+      "aliases": [],
+      "albumId": "n281720707",
+      "date": "2025-08-15",
+      "trackNumber": 1,
+      "duration": 131946,
+      "artistIds": [
+        "n31559757",
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n31559757",
+          "role": "作词",
+          "raw": "作词 : BombWayne/africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : BombWayne/africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作词",
+          "raw": "作词 : BombWayne/africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        },
+        {
+          "personId": "n31559757",
+          "role": "作曲",
+          "raw": "作曲 : BombWayne/africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : BombWayne/africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : BombWayne/africakid/ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2736777933",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BombWayne/africakid/ATM Hanson",
+        "作曲 : BombWayne/africakid/ATM Hanson",
+        "编曲 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2736777933",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2734192639",
+      "platformId": 2734192639,
+      "title": "VLONE",
+      "aliases": [],
+      "albumId": "n280844854",
+      "date": "2025-08-09",
+      "trackNumber": 1,
+      "duration": 170256,
+      "artistIds": [
+        "n37409740",
+        "n12110173",
+        "n13911452"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2734192639",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2712265332",
+      "platformId": 2712265332,
+      "title": "疯狂的钻石体验",
+      "aliases": [],
+      "albumId": "n274245818",
+      "date": "2025-06-07",
+      "trackNumber": 10,
+      "duration": 115000,
+      "artistIds": [
+        "n12328955",
+        "n52891211",
+        "n55315624",
+        "n37409740",
+        "n48436890"
+      ],
+      "credits": [
+        {
+          "personId": "n12328955",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n12328955",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+        "作曲 : Udigg/Alyway/贾真Jahgen/africakid"
+      ],
+      "source": "https://music.163.com/song?id=2712265332",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2701004459",
+      "platformId": 2701004459,
+      "title": "42",
+      "aliases": [],
+      "albumId": "n270801595",
+      "date": "2025-05-04",
+      "trackNumber": 8,
+      "duration": 218999,
+      "artistIds": [
+        "n53597603",
+        "n37409740",
+        "n32870400"
+      ],
+      "credits": [
+        {
+          "personId": "n53597603",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/africakid/heechoo",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/africakid/heechoo",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/africakid/heechoo",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        },
+        {
+          "personId": "n53597603",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/africakid/heechoo",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/africakid/heechoo",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/africakid/heechoo",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典",
+          "source": "https://music.163.com/song?id=2701004459",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 迪诺哥/africakid/heechoo",
+        "作曲 : 迪诺哥/africakid/heechoo",
+        "监制：王政典"
+      ],
+      "source": "https://music.163.com/song?id=2701004459",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2684301237",
+      "platformId": 2684301237,
+      "title": "紫罗兰",
+      "aliases": [],
+      "albumId": "n265766370",
+      "date": "2025-03-14",
+      "trackNumber": 7,
+      "duration": 157611,
+      "artistIds": [
+        "n43158",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n43158",
+          "role": "作词",
+          "raw": "作词 : 病态男孩/africakid",
+          "source": "https://music.163.com/song?id=2684301237",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : 病态男孩/africakid",
+          "source": "https://music.163.com/song?id=2684301237",
+          "level": "track"
+        },
+        {
+          "personId": "n43158",
+          "role": "作曲",
+          "raw": "作曲 : 病态男孩/africakid",
+          "source": "https://music.163.com/song?id=2684301237",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : 病态男孩/africakid",
+          "source": "https://music.163.com/song?id=2684301237",
+          "level": "track"
+        },
+        {
+          "personId": "cZGlidWs",
+          "role": "编曲",
+          "raw": "编曲 : Dibuk/病态男孩",
+          "source": "https://music.163.com/song?id=2684301237",
+          "level": "track"
+        },
+        {
+          "personId": "n43158",
+          "role": "编曲",
+          "raw": "编曲 : Dibuk/病态男孩",
+          "source": "https://music.163.com/song?id=2684301237",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 病态男孩/africakid",
+        "作曲 : 病态男孩/africakid",
+        "编曲 : Dibuk/病态男孩"
+      ],
+      "source": "https://music.163.com/song?id=2684301237",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2672238919",
+      "platformId": 2672238919,
+      "title": "男主角忧郁",
+      "aliases": [],
+      "albumId": "n261878670",
+      "date": "2025-02-06",
+      "trackNumber": 4,
+      "duration": 125999,
+      "artistIds": [
+        "n52253891",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2672238919",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2649599222",
+      "platformId": 2649599222,
+      "title": "why y hate me? ft. africakid",
+      "aliases": [],
+      "albumId": "n254774545",
+      "date": "2024-11-24",
+      "trackNumber": 7,
+      "duration": 90008,
+      "artistIds": [
+        "n50493223",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2649599222",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2647229266",
+      "platformId": 2647229266,
+      "title": "Waiting",
+      "aliases": [],
+      "albumId": "n254036976",
+      "date": "2024-11-17",
+      "trackNumber": 5,
+      "duration": 124474,
+      "artistIds": [
+        "n60280958",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2647229266",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644855321",
+      "platformId": 2644855321,
+      "title": "Paper chaser",
+      "aliases": [],
+      "albumId": "n252507248",
+      "date": "2024-11-10",
+      "trackNumber": 5,
+      "duration": 132418,
+      "artistIds": [
+        "n59677702",
+        "n37409740"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2644855321",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541677",
+      "platformId": 2644541677,
+      "title": "ME",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 1,
+      "duration": 68642,
+      "artistIds": [
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541677",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541677",
+          "level": "track"
+        },
+        {
+          "personId": "cdGFpbml5a2ljaw",
+          "role": "编曲",
+          "raw": "编曲: tainiykick",
+          "source": "https://music.163.com/song?id=2644541677",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: tainiykick"
+      ],
+      "source": "https://music.163.com/song?id=2644541677",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541741",
+      "platformId": 2644541741,
+      "title": "AQUAFINA",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 3,
+      "duration": 125758,
+      "artistIds": [
+        "n37409740",
+        "n12870490"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid/Toryondacloud",
+          "source": "https://music.163.com/song?id=2644541741",
+          "level": "track"
+        },
+        {
+          "personId": "n12870490",
+          "role": "作词",
+          "raw": "作词: africakid/Toryondacloud",
+          "source": "https://music.163.com/song?id=2644541741",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid/Toryondacloud",
+          "source": "https://music.163.com/song?id=2644541741",
+          "level": "track"
+        },
+        {
+          "personId": "n12870490",
+          "role": "作曲",
+          "raw": "作曲: africakid/Toryondacloud",
+          "source": "https://music.163.com/song?id=2644541741",
+          "level": "track"
+        },
+        {
+          "personId": "ccGluYWs",
+          "role": "编曲",
+          "raw": "编曲: Pinak",
+          "source": "https://music.163.com/song?id=2644541741",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid/Toryondacloud",
+        "作曲: africakid/Toryondacloud",
+        "编曲: Pinak"
+      ],
+      "source": "https://music.163.com/song?id=2644541741",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541756",
+      "platformId": 2644541756,
+      "title": "STOOPID",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 4,
+      "duration": 103583,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541756",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541756",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲: ATM Hanson",
+          "source": "https://music.163.com/song?id=2644541756",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2644541756",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541781",
+      "platformId": 2644541781,
+      "title": "WE OUTSIDE",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 5,
+      "duration": 135312,
+      "artistIds": [
+        "n37409740",
+        "n32870400",
+        "n51088331"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid/heechoo",
+          "source": "https://music.163.com/song?id=2644541781",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作词",
+          "raw": "作词: africakid/heechoo",
+          "source": "https://music.163.com/song?id=2644541781",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid/heechoo",
+          "source": "https://music.163.com/song?id=2644541781",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作曲",
+          "raw": "作曲: africakid/heechoo",
+          "source": "https://music.163.com/song?id=2644541781",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲: 付思遥",
+          "source": "https://music.163.com/song?id=2644541781",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid/heechoo",
+        "作曲: africakid/heechoo",
+        "编曲: 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2644541781",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541800",
+      "platformId": 2644541800,
+      "title": "LGB",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 6,
+      "duration": 143331,
+      "artistIds": [
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541800",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541800",
+          "level": "track"
+        },
+        {
+          "personId": "cYnZsbG9vbg",
+          "role": "编曲",
+          "raw": "编曲: Bvlloon",
+          "source": "https://music.163.com/song?id=2644541800",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: Bvlloon"
+      ],
+      "source": "https://music.163.com/song?id=2644541800",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541839",
+      "platformId": 2644541839,
+      "title": "WALK AROUND",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 7,
+      "duration": 136738,
+      "artistIds": [
+        "n37409740",
+        "n55315624",
+        "n51088331"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "c6LS-55yf",
+          "role": "作词",
+          "raw": "作词: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "c6LS-55yf",
+          "role": "作曲",
+          "raw": "作曲: africakid/贾真",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲: 付思遥",
+          "source": "https://music.163.com/song?id=2644541839",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid/贾真",
+        "作曲: africakid/贾真",
+        "编曲: 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2644541839",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541880",
+      "platformId": 2644541880,
+      "title": "PINGPONG",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 8,
+      "duration": 100964,
+      "artistIds": [
+        "n37409740",
+        "n31559757"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid/BombWayne",
+          "source": "https://music.163.com/song?id=2644541880",
+          "level": "track"
+        },
+        {
+          "personId": "n31559757",
+          "role": "作词",
+          "raw": "作词: africakid/BombWayne",
+          "source": "https://music.163.com/song?id=2644541880",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid/BombWayne",
+          "source": "https://music.163.com/song?id=2644541880",
+          "level": "track"
+        },
+        {
+          "personId": "n31559757",
+          "role": "作曲",
+          "raw": "作曲: africakid/BombWayne",
+          "source": "https://music.163.com/song?id=2644541880",
+          "level": "track"
+        },
+        {
+          "personId": "cdGFpbml5a2ljaw",
+          "role": "编曲",
+          "raw": "编曲: tainiykick",
+          "source": "https://music.163.com/song?id=2644541880",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid/BombWayne",
+        "作曲: africakid/BombWayne",
+        "编曲: tainiykick"
+      ],
+      "source": "https://music.163.com/song?id=2644541880",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541892",
+      "platformId": 2644541892,
+      "title": "CHECK",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 9,
+      "duration": 125638,
+      "artistIds": [
+        "n37409740",
+        "n13911452"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541892",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541892",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲: ATM Hanson",
+          "source": "https://music.163.com/song?id=2644541892",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2644541892",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541927",
+      "platformId": 2644541927,
+      "title": "BLUES N REDS",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 10,
+      "duration": 144603,
+      "artistIds": [
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541927",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541927",
+          "level": "track"
+        },
+        {
+          "personId": "ca3J5ZHM",
+          "role": "编曲",
+          "raw": "编曲: Kryds/FreezingHoodz",
+          "source": "https://music.163.com/song?id=2644541927",
+          "level": "track"
+        },
+        {
+          "personId": "cZnJlZXppbmdob29keg",
+          "role": "编曲",
+          "raw": "编曲: Kryds/FreezingHoodz",
+          "source": "https://music.163.com/song?id=2644541927",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: Kryds/FreezingHoodz"
+      ],
+      "source": "https://music.163.com/song?id=2644541927",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541949",
+      "platformId": 2644541949,
+      "title": "PILLS",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 11,
+      "duration": 145642,
+      "artistIds": [
+        "n37409740",
+        "n49439822"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid/Arthurnevawakes",
+          "source": "https://music.163.com/song?id=2644541949",
+          "level": "track"
+        },
+        {
+          "personId": "n49439822",
+          "role": "作词",
+          "raw": "作词: africakid/Arthurnevawakes",
+          "source": "https://music.163.com/song?id=2644541949",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid/Arthurnevawakes",
+          "source": "https://music.163.com/song?id=2644541949",
+          "level": "track"
+        },
+        {
+          "personId": "n49439822",
+          "role": "作曲",
+          "raw": "作曲: africakid/Arthurnevawakes",
+          "source": "https://music.163.com/song?id=2644541949",
+          "level": "track"
+        },
+        {
+          "personId": "ca2VpczQ0",
+          "role": "编曲",
+          "raw": "编曲: KEIS44/HUILAN",
+          "source": "https://music.163.com/song?id=2644541949",
+          "level": "track"
+        },
+        {
+          "personId": "caHVpbGFu",
+          "role": "编曲",
+          "raw": "编曲: KEIS44/HUILAN",
+          "source": "https://music.163.com/song?id=2644541949",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid/Arthurnevawakes",
+        "作曲: africakid/Arthurnevawakes",
+        "编曲: KEIS44/HUILAN"
+      ],
+      "source": "https://music.163.com/song?id=2644541949",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541014",
+      "platformId": 2644541014,
+      "title": "ANYTIME ANYWHERE",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 12,
+      "duration": 123482,
+      "artistIds": [
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541014",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541014",
+          "level": "track"
+        },
+        {
+          "personId": "cZGFtbmxpZmU",
+          "role": "编曲",
+          "raw": "编曲: DAMNLIFE",
+          "source": "https://music.163.com/song?id=2644541014",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: DAMNLIFE"
+      ],
+      "source": "https://music.163.com/song?id=2644541014",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2644541039",
+      "platformId": 2644541039,
+      "title": "IT’S US",
+      "aliases": [],
+      "albumId": "n253212745",
+      "date": "2024-11-08",
+      "trackNumber": 13,
+      "duration": 112365,
+      "artistIds": [
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词: africakid",
+          "source": "https://music.163.com/song?id=2644541039",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲: africakid",
+          "source": "https://music.163.com/song?id=2644541039",
+          "level": "track"
+        },
+        {
+          "personId": "ccmltYXRodWdnZXI",
+          "role": "编曲",
+          "raw": "编曲: rimathugger",
+          "source": "https://music.163.com/song?id=2644541039",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词: africakid",
+        "作曲: africakid",
+        "编曲: rimathugger"
+      ],
+      "source": "https://music.163.com/song?id=2644541039",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a6773035900",
+      "title": "SHENZHEN - Single",
+      "date": "2026-06-05",
+      "trackCount": 1,
+      "artist": "Africakid, laced & percup",
+      "source": "https://music.apple.com/cn/album/shenzhen-single/6773035900?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/50/68/49506891-d8c8-5d06-2d4a-755609b57cfe/5907983348707.png/100x100bb.jpg"
+    },
+    {
+      "id": "a1839889794",
+      "title": "GAMEBOI",
+      "date": "2025-09-20",
+      "trackCount": 25,
+      "artist": "Africakid & ATM Hanson",
+      "source": "https://music.apple.com/cn/album/gameboi/1839889794?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/21/f3/3e21f388-f7a4-857a-ac49-d967029d4a24/5026854019581.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期、下架与现场作品",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 68 首歌曲记录。部分早期非正式录音、SoundCloud 早期作品及下架单曲未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=37409740"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1784655288"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "网易云及 Apple Music 存在其他同名或衍生账号，未经逐曲核查前保持隔离，不因拼写相同合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=37409740"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1784655288"
+        }
+      ]
+    },
+    {
+      "title": "团体项目与合作逐曲参与",
+      "year": "团体发行",
+      "status": "按逐曲参与收录",
+      "detail": "《NSG》团体合辑共 17 首曲目，仅收录 africakid 明确逐曲参与的 10 首曲目，不把整张他人合辑算作个人独立作品。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=37409740"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "africakid / Africakid / 非洲孩子 姓名与别名",
+      "detail": "网易云官方主账号为“africakid”，支持 africakid、Africakid、AFRICAKID、Africa Kid、非洲孩子 搜索；Apple 官方主页为“Africakid”(ID 1784655288)。",
+      "sources": [
+        "https://music.163.com/artist?id=37409740",
+        "https://music.apple.com/cn/artist/1784655288"
+      ]
+    },
+    {
+      "title": "个人核心项目与专辑范围",
+      "detail": "收录《GAMEBOI》（25首）、《AFRICAKID》（12首）2 个个人核心项目，以及《NSG》（10首，团体项目）。",
+      "sources": [
+        "https://music.163.com/artist?id=37409740"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 68 条平台记录包含录音室版、合作曲及伴奏，不等于独立原创作品总数；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=37409740"
+      ]
+    }
+  ]
+}

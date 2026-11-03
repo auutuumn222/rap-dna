@@ -1,0 +1,4296 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n94753015",
+    "name": "DD Ma Shawty",
+    "short": "DD Ma Shawty",
+    "aliases": [
+      "DD Ma Shawty",
+      "DD Ma",
+      "dd ma",
+      "dd ma shawty",
+      "DDMa",
+      "天选之人"
+    ],
+    "portrait": "./assets/ddmashawty-portrait.jpg",
+    "portraitSource": "https://p1.music.126.net/rgB254GED00pwR4vk4_Psg==/109951173970655484.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=94753015"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1851131317"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 56,
+    "neteaseCollected": 56,
+    "neteaseHasMore": false,
+    "listedReleases": 7,
+    "associatedNeteaseReleases": 37,
+    "appleComparedReleases": 4,
+    "appleExtraTracks": 0,
+    "coreAlbums": 2,
+    "from": "2024-08-09",
+    "through": "2026-10-13",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 56 条公开目录记录，涵盖《S.I.T.L》、《21's Tears》等 2 个核心项目及与多位说唱音乐人的合作项目。合作发行按逐曲署名收录，早期及未上线作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n30544665",
+      "name": "无敌男孩",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30544665"
+    },
+    {
+      "id": "n94753015",
+      "name": "DD Ma Shawty",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94753015"
+    },
+    {
+      "id": "n98724675",
+      "name": "WHICHWAY_MUSIC",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=98724675"
+    },
+    {
+      "id": "n94851099",
+      "name": "UDG Records",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=94851099"
+    },
+    {
+      "id": "n48277407",
+      "name": "BOBBYNOPEACE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48277407"
+    },
+    {
+      "id": "n29235058",
+      "name": "云嘎",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29235058"
+    },
+    {
+      "id": "n37125681",
+      "name": "Young Cash Jason",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37125681"
+    },
+    {
+      "id": "n31093989",
+      "name": "LusciousBB",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31093989"
+    },
+    {
+      "id": "n53092067",
+      "name": "莽YouKnowDat",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53092067"
+    },
+    {
+      "id": "n94440805",
+      "name": "LiI SAD",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94440805"
+    },
+    {
+      "id": "n47917828",
+      "name": "OX0",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=47917828"
+    },
+    {
+      "id": "n121752269",
+      "name": "Garyy62",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=121752269"
+    },
+    {
+      "id": "n48858386",
+      "name": "JIMMY",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48858386"
+    },
+    {
+      "id": "n34534717",
+      "name": "4Goat",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34534717"
+    },
+    {
+      "id": "n48436890",
+      "name": "Taisheng Music",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=48436890"
+    },
+    {
+      "id": "n53100043",
+      "name": "艾洛樱Aluvin",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53100043"
+    },
+    {
+      "id": "n34597980",
+      "name": "Three thousand***",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34597980"
+    },
+    {
+      "id": "n59760050",
+      "name": "Kayda4redoll",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=59760050"
+    },
+    {
+      "id": "n36985400",
+      "name": "口",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=36985400"
+    },
+    {
+      "id": "n36184309",
+      "name": "林晨桉L-Now",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=36184309"
+    },
+    {
+      "id": "n59660179",
+      "name": "Bobo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=59660179"
+    },
+    {
+      "id": "n46360084",
+      "name": "ONLY1ONE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46360084"
+    },
+    {
+      "id": "n56054279",
+      "name": "Yxng Amiri",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=56054279"
+    },
+    {
+      "id": "n95579265",
+      "name": "Nudy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=95579265"
+    },
+    {
+      "id": "n49193448",
+      "name": "Zh_tNeverDie",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49193448"
+    },
+    {
+      "id": "n58362418",
+      "name": "Jeperdre",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=58362418"
+    },
+    {
+      "id": "n52731452",
+      "name": "Yvng Z1",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52731452"
+    },
+    {
+      "id": "n33067587",
+      "name": "ZAVIS",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33067587"
+    },
+    {
+      "id": "n34403771",
+      "name": "MayMoney",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34403771"
+    },
+    {
+      "id": "n49091724",
+      "name": "The 100",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49091724"
+    },
+    {
+      "id": "n55684262",
+      "name": "BenjaminFlyestMaddox",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=55684262"
+    },
+    {
+      "id": "n95996055",
+      "name": "Selfmadebabyosama",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=95996055"
+    },
+    {
+      "id": "n35831819",
+      "name": "R",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35831819"
+    },
+    {
+      "id": "n51004528",
+      "name": "Ben12",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51004528"
+    },
+    {
+      "id": "n34197368",
+      "name": "Lil Hendy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34197368"
+    },
+    {
+      "id": "n46440915",
+      "name": "核潜艇",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46440915"
+    },
+    {
+      "id": "n51450084",
+      "name": "用户745236988",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51450084"
+    },
+    {
+      "id": "cbmVyZmpheXkh",
+      "name": "nerfjayy!",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhhbms",
+      "name": "thank",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camFja2ll",
+      "name": "Jackie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXphemVs",
+      "name": "azazel",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ3gyMumDreaYn-W6jw",
+      "name": "GX22郭星序",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWxleA",
+      "name": "Alex",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cNGhhcnJ5",
+      "name": "4Harry",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6I2o6bq755a5",
+      "name": "荨麻疹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6JWB6bq755a5",
+      "name": "蕁麻疹",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbHY5",
+      "name": "Lv9",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca29vcw",
+      "name": "koos",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6YOt5a2Q6ZGreHg",
+      "name": "郭子鑫xx",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb2Nk",
+      "name": "Ocd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJpcHBpbnNoYXd0eQ",
+      "name": "drippinshawty",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZGphZGVk",
+      "name": "prodjaded",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c55S35Li75aSn5aOu5ouv5pWRbWl4",
+      "name": "男主大壮拯救mix",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ3Jhbnl0IGJlYXR6",
+      "name": "Granyt Beatz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c55uS5a2Q",
+      "name": "盒子",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGVuZw",
+      "name": "PENG",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGhhdGJvc3NldmFu",
+      "name": "ThatBossEvan",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGlsIGNoZW4",
+      "name": "Lil Chen",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caXRzYWthaWJlYXQ",
+      "name": "ItsaKaiBeat",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ29rZXZpbg",
+      "name": "Gokevin",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYnJ5Y2VkaWRpdGFnYWlu",
+      "name": "brycediditagain",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYmlnc3ZudGE",
+      "name": "BigSvnta",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY2lyY2xl",
+      "name": "Circle",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbWljaGUyeGJlYXRz",
+      "name": "miche2xbeats",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZGJ5amFja2ll",
+      "name": "ProdByJackie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYmFieXRodWdtYW4",
+      "name": "babythugman",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5riK5Y2a",
+      "name": "王渊博",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY29kZS40NDA",
+      "name": "CODE.440",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cY292ZQ",
+      "name": "Cove",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5pS_5YW4",
+      "name": "王政典",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccmFm",
+      "name": "RAF",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6IOh6KGM",
+      "name": "胡行",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caGFycnk",
+      "name": "Harry",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbm9ucGM",
+      "name": "NoNpc",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGFjeQ",
+      "name": "Pacy",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5q615bKa5p-v",
+      "name": "段岚柯",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZGJ5a2ltbXk",
+      "name": "ProdbyKimmy",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n403458960",
+      "title": "WUGETAPE",
+      "date": "2026-10-13",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "无敌男孩",
+        "WHICHWAY_MUSIC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-403458960.jpg",
+      "artworkSource": "https://p1.music.126.net/zE0lbdJtynl010D6DK_2Dg==/109951174097481823.jpg",
+      "source": "https://music.163.com/album?id=403458960",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3447003748"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n402563803",
+      "title": "UDG FRESHMAN 2026 SHOW",
+      "date": "2026-10-11",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "UDG Records"
+      ],
+      "label": "Undergr00ves",
+      "artwork": "./assets/album-402563803.jpg",
+      "artworkSource": "https://p1.music.126.net/yIco-8o-eq6P5CQ7ybIv-Q==/109951174087306724.jpg",
+      "source": "https://music.163.com/album?id=402563803",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3445099129"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n397597058",
+      "title": "罪冕",
+      "date": "2026-09-13",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "BOBBYNOPEACE"
+      ],
+      "label": "华纳音乐 x INDEcompany",
+      "artwork": "./assets/album-397597058.jpg",
+      "artworkSource": "https://p1.music.126.net/vdo6DnHm12P0fm6CAbcNsQ==/109951173920123200.jpg",
+      "source": "https://music.163.com/album?id=397597058",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3434340409"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n393536293",
+      "title": "FallingLuv",
+      "date": "2026-08-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "云嘎",
+        "DD Ma Shawty"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-393536293.jpg",
+      "artworkSource": "https://p1.music.126.net/vA7kRQOne1a-xlZKdF3izQ==/109951173782407977.jpg",
+      "source": "https://music.163.com/album?id=393536293",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3423433014"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n389463819",
+      "title": "Ain’t Enough",
+      "date": "2026-07-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "Young Cash Jason"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-389463819.jpg",
+      "artworkSource": "https://p1.music.126.net/hgkEcEydIA6SjM6fiTDM6g==/109951173652197760.jpg",
+      "source": "https://music.163.com/album?id=389463819",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3412604615"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n378341104",
+      "title": "AOE Pt.2",
+      "date": "2026-05-29",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "DD Ma Shawty",
+        "BOBBYNOPEACE",
+        "LusciousBB",
+        "INDEcompany"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-378341104.jpg",
+      "artworkSource": "https://p1.music.126.net/M2ANBjdU-kBc9l72oxY32w==/109951173280841594.jpg",
+      "source": "https://music.163.com/album?id=378341104",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3386224587"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n371527751",
+      "title": "干起走",
+      "date": "2026-04-20",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "莽YouKnowDat"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-371527751.jpg",
+      "artworkSource": "https://p2.music.126.net/-BAb5Z7iA9PTY6TRLJ0FgA==/109951173070808847.jpg",
+      "source": "https://music.163.com/album?id=371527751",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3371178406"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n361062892",
+      "title": "BANDO KID",
+      "date": "2026-02-06",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "LiI SAD"
+      ],
+      "label": null,
+      "artwork": "./assets/album-361062892.jpg",
+      "artworkSource": "https://p2.music.126.net/E7gdFyZ6aI9mFqM1tt1RHg==/109951172702598775.jpg",
+      "source": "https://music.163.com/album?id=361062892",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3347215475"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n356577250",
+      "title": "21's Tears",
+      "date": "2025-12-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "DD Ma Shawty"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-356577250.jpg",
+      "artworkSource": "https://p1.music.126.net/hhTkVzq463yyxN1Au_xHVw==/109951172516247404.jpg",
+      "source": "https://music.163.com/album?id=356577250",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3334046873",
+        "n3334046872",
+        "n3334046871",
+        "n3334045035",
+        "n3334045034",
+        "n3334045032",
+        "n3334045029",
+        "n3334045028"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n354085660",
+      "title": "The Voice of the North Vol.2",
+      "date": "2025-12-20",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "OX0"
+      ],
+      "label": "种梦音乐",
+      "artwork": "./assets/album-354085660.jpg",
+      "artworkSource": "https://p2.music.126.net/sp5SmqruELoStClGeH00Aw==/109951172453707047.jpg",
+      "source": "https://music.163.com/album?id=354085660",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3327133185"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n352485298",
+      "title": "Favorite Song",
+      "date": "2025-11-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Garyy62"
+      ],
+      "label": null,
+      "artwork": "./assets/album-352485298.jpg",
+      "artworkSource": "https://p2.music.126.net/MJ4jocNeu0c7qWJ5tKCqAQ==/109951172356647040.jpg",
+      "source": "https://music.163.com/album?id=352485298",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3323211915"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n350163953",
+      "title": "MILLIONTH",
+      "date": "2025-11-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "JIMMY"
+      ],
+      "label": null,
+      "artwork": "./assets/album-350163953.jpg",
+      "artworkSource": "https://p2.music.126.net/1erjLmCzl8LWw6K8fIedTg==/109951172186133510.jpg",
+      "source": "https://music.163.com/album?id=350163953",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3317469252"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n350178094",
+      "title": "Emotional Rollercoaster",
+      "date": "2025-11-14",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "4Goat",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-350178094.jpg",
+      "artworkSource": "https://p2.music.126.net/4O2-mg-hrzmgipe9qy7--w==/109951172272766395.jpg",
+      "source": "https://music.163.com/album?id=350178094",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3317229544"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n349476766",
+      "title": "旧路新门",
+      "date": "2025-11-09",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "艾洛樱Aluvin"
+      ],
+      "label": "INDE COMPANY",
+      "artwork": "./assets/album-349476766.jpg",
+      "artworkSource": "https://p2.music.126.net/pmQHrxbUrLdXnekGoMQz4w==/109951172244742918.jpg",
+      "source": "https://music.163.com/album?id=349476766",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3315212400"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n289142693",
+      "title": "湖心",
+      "date": "2025-10-22",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "Three thousand***"
+      ],
+      "label": null,
+      "artwork": "./assets/album-289142693.jpg",
+      "artworkSource": "https://p2.music.126.net/jran8bUBacmmcwWkBHBjHA==/109951172178185346.jpg",
+      "source": "https://music.163.com/album?id=289142693",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2757550532"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n280763359",
+      "title": "IIMOTS",
+      "date": "2025-08-08",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "Kayda4redoll"
+      ],
+      "label": null,
+      "artwork": "./assets/album-280763359.jpg",
+      "artworkSource": "https://p2.music.126.net/5NLoX9b8I8JHYMtJxpYfBw==/109951171797523248.jpg",
+      "source": "https://music.163.com/album?id=280763359",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2741729962"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n277426588",
+      "title": "Obey God's will",
+      "date": "2025-07-06",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "口"
+      ],
+      "label": null,
+      "artwork": "./assets/album-277426588.jpg",
+      "artworkSource": "https://p2.music.126.net/JvR32YHdc7tVzbkXT6M4AA==/109951171412500310.jpg",
+      "source": "https://music.163.com/album?id=277426588",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2723148325"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n275696516",
+      "title": "Broken Vows 3",
+      "date": "2025-06-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "Young Cash Jason"
+      ],
+      "label": null,
+      "artwork": "./assets/album-275696516.jpg",
+      "artworkSource": "https://p2.music.126.net/W4Db9MhOyDE5YZv8ciJMWQ==/109951171331163097.jpg",
+      "source": "https://music.163.com/album?id=275696516",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2717165955"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n273417593",
+      "title": "Kill The Pain",
+      "date": "2025-05-31",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 3,
+      "artistNames": [
+        "林晨桉L-Now"
+      ],
+      "label": null,
+      "artwork": "./assets/album-273417593.jpg",
+      "artworkSource": "https://p2.music.126.net/0army5U3k1qezD6vCUMRZA==/109951171131589777.jpg",
+      "source": "https://music.163.com/album?id=273417593",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2709830317"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n271898193",
+      "title": "Let’s Get Stuffed",
+      "date": "2025-05-16",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "Bobo"
+      ],
+      "label": "独立发行",
+      "artwork": "./assets/album-271898193.jpg",
+      "artworkSource": "https://p2.music.126.net/0BH7Zw5hfOjXv9eliyEsaQ==/109951170980889350.jpg",
+      "source": "https://music.163.com/album?id=271898193",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2704623720"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n269667770",
+      "title": "No Style Vol.1",
+      "date": "2025-04-22",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "ONLY1ONE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-269667770.jpg",
+      "artworkSource": "https://p2.music.126.net/76-WmrX3y9LM2xc8v6eFDg==/109951170756747362.jpg",
+      "source": "https://music.163.com/album?id=269667770",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2697269695"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n269552915",
+      "title": "MUST KEEP MY 3WAG",
+      "date": "2025-04-20",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Nudy"
+      ],
+      "label": null,
+      "artwork": "./assets/album-269552915.jpg",
+      "artworkSource": "https://p2.music.126.net/NdFh53kx3S5VXOoV9uKipA==/109951170753969636.jpg",
+      "source": "https://music.163.com/album?id=269552915",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2697004946"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n269223029",
+      "title": "Street Scars",
+      "date": "2025-04-19",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "Zh_tNeverDie"
+      ],
+      "label": null,
+      "artwork": "./assets/album-269223029.jpg",
+      "artworkSource": "https://p2.music.126.net/6KSLOIgu3RvW3TZjrnxXPQ==/109951170726537569.jpg",
+      "source": "https://music.163.com/album?id=269223029",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2696102917"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n268831771",
+      "title": "一锤定音",
+      "date": "2025-04-12",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "Jeperdre"
+      ],
+      "label": null,
+      "artwork": "./assets/album-268831771.jpg",
+      "artworkSource": "https://p1.music.126.net/RbG5yBYf6vLEI0O0KoWYqw==/109951170717338958.jpg",
+      "source": "https://music.163.com/album?id=268831771",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2694354571"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n264954184",
+      "title": "City Pain",
+      "date": "2025-03-09",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Yvng Z1"
+      ],
+      "label": null,
+      "artwork": "./assets/album-264954184.jpg",
+      "artworkSource": "https://p1.music.126.net/ZS9x8IaMjSRasAP_O8ctNA==/109951170437290536.jpg",
+      "source": "https://music.163.com/album?id=264954184",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2681775113"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n259100883",
+      "title": "Falling Season",
+      "date": "2025-01-12",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "OX0"
+      ],
+      "label": null,
+      "artwork": "./assets/album-259100883.jpg",
+      "artworkSource": "https://p1.music.126.net/cP2WnCK_ozlBWjMh-XQAAw==/109951170360680217.jpg",
+      "source": "https://music.163.com/album?id=259100883",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2664798413"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n258903730",
+      "title": "RedParade",
+      "date": "2025-01-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "无敌男孩"
+      ],
+      "label": null,
+      "artwork": "./assets/album-258903730.jpg",
+      "artworkSource": "https://p1.music.126.net/4k54wC6l_yCG0lXjbT3-cA==/109951170355472169.jpg",
+      "source": "https://music.163.com/album?id=258903730",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2663608268"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n258874224",
+      "title": "S.I.T.L",
+      "date": "2025-01-08",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "DD Ma Shawty"
+      ],
+      "label": null,
+      "artwork": "./assets/album-258874224.jpg",
+      "artworkSource": "https://p1.music.126.net/uEVv5f4HgUQH2UYH__lEOQ==/109951170354208723.jpg",
+      "source": "https://music.163.com/album?id=258874224",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n2663557366",
+        "n2663555900",
+        "n2663550991",
+        "n2663547337",
+        "n2663545652",
+        "n2663540451",
+        "n2663536801",
+        "n2663536619",
+        "n2663530891",
+        "n2663526945",
+        "n2663524558",
+        "n2663514971"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n257935000",
+      "title": "M3A 2W4",
+      "date": "2025-01-03",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "BenjaminFlyestMaddox"
+      ],
+      "label": null,
+      "artwork": "./assets/album-257935000.jpg",
+      "artworkSource": "https://p2.music.126.net/BiEDNj-17I6nVcuJU6alzA==/109951173467127637.jpg",
+      "source": "https://music.163.com/album?id=257935000",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2660348420",
+        "n2660343870"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n257677992",
+      "title": "Last Christmas",
+      "date": "2024-12-25",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 3,
+      "artistNames": [
+        "R"
+      ],
+      "label": null,
+      "artwork": "./assets/album-257677992.jpg",
+      "artworkSource": "https://p2.music.126.net/RldvxSRZ9r27iQb0LUCMPA==/109951170301570961.jpg",
+      "source": "https://music.163.com/album?id=257677992",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2659454425"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n256471964",
+      "title": "collapse level",
+      "date": "2024-12-11",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "Ben12"
+      ],
+      "label": null,
+      "artwork": "./assets/album-256471964.jpg",
+      "artworkSource": "https://p2.music.126.net/cIcfnq9eg_M1NPbIFMBfDQ==/109951170242880980.jpg",
+      "source": "https://music.163.com/album?id=256471964",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2655130956"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n252450410",
+      "title": "Neighborhood Hero",
+      "date": "2024-11-17",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "Yxng Amiri"
+      ],
+      "label": null,
+      "artwork": "./assets/album-252450410.jpg",
+      "artworkSource": "https://p1.music.126.net/fnAjIoDbUEuuAp-9ZWVFfw==/109951170633334379.jpg",
+      "source": "https://music.163.com/album?id=252450410",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2641923896"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n249170578",
+      "title": "Street emotion",
+      "date": "2024-10-02",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "Lil Hendy"
+      ],
+      "label": null,
+      "artwork": "./assets/album-249170578.jpg",
+      "artworkSource": "https://p2.music.126.net/3Gog4DOtc_agHlAxz_TZew==/109951169997837714.jpg",
+      "source": "https://music.163.com/album?id=249170578",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2631632991"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n249295416",
+      "title": "Hope you well",
+      "date": "2024-09-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "DD Ma Shawty"
+      ],
+      "label": null,
+      "artwork": "./assets/album-249295416.jpg",
+      "artworkSource": "https://p1.music.126.net/2G0_6Q_sRIGncNxmYHPhNA==/109951170001319300.jpg",
+      "source": "https://music.163.com/album?id=249295416",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2632024570"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n245432715",
+      "title": "R I P",
+      "date": "2024-08-21",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "DD Ma Shawty"
+      ],
+      "label": null,
+      "artwork": "./assets/album-245432715.jpg",
+      "artworkSource": "https://p1.music.126.net/yPo2FCb6G8ekT4lswoViAw==/109951169848659731.jpg",
+      "source": "https://music.163.com/album?id=245432715",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2618841394"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n245246564",
+      "title": "桥",
+      "date": "2024-08-16",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "DD Ma Shawty"
+      ],
+      "label": null,
+      "artwork": "./assets/album-245246564.jpg",
+      "artworkSource": "https://p2.music.126.net/ZpXVoX_RmopQSK3CeKlICw==/109951168595519373.jpg",
+      "source": "https://music.163.com/album?id=245246564",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2618591281"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n244357560",
+      "title": "懂自懂",
+      "date": "2024-08-09",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "核潜艇",
+        "用户745236988",
+        "亚洲第一匪王"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-244357560.jpg",
+      "artworkSource": "https://p1.music.126.net/wAs0GJNSWMoRJD09jx-FjQ==/109951170629601681.jpg",
+      "source": "https://music.163.com/album?id=244357560",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2615093723"
+      ],
+      "listedOnArtist": false
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3447003748",
+      "platformId": 3447003748,
+      "title": "他沉默我远走",
+      "aliases": [],
+      "albumId": "n403458960",
+      "date": "2026-10-13",
+      "trackNumber": 7,
+      "duration": 123428,
+      "artistIds": [
+        "n30544665",
+        "n94753015",
+        "n98724675"
+      ],
+      "credits": [
+        {
+          "personId": "n30544665",
+          "role": "作词",
+          "raw": "作词 : 无敌男孩/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3447003748",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : 无敌男孩/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3447003748",
+          "level": "track"
+        },
+        {
+          "personId": "n30544665",
+          "role": "作曲",
+          "raw": "作曲 : 无敌男孩/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3447003748",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : 无敌男孩/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3447003748",
+          "level": "track"
+        },
+        {
+          "personId": "cbmVyZmpheXkh",
+          "role": "编曲",
+          "raw": "编曲 : nerfjayy!",
+          "source": "https://music.163.com/song?id=3447003748",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhhbms",
+          "role": "混音",
+          "raw": "混音 : thank",
+          "source": "https://music.163.com/song?id=3447003748",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 无敌男孩/DD Ma Shawty",
+        "作曲 : 无敌男孩/DD Ma Shawty",
+        "编曲 : nerfjayy!",
+        "混音 : thank"
+      ],
+      "source": "https://music.163.com/song?id=3447003748",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3445099129",
+      "platformId": 3445099129,
+      "title": "伥",
+      "aliases": [],
+      "albumId": "n402563803",
+      "date": "2026-10-11",
+      "trackNumber": 7,
+      "duration": 125807,
+      "artistIds": [
+        "n94851099",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "camFja2ll",
+          "role": "制作人",
+          "raw": "制作人 : Jackie/azazel",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "cYXphemVs",
+          "role": "制作人",
+          "raw": "制作人 : Jackie/azazel",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhhbms",
+          "role": "混音",
+          "raw": "混音 : thank",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "cZ3gyMumDreaYn-W6jw",
+          "role": "母带",
+          "raw": "母带 : GX22郭星序",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "cYXphemVs",
+          "role": "监制",
+          "raw": "监制 : azazel/Alex",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxleA",
+          "role": "监制",
+          "raw": "监制 : azazel/Alex",
+          "source": "https://music.163.com/song?id=3445099129",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "制作人 : Jackie/azazel",
+        "混音 : thank",
+        "母带 : GX22郭星序",
+        "监制 : azazel/Alex"
+      ],
+      "source": "https://music.163.com/song?id=3445099129",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3434340409",
+      "platformId": 3434340409,
+      "title": "回到握手楼FT· DD Ma Shawty",
+      "aliases": [],
+      "albumId": "n397597058",
+      "date": "2026-09-13",
+      "trackNumber": 9,
+      "duration": 190967,
+      "artistIds": [
+        "n48277407",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "n48277407",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "n48277407",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "cNGhhcnJ5",
+          "role": "制作人",
+          "raw": "制作人 : 4Harry",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "混音",
+          "raw": "混音 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "c6I2o6bq755a5",
+          "role": "母带",
+          "raw": "母带 : 荨麻疹",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "cNGhhcnJ5",
+          "role": "编曲",
+          "raw": "编曲 : 4Harry",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        },
+        {
+          "personId": "c6JWB6bq755a5",
+          "role": "母带",
+          "raw": "母带工程师 : 蕁麻疹",
+          "source": "https://music.163.com/song?id=3434340409",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty/BOBBYNOPEACE",
+        "作曲 : DD Ma Shawty/BOBBYNOPEACE",
+        "制作人 : 4Harry",
+        "混音 : 荨麻疹",
+        "母带 : 荨麻疹",
+        "编曲 : 4Harry",
+        "母带工程师 : 蕁麻疹"
+      ],
+      "source": "https://music.163.com/song?id=3434340409",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3423433014",
+      "platformId": 3423433014,
+      "title": "FallingLuv",
+      "aliases": [],
+      "albumId": "n393536293",
+      "date": "2026-08-19",
+      "trackNumber": 1,
+      "duration": 151875,
+      "artistIds": [
+        "n29235058",
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3423433014",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3412604615",
+      "platformId": 3412604615,
+      "title": "Hard Time",
+      "aliases": [],
+      "albumId": "n389463819",
+      "date": "2026-07-31",
+      "trackNumber": 8,
+      "duration": 167696,
+      "artistIds": [
+        "n37125681",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n37125681",
+          "role": "作词",
+          "raw": "作词 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "n37125681",
+          "role": "作曲",
+          "raw": "作曲 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "cbHY5",
+          "role": "编曲",
+          "raw": "编曲 : Lv9",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "ca29vcw",
+          "role": "制作人",
+          "raw": "制作人 : koos/Young Cash Jason",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "n37125681",
+          "role": "制作人",
+          "raw": "制作人 : koos/Young Cash Jason",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "c6YOt5a2Q6ZGreHg",
+          "role": "混音",
+          "raw": "混音 : 郭子鑫xx/Young Cash Jason",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "n37125681",
+          "role": "混音",
+          "raw": "混音 : 郭子鑫xx/Young Cash Jason",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制 : Ocd/koos",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        },
+        {
+          "personId": "ca29vcw",
+          "role": "监制",
+          "raw": "监制 : Ocd/koos",
+          "source": "https://music.163.com/song?id=3412604615",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Young Cash Jason/DD Ma Shawty",
+        "作曲 : Young Cash Jason/DD Ma Shawty",
+        "编曲 : Lv9",
+        "制作人 : koos/Young Cash Jason",
+        "混音 : 郭子鑫xx/Young Cash Jason",
+        "监制 : Ocd/koos"
+      ],
+      "source": "https://music.163.com/song?id=3412604615",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3386224587",
+      "platformId": 3386224587,
+      "title": "AOE Pt.2",
+      "aliases": [],
+      "albumId": "n378341104",
+      "date": "2026-05-29",
+      "trackNumber": 1,
+      "duration": 166406,
+      "artistIds": [
+        "n94753015",
+        "n48277407",
+        "n31093989"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3386224587",
+          "level": "track"
+        },
+        {
+          "personId": "n48277407",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3386224587",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3386224587",
+          "level": "track"
+        },
+        {
+          "personId": "n48277407",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/BOBBYNOPEACE",
+          "source": "https://music.163.com/song?id=3386224587",
+          "level": "track"
+        },
+        {
+          "personId": "n31093989",
+          "role": "编曲",
+          "raw": "编曲 : LusciousBB",
+          "source": "https://music.163.com/song?id=3386224587",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJpcHBpbnNoYXd0eQ",
+          "role": "混音",
+          "raw": "混音：drippinshawty",
+          "source": "https://music.163.com/song?id=3386224587",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty/BOBBYNOPEACE",
+        "作曲 : DD Ma Shawty/BOBBYNOPEACE",
+        "编曲 : LusciousBB",
+        "混音：drippinshawty"
+      ],
+      "source": "https://music.163.com/song?id=3386224587",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3371178406",
+      "platformId": 3371178406,
+      "title": "My Stoner",
+      "aliases": [],
+      "albumId": "n371527751",
+      "date": "2026-04-20",
+      "trackNumber": 5,
+      "duration": 132848,
+      "artistIds": [
+        "n53092067",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n53092067",
+          "role": "作词",
+          "raw": "作词 : 莽YouKnowDat/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : 莽YouKnowDat/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        },
+        {
+          "personId": "n53092067",
+          "role": "作曲",
+          "raw": "作曲 : 莽YouKnowDat/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : 莽YouKnowDat/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZGphZGVk",
+          "role": "编曲",
+          "raw": "编曲 : prodjaded",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        },
+        {
+          "personId": "c55S35Li75aSn5aOu5ouv5pWRbWl4",
+          "role": "混音",
+          "raw": "混音 : 男主大壮拯救mix",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        },
+        {
+          "personId": "c55S35Li75aSn5aOu5ouv5pWRbWl4",
+          "role": "母带",
+          "raw": "母带 : 男主大壮拯救mix",
+          "source": "https://music.163.com/song?id=3371178406",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 莽YouKnowDat/DD Ma Shawty",
+        "作曲 : 莽YouKnowDat/DD Ma Shawty",
+        "编曲 : prodjaded",
+        "混音 : 男主大壮拯救mix",
+        "母带 : 男主大壮拯救mix"
+      ],
+      "source": "https://music.163.com/song?id=3371178406",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3347215475",
+      "platformId": 3347215475,
+      "title": "BANDO KID",
+      "aliases": [],
+      "albumId": "n361062892",
+      "date": "2026-02-06",
+      "trackNumber": 1,
+      "duration": 162679,
+      "artistIds": [
+        "n94440805",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94440805",
+          "role": "作词",
+          "raw": "作词 : LiI SAD",
+          "source": "https://music.163.com/song?id=3347215475",
+          "level": "track"
+        },
+        {
+          "personId": "n94440805",
+          "role": "作曲",
+          "raw": "作曲 : LiI SAD",
+          "source": "https://music.163.com/song?id=3347215475",
+          "level": "track"
+        },
+        {
+          "personId": "n94440805",
+          "role": "编曲",
+          "raw": "编曲 : LiI SAD",
+          "source": "https://music.163.com/song?id=3347215475",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : LiI SAD",
+        "作曲 : LiI SAD",
+        "编曲 : LiI SAD"
+      ],
+      "source": "https://music.163.com/song?id=3347215475",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334046871",
+      "platformId": 3334046871,
+      "title": "Diamond Tear (钻石泪)",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 1,
+      "duration": 138667,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334046871",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334046871",
+          "level": "track"
+        },
+        {
+          "personId": "caXRzYWthaWJlYXQ",
+          "role": "编曲",
+          "raw": "编曲 : ItsaKaiBeat",
+          "source": "https://music.163.com/song?id=3334046871",
+          "level": "track"
+        },
+        {
+          "personId": "cZ29rZXZpbg",
+          "role": "混音",
+          "raw": "混音 : Gokevin",
+          "source": "https://music.163.com/song?id=3334046871",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334046871",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334046871",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : ItsaKaiBeat",
+        "混音 : Gokevin",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334046871",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334045028",
+      "platformId": 3334045028,
+      "title": "情绪零碎",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 2,
+      "duration": 167012,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045028",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045028",
+          "level": "track"
+        },
+        {
+          "personId": "cYnJ5Y2VkaWRpdGFnYWlu",
+          "role": "编曲",
+          "raw": "编曲 : brycediditagain",
+          "source": "https://music.163.com/song?id=3334045028",
+          "level": "track"
+        },
+        {
+          "personId": "c55uS5a2Q",
+          "role": "混音",
+          "raw": "混音 : 盒子",
+          "source": "https://music.163.com/song?id=3334045028",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334045028",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334045028",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : brycediditagain",
+        "混音 : 盒子",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334045028",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334045029",
+      "platformId": 3334045029,
+      "title": "Choppa Pt.2",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 3,
+      "duration": 92743,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045029",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045029",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZGJ5amFja2ll",
+          "role": "编曲",
+          "raw": "编曲 : ProdByJackie",
+          "source": "https://music.163.com/song?id=3334045029",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音 : Circle",
+          "source": "https://music.163.com/song?id=3334045029",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334045029",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334045029",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : ProdByJackie",
+        "混音 : Circle",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334045029",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334045032",
+      "platformId": 3334045032,
+      "title": "Everything For Free",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 4,
+      "duration": 184051,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045032",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045032",
+          "level": "track"
+        },
+        {
+          "personId": "cbWljaGUyeGJlYXRz",
+          "role": "编曲",
+          "raw": "编曲 : miche2xbeats",
+          "source": "https://music.163.com/song?id=3334045032",
+          "level": "track"
+        },
+        {
+          "personId": "cZ29rZXZpbg",
+          "role": "混音",
+          "raw": "混音 : gokevin",
+          "source": "https://music.163.com/song?id=3334045032",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334045032",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334045032",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : miche2xbeats",
+        "混音 : gokevin",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334045032",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334046872",
+      "platformId": 3334046872,
+      "title": "AOE (All Of Everything)",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 5,
+      "duration": 164571,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334046872",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334046872",
+          "level": "track"
+        },
+        {
+          "personId": "cdGhhdGJvc3NldmFu",
+          "role": "编曲",
+          "raw": "编曲 : ThatBossEvan",
+          "source": "https://music.163.com/song?id=3334046872",
+          "level": "track"
+        },
+        {
+          "personId": "cbGlsIGNoZW4",
+          "role": "混音",
+          "raw": "混音 : Lil Chen",
+          "source": "https://music.163.com/song?id=3334046872",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334046872",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334046872",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : ThatBossEvan",
+        "混音 : Lil Chen",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334046872",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334046873",
+      "platformId": 3334046873,
+      "title": "Don't Need Time (Remix)",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 6,
+      "duration": 115360,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334046873",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334046873",
+          "level": "track"
+        },
+        {
+          "personId": "cZ3Jhbnl0IGJlYXR6",
+          "role": "编曲",
+          "raw": "编曲 : Granyt Beatz",
+          "source": "https://music.163.com/song?id=3334046873",
+          "level": "track"
+        },
+        {
+          "personId": "c55uS5a2Q",
+          "role": "混音",
+          "raw": "混音 : 盒子",
+          "source": "https://music.163.com/song?id=3334046873",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334046873",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334046873",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : Granyt Beatz",
+        "混音 : 盒子",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334046873",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "remix",
+      "status": "platform"
+    },
+    {
+      "id": "n3334045034",
+      "platformId": 3334045034,
+      "title": "Asian Power (亚洲之力)",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 7,
+      "duration": 120032,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045034",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045034",
+          "level": "track"
+        },
+        {
+          "personId": "cYmlnc3ZudGE",
+          "role": "编曲",
+          "raw": "编曲 : BigSvnta",
+          "source": "https://music.163.com/song?id=3334045034",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音 : Circle",
+          "source": "https://music.163.com/song?id=3334045034",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334045034",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334045034",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : BigSvnta",
+        "混音 : Circle",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334045034",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3334045035",
+      "platformId": 3334045035,
+      "title": "Brother Price",
+      "aliases": [],
+      "albumId": "n356577250",
+      "date": "2025-12-31",
+      "trackNumber": 8,
+      "duration": 139921,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045035",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3334045035",
+          "level": "track"
+        },
+        {
+          "personId": "cYnJ5Y2VkaWRpdGFnYWlu",
+          "role": "编曲",
+          "raw": "编曲 : brycediditagain",
+          "source": "https://music.163.com/song?id=3334045035",
+          "level": "track"
+        },
+        {
+          "personId": "c55uS5a2Q",
+          "role": "混音",
+          "raw": "混音 : 盒子",
+          "source": "https://music.163.com/song?id=3334045035",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3334045035",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "制作人",
+          "raw": "制作人：PENG",
+          "source": "https://music.163.com/song?id=3334045035",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : brycediditagain",
+        "混音 : 盒子",
+        "监制：Ocd",
+        "制作人：PENG"
+      ],
+      "source": "https://music.163.com/song?id=3334045035",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3327133185",
+      "platformId": 3327133185,
+      "title": "顶男",
+      "aliases": [],
+      "albumId": "n354085660",
+      "date": "2025-12-20",
+      "trackNumber": 10,
+      "duration": 135750,
+      "artistIds": [
+        "n47917828",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n47917828",
+          "role": "作词",
+          "raw": "作词 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3327133185",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3327133185",
+          "level": "track"
+        },
+        {
+          "personId": "n47917828",
+          "role": "作曲",
+          "raw": "作曲 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3327133185",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=3327133185",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : OX0/DD Ma Shawty",
+        "作曲 : OX0/DD Ma Shawty"
+      ],
+      "source": "https://music.163.com/song?id=3327133185",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3323211915",
+      "platformId": 3323211915,
+      "title": "Favorite Song（ft.DD Ma Shawty）",
+      "aliases": [],
+      "albumId": "n352485298",
+      "date": "2025-11-30",
+      "trackNumber": 1,
+      "duration": 202859,
+      "artistIds": [
+        "n121752269",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n121752269",
+          "role": "作词",
+          "raw": "作词 : Garyy62",
+          "source": "https://music.163.com/song?id=3323211915",
+          "level": "track"
+        },
+        {
+          "personId": "n121752269",
+          "role": "作曲",
+          "raw": "作曲 : Garyy62",
+          "source": "https://music.163.com/song?id=3323211915",
+          "level": "track"
+        },
+        {
+          "personId": "n121752269",
+          "role": "编曲",
+          "raw": "编曲 : Garyy62",
+          "source": "https://music.163.com/song?id=3323211915",
+          "level": "track"
+        },
+        {
+          "personId": "cYmFieXRodWdtYW4",
+          "role": "混音",
+          "raw": "混音&母带：babythugman",
+          "source": "https://music.163.com/song?id=3323211915",
+          "level": "track"
+        },
+        {
+          "personId": "cYmFieXRodWdtYW4",
+          "role": "母带",
+          "raw": "混音&母带：babythugman",
+          "source": "https://music.163.com/song?id=3323211915",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Garyy62",
+        "作曲 : Garyy62",
+        "编曲 : Garyy62",
+        "混音&母带：babythugman"
+      ],
+      "source": "https://music.163.com/song?id=3323211915",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3317469252",
+      "platformId": 3317469252,
+      "title": "F.B.M",
+      "aliases": [],
+      "albumId": "n350163953",
+      "date": "2025-11-28",
+      "trackNumber": 8,
+      "duration": 191146,
+      "artistIds": [
+        "n48858386",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n48858386",
+          "role": "作词",
+          "raw": "作词 : JIMMY",
+          "source": "https://music.163.com/song?id=3317469252",
+          "level": "track"
+        },
+        {
+          "personId": "n48858386",
+          "role": "作曲",
+          "raw": "作曲 : JIMMY",
+          "source": "https://music.163.com/song?id=3317469252",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : JIMMY",
+        "作曲 : JIMMY"
+      ],
+      "source": "https://music.163.com/song?id=3317469252",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3317229544",
+      "platformId": 3317229544,
+      "title": "纸飞机",
+      "aliases": [],
+      "albumId": "n350178094",
+      "date": "2025-11-14",
+      "trackNumber": 13,
+      "duration": 179999,
+      "artistIds": [
+        "n34534717",
+        "n94753015",
+        "n48436890"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3317229544",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3315212400",
+      "platformId": 3315212400,
+      "title": "街头力量",
+      "aliases": [],
+      "albumId": "n349476766",
+      "date": "2025-11-09",
+      "trackNumber": 3,
+      "duration": 143414,
+      "artistIds": [
+        "n53100043",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "制作人",
+          "raw": "制作人 : 王渊博",
+          "source": "https://music.163.com/song?id=3315212400",
+          "level": "track"
+        },
+        {
+          "personId": "cY29kZS40NDA",
+          "role": "编曲",
+          "raw": "编曲 : CODE.440",
+          "source": "https://music.163.com/song?id=3315212400",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5riK5Y2a",
+          "role": "混音",
+          "raw": "混音 : 王渊博",
+          "source": "https://music.163.com/song?id=3315212400",
+          "level": "track"
+        },
+        {
+          "personId": "ccGVuZw",
+          "role": "监制",
+          "raw": "监制 : PENG/Cove",
+          "source": "https://music.163.com/song?id=3315212400",
+          "level": "track"
+        },
+        {
+          "personId": "cY292ZQ",
+          "role": "监制",
+          "raw": "监制 : PENG/Cove",
+          "source": "https://music.163.com/song?id=3315212400",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "制作人 : 王渊博",
+        "编曲 : CODE.440",
+        "混音 : 王渊博",
+        "监制 : PENG/Cove"
+      ],
+      "source": "https://music.163.com/song?id=3315212400",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2757550532",
+      "platformId": 2757550532,
+      "title": "Long Way From The Hill",
+      "aliases": [],
+      "albumId": "n289142693",
+      "date": "2025-10-22",
+      "trackNumber": 2,
+      "duration": 133999,
+      "artistIds": [
+        "n34597980",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n34597980",
+          "role": "作词",
+          "raw": "作词 : Three thousand***/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : Three thousand***/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        },
+        {
+          "personId": "n34597980",
+          "role": "作曲",
+          "raw": "作曲 : Three thousand***/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : Three thousand***/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        },
+        {
+          "personId": "n34403771",
+          "role": "编曲",
+          "raw": "编曲 : MayMoney",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        },
+        {
+          "personId": "cbGlsIGNoZW4",
+          "role": "混音",
+          "raw": "混音&母带 : Lil Chen",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        },
+        {
+          "personId": "cbGlsIGNoZW4",
+          "role": "母带",
+          "raw": "混音&母带 : Lil Chen",
+          "source": "https://music.163.com/song?id=2757550532",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Three thousand***/DD Ma Shawty",
+        "作曲 : Three thousand***/DD Ma Shawty",
+        "编曲 : MayMoney",
+        "混音&母带 : Lil Chen"
+      ],
+      "source": "https://music.163.com/song?id=2757550532",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2741729962",
+      "platformId": 2741729962,
+      "title": "Lie2me（Ft.DD Ma Shawty）",
+      "aliases": [],
+      "albumId": "n280763359",
+      "date": "2025-08-08",
+      "trackNumber": 7,
+      "duration": 196011,
+      "artistIds": [
+        "n59760050",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n59760050",
+          "role": "作词",
+          "raw": "作词 : Kayda4redoll",
+          "source": "https://music.163.com/song?id=2741729962",
+          "level": "track"
+        },
+        {
+          "personId": "n59760050",
+          "role": "作曲",
+          "raw": "作曲 : Kayda4redoll",
+          "source": "https://music.163.com/song?id=2741729962",
+          "level": "track"
+        },
+        {
+          "personId": "n59760050",
+          "role": "编曲",
+          "raw": "编曲 : Kayda4redoll",
+          "source": "https://music.163.com/song?id=2741729962",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音: Circle",
+          "source": "https://music.163.com/song?id=2741729962",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Kayda4redoll",
+        "作曲 : Kayda4redoll",
+        "编曲 : Kayda4redoll",
+        "混音: Circle"
+      ],
+      "source": "https://music.163.com/song?id=2741729962",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2723148325",
+      "platformId": 2723148325,
+      "title": "Obey God's will",
+      "aliases": [],
+      "albumId": "n277426588",
+      "date": "2025-07-06",
+      "trackNumber": 1,
+      "duration": 168152,
+      "artistIds": [
+        "n36985400",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n36985400",
+          "role": "作词",
+          "raw": "作词 : 口",
+          "source": "https://music.163.com/song?id=2723148325",
+          "level": "track"
+        },
+        {
+          "personId": "n36985400",
+          "role": "作曲",
+          "raw": "作曲 : 口",
+          "source": "https://music.163.com/song?id=2723148325",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 口",
+        "作曲 : 口"
+      ],
+      "source": "https://music.163.com/song?id=2723148325",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2717165955",
+      "platformId": 2717165955,
+      "title": "Rock out3",
+      "aliases": [],
+      "albumId": "n275696516",
+      "date": "2025-06-27",
+      "trackNumber": 5,
+      "duration": 122415,
+      "artistIds": [
+        "n37125681",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n37125681",
+          "role": "作词",
+          "raw": "作词 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2717165955",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2717165955",
+          "level": "track"
+        },
+        {
+          "personId": "n37125681",
+          "role": "作曲",
+          "raw": "作曲 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2717165955",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : Young Cash Jason/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2717165955",
+          "level": "track"
+        },
+        {
+          "personId": "ca29vcw",
+          "role": "制作人",
+          "raw": "制作人 : koos",
+          "source": "https://music.163.com/song?id=2717165955",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典",
+          "source": "https://music.163.com/song?id=2717165955",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Young Cash Jason/DD Ma Shawty",
+        "作曲 : Young Cash Jason/DD Ma Shawty",
+        "制作人 : koos",
+        "监制：王政典"
+      ],
+      "source": "https://music.163.com/song?id=2717165955",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2709830317",
+      "platformId": 2709830317,
+      "title": "LV On My Wrist",
+      "aliases": [],
+      "albumId": "n273417593",
+      "date": "2025-05-31",
+      "trackNumber": 2,
+      "duration": 165000,
+      "artistIds": [
+        "n36184309",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n36184309",
+          "role": "作词",
+          "raw": "作词 : 林晨桉L-Now",
+          "source": "https://music.163.com/song?id=2709830317",
+          "level": "track"
+        },
+        {
+          "personId": "n36184309",
+          "role": "作曲",
+          "raw": "作曲 : 林晨桉L-Now",
+          "source": "https://music.163.com/song?id=2709830317",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 林晨桉L-Now",
+        "作曲 : 林晨桉L-Now"
+      ],
+      "source": "https://music.163.com/song?id=2709830317",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2704623720",
+      "platformId": 2704623720,
+      "title": "Let's Get Stuffed",
+      "aliases": [],
+      "albumId": "n271898193",
+      "date": "2025-05-16",
+      "trackNumber": 1,
+      "duration": 159069,
+      "artistIds": [
+        "n59660179",
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2704623720",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2697269695",
+      "platformId": 2697269695,
+      "title": "HATE THE GAME",
+      "aliases": [],
+      "albumId": "n269667770",
+      "date": "2025-04-22",
+      "trackNumber": 7,
+      "duration": 202013,
+      "artistIds": [
+        "n46360084",
+        "n56054279",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音 : Circle",
+          "source": "https://music.163.com/song?id=2697269695",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "混音 : Circle"
+      ],
+      "source": "https://music.163.com/song?id=2697269695",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2697004946",
+      "platformId": 2697004946,
+      "title": "MUST KEEP MY 3WAG",
+      "aliases": [],
+      "albumId": "n269552915",
+      "date": "2025-04-20",
+      "trackNumber": 1,
+      "duration": 151168,
+      "artistIds": [
+        "n95579265",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n95579265",
+          "role": "作词",
+          "raw": "作词 : Nudy",
+          "source": "https://music.163.com/song?id=2697004946",
+          "level": "track"
+        },
+        {
+          "personId": "n95579265",
+          "role": "作曲",
+          "raw": "作曲 : Nudy",
+          "source": "https://music.163.com/song?id=2697004946",
+          "level": "track"
+        },
+        {
+          "personId": "n95579265",
+          "role": "编曲",
+          "raw": "编曲 : Nudy",
+          "source": "https://music.163.com/song?id=2697004946",
+          "level": "track"
+        },
+        {
+          "personId": "ccmFm",
+          "role": "混音",
+          "raw": "混音： RAF",
+          "source": "https://music.163.com/song?id=2697004946",
+          "level": "track"
+        },
+        {
+          "personId": "ccmFm",
+          "role": "母带",
+          "raw": "母带： RAF",
+          "source": "https://music.163.com/song?id=2697004946",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Nudy",
+        "作曲 : Nudy",
+        "编曲 : Nudy",
+        "混音： RAF",
+        "母带： RAF"
+      ],
+      "source": "https://music.163.com/song?id=2697004946",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2696102917",
+      "platformId": 2696102917,
+      "title": "No Regret Ft.DD Ma Shawty",
+      "aliases": [],
+      "albumId": "n269223029",
+      "date": "2025-04-19",
+      "trackNumber": 10,
+      "duration": 193558,
+      "artistIds": [
+        "n49193448",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n49193448",
+          "role": "作词",
+          "raw": "作词 : Zh_tNeverDie",
+          "source": "https://music.163.com/song?id=2696102917",
+          "level": "track"
+        },
+        {
+          "personId": "n49193448",
+          "role": "作曲",
+          "raw": "作曲 : Zh_tNeverDie",
+          "source": "https://music.163.com/song?id=2696102917",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Zh_tNeverDie",
+        "作曲 : Zh_tNeverDie"
+      ],
+      "source": "https://music.163.com/song?id=2696102917",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2694354571",
+      "platformId": 2694354571,
+      "title": "背水一战",
+      "aliases": [],
+      "albumId": "n268831771",
+      "date": "2025-04-12",
+      "trackNumber": 2,
+      "duration": 181463,
+      "artistIds": [
+        "n58362418",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n58362418",
+          "role": "作词",
+          "raw": "作词 : Jeperdre",
+          "source": "https://music.163.com/song?id=2694354571",
+          "level": "track"
+        },
+        {
+          "personId": "n58362418",
+          "role": "作曲",
+          "raw": "作曲 : Jeperdre",
+          "source": "https://music.163.com/song?id=2694354571",
+          "level": "track"
+        },
+        {
+          "personId": "n58362418",
+          "role": "编曲",
+          "raw": "编曲 : Jeperdre",
+          "source": "https://music.163.com/song?id=2694354571",
+          "level": "track"
+        },
+        {
+          "personId": "c6IOh6KGM",
+          "role": "混音",
+          "raw": "混音:胡行",
+          "source": "https://music.163.com/song?id=2694354571",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Jeperdre",
+        "作曲 : Jeperdre",
+        "编曲 : Jeperdre",
+        "混音:胡行"
+      ],
+      "source": "https://music.163.com/song?id=2694354571",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2681775113",
+      "platformId": 2681775113,
+      "title": "City Pain",
+      "aliases": [],
+      "albumId": "n264954184",
+      "date": "2025-03-09",
+      "trackNumber": 1,
+      "duration": 182857,
+      "artistIds": [
+        "n52731452",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n52731452",
+          "role": "作词",
+          "raw": "作词 : Yvng Z1",
+          "source": "https://music.163.com/song?id=2681775113",
+          "level": "track"
+        },
+        {
+          "personId": "n52731452",
+          "role": "作曲",
+          "raw": "作曲 : Yvng Z1",
+          "source": "https://music.163.com/song?id=2681775113",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Yvng Z1",
+        "作曲 : Yvng Z1"
+      ],
+      "source": "https://music.163.com/song?id=2681775113",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2664798413",
+      "platformId": 2664798413,
+      "title": "指引",
+      "aliases": [],
+      "albumId": "n259100883",
+      "date": "2025-01-12",
+      "trackNumber": 6,
+      "duration": 168000,
+      "artistIds": [
+        "n47917828",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n47917828",
+          "role": "作曲",
+          "raw": "作曲 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2664798413",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2664798413",
+          "level": "track"
+        },
+        {
+          "personId": "n47917828",
+          "role": "作词",
+          "raw": "作词 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2664798413",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : OX0/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2664798413",
+          "level": "track"
+        },
+        {
+          "personId": "caGFycnk",
+          "role": "监制",
+          "raw": "监制 : Harry/王政典",
+          "source": "https://music.163.com/song?id=2664798413",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制 : Harry/王政典",
+          "source": "https://music.163.com/song?id=2664798413",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作曲 : OX0/DD Ma Shawty",
+        "作词 : OX0/DD Ma Shawty",
+        "监制 : Harry/王政典"
+      ],
+      "source": "https://music.163.com/song?id=2664798413",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663608268",
+      "platformId": 2663608268,
+      "title": "321",
+      "aliases": [],
+      "albumId": "n258903730",
+      "date": "2025-01-10",
+      "trackNumber": 7,
+      "duration": 143440,
+      "artistIds": [
+        "n30544665",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "cbm9ucGM",
+          "role": "母带",
+          "raw": "母带工程师: NoNpc",
+          "source": "https://music.163.com/song?id=2663608268",
+          "level": "track"
+        },
+        {
+          "personId": "cbm9ucGM",
+          "role": "混音",
+          "raw": "混音师: NoNpc",
+          "source": "https://music.163.com/song?id=2663608268",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典",
+          "source": "https://music.163.com/song?id=2663608268",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "母带工程师: NoNpc",
+        "混音师: NoNpc",
+        "监制：王政典"
+      ],
+      "source": "https://music.163.com/song?id=2663608268",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663514971",
+      "platformId": 2663514971,
+      "title": "3K(intro)",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 1,
+      "duration": 178762,
+      "artistIds": [
+        "n94753015",
+        "n30544665"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663514971",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663524558",
+      "platformId": 2663524558,
+      "title": "华裔泰裔",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 2,
+      "duration": 158197,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2663524558",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2663524558",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音:Circle",
+          "source": "https://music.163.com/song?id=2663524558",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "混音:Circle"
+      ],
+      "source": "https://music.163.com/song?id=2663524558",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663526945",
+      "platformId": 2663526945,
+      "title": "契约",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 3,
+      "duration": 181208,
+      "artistIds": [
+        "n94753015",
+        "n34597980"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663526945",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663530891",
+      "platformId": 2663530891,
+      "title": "Ask about Myself",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 4,
+      "duration": 176866,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663530891",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663536619",
+      "platformId": 2663536619,
+      "title": "天使",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 5,
+      "duration": 200850,
+      "artistIds": [
+        "n94753015",
+        "n56054279"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/Yxng Amiri",
+          "source": "https://music.163.com/song?id=2663536619",
+          "level": "track"
+        },
+        {
+          "personId": "n56054279",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/Yxng Amiri",
+          "source": "https://music.163.com/song?id=2663536619",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/Yxng Amiri",
+          "source": "https://music.163.com/song?id=2663536619",
+          "level": "track"
+        },
+        {
+          "personId": "n56054279",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/Yxng Amiri",
+          "source": "https://music.163.com/song?id=2663536619",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音:Circle",
+          "source": "https://music.163.com/song?id=2663536619",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty/Yxng Amiri",
+        "作曲 : DD Ma Shawty/Yxng Amiri",
+        "混音:Circle"
+      ],
+      "source": "https://music.163.com/song?id=2663536619",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663536801",
+      "platformId": 2663536801,
+      "title": "Choppa",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 6,
+      "duration": 183785,
+      "artistIds": [
+        "n94753015",
+        "n47917828"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663536801",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663540451",
+      "platformId": 2663540451,
+      "title": "Sorry,I took long",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 7,
+      "duration": 144695,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2663540451",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2663540451",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZGJ5a2ltbXk",
+          "role": "编曲",
+          "raw": "编曲 : ProdbyKimmy/ProdByJackie",
+          "source": "https://music.163.com/song?id=2663540451",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZGJ5amFja2ll",
+          "role": "编曲",
+          "raw": "编曲 : ProdbyKimmy/ProdByJackie",
+          "source": "https://music.163.com/song?id=2663540451",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音:Circle",
+          "source": "https://music.163.com/song?id=2663540451",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : ProdbyKimmy/ProdByJackie",
+        "混音:Circle"
+      ],
+      "source": "https://music.163.com/song?id=2663540451",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663545652",
+      "platformId": 2663545652,
+      "title": "麒麟儿",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 8,
+      "duration": 182404,
+      "artistIds": [
+        "n94753015",
+        "n49091724"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/The 100",
+          "source": "https://music.163.com/song?id=2663545652",
+          "level": "track"
+        },
+        {
+          "personId": "n49091724",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty/The 100",
+          "source": "https://music.163.com/song?id=2663545652",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/The 100",
+          "source": "https://music.163.com/song?id=2663545652",
+          "level": "track"
+        },
+        {
+          "personId": "n49091724",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty/The 100",
+          "source": "https://music.163.com/song?id=2663545652",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音:Circle&段岚柯",
+          "source": "https://music.163.com/song?id=2663545652",
+          "level": "track"
+        },
+        {
+          "personId": "c5q615bKa5p-v",
+          "role": "混音",
+          "raw": "混音:Circle&段岚柯",
+          "source": "https://music.163.com/song?id=2663545652",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty/The 100",
+        "作曲 : DD Ma Shawty/The 100",
+        "混音:Circle&段岚柯"
+      ],
+      "source": "https://music.163.com/song?id=2663545652",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663547337",
+      "platformId": 2663547337,
+      "title": "不可估量",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 9,
+      "duration": 172000,
+      "artistIds": [
+        "n94753015",
+        "n33067587",
+        "n34403771"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663547337",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663550991",
+      "platformId": 2663550991,
+      "title": "Jealous",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 10,
+      "duration": 194526,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663550991",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663557366",
+      "platformId": 2663557366,
+      "title": "Relation",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 11,
+      "duration": 171777,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2663557366",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2663557366",
+          "level": "track"
+        },
+        {
+          "personId": "ccGFjeQ",
+          "role": "编曲",
+          "raw": "编曲 : Pacy",
+          "source": "https://music.163.com/song?id=2663557366",
+          "level": "track"
+        },
+        {
+          "personId": "cY2lyY2xl",
+          "role": "混音",
+          "raw": "混音:Circle",
+          "source": "https://music.163.com/song?id=2663557366",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : DD Ma Shawty",
+        "作曲 : DD Ma Shawty",
+        "编曲 : Pacy",
+        "混音:Circle"
+      ],
+      "source": "https://music.163.com/song?id=2663557366",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2663555900",
+      "platformId": 2663555900,
+      "title": "离开",
+      "aliases": [],
+      "albumId": "n258874224",
+      "date": "2025-01-08",
+      "trackNumber": 12,
+      "duration": 192597,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2663555900",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2660343870",
+      "platformId": 2660343870,
+      "title": "GTA Top Trapper ft.DD Ma Shawty&Selfmadebabyosama",
+      "aliases": [],
+      "albumId": "n257935000",
+      "date": "2025-01-03",
+      "trackNumber": 4,
+      "duration": 196079,
+      "artistIds": [
+        "n55684262",
+        "n94753015",
+        "n95996055"
+      ],
+      "credits": [
+        {
+          "personId": "n55684262",
+          "role": "作词",
+          "raw": "作词 : BenjaminFlyestMaddox",
+          "source": "https://music.163.com/song?id=2660343870",
+          "level": "track"
+        },
+        {
+          "personId": "n55684262",
+          "role": "作曲",
+          "raw": "作曲 : BenjaminFlyestMaddox",
+          "source": "https://music.163.com/song?id=2660343870",
+          "level": "track"
+        },
+        {
+          "personId": "n55684262",
+          "role": "编曲",
+          "raw": "编曲 : BenjaminFlyestMaddox",
+          "source": "https://music.163.com/song?id=2660343870",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BenjaminFlyestMaddox",
+        "作曲 : BenjaminFlyestMaddox",
+        "编曲 : BenjaminFlyestMaddox"
+      ],
+      "source": "https://music.163.com/song?id=2660343870",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2660348420",
+      "platformId": 2660348420,
+      "title": "Land Cleanly ft.DD Ma Shawty",
+      "aliases": [],
+      "albumId": "n257935000",
+      "date": "2025-01-03",
+      "trackNumber": 5,
+      "duration": 154923,
+      "artistIds": [
+        "n55684262",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n55684262",
+          "role": "作词",
+          "raw": "作词 : BenjaminFlyestMaddox",
+          "source": "https://music.163.com/song?id=2660348420",
+          "level": "track"
+        },
+        {
+          "personId": "n55684262",
+          "role": "作曲",
+          "raw": "作曲 : BenjaminFlyestMaddox",
+          "source": "https://music.163.com/song?id=2660348420",
+          "level": "track"
+        },
+        {
+          "personId": "n55684262",
+          "role": "编曲",
+          "raw": "编曲 : BenjaminFlyestMaddox",
+          "source": "https://music.163.com/song?id=2660348420",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BenjaminFlyestMaddox",
+        "作曲 : BenjaminFlyestMaddox",
+        "编曲 : BenjaminFlyestMaddox"
+      ],
+      "source": "https://music.163.com/song?id=2660348420",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2659454425",
+      "platformId": 2659454425,
+      "title": "Last Christmas",
+      "aliases": [],
+      "albumId": "n257677992",
+      "date": "2024-12-25",
+      "trackNumber": 1,
+      "duration": 183066,
+      "artistIds": [
+        "n35831819",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n35831819",
+          "role": "作词",
+          "raw": "作词 : R/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2659454425",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : R/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2659454425",
+          "level": "track"
+        },
+        {
+          "personId": "n35831819",
+          "role": "作曲",
+          "raw": "作曲 : R/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2659454425",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作曲",
+          "raw": "作曲 : R/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2659454425",
+          "level": "track"
+        },
+        {
+          "personId": "n35831819",
+          "role": "编曲",
+          "raw": "编曲 : R/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2659454425",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "编曲",
+          "raw": "编曲 : R/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2659454425",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : R/DD Ma Shawty",
+        "作曲 : R/DD Ma Shawty",
+        "编曲 : R/DD Ma Shawty"
+      ],
+      "source": "https://music.163.com/song?id=2659454425",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2655130956",
+      "platformId": 2655130956,
+      "title": "oprah winfrey",
+      "aliases": [],
+      "albumId": "n256471964",
+      "date": "2024-12-11",
+      "trackNumber": 10,
+      "duration": 164006,
+      "artistIds": [
+        "n51004528",
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2655130956",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2641923896",
+      "platformId": 2641923896,
+      "title": "No Sense",
+      "aliases": [
+        "没意义"
+      ],
+      "albumId": "n252450410",
+      "date": "2024-11-17",
+      "trackNumber": 11,
+      "duration": 144033,
+      "artistIds": [
+        "n56054279",
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2641923896",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2631632991",
+      "platformId": 2631632991,
+      "title": "Leave me alone Ft.DD Ma shawty (Prod By Roccky)",
+      "aliases": [],
+      "albumId": "n249170578",
+      "date": "2024-10-02",
+      "trackNumber": 4,
+      "duration": 205253,
+      "artistIds": [
+        "n34197368",
+        "n94753015"
+      ],
+      "credits": [
+        {
+          "personId": "n34197368",
+          "role": "作词",
+          "raw": "作词 : Lil Hendy/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2631632991",
+          "level": "track"
+        },
+        {
+          "personId": "n94753015",
+          "role": "作词",
+          "raw": "作词 : Lil Hendy/DD Ma Shawty",
+          "source": "https://music.163.com/song?id=2631632991",
+          "level": "track"
+        },
+        {
+          "personId": "n34197368",
+          "role": "作曲",
+          "raw": "作曲 : Lil Hendy",
+          "source": "https://music.163.com/song?id=2631632991",
+          "level": "track"
+        },
+        {
+          "personId": "n34197368",
+          "role": "编曲",
+          "raw": "编曲 : Lil Hendy",
+          "source": "https://music.163.com/song?id=2631632991",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Lil Hendy/DD Ma Shawty",
+        "作曲 : Lil Hendy",
+        "编曲 : Lil Hendy"
+      ],
+      "source": "https://music.163.com/song?id=2631632991",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2632024570",
+      "platformId": 2632024570,
+      "title": "Hope you well",
+      "aliases": [],
+      "albumId": "n249295416",
+      "date": "2024-09-30",
+      "trackNumber": 1,
+      "duration": 162191,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2632024570",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2618841394",
+      "platformId": 2618841394,
+      "title": "R I P",
+      "aliases": [],
+      "albumId": "n245432715",
+      "date": "2024-08-21",
+      "trackNumber": 1,
+      "duration": 154296,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2618841394",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2618591281",
+      "platformId": 2618591281,
+      "title": "ooo",
+      "aliases": [],
+      "albumId": "n245246564",
+      "date": "2024-08-16",
+      "trackNumber": 1,
+      "duration": 60374,
+      "artistIds": [
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2618591281",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2615093723",
+      "platformId": 2615093723,
+      "title": "兄弟永在",
+      "aliases": [],
+      "albumId": "n244357560",
+      "date": "2024-08-09",
+      "trackNumber": 10,
+      "duration": 225999,
+      "artistIds": [
+        "n46440915",
+        "n51450084",
+        "n94753015"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2615093723",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1865119815",
+      "title": "21's Tears",
+      "date": "2025-12-31",
+      "trackCount": 8,
+      "artist": "DD Ma Shawty",
+      "source": "https://music.apple.com/cn/album/21s-tears/1865119815?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b1/d9/1f/b1d91f29-b50e-588b-5e84-7ea01121b1c5/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6803740798",
+      "title": "FallingLuv - Single",
+      "date": "2026-08-19",
+      "trackCount": 1,
+      "artist": "云嘎 & DD Ma Shawty",
+      "source": "https://music.apple.com/cn/album/fallingluv-single/6803740798?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/87/9b/c6879b44-3b0e-4040-c2cc-6e12fac566ac/6936738137982.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6777914247",
+      "title": "S.I.T.L",
+      "date": "2025-01-08",
+      "trackCount": 12,
+      "artist": "DD Ma Shawty",
+      "source": "https://music.apple.com/cn/album/s-i-t-l/6777914247?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/45/03/a0/4503a0c2-ecd4-c6f0-2b70-64826733529e/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6773334465",
+      "title": "AOE Pt.2 - Single",
+      "date": "2026-05-29",
+      "trackCount": 1,
+      "artist": "DD Ma Shawty, BOBBYNOPEACE & LusciousBB",
+      "source": "https://music.apple.com/cn/album/aoe-pt-2-single/6773334465?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/4b/7b/1b4b7b68-b28a-2730-3c99-c84907706320/cover.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期、下架与经典作品",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 56 首歌曲记录。部分早期单曲及未上架版本因各平台版权变动，未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=94753015"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1851131317"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "Apple Music 存在其他同名 DD Ma Shawty 候选账号（如 Apple ID 1874468820 等），未经逐曲核查前保持隔离，不因拼写相同合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=94753015"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1851131317"
+        }
+      ]
+    },
+    {
+      "title": "合作项目逐曲参与",
+      "year": "历年合辑与合作",
+      "status": "按逐曲参与收录",
+      "detail": "与 BOBBYNOPEACE、Young Cash Jason、无敌男孩等艺人的合辑及合作项目均按 DD Ma Shawty 实际逐曲客串/演唱参与收录，不把整张合辑算作个人独唱。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=94753015"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "DD Ma Shawty 艺名与别名",
+      "detail": "网易云主账号为“DD Ma Shawty”，别名“天选之人”；Apple 官方主页为“DD Ma Shawty”(ID 1851131317)。",
+      "sources": [
+        "https://music.163.com/artist?id=94753015",
+        "https://music.apple.com/cn/artist/1851131317"
+      ]
+    },
+    {
+      "title": "个人核心项目与合作项目",
+      "detail": "收录《S.I.T.L》(12首)、《21's Tears》(8首) 2 个核心个人项目。其他合作与合辑项目按逐曲参与收录。",
+      "sources": [
+        "https://music.163.com/artist?id=94753015"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 56 条平台记录包含录音室版、合作曲目及客串版本，不等于独立个人原创全量；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=94753015"
+      ]
+    }
+  ]
+}

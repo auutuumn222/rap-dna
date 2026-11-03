@@ -1,0 +1,5084 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n32719707",
+    "name": "极品贵公子",
+    "short": "极品贵公子",
+    "aliases": [
+      "极品贵公子",
+      "龙萨奇",
+      "NONSUCH",
+      "nonsuch",
+      "Jipin Guigongzi"
+    ],
+    "portrait": "./assets/jipinguigongzi-portrait.jpg",
+    "portraitSource": "https://p2.music.126.net/0ulhlQhO44wQB4Vg8Zcg1Q==/109951172481109650.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=32719707"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1558105101"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 65,
+    "neteaseCollected": 65,
+    "neteaseHasMore": false,
+    "listedReleases": 19,
+    "associatedNeteaseReleases": 39,
+    "appleComparedReleases": 4,
+    "appleExtraTracks": 0,
+    "coreAlbums": 6,
+    "from": "2019-12-27",
+    "through": "2026-09-19",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 65 条公开目录记录，涵盖《拯旧2012》、《伤感统治》、《中国式愤怒》、《福娃》、《蓝血》、《极品爱》等 6 个核心录音室项目。合作发行按逐曲署名收录，早期及未上线作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n32719707",
+      "name": "极品贵公子",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32719707"
+    },
+    {
+      "id": "n12529648",
+      "name": "KIV",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12529648"
+    },
+    {
+      "id": "n51088331",
+      "name": "付思遥",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51088331"
+    },
+    {
+      "id": "n12874853",
+      "name": "河北吴孟达",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12874853"
+    },
+    {
+      "id": "n48277407",
+      "name": "BOBBYNOPEACE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48277407"
+    },
+    {
+      "id": "n12730273",
+      "name": "TOYOKI",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12730273"
+    },
+    {
+      "id": "n97476785",
+      "name": "鸥钟",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=97476785"
+    },
+    {
+      "id": "n94851099",
+      "name": "UDG Records",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=94851099"
+    },
+    {
+      "id": "n50783227",
+      "name": "LuvShiny99",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50783227"
+    },
+    {
+      "id": "n55951668",
+      "name": "张润发Omega",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=55951668"
+    },
+    {
+      "id": "n12256230",
+      "name": "MISTERK",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12256230"
+    },
+    {
+      "id": "n34146229",
+      "name": "檀安CRUSH",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34146229"
+    },
+    {
+      "id": "n28073149",
+      "name": "60000",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=28073149"
+    },
+    {
+      "id": "n35954968",
+      "name": "1CEKary艾斯凯瑞",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35954968"
+    },
+    {
+      "id": "n51445735",
+      "name": "宁夏人",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51445735"
+    },
+    {
+      "id": "n31010560",
+      "name": "Scornoluv",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31010560"
+    },
+    {
+      "id": "n51786759",
+      "name": "MOCHA",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51786759"
+    },
+    {
+      "id": "n35022869",
+      "name": "康仕霖KIS",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35022869"
+    },
+    {
+      "id": "n48716075",
+      "name": "4Crz",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48716075"
+    },
+    {
+      "id": "n36336955",
+      "name": "ml XVI",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=36336955"
+    },
+    {
+      "id": "n34344860",
+      "name": "脏骨",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34344860"
+    },
+    {
+      "id": "n37122615",
+      "name": "KWAI",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37122615"
+    },
+    {
+      "id": "n12328955",
+      "name": "Udigg",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12328955"
+    },
+    {
+      "id": "n12200400",
+      "name": "BABYBO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12200400"
+    },
+    {
+      "id": "n52410166",
+      "name": "泰格西",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52410166"
+    },
+    {
+      "id": "n34326822",
+      "name": "Tlatre特雷西",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34326822"
+    },
+    {
+      "id": "n35654731",
+      "name": "Arki",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35654731"
+    },
+    {
+      "id": "n34443482",
+      "name": "小巴士 Lil Busta",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34443482"
+    },
+    {
+      "id": "n12568946",
+      "name": "VVIOLETOPENBLACK",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12568946"
+    },
+    {
+      "id": "n34273057",
+      "name": "壹零叁零",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34273057"
+    },
+    {
+      "id": "n32286594",
+      "name": "Payo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32286594"
+    },
+    {
+      "id": "n33995754",
+      "name": "雷恩RAYN",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33995754"
+    },
+    {
+      "id": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+      "name": "超级无敌谭玉堂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caGFydWk",
+      "name": "harui",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZWVi",
+      "name": "EEB",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cb2Nk",
+      "name": "Ocd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbW90ZA",
+      "name": "MoTD",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccmJyeQ",
+      "name": "Rbry",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca3JrcmtyZA",
+      "name": "KrKrKrD",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZG5pbmU",
+      "name": "Dnine",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5a2Q",
+      "name": "王子",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5oi05qyj5oCh",
+      "name": "戴欣怡",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LCt546J5aCC",
+      "name": "谭玉堂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZC5ieSBlaXphYw",
+      "name": "Prod.by EizaC",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c572X5oGpcnVuZQ",
+      "name": "罗恩Rune",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cd2x5cmF5ZQ",
+      "name": "wlyraye",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5ZCR5769",
+      "name": "向羽",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5Z6L5a2Q",
+      "name": "型子",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cMWphaHZp",
+      "name": "1jahvi",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbXVzaQ",
+      "name": "Musi",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbWF5YXV6eg",
+      "name": "mayauzz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "canRocmVldXV1ZGln",
+      "name": "Jthreeuuudig",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGljb29sdw",
+      "name": "Licoolw",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW91dHViZQ",
+      "name": "YouTube",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hhcmtib3k",
+      "name": "Sharkboy",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdG91ZnXosYbohZA",
+      "name": "Toufu豆腐",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c57Ov56S-a254ZXI",
+      "name": "糯社KNXER",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc3R1bg",
+      "name": "STUN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHJlZXRpbWU",
+      "name": "TREETIME",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca29udHJhYmFuZHo",
+      "name": "Kontrabandz",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdGltZW1hY2hpbmU",
+      "name": "Timemachine",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdHdvcA",
+      "name": "TwoP",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n398938426",
+      "title": "药引",
+      "date": "2026-09-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": "Acid Studio",
+      "artwork": "./assets/album-398938426.jpg",
+      "artworkSource": "https://p2.music.126.net/A9L16m-WibyZ6UpEhjIh3g==/109951173955550215.jpg",
+      "source": "https://music.163.com/album?id=398938426",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3437634114"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n378165478",
+      "title": "拯旧2012",
+      "date": "2026-05-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": "INDE company",
+      "artwork": "./assets/album-378165478.jpg",
+      "artworkSource": "https://p2.music.126.net/NiSyI1BS_S5LQeN5bmACOQ==/109951173276207554.jpg",
+      "source": "https://music.163.com/album?id=378165478",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人录音室项目",
+      "trackIds": [
+        "n3385858063",
+        "n3385858062",
+        "n3385858061",
+        "n3385856451",
+        "n3385856450",
+        "n3385856449",
+        "n3385856448",
+        "n3385856447",
+        "n3385856446",
+        "n3385856445",
+        "n3385856444",
+        "n3385856443"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n366639373",
+      "title": "气质流氓",
+      "date": "2026-03-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "河北吴孟达"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-366639373.jpg",
+      "artworkSource": "https://p1.music.126.net/7Zz98Jhd4pISE-gzJmetgA==/109951172899880970.jpg",
+      "source": "https://music.163.com/album?id=366639373",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3358394121"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n363874348",
+      "title": "Fxxk Dat",
+      "date": "2026-03-03",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "BOBBYNOPEACE",
+        "极品贵公子"
+      ],
+      "label": "GSS街上的明星 X 伤感统治",
+      "artwork": "./assets/album-363874348.jpg",
+      "artworkSource": "https://p2.music.126.net/nBhPWoZeCmJUCKUaT6O-_g==/109951172809718981.jpg",
+      "source": "https://music.163.com/album?id=363874348",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3353883459"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n360153021",
+      "title": "一次性胶卷",
+      "date": "2026-01-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子",
+        "TOYOKI"
+      ],
+      "label": null,
+      "artwork": "./assets/album-360153021.jpg",
+      "artworkSource": "https://p2.music.126.net/3QJXQAv0YI5UCRUTdkyS3A==/109951172660508213.jpg",
+      "source": "https://music.163.com/album?id=360153021",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3344401527"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n355061460",
+      "title": "OWLZONE",
+      "date": "2025-12-21",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "鸥钟"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-355061460.jpg",
+      "artworkSource": "https://p2.music.126.net/pbulVNLg4o-LdhLaX49Qug==/109951172450299746.jpg",
+      "source": "https://music.163.com/album?id=355061460",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3329748301"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n284863885",
+      "title": "UDG FRESHMAN 2025 CYPHER",
+      "date": "2025-09-13",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "UDG Records"
+      ],
+      "label": "UNDERGR00VES",
+      "artwork": "./assets/album-284863885.jpg",
+      "artworkSource": "https://p1.music.126.net/1hZhMCW3My0D3aY_co0xmA==/109951172006702433.jpg",
+      "source": "https://music.163.com/album?id=284863885",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2745695275"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n283216589",
+      "title": "誓言=谎言",
+      "date": "2025-08-29",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-283216589.jpg",
+      "artworkSource": "https://p2.music.126.net/22aT8tIbRvRgH4J4k0P4EA==/109951171943163171.jpg",
+      "source": "https://music.163.com/album?id=283216589",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2740897915"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n276038502",
+      "title": "Link-Now!",
+      "date": "2025-06-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "LuvShiny99"
+      ],
+      "label": null,
+      "artwork": "./assets/album-276038502.jpg",
+      "artworkSource": "https://p2.music.126.net/YHIjgd82bDaVT3fvQFk03Q==/109951171350414942.jpg",
+      "source": "https://music.163.com/album?id=276038502",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2718589921"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n269449109",
+      "title": "伤感统治",
+      "date": "2025-04-19",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 4,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-269449109.jpg",
+      "artworkSource": "https://p2.music.126.net/AM9OiYRLJlVc86jWojTgQg==/109951170735627201.jpg",
+      "source": "https://music.163.com/album?id=269449109",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人录音室项目",
+      "trackIds": [
+        "n2696335729",
+        "n2696335718",
+        "n2696335684",
+        "n2696334960"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n268142589",
+      "title": "我喜欢这种感觉",
+      "date": "2025-04-06",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "张润发Omega"
+      ],
+      "label": "网易云上",
+      "artwork": "./assets/album-268142589.jpg",
+      "artworkSource": "https://p1.music.126.net/ioKEuPpsZ4DBlYoKS48zNA==/109951170693128791.jpg",
+      "source": "https://music.163.com/album?id=268142589",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2691579875"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n264973692",
+      "title": "\"CIALLO WORLD\" MIXTAPE",
+      "date": "2025-04-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "MISTERK"
+      ],
+      "label": null,
+      "artwork": "./assets/album-264973692.jpg",
+      "artworkSource": "https://p1.music.126.net/-yyClSsFej-QqbwH2VoVjA==/109951170566099621.jpg",
+      "source": "https://music.163.com/album?id=264973692",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2682057091"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n262794708",
+      "title": "校服",
+      "date": "2025-02-16",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "檀安CRUSH"
+      ],
+      "label": null,
+      "artwork": "./assets/album-262794708.jpg",
+      "artworkSource": "https://p1.music.126.net/dlUFkUnNuHYAG88peYqpsA==/109951170484175559.jpg",
+      "source": "https://music.163.com/album?id=262794708",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2675174364"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n257580000",
+      "title": "人妻",
+      "date": "2024-12-24",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-257580000.jpg",
+      "artworkSource": "https://p2.music.126.net/V7pYAoyZJegWJjJAfmMyzQ==/109951170297135754.jpg",
+      "source": "https://music.163.com/album?id=257580000",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2659036029"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n248904312",
+      "title": "美瞳",
+      "date": "2024-10-02",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-248904312.jpg",
+      "artworkSource": "https://p1.music.126.net/tpTpyLgdlImi4C7Ehv7-zg==/109951169990012057.jpg",
+      "source": "https://music.163.com/album?id=248904312",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2630651663"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n243237706",
+      "title": "Way Out",
+      "date": "2024-07-27",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "60000"
+      ],
+      "label": null,
+      "artwork": "./assets/album-243237706.jpg",
+      "artworkSource": "https://p1.music.126.net/DlVFNOzLobuUKVCaLXirlQ==/109951169819932164.jpg",
+      "source": "https://music.163.com/album?id=243237706",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2611720646"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n242311250",
+      "title": "你抱着我掉眼泪",
+      "date": "2024-07-20",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-242311250.jpg",
+      "artworkSource": "https://p2.music.126.net/fQXCtFBnVw0Vqx9QBA52-w==/109951169789599291.jpg",
+      "source": "https://music.163.com/album?id=242311250",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2608712871"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n188105677",
+      "title": "Dragon Wakeup(ft.极品贵公子)",
+      "date": "2024-03-07",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "宁夏人"
+      ],
+      "label": null,
+      "artwork": "./assets/album-188105677.jpg",
+      "artworkSource": "https://p1.music.126.net/f2B-CmSlKjsg4_4ENTfj8w==/109951169391834882.jpg",
+      "source": "https://music.163.com/album?id=188105677",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2133300122"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n181557593",
+      "title": "中国式愤怒",
+      "date": "2023-12-24",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 4,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-181557593.jpg",
+      "artworkSource": "https://p1.music.126.net/_E8ykH-83foh-iSEqxgz3A==/109951169210514626.jpg",
+      "source": "https://music.163.com/album?id=181557593",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人录音室项目",
+      "trackIds": [
+        "n2110791831",
+        "n2110785735",
+        "n2110782562",
+        "n2110767407"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n179276180",
+      "title": "GET IT SOUL",
+      "date": "2023-11-19",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "MOCHA",
+        "极品贵公子"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-179276180.jpg",
+      "artworkSource": "https://p2.music.126.net/iti4wXo2iDMuuSWT95Numw==/109951169061308267.jpg",
+      "source": "https://music.163.com/album?id=179276180",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2100677890"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n176434655",
+      "title": "Blood",
+      "date": "2023-10-10",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "康仕霖KIS"
+      ],
+      "label": null,
+      "artwork": "./assets/album-176434655.jpg",
+      "artworkSource": "https://p1.music.126.net/Egu7rQxFbVW383hXXfBx5Q==/109951168973697509.jpg",
+      "source": "https://music.163.com/album?id=176434655",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2089616159"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n166550511",
+      "title": "沿海气候",
+      "date": "2023-05-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-166550511.jpg",
+      "artworkSource": "https://p1.music.126.net/48c4yfiQ4x2oG8QQ9EcpDg==/109951168645480280.jpg",
+      "source": "https://music.163.com/album?id=166550511",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2050658717"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n162952915",
+      "title": "处子血Bloody Sheet",
+      "date": "2023-04-04",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 2,
+      "artistNames": [
+        "4Crz"
+      ],
+      "label": null,
+      "artwork": "./assets/album-162952915.jpg",
+      "artworkSource": "https://p1.music.126.net/ynn5bgnHBao0Quku8suMdQ==/109951168520335008.jpg",
+      "source": "https://music.163.com/album?id=162952915",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2036076697"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n159211095",
+      "title": "XVI",
+      "date": "2023-02-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "ml XVI"
+      ],
+      "label": null,
+      "artwork": "./assets/album-159211095.jpg",
+      "artworkSource": "https://p2.music.126.net/jSc1Xoy3Mypi7ceQOsvFcg==/109951168515625158.jpg",
+      "source": "https://music.163.com/album?id=159211095",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2018855130"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n158310638",
+      "title": "『俯瞰』（mixtape）",
+      "date": "2023-01-16",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "脏骨"
+      ],
+      "label": null,
+      "artwork": "./assets/album-158310638.jpg",
+      "artworkSource": "https://p1.music.126.net/4aPSo3k9_HThLi2S3D7YRA==/109951168240541285.jpg",
+      "source": "https://music.163.com/album?id=158310638",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2025420586"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n156125469",
+      "title": "ASTORM",
+      "date": "2022-12-07",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "KWAI"
+      ],
+      "label": null,
+      "artwork": "./assets/album-156125469.jpg",
+      "artworkSource": "https://p1.music.126.net/o7HiRXaVyC1_oliTFU3gXg==/109951168127426644.jpg",
+      "source": "https://music.163.com/album?id=156125469",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2005053525"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n155858900",
+      "title": "福娃",
+      "date": "2022-12-03",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-155858900.jpg",
+      "artworkSource": "https://p1.music.126.net/FzcfID89EPxQlsJB_JHrbA==/109951168109953135.jpg",
+      "source": "https://music.163.com/album?id=155858900",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人录音室项目",
+      "trackIds": [
+        "n2003337683",
+        "n2003336053",
+        "n2003329524",
+        "n2003326695",
+        "n2003324601"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n151901213",
+      "title": "为爱癫狂 2 Rag3 4 Luv",
+      "date": "2022-09-24",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "Tlatre特雷西"
+      ],
+      "label": "网易子弹",
+      "artwork": "./assets/album-151901213.jpg",
+      "artworkSource": "https://p1.music.126.net/DiR4y7ERB2jarHr595ulHA==/109951167901426841.jpg",
+      "source": "https://music.163.com/album?id=151901213",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1983795614"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n144617375",
+      "title": "VVS",
+      "date": "2022-05-07",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Arki"
+      ],
+      "label": null,
+      "artwork": "./assets/album-144617375.jpg",
+      "artworkSource": "https://p1.music.126.net/NGE-yGTSUczgXUsaRfwgdw==/109951167386629055.jpg",
+      "source": "https://music.163.com/album?id=144617375",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1945295490"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n144444934",
+      "title": "A-Town No Cap",
+      "date": "2022-05-05",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 4,
+      "artistNames": [
+        "小巴士 Lil Busta"
+      ],
+      "label": null,
+      "artwork": "./assets/album-144444934.jpg",
+      "artworkSource": "https://p2.music.126.net/ZK2rKWtD4591U5C9ow3t1Q==/109951167376836232.jpg",
+      "source": "https://music.163.com/album?id=144444934",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1944458558"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n144188682",
+      "title": "蓝眼泪 BLUE DRIP",
+      "date": "2022-04-30",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 3,
+      "artistNames": [
+        "VVIOLETOPENBLACK",
+        "极品贵公子",
+        "壹零叁零",
+        "60000",
+        "Scornoluv",
+        "PeaceLA"
+      ],
+      "label": "SparkMusic 火花音悦",
+      "artwork": "./assets/album-144188682.jpg",
+      "artworkSource": "https://p1.music.126.net/cR1yIHFN87mTv9Uc0AgeFQ==/109951167353753468.jpg",
+      "source": "https://music.163.com/album?id=144188682",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1942611059",
+        "n1942611058"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n141223955",
+      "title": "Get On",
+      "date": "2022-03-02",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "小巴士 Lil Busta"
+      ],
+      "label": null,
+      "artwork": "./assets/album-141223955.jpg",
+      "artworkSource": "https://p1.music.126.net/ZfP64yvxOAUVCn9lsaPfow==/109951167109807580.jpg",
+      "source": "https://music.163.com/album?id=141223955",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1924932891"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n136199709",
+      "title": "蓝血",
+      "date": "2021-11-16",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 4,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-136199709.jpg",
+      "artworkSource": "https://p1.music.126.net/qGMi3l1lFi3ZhuQAvEDGXA==/109951166627503364.jpg",
+      "source": "https://music.163.com/album?id=136199709",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人录音室项目",
+      "trackIds": [
+        "n1893974955",
+        "n1893974954",
+        "n1893974953",
+        "n1893974540"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n125858785",
+      "title": "贵公子2021",
+      "date": "2021-04-10",
+      "type": "Single",
+      "edition": "现场版",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-125858785.jpg",
+      "artworkSource": "https://p2.music.126.net/JT4aeStWwhXHLGYM_0h-ww==/109951165879921019.jpg",
+      "source": "https://music.163.com/album?id=125858785",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n124141865",
+      "title": "Raise your mood",
+      "date": "2021-03-10",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "Payo",
+        "极品贵公子"
+      ],
+      "label": "SparkMusic火花音悦",
+      "artwork": "./assets/album-124141865.jpg",
+      "artworkSource": "https://p1.music.126.net/A3mteV8YQsP-h-xwZaMpCg==/109951165792230571.jpg",
+      "source": "https://music.163.com/album?id=124141865",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1826214268"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n121911017",
+      "title": "无尽宇宙",
+      "date": "2021-01-21",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 5,
+      "artistNames": [
+        "雷恩RAYN"
+      ],
+      "label": null,
+      "artwork": "./assets/album-121911017.jpg",
+      "artworkSource": "https://p1.music.126.net/SvX_qrVoLlS3fgh7iEoN_g==/109951165666508556.jpg",
+      "source": "https://music.163.com/album?id=121911017",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1825259615"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n93732918",
+      "title": "极品爱",
+      "date": "2020-08-10",
+      "type": "EP",
+      "edition": "现场版",
+      "totalTracks": 4,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-93732918.jpg",
+      "artworkSource": "https://p2.music.126.net/J-rDjvR7X1oQEWvIRPLfTQ==/109951165222518361.jpg",
+      "source": "https://music.163.com/album?id=93732918",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人录音室项目",
+      "trackIds": [
+        "n1814450489",
+        "n1806843469",
+        "n1478747167",
+        "n1469923956"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n84361136",
+      "title": "Wh1RLPool",
+      "date": "2019-12-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 11,
+      "artistNames": [
+        "雷恩RAYN"
+      ],
+      "label": null,
+      "artwork": "./assets/album-84361136.jpg",
+      "artworkSource": "https://p1.music.126.net/_LtTMN5oScD5pT17PF9rMQ==/109951164583559365.jpg",
+      "source": "https://music.163.com/album?id=84361136",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n1412559669"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n80471999",
+      "title": "2019 MIXTAPE",
+      "date": "2019-07-20",
+      "type": "Single",
+      "edition": "Remix",
+      "totalTracks": 1,
+      "artistNames": [
+        "极品贵公子"
+      ],
+      "label": null,
+      "artwork": "./assets/album-80471999.jpg",
+      "artworkSource": "https://p2.music.126.net/yGCzfSxQxGVVBCJw1e8ejA==/109951164522310217.jpg",
+      "source": "https://music.163.com/album?id=80471999",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [],
+      "listedOnArtist": true
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3437634114",
+      "platformId": 3437634114,
+      "title": "药引",
+      "aliases": [],
+      "albumId": "n398938426",
+      "date": "2026-09-19",
+      "trackNumber": 1,
+      "duration": 168960,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音 : 超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui/付思遥",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲 : harui/付思遥",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "监制",
+          "raw": "监制 : 付思遥/EEB",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        },
+        {
+          "personId": "cZWVi",
+          "role": "监制",
+          "raw": "监制 : 付思遥/EEB",
+          "source": "https://music.163.com/song?id=3437634114",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "混音 : 超级无敌谭玉堂",
+        "编曲 : harui/付思遥",
+        "监制 : 付思遥/EEB"
+      ],
+      "source": "https://music.163.com/song?id=3437634114",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856443",
+      "platformId": 3385856443,
+      "title": "Intro(o^^o)♪",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 1,
+      "duration": 38026,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856443",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856443",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385856443",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856443",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856443",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856443",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856443",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385858061",
+      "platformId": 3385858061,
+      "title": "香水有毒",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 2,
+      "duration": 173658,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385858061",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385858061",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385858061",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385858061",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385858061",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385858061",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385858061",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856444",
+      "platformId": 3385856444,
+      "title": "野男人",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 3,
+      "duration": 158410,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui/Rbry",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        },
+        {
+          "personId": "ccmJyeQ",
+          "role": "编曲",
+          "raw": "编曲 : harui/Rbry",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856444",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui/Rbry",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856444",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856445",
+      "platformId": 3385856445,
+      "title": "太阳说",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 4,
+      "duration": 126687,
+      "artistIds": [
+        "n32719707",
+        "n51088331"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856445",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856445",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥",
+          "source": "https://music.163.com/song?id=3385856445",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856445",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856445",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856445",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : 付思遥",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856445",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856446",
+      "platformId": 3385856446,
+      "title": "月老大战丘比特",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 5,
+      "duration": 194071,
+      "artistIds": [
+        "n32719707",
+        "n51088331"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        },
+        {
+          "personId": "n51088331",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/harui",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/harui",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856446",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : 付思遥/harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856446",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856447",
+      "platformId": 3385856447,
+      "title": "星期狗",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 6,
+      "duration": 159930,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856447",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856447",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385856447",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856447",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856447",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856447",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856447",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385858062",
+      "platformId": 3385858062,
+      "title": "Skit ߹ᯅ߹",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 7,
+      "duration": 32109,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385858062",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385858062",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385858062",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385858062",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385858062",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385858062",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385858062",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385858063",
+      "platformId": 3385858063,
+      "title": "颜文字",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 8,
+      "duration": 149882,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385858063",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385858063",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385858063",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385858063",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385858063",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385858063",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385858063",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856448",
+      "platformId": 3385856448,
+      "title": "三个吻",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 9,
+      "duration": 209631,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856448",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856448",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385856448",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856448",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856448",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856448",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856448",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856449",
+      "platformId": 3385856449,
+      "title": "风，请偷偷地告诉我",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 10,
+      "duration": 204447,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui/MoTD",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        },
+        {
+          "personId": "cbW90ZA",
+          "role": "编曲",
+          "raw": "编曲 : harui/MoTD",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856449",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui/MoTD",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856449",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856450",
+      "platformId": 3385856450,
+      "title": "眼泪传说",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 11,
+      "duration": 253634,
+      "artistIds": [
+        "n32719707",
+        "n12529648"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/KIV",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/KIV",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/KIV",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "n12529648",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/KIV",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856450",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子/KIV",
+        "作曲 : 极品贵公子/KIV",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856450",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3385856451",
+      "platformId": 3385856451,
+      "title": "眼窝",
+      "aliases": [],
+      "albumId": "n378165478",
+      "date": "2026-05-27",
+      "trackNumber": 12,
+      "duration": 194783,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856451",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=3385856451",
+          "level": "track"
+        },
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=3385856451",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856451",
+          "level": "track"
+        },
+        {
+          "personId": "c6LaF57qn5peg5pWM6LCt546J5aCC",
+          "role": "母带",
+          "raw": "混音/母带：超级无敌谭玉堂",
+          "source": "https://music.163.com/song?id=3385856451",
+          "level": "track"
+        },
+        {
+          "personId": "cb2Nk",
+          "role": "监制",
+          "raw": "监制：Ocd",
+          "source": "https://music.163.com/song?id=3385856451",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : harui",
+        "混音/母带：超级无敌谭玉堂",
+        "监制：Ocd"
+      ],
+      "source": "https://music.163.com/song?id=3385856451",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3358394121",
+      "platformId": 3358394121,
+      "title": "天黑以后",
+      "aliases": [],
+      "albumId": "n366639373",
+      "date": "2026-03-27",
+      "trackNumber": 3,
+      "duration": 178139,
+      "artistIds": [
+        "n12874853",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3358394121",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3353883459",
+      "platformId": 3353883459,
+      "title": "Fxxk Dat",
+      "aliases": [],
+      "albumId": "n363874348",
+      "date": "2026-03-03",
+      "trackNumber": 1,
+      "duration": 136056,
+      "artistIds": [
+        "n48277407",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n48277407",
+          "role": "作词",
+          "raw": "作词 : BOBBYNOPEACE/极品贵公子",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : BOBBYNOPEACE/极品贵公子",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "n48277407",
+          "role": "作曲",
+          "raw": "作曲 : BOBBYNOPEACE/极品贵公子",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : BOBBYNOPEACE/极品贵公子",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "ca3JrcmtyZA",
+          "role": "编曲",
+          "raw": "编曲 : KrKrKrD",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音&母带 : Dnine",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "母带",
+          "raw": "混音&母带 : Dnine",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5a2Q",
+          "role": "监制",
+          "raw": "监制 : 王子/戴欣怡",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        },
+        {
+          "personId": "c5oi05qyj5oCh",
+          "role": "监制",
+          "raw": "监制 : 王子/戴欣怡",
+          "source": "https://music.163.com/song?id=3353883459",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : BOBBYNOPEACE/极品贵公子",
+        "作曲 : BOBBYNOPEACE/极品贵公子",
+        "编曲 : KrKrKrD",
+        "混音&母带 : Dnine",
+        "监制 : 王子/戴欣怡"
+      ],
+      "source": "https://music.163.com/song?id=3353883459",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3344401527",
+      "platformId": 3344401527,
+      "title": "一次性胶卷",
+      "aliases": [],
+      "albumId": "n360153021",
+      "date": "2026-01-30",
+      "trackNumber": 1,
+      "duration": 167264,
+      "artistIds": [
+        "n32719707",
+        "n12730273"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/TOYOKI",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        },
+        {
+          "personId": "n12730273",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/TOYOKI",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/TOYOKI",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        },
+        {
+          "personId": "n12730273",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/TOYOKI",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        },
+        {
+          "personId": "ca3JrcmtyZA",
+          "role": "编曲",
+          "raw": "编曲 : KrKrKrD",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音 : 谭玉堂/Dnine",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音 : 谭玉堂/Dnine",
+          "source": "https://music.163.com/song?id=3344401527",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子/TOYOKI",
+        "作曲 : 极品贵公子/TOYOKI",
+        "编曲 : KrKrKrD",
+        "混音 : 谭玉堂/Dnine"
+      ],
+      "source": "https://music.163.com/song?id=3344401527",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3329748301",
+      "platformId": 3329748301,
+      "title": "幸悦",
+      "aliases": [],
+      "albumId": "n355061460",
+      "date": "2025-12-21",
+      "trackNumber": 5,
+      "duration": 133500,
+      "artistIds": [
+        "n97476785",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n97476785",
+          "role": "作词",
+          "raw": "作词 : 鸥钟/极品贵公子",
+          "source": "https://music.163.com/song?id=3329748301",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 鸥钟/极品贵公子",
+          "source": "https://music.163.com/song?id=3329748301",
+          "level": "track"
+        },
+        {
+          "personId": "n97476785",
+          "role": "作曲",
+          "raw": "作曲 : 鸥钟/极品贵公子",
+          "source": "https://music.163.com/song?id=3329748301",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 鸥钟/极品贵公子",
+          "source": "https://music.163.com/song?id=3329748301",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZC5ieSBlaXphYw",
+          "role": "编曲",
+          "raw": "编曲 : Prod.by EizaC/KrKrKrD",
+          "source": "https://music.163.com/song?id=3329748301",
+          "level": "track"
+        },
+        {
+          "personId": "ca3JrcmtyZA",
+          "role": "编曲",
+          "raw": "编曲 : Prod.by EizaC/KrKrKrD",
+          "source": "https://music.163.com/song?id=3329748301",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 鸥钟/极品贵公子",
+        "作曲 : 鸥钟/极品贵公子",
+        "编曲 : Prod.by EizaC/KrKrKrD"
+      ],
+      "source": "https://music.163.com/song?id=3329748301",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2745695275",
+      "platformId": 2745695275,
+      "title": "失语症",
+      "aliases": [],
+      "albumId": "n284863885",
+      "date": "2025-09-13",
+      "trackNumber": 6,
+      "duration": 127968,
+      "artistIds": [
+        "n94851099",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2745695275",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2740897915",
+      "platformId": 2740897915,
+      "title": "誓言=谎言",
+      "aliases": [],
+      "albumId": "n283216589",
+      "date": "2025-08-29",
+      "trackNumber": 1,
+      "duration": 156486,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "c572X5oGpcnVuZQ",
+          "role": "编曲",
+          "raw": "编曲 : 罗恩Rune/wlyraye",
+          "source": "https://music.163.com/song?id=2740897915",
+          "level": "track"
+        },
+        {
+          "personId": "cd2x5cmF5ZQ",
+          "role": "编曲",
+          "raw": "编曲 : 罗恩Rune/wlyraye",
+          "source": "https://music.163.com/song?id=2740897915",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "制作人",
+          "raw": "制作人 : dnine",
+          "source": "https://music.163.com/song?id=2740897915",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 罗恩Rune/wlyraye",
+        "制作人 : dnine"
+      ],
+      "source": "https://music.163.com/song?id=2740897915",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2718589921",
+      "platformId": 2718589921,
+      "title": "WaSSup ft.极品贵公子",
+      "aliases": [],
+      "albumId": "n276038502",
+      "date": "2025-06-27",
+      "trackNumber": 10,
+      "duration": 153599,
+      "artistIds": [
+        "n50783227",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2718589921",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2696335684",
+      "platformId": 2696335684,
+      "title": "替身",
+      "aliases": [],
+      "albumId": "n269449109",
+      "date": "2025-04-19",
+      "trackNumber": 1,
+      "duration": 190243,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=2696335684",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词：极品贵公子",
+          "source": "https://music.163.com/song?id=2696335684",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲：极品贵公子",
+          "source": "https://music.163.com/song?id=2696335684",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音： dnine",
+          "source": "https://music.163.com/song?id=2696335684",
+          "level": "track"
+        },
+        {
+          "personId": "c5ZCR5769",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696335684",
+          "level": "track"
+        },
+        {
+          "personId": "c5Z6L5a2Q",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696335684",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : harui",
+        "作词：极品贵公子",
+        "作曲：极品贵公子",
+        "混音： dnine",
+        "监制：向羽/型子"
+      ],
+      "source": "https://music.163.com/song?id=2696335684",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2696335718",
+      "platformId": 2696335718,
+      "title": "分离焦虑症",
+      "aliases": [],
+      "albumId": "n269449109",
+      "date": "2025-04-19",
+      "trackNumber": 2,
+      "duration": 181842,
+      "artistIds": [
+        "n32719707",
+        "n12874853"
+      ],
+      "credits": [
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词：极品贵公子/河北吴孟达",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "n12874853",
+          "role": "作词",
+          "raw": "作词：极品贵公子/河北吴孟达",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲：极品贵公子/河北吴孟达",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "n12874853",
+          "role": "作曲",
+          "raw": "作曲：极品贵公子/河北吴孟达",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音： dnine",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "c5ZCR5769",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        },
+        {
+          "personId": "c5Z6L5a2Q",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696335718",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : harui",
+        "作词：极品贵公子/河北吴孟达",
+        "作曲：极品贵公子/河北吴孟达",
+        "混音： dnine",
+        "监制：向羽/型子"
+      ],
+      "source": "https://music.163.com/song?id=2696335718",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2696335729",
+      "platformId": 2696335729,
+      "title": "小号",
+      "aliases": [],
+      "albumId": "n269449109",
+      "date": "2025-04-19",
+      "trackNumber": 3,
+      "duration": 151578,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "caGFydWk",
+          "role": "编曲",
+          "raw": "编曲 : harui",
+          "source": "https://music.163.com/song?id=2696335729",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词：极品贵公子",
+          "source": "https://music.163.com/song?id=2696335729",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲：极品贵公子",
+          "source": "https://music.163.com/song?id=2696335729",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音： dnine",
+          "source": "https://music.163.com/song?id=2696335729",
+          "level": "track"
+        },
+        {
+          "personId": "c5ZCR5769",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696335729",
+          "level": "track"
+        },
+        {
+          "personId": "c5Z6L5a2Q",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696335729",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : harui",
+        "作词：极品贵公子",
+        "作曲：极品贵公子",
+        "混音： dnine",
+        "监制：向羽/型子"
+      ],
+      "source": "https://music.163.com/song?id=2696335729",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2696334960",
+      "platformId": 2696334960,
+      "title": "恨让我冷静 爱让我极端",
+      "aliases": [],
+      "albumId": "n269449109",
+      "date": "2025-04-19",
+      "trackNumber": 4,
+      "duration": 161999,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词：极品贵公子",
+          "source": "https://music.163.com/song?id=2696334960",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲：极品贵公子",
+          "source": "https://music.163.com/song?id=2696334960",
+          "level": "track"
+        },
+        {
+          "personId": "cMWphaHZp",
+          "role": "编曲",
+          "raw": "编曲：1jahvi",
+          "source": "https://music.163.com/song?id=2696334960",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音： dnine",
+          "source": "https://music.163.com/song?id=2696334960",
+          "level": "track"
+        },
+        {
+          "personId": "c5ZCR5769",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696334960",
+          "level": "track"
+        },
+        {
+          "personId": "c5Z6L5a2Q",
+          "role": "监制",
+          "raw": "监制：向羽/型子",
+          "source": "https://music.163.com/song?id=2696334960",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词：极品贵公子",
+        "作曲：极品贵公子",
+        "编曲：1jahvi",
+        "混音： dnine",
+        "监制：向羽/型子"
+      ],
+      "source": "https://music.163.com/song?id=2696334960",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2691579875",
+      "platformId": 2691579875,
+      "title": "我们当初可能只是需要安慰",
+      "aliases": [],
+      "albumId": "n268142589",
+      "date": "2025-04-06",
+      "trackNumber": 1,
+      "duration": 151048,
+      "artistIds": [
+        "n55951668",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2691579875",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2682057091",
+      "platformId": 2682057091,
+      "title": "COUNTIN' BANDS UP! (PROD.MUSI)",
+      "aliases": [],
+      "albumId": "n264973692",
+      "date": "2025-04-01",
+      "trackNumber": 6,
+      "duration": 145500,
+      "artistIds": [
+        "n12256230",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n12256230",
+          "role": "作词",
+          "raw": "作词 : MISTERK",
+          "source": "https://music.163.com/song?id=2682057091",
+          "level": "track"
+        },
+        {
+          "personId": "n12256230",
+          "role": "作曲",
+          "raw": "作曲 : MISTERK",
+          "source": "https://music.163.com/song?id=2682057091",
+          "level": "track"
+        },
+        {
+          "personId": "cbXVzaQ",
+          "role": "编曲",
+          "raw": "编曲 : Musi/mayauzz",
+          "source": "https://music.163.com/song?id=2682057091",
+          "level": "track"
+        },
+        {
+          "personId": "cbWF5YXV6eg",
+          "role": "编曲",
+          "raw": "编曲 : Musi/mayauzz",
+          "source": "https://music.163.com/song?id=2682057091",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : MISTERK",
+        "作曲 : MISTERK",
+        "编曲 : Musi/mayauzz"
+      ],
+      "source": "https://music.163.com/song?id=2682057091",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2675174364",
+      "platformId": 2675174364,
+      "title": "校服",
+      "aliases": [],
+      "albumId": "n262794708",
+      "date": "2025-02-16",
+      "trackNumber": 1,
+      "duration": 168937,
+      "artistIds": [
+        "n34146229",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2675174364",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2659036029",
+      "platformId": 2659036029,
+      "title": "人妻",
+      "aliases": [],
+      "albumId": "n257580000",
+      "date": "2024-12-24",
+      "trackNumber": 1,
+      "duration": 137538,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2659036029",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2659036029",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2659036029",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2659036029",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2630651663",
+      "platformId": 2630651663,
+      "title": "美瞳",
+      "aliases": [],
+      "albumId": "n248904312",
+      "date": "2024-10-02",
+      "trackNumber": 1,
+      "duration": 152812,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2630651663",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2630651663",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音： dnine",
+          "source": "https://music.163.com/song?id=2630651663",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "混音： dnine"
+      ],
+      "source": "https://music.163.com/song?id=2630651663",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2611720646",
+      "platformId": 2611720646,
+      "title": "Way Out",
+      "aliases": [],
+      "albumId": "n243237706",
+      "date": "2024-07-27",
+      "trackNumber": 1,
+      "duration": 180785,
+      "artistIds": [
+        "n28073149",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n28073149",
+          "role": "作词",
+          "raw": "作词 : 60000/极品贵公子",
+          "source": "https://music.163.com/song?id=2611720646",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 60000/极品贵公子",
+          "source": "https://music.163.com/song?id=2611720646",
+          "level": "track"
+        },
+        {
+          "personId": "n28073149",
+          "role": "作曲",
+          "raw": "作曲 : 60000/极品贵公子",
+          "source": "https://music.163.com/song?id=2611720646",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 60000/极品贵公子",
+          "source": "https://music.163.com/song?id=2611720646",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 60000/极品贵公子",
+        "作曲 : 60000/极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=2611720646",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2608712871",
+      "platformId": 2608712871,
+      "title": "你抱着我掉眼泪",
+      "aliases": [
+        "说这世界太复杂"
+      ],
+      "albumId": "n242311250",
+      "date": "2024-07-20",
+      "trackNumber": 1,
+      "duration": 153893,
+      "artistIds": [
+        "n32719707",
+        "n35954968"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/1CEKary艾斯凯瑞",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        },
+        {
+          "personId": "n35954968",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/1CEKary艾斯凯瑞",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/1CEKary艾斯凯瑞",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        },
+        {
+          "personId": "n35954968",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/1CEKary艾斯凯瑞",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "编曲",
+          "raw": "编曲 : 极品贵公子/1CEKary艾斯凯瑞",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        },
+        {
+          "personId": "n35954968",
+          "role": "编曲",
+          "raw": "编曲 : 极品贵公子/1CEKary艾斯凯瑞",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        },
+        {
+          "personId": "cZG5pbmU",
+          "role": "混音",
+          "raw": "混音： Dnine",
+          "source": "https://music.163.com/song?id=2608712871",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子/1CEKary艾斯凯瑞",
+        "作曲 : 极品贵公子/1CEKary艾斯凯瑞",
+        "编曲 : 极品贵公子/1CEKary艾斯凯瑞",
+        "混音： Dnine"
+      ],
+      "source": "https://music.163.com/song?id=2608712871",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133300122",
+      "platformId": 2133300122,
+      "title": "Dragon Wakeup",
+      "aliases": [
+        "ft.极品贵公子"
+      ],
+      "albumId": "n188105677",
+      "date": "2024-03-07",
+      "trackNumber": 1,
+      "duration": 119126,
+      "artistIds": [
+        "n51445735",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n51445735",
+          "role": "作词",
+          "raw": "作词 : 宁夏人/极品贵公子",
+          "source": "https://music.163.com/song?id=2133300122",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 宁夏人/极品贵公子",
+          "source": "https://music.163.com/song?id=2133300122",
+          "level": "track"
+        },
+        {
+          "personId": "n51445735",
+          "role": "作曲",
+          "raw": "作曲 : 宁夏人/极品贵公子",
+          "source": "https://music.163.com/song?id=2133300122",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 宁夏人/极品贵公子",
+          "source": "https://music.163.com/song?id=2133300122",
+          "level": "track"
+        },
+        {
+          "personId": "n51445735",
+          "role": "编曲",
+          "raw": "编曲 : 宁夏人",
+          "source": "https://music.163.com/song?id=2133300122",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 宁夏人/极品贵公子",
+        "作曲 : 宁夏人/极品贵公子",
+        "编曲 : 宁夏人"
+      ],
+      "source": "https://music.163.com/song?id=2133300122",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2110767407",
+      "platformId": 2110767407,
+      "title": "东方神起",
+      "aliases": [],
+      "albumId": "n181557593",
+      "date": "2023-12-24",
+      "trackNumber": 1,
+      "duration": 111017,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2110767407",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2110785735",
+      "platformId": 2110785735,
+      "title": "中国李宁",
+      "aliases": [],
+      "albumId": "n181557593",
+      "date": "2023-12-24",
+      "trackNumber": 2,
+      "duration": 165070,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2110785735",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2110791831",
+      "platformId": 2110791831,
+      "title": "锦衣夜行（prod by 死空）",
+      "aliases": [],
+      "albumId": "n181557593",
+      "date": "2023-12-24",
+      "trackNumber": 3,
+      "duration": 102000,
+      "artistIds": [
+        "n32719707",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2110791831",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2110791831",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2110791831",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2110791831",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2110782562",
+      "platformId": 2110782562,
+      "title": "啸叫",
+      "aliases": [],
+      "albumId": "n181557593",
+      "date": "2023-12-24",
+      "trackNumber": 4,
+      "duration": 111088,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2110782562",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2110782562",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "编曲",
+          "raw": "编曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2110782562",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : 极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=2110782562",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2100677890",
+      "platformId": 2100677890,
+      "title": "GET IT SOUL",
+      "aliases": [],
+      "albumId": "n179276180",
+      "date": "2023-11-19",
+      "trackNumber": 1,
+      "duration": 130048,
+      "artistIds": [
+        "n51786759",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2100677890",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2089616159",
+      "platformId": 2089616159,
+      "title": "Blood",
+      "aliases": [],
+      "albumId": "n176434655",
+      "date": "2023-10-10",
+      "trackNumber": 1,
+      "duration": 162392,
+      "artistIds": [
+        "n35022869",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n35022869",
+          "role": "作词",
+          "raw": "作词 : 康仕霖KIS/极品贵公子",
+          "source": "https://music.163.com/song?id=2089616159",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 康仕霖KIS/极品贵公子",
+          "source": "https://music.163.com/song?id=2089616159",
+          "level": "track"
+        },
+        {
+          "personId": "n35022869",
+          "role": "作曲",
+          "raw": "作曲 : 康仕霖KIS/极品贵公子",
+          "source": "https://music.163.com/song?id=2089616159",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 康仕霖KIS/极品贵公子",
+          "source": "https://music.163.com/song?id=2089616159",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 康仕霖KIS/极品贵公子",
+        "作曲 : 康仕霖KIS/极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=2089616159",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2050658717",
+      "platformId": 2050658717,
+      "title": "沿海气候",
+      "aliases": [],
+      "albumId": "n166550511",
+      "date": "2023-05-30",
+      "trackNumber": 1,
+      "duration": 212000,
+      "artistIds": [
+        "n32719707",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2050658717",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2050658717",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2050658717",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2050658717",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2036076697",
+      "platformId": 2036076697,
+      "title": "凤仙花Garden balsam[Ft.极品贵公子]",
+      "aliases": [],
+      "albumId": "n162952915",
+      "date": "2023-04-04",
+      "trackNumber": 5,
+      "duration": 218549,
+      "artistIds": [
+        "n48716075",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n48716075",
+          "role": "作词",
+          "raw": "作词 : 4Crz/极品贵公子",
+          "source": "https://music.163.com/song?id=2036076697",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 4Crz/极品贵公子",
+          "source": "https://music.163.com/song?id=2036076697",
+          "level": "track"
+        },
+        {
+          "personId": "n48716075",
+          "role": "作曲",
+          "raw": "作曲 : 4Crz/极品贵公子",
+          "source": "https://music.163.com/song?id=2036076697",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 4Crz/极品贵公子",
+          "source": "https://music.163.com/song?id=2036076697",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 4Crz/极品贵公子",
+        "作曲 : 4Crz/极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=2036076697",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2018855130",
+      "platformId": 2018855130,
+      "title": "摇滚巨星/ROCKSTA Ft.极品贵公子",
+      "aliases": [],
+      "albumId": "n159211095",
+      "date": "2023-02-01",
+      "trackNumber": 3,
+      "duration": 197877,
+      "artistIds": [
+        "n36336955",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/ml XVI",
+          "source": "https://music.163.com/song?id=2018855130",
+          "level": "track"
+        },
+        {
+          "personId": "n36336955",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/ml XVI",
+          "source": "https://music.163.com/song?id=2018855130",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/ml XVI",
+          "source": "https://music.163.com/song?id=2018855130",
+          "level": "track"
+        },
+        {
+          "personId": "n36336955",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/ml XVI",
+          "source": "https://music.163.com/song?id=2018855130",
+          "level": "track"
+        },
+        {
+          "personId": "canRocmVldXV1ZGln",
+          "role": "混音",
+          "raw": "MIX： Jthreeuuudig",
+          "source": "https://music.163.com/song?id=2018855130",
+          "level": "track"
+        },
+        {
+          "personId": "canRocmVldXV1ZGln",
+          "role": "母带",
+          "raw": "MASTER： Jthreeuuudig",
+          "source": "https://music.163.com/song?id=2018855130",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子/ml XVI",
+        "作曲 : 极品贵公子/ml XVI",
+        "MIX： Jthreeuuudig",
+        "MASTER： Jthreeuuudig"
+      ],
+      "source": "https://music.163.com/song?id=2018855130",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2025420586",
+      "platformId": 2025420586,
+      "title": "404",
+      "aliases": [
+        "ft.极品贵公子"
+      ],
+      "albumId": "n158310638",
+      "date": "2023-01-16",
+      "trackNumber": 4,
+      "duration": 121526,
+      "artistIds": [
+        "n34344860",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n34344860",
+          "role": "作词",
+          "raw": "作词 : 脏骨/极品贵公子",
+          "source": "https://music.163.com/song?id=2025420586",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 脏骨/极品贵公子",
+          "source": "https://music.163.com/song?id=2025420586",
+          "level": "track"
+        },
+        {
+          "personId": "n34344860",
+          "role": "作曲",
+          "raw": "作曲 : 脏骨",
+          "source": "https://music.163.com/song?id=2025420586",
+          "level": "track"
+        },
+        {
+          "personId": "n34344860",
+          "role": "编曲",
+          "raw": "编曲 : 脏骨",
+          "source": "https://music.163.com/song?id=2025420586",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 脏骨/极品贵公子",
+        "作曲 : 脏骨",
+        "编曲 : 脏骨"
+      ],
+      "source": "https://music.163.com/song?id=2025420586",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2005053525",
+      "platformId": 2005053525,
+      "title": "Dream Hood Ft.极品贵公子",
+      "aliases": [],
+      "albumId": "n156125469",
+      "date": "2022-12-07",
+      "trackNumber": 7,
+      "duration": 154050,
+      "artistIds": [
+        "n37122615",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n37122615",
+          "role": "作词",
+          "raw": "作词 : KWAI/极品贵公子",
+          "source": "https://music.163.com/song?id=2005053525",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : KWAI/极品贵公子",
+          "source": "https://music.163.com/song?id=2005053525",
+          "level": "track"
+        },
+        {
+          "personId": "n37122615",
+          "role": "作曲",
+          "raw": "作曲 : KWAI/极品贵公子",
+          "source": "https://music.163.com/song?id=2005053525",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : KWAI/极品贵公子",
+          "source": "https://music.163.com/song?id=2005053525",
+          "level": "track"
+        },
+        {
+          "personId": "n37122615",
+          "role": "编曲",
+          "raw": "编曲 : KWAI",
+          "source": "https://music.163.com/song?id=2005053525",
+          "level": "track"
+        },
+        {
+          "personId": "cbGljb29sdw",
+          "role": "混音",
+          "raw": "Mix by：Licoolw",
+          "source": "https://music.163.com/song?id=2005053525",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : KWAI/极品贵公子",
+        "作曲 : KWAI/极品贵公子",
+        "编曲 : KWAI",
+        "Mix by：Licoolw"
+      ],
+      "source": "https://music.163.com/song?id=2005053525",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2003326695",
+      "platformId": 2003326695,
+      "title": "赤红之瞳",
+      "aliases": [],
+      "albumId": "n155858900",
+      "date": "2022-12-03",
+      "trackNumber": 1,
+      "duration": 165663,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003326695",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003326695",
+          "level": "track"
+        },
+        {
+          "personId": "ceW91dHViZQ",
+          "role": "编曲",
+          "raw": "编曲 : YouTube",
+          "source": "https://music.163.com/song?id=2003326695",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : YouTube"
+      ],
+      "source": "https://music.163.com/song?id=2003326695",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2003324601",
+      "platformId": 2003324601,
+      "title": "乱世巨星*ft.泰格西",
+      "aliases": [],
+      "albumId": "n155858900",
+      "date": "2022-12-03",
+      "trackNumber": 2,
+      "duration": 212932,
+      "artistIds": [
+        "n32719707",
+        "n52410166",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003324601",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003324601",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2003324601",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2003324601",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2003329524",
+      "platformId": 2003329524,
+      "title": "福娃",
+      "aliases": [],
+      "albumId": "n155858900",
+      "date": "2022-12-03",
+      "trackNumber": 3,
+      "duration": 177739,
+      "artistIds": [
+        "n32719707",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003329524",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003329524",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2003329524",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2003329524",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2003336053",
+      "platformId": 2003336053,
+      "title": "甲乙丙丁*ft.BABYBO",
+      "aliases": [],
+      "albumId": "n155858900",
+      "date": "2022-12-03",
+      "trackNumber": 4,
+      "duration": 192000,
+      "artistIds": [
+        "n32719707",
+        "n12200400",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003336053",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003336053",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2003336053",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2003336053",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2003337683",
+      "platformId": 2003337683,
+      "title": "泰坦尼克号*ft.Udigg",
+      "aliases": [],
+      "albumId": "n155858900",
+      "date": "2022-12-03",
+      "trackNumber": 5,
+      "duration": 228363,
+      "artistIds": [
+        "n32719707",
+        "n12328955",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003337683",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=2003337683",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=2003337683",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "编曲 : Scornoluv"
+      ],
+      "source": "https://music.163.com/song?id=2003337683",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1983795614",
+      "platformId": 1983795614,
+      "title": "鲜血时间 Bloody Time（Ft.极品贵公子）",
+      "aliases": [],
+      "albumId": "n151901213",
+      "date": "2022-09-24",
+      "trackNumber": 4,
+      "duration": 180075,
+      "artistIds": [
+        "n34326822",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n34326822",
+          "role": "作词",
+          "raw": "作词：Tlatre特雷西/极品贵公子",
+          "source": "https://music.163.com/song?id=1983795614",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词：Tlatre特雷西/极品贵公子",
+          "source": "https://music.163.com/song?id=1983795614",
+          "level": "track"
+        },
+        {
+          "personId": "n34326822",
+          "role": "作曲",
+          "raw": "作曲：Tlatre特雷西/极品贵公子",
+          "source": "https://music.163.com/song?id=1983795614",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲：Tlatre特雷西/极品贵公子",
+          "source": "https://music.163.com/song?id=1983795614",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hhcmtib3k",
+          "role": "编曲",
+          "raw": "编曲：Sharkboy",
+          "source": "https://music.163.com/song?id=1983795614",
+          "level": "track"
+        },
+        {
+          "personId": "cdG91ZnXosYbohZA",
+          "role": "混音",
+          "raw": "混音：Toufu豆腐",
+          "source": "https://music.163.com/song?id=1983795614",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词：Tlatre特雷西/极品贵公子",
+        "作曲：Tlatre特雷西/极品贵公子",
+        "编曲：Sharkboy",
+        "混音：Toufu豆腐"
+      ],
+      "source": "https://music.163.com/song?id=1983795614",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1945295490",
+      "platformId": 1945295490,
+      "title": "VVS（FEAT.极品贵公子）",
+      "aliases": [],
+      "albumId": "n144617375",
+      "date": "2022-05-07",
+      "trackNumber": 1,
+      "duration": 149520,
+      "artistIds": [
+        "n35654731",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n35654731",
+          "role": "作词",
+          "raw": "作词 : Arki/极品贵公子",
+          "source": "https://music.163.com/song?id=1945295490",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : Arki/极品贵公子",
+          "source": "https://music.163.com/song?id=1945295490",
+          "level": "track"
+        },
+        {
+          "personId": "n35654731",
+          "role": "作曲",
+          "raw": "作曲 : Arki/极品贵公子",
+          "source": "https://music.163.com/song?id=1945295490",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : Arki/极品贵公子",
+          "source": "https://music.163.com/song?id=1945295490",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Arki/极品贵公子",
+        "作曲 : Arki/极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=1945295490",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1944458558",
+      "platformId": 1944458558,
+      "title": "HIT THAT!!!",
+      "aliases": [],
+      "albumId": "n144444934",
+      "date": "2022-05-05",
+      "trackNumber": 1,
+      "duration": 120216,
+      "artistIds": [
+        "n34443482",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n34443482",
+          "role": "作词",
+          "raw": "作词 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1944458558",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1944458558",
+          "level": "track"
+        },
+        {
+          "personId": "n34443482",
+          "role": "作曲",
+          "raw": "作曲 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1944458558",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1944458558",
+          "level": "track"
+        },
+        {
+          "personId": "n34443482",
+          "role": "编曲",
+          "raw": "编曲 : 小巴士 Lil Busta",
+          "source": "https://music.163.com/song?id=1944458558",
+          "level": "track"
+        },
+        {
+          "personId": "c57Ov56S-a254ZXI",
+          "role": "混音",
+          "raw": "混音：糯社KNXER",
+          "source": "https://music.163.com/song?id=1944458558",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 小巴士 Lil Busta/极品贵公子",
+        "作曲 : 小巴士 Lil Busta/极品贵公子",
+        "编曲 : 小巴士 Lil Busta",
+        "混音：糯社KNXER"
+      ],
+      "source": "https://music.163.com/song?id=1944458558",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1942611058",
+      "platformId": 1942611058,
+      "title": "MUMBLE RAP",
+      "aliases": [],
+      "albumId": "n144188682",
+      "date": "2022-04-30",
+      "trackNumber": 1,
+      "duration": 159381,
+      "artistIds": [
+        "n12568946",
+        "n32719707",
+        "n34273057",
+        "n28073149"
+      ],
+      "credits": [
+        {
+          "personId": "n28073149",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n12568946",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n34273057",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n28073149",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n12568946",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "n34273057",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "cdHJlZXRpbWU",
+          "role": "编曲",
+          "raw": "编曲 : TREETIME",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "cc3R1bg",
+          "role": "混音",
+          "raw": "混音 : STUN",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        },
+        {
+          "personId": "cc3R1bg",
+          "role": "母带",
+          "raw": "母带 : STUN",
+          "source": "https://music.163.com/song?id=1942611058",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+        "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+        "编曲 : TREETIME",
+        "混音 : STUN",
+        "母带 : STUN"
+      ],
+      "source": "https://music.163.com/song?id=1942611058",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1942611059",
+      "platformId": 1942611059,
+      "title": "WHO RUN IT",
+      "aliases": [],
+      "albumId": "n144188682",
+      "date": "2022-04-30",
+      "trackNumber": 2,
+      "duration": 142320,
+      "artistIds": [
+        "n12568946",
+        "n32719707",
+        "n34273057",
+        "n28073149",
+        "n31010560"
+      ],
+      "credits": [
+        {
+          "personId": "n28073149",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n12568946",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n34273057",
+          "role": "作词",
+          "raw": "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n28073149",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n12568946",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n34273057",
+          "role": "作曲",
+          "raw": "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "n31010560",
+          "role": "编曲",
+          "raw": "编曲 : Scornoluv",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "cc3R1bg",
+          "role": "混音",
+          "raw": "混音 : STUN",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        },
+        {
+          "personId": "cc3R1bg",
+          "role": "母带",
+          "raw": "母带 : STUN",
+          "source": "https://music.163.com/song?id=1942611059",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+        "作曲 : 60000/VVIOLETOPENBLACK/极品贵公子/壹零叁零",
+        "编曲 : Scornoluv",
+        "混音 : STUN",
+        "母带 : STUN"
+      ],
+      "source": "https://music.163.com/song?id=1942611059",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1924932891",
+      "platformId": 1924932891,
+      "title": "Get On",
+      "aliases": [],
+      "albumId": "n141223955",
+      "date": "2022-03-02",
+      "trackNumber": 1,
+      "duration": 188688,
+      "artistIds": [
+        "n34443482",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n34443482",
+          "role": "作词",
+          "raw": "作词 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1924932891",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1924932891",
+          "level": "track"
+        },
+        {
+          "personId": "n34443482",
+          "role": "作曲",
+          "raw": "作曲 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1924932891",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 小巴士 Lil Busta/极品贵公子",
+          "source": "https://music.163.com/song?id=1924932891",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 小巴士 Lil Busta/极品贵公子",
+        "作曲 : 小巴士 Lil Busta/极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=1924932891",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1893974953",
+      "platformId": 1893974953,
+      "title": "蜜桃成熟时",
+      "aliases": [],
+      "albumId": "n136199709",
+      "date": "2021-11-16",
+      "trackNumber": 1,
+      "duration": 187032,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1893974953",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1893974954",
+      "platformId": 1893974954,
+      "title": "白日焰火*feat.VVIOLETOPENBLACK",
+      "aliases": [],
+      "albumId": "n136199709",
+      "date": "2021-11-16",
+      "trackNumber": 2,
+      "duration": 174000,
+      "artistIds": [
+        "n32719707",
+        "n12568946"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/VVIOLETOPENBLACK",
+          "source": "https://music.163.com/song?id=1893974954",
+          "level": "track"
+        },
+        {
+          "personId": "n12568946",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/VVIOLETOPENBLACK",
+          "source": "https://music.163.com/song?id=1893974954",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/VVIOLETOPENBLACK",
+          "source": "https://music.163.com/song?id=1893974954",
+          "level": "track"
+        },
+        {
+          "personId": "n12568946",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/VVIOLETOPENBLACK",
+          "source": "https://music.163.com/song?id=1893974954",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子/VVIOLETOPENBLACK",
+        "作曲 : 极品贵公子/VVIOLETOPENBLACK"
+      ],
+      "source": "https://music.163.com/song?id=1893974954",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1893974540",
+      "platformId": 1893974540,
+      "title": "生活像一把无情刻刀",
+      "aliases": [],
+      "albumId": "n136199709",
+      "date": "2021-11-16",
+      "trackNumber": 3,
+      "duration": 150131,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1893974540",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1893974540",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=1893974540",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1893974955",
+      "platformId": 1893974955,
+      "title": "YOUNG CHIGGA WORLD*feat.蜻蜓",
+      "aliases": [],
+      "albumId": "n136199709",
+      "date": "2021-11-16",
+      "trackNumber": 4,
+      "duration": 145600,
+      "artistIds": [
+        "n32719707",
+        "n34273057"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1893974955",
+          "level": "track"
+        },
+        {
+          "personId": "n34273057",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1893974955",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1893974955",
+          "level": "track"
+        },
+        {
+          "personId": "n34273057",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子/壹零叁零",
+          "source": "https://music.163.com/song?id=1893974955",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子/壹零叁零",
+        "作曲 : 极品贵公子/壹零叁零"
+      ],
+      "source": "https://music.163.com/song?id=1893974955",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1826214268",
+      "platformId": 1826214268,
+      "title": "Raise your mood",
+      "aliases": [],
+      "albumId": "n124141865",
+      "date": "2021-03-10",
+      "trackNumber": 1,
+      "duration": 189612,
+      "artistIds": [
+        "n32286594",
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32286594",
+          "role": "作词",
+          "raw": "作词 : Payo/极品贵公子",
+          "source": "https://music.163.com/song?id=1826214268",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : Payo/极品贵公子",
+          "source": "https://music.163.com/song?id=1826214268",
+          "level": "track"
+        },
+        {
+          "personId": "n32286594",
+          "role": "作曲",
+          "raw": "作曲 : Payo/极品贵公子",
+          "source": "https://music.163.com/song?id=1826214268",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : Payo/极品贵公子",
+          "source": "https://music.163.com/song?id=1826214268",
+          "level": "track"
+        },
+        {
+          "personId": "ca29udHJhYmFuZHo",
+          "role": "编曲",
+          "raw": "编曲 : Kontrabandz",
+          "source": "https://music.163.com/song?id=1826214268",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Payo/极品贵公子",
+        "作曲 : Payo/极品贵公子",
+        "编曲 : Kontrabandz"
+      ],
+      "source": "https://music.163.com/song?id=1826214268",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1825259615",
+      "platformId": 1825259615,
+      "title": "斐济",
+      "aliases": [],
+      "albumId": "n121911017",
+      "date": "2021-01-21",
+      "trackNumber": 4,
+      "duration": 151392,
+      "artistIds": [
+        "n33995754",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1825259615",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1469923956",
+      "platformId": 1469923956,
+      "title": "她不想见我",
+      "aliases": [],
+      "albumId": "n93732918",
+      "date": "2020-08-10",
+      "trackNumber": 1,
+      "duration": 158997,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1469923956",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1469923956",
+          "level": "track"
+        },
+        {
+          "personId": "cdHdvcA",
+          "role": "混音",
+          "raw": "混音：TwoP",
+          "source": "https://music.163.com/song?id=1469923956",
+          "level": "track"
+        },
+        {
+          "personId": "cdGltZW1hY2hpbmU",
+          "role": "母带",
+          "raw": "母带：Timemachine",
+          "source": "https://music.163.com/song?id=1469923956",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "混音：TwoP",
+        "母带：Timemachine"
+      ],
+      "source": "https://music.163.com/song?id=1469923956",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1814450489",
+      "platformId": 1814450489,
+      "title": "你告诉我，爱是什么？",
+      "aliases": [],
+      "albumId": "n93732918",
+      "date": "2020-08-10",
+      "trackNumber": 2,
+      "duration": 160018,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1814450489",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1814450489",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子"
+      ],
+      "source": "https://music.163.com/song?id=1814450489",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1806843469",
+      "platformId": 1806843469,
+      "title": "斩断爱",
+      "aliases": [],
+      "albumId": "n93732918",
+      "date": "2020-08-10",
+      "trackNumber": 3,
+      "duration": 159376,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1806843469",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1806843469",
+          "level": "track"
+        },
+        {
+          "personId": "cdGltZW1hY2hpbmU",
+          "role": "混音",
+          "raw": "混音:Timemachine",
+          "source": "https://music.163.com/song?id=1806843469",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "混音:Timemachine"
+      ],
+      "source": "https://music.163.com/song?id=1806843469",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1478747167",
+      "platformId": 1478747167,
+      "title": "把情绪留在这个夏天",
+      "aliases": [],
+      "albumId": "n93732918",
+      "date": "2020-08-10",
+      "trackNumber": 4,
+      "duration": 149318,
+      "artistIds": [
+        "n32719707"
+      ],
+      "credits": [
+        {
+          "personId": "n32719707",
+          "role": "作词",
+          "raw": "作词 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1478747167",
+          "level": "track"
+        },
+        {
+          "personId": "n32719707",
+          "role": "作曲",
+          "raw": "作曲 : 极品贵公子",
+          "source": "https://music.163.com/song?id=1478747167",
+          "level": "track"
+        },
+        {
+          "personId": "cdGltZW1hY2hpbmU",
+          "role": "混音",
+          "raw": "混音：TimeMachine",
+          "source": "https://music.163.com/song?id=1478747167",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 极品贵公子",
+        "作曲 : 极品贵公子",
+        "混音：TimeMachine"
+      ],
+      "source": "https://music.163.com/song?id=1478747167",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n1412559669",
+      "platformId": 1412559669,
+      "title": "心 碎 宇 宙Ft.NONSUCHBOI（Prod.Brokeboiishawty）",
+      "aliases": [],
+      "albumId": "n84361136",
+      "date": "2019-12-27",
+      "trackNumber": 1,
+      "duration": 145867,
+      "artistIds": [
+        "n33995754",
+        "n32719707"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=1412559669",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1880611539",
+      "title": "Fxxk Dat - Single",
+      "date": "2026-03-03",
+      "trackCount": 1,
+      "artist": "BOBBYNOPEACE & 极品贵公子",
+      "source": "https://music.apple.com/cn/album/fxxk-dat-single/1880611539?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/79/98/aa79989c-89c2-27f7-6f45-b5baed68fd76/26UMGIM23618.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a1722035102",
+      "title": "GET IT SOUL - Single",
+      "date": "2023-11-19",
+      "trackCount": 1,
+      "artist": "PUFFMOCHA & 极品贵公子",
+      "source": "https://music.apple.com/cn/album/get-it-soul-single/1722035102?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/3c/3e/64/3c3e642e-fb65-20f1-5ee2-b1aef96cad38/6942219343858.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6813033746",
+      "title": "药引 - Single",
+      "date": "2026-09-20",
+      "trackCount": 1,
+      "artist": "极品贵公子",
+      "source": "https://music.apple.com/cn/album/%E8%8D%AF%E5%BC%95-single/6813033746?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/47/ec/77/47ec7719-d3b2-ccf2-aecf-ee44dade9ab3/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": "a6773056785",
+      "title": "拯旧2012",
+      "date": "2026-05-28",
+      "trackCount": 12,
+      "artist": "极品贵公子",
+      "source": "https://music.apple.com/cn/album/%E6%8B%AF%E6%97%A72012/6773056785?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/da/69/3eda6957-763c-a394-907e-1221003dc301/cover.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期作品与网络录音",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 65 首歌曲记录。部分早期网络 Demo、未上线单曲或因版权下架曲目未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=32719707"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1558105101"
+        }
+      ]
+    },
+    {
+      "title": "别名与厂牌关联",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "极品贵公子同时使用“龙萨奇”、“NONSUCH”等别名，网易云及 Apple Music 候选账号已交叉比对，严格按逐曲署名关联，未经核验的同名或疑似账号保持隔离。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=32719707"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1558105101"
+        }
+      ]
+    },
+    {
+      "title": "多首合辑与客串逐曲参与",
+      "year": "合作发行",
+      "status": "按逐曲参与收录",
+      "detail": "如《蓝眼泪 BLUE DRIP》（收录参演的2首）、《UDG FRESHMAN 2025 CYPHER》等合辑，均严格限定本人实际参演曲目。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=32719707"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "极品贵公子 艺名与别名",
+      "detail": "网易云主账号为“极品贵公子”（ID 32719707），别名记录为“龙萨奇”；Apple 官方主页为“极品贵公子”(ID 1558105101)。支持极品贵公子、龙萨奇、NONSUCH 检索。",
+      "sources": [
+        "https://music.163.com/artist?id=32719707",
+        "https://music.apple.com/cn/artist/1558105101"
+      ]
+    },
+    {
+      "title": "核心录音室项目",
+      "detail": "收录《拯旧2012》（12首完整收录）、《伤感统治》（4首）、《中国式愤怒》（4首）、《福娃》（5首）、《蓝血》（4首）、《极品爱》（4首）等 6 个核心专辑与 EP 项目。",
+      "sources": [
+        "https://music.163.com/artist?id=32719707"
+      ]
+    },
+    {
+      "title": "平台发行与曲目对照",
+      "detail": "网易云共收录 65 首公开曲目与 19 张主页唱片；Apple Music 同步上线《Fxxk Dat》、《GET IT SOUL》等单曲与 EP。",
+      "sources": [
+        "https://music.163.com/artist?id=32719707",
+        "https://music.apple.com/cn/artist/1558105101"
+      ]
+    },
+    {
+      "title": "制作署名与参与证据",
+      "detail": "收录曲目中具备明确歌词署名的均完整提取词、曲、编、混、母带制作人员链条；无公开歌词文本的曲目保持纯参演身份记录，不凭空臆造。",
+      "sources": [
+        "https://music.163.com/artist?id=32719707"
+      ]
+    }
+  ]
+}

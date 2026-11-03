@@ -1,0 +1,4756 @@
+{
+  "schemaVersion": 2,
+  "checkedAt": "2026-11-02",
+  "artist": {
+    "id": "n52891211",
+    "name": "Alyway",
+    "short": "Alyway",
+    "aliases": [
+      "Alyway",
+      "alyway",
+      "ALYWAY",
+      "艾利威"
+    ],
+    "portrait": "./assets/alyway-portrait.jpg",
+    "portraitSource": "https://p1.music.126.net/pBkBrm_uAfFWPajuss2wWw==/109951174090934546.jpg",
+    "links": [
+      {
+        "label": "网易云音乐",
+        "url": "https://music.163.com/artist?id=52891211"
+      },
+      {
+        "label": "Apple Music",
+        "url": "https://music.apple.com/cn/artist/1804285199"
+      }
+    ]
+  },
+  "coverage": {
+    "neteaseReported": 58,
+    "neteaseCollected": 58,
+    "neteaseHasMore": false,
+    "listedReleases": 3,
+    "associatedNeteaseReleases": 22,
+    "appleComparedReleases": 1,
+    "appleExtraTracks": 0,
+    "coreAlbums": 3,
+    "from": "2024-03-08",
+    "through": "2026-10-18",
+    "historicallyComplete": false,
+    "description": "已读取网易云全部 58 条公开目录记录，涵盖《Trench Kid》、《VEmo》、《FLXR》等 3 个核心个人与联合项目及与多位说唱音乐人的合作项目。合作发行按逐曲署名收录，早期及未上线作品历史全量仍待补证。"
+  },
+  "people": [
+    {
+      "id": "n98224237",
+      "name": "Vulrex44",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=98224237"
+    },
+    {
+      "id": "n48043223",
+      "name": "Z1cky999",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48043223"
+    },
+    {
+      "id": "n52891211",
+      "name": "Alyway",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52891211"
+    },
+    {
+      "id": "n48045511",
+      "name": "APMOZART",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48045511"
+    },
+    {
+      "id": "n35139045",
+      "name": "SHURA",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35139045"
+    },
+    {
+      "id": "n57037132",
+      "name": "CCFlights",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=57037132"
+    },
+    {
+      "id": "n51003308",
+      "name": "Qiqi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51003308"
+    },
+    {
+      "id": "n46816790",
+      "name": "ATy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46816790"
+    },
+    {
+      "id": "n30134694",
+      "name": "elvis cashley",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30134694"
+    },
+    {
+      "id": "n33937972",
+      "name": "CashTrippy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33937972"
+    },
+    {
+      "id": "n12914544",
+      "name": "马伯骞Victor Ma",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12914544"
+    },
+    {
+      "id": "n34542282",
+      "name": "Vgooo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34542282"
+    },
+    {
+      "id": "n34786360",
+      "name": "Kokoheavenocean",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34786360"
+    },
+    {
+      "id": "n96599784",
+      "name": "尹伟泽",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=96599784"
+    },
+    {
+      "id": "n121798125",
+      "name": "SashaLopez",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=121798125"
+    },
+    {
+      "id": "u6LS-55yfamFoZ2Vu",
+      "name": "贾真Jahgen",
+      "kind": "person",
+      "source": null
+    },
+    {
+      "id": "n14116746",
+      "name": "黄格雷",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14116746"
+    },
+    {
+      "id": "n55315624",
+      "name": "贾真Jahgen",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=55315624"
+    },
+    {
+      "id": "n35022427",
+      "name": "Lan",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35022427"
+    },
+    {
+      "id": "n32436403",
+      "name": "Monovisa",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32436403"
+    },
+    {
+      "id": "n37409740",
+      "name": "africakid",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37409740"
+    },
+    {
+      "id": "n29303235",
+      "name": "PSY.P",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29303235"
+    },
+    {
+      "id": "n12110173",
+      "name": "THOME",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12110173"
+    },
+    {
+      "id": "n13911452",
+      "name": "ATM Hanson",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13911452"
+    },
+    {
+      "id": "n32870400",
+      "name": "heechoo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32870400"
+    },
+    {
+      "id": "n46549449",
+      "name": "Akemen",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46549449"
+    },
+    {
+      "id": "n48436890",
+      "name": "Taisheng Music",
+      "kind": "collective",
+      "source": "https://music.163.com/artist?id=48436890"
+    },
+    {
+      "id": "n94156457",
+      "name": "ChairC",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=94156457"
+    },
+    {
+      "id": "n53760034",
+      "name": "Blanco",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53760034"
+    },
+    {
+      "id": "n12328955",
+      "name": "Udigg",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12328955"
+    },
+    {
+      "id": "n53597603",
+      "name": "迪诺哥",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53597603"
+    },
+    {
+      "id": "n46360084",
+      "name": "ONLY1ONE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46360084"
+    },
+    {
+      "id": "n32931336",
+      "name": "KITO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32931336"
+    },
+    {
+      "id": "n52253891",
+      "name": "季承泽",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52253891"
+    },
+    {
+      "id": "cYWtpdGhlcHJvZHVjZXI",
+      "name": "AkiTheProducer",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdG91ZnU",
+      "name": "Toufu",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYnZsbG9vbg",
+      "name": "Bvlloon",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6LCt546J5aCC",
+      "name": "谭玉堂",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cMDAyMzMwMDA3NTAwMA",
+      "name": "0023300075000",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc29ycnlmb3J5b3VybG9zcw",
+      "name": "sorryforyourLoss",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZWVi",
+      "name": "EEB",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJpcHBpbnNoYXd0eQ",
+      "name": "drippinshawty",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camFja3dhdnk",
+      "name": "JACKWAVY",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c55i-5rW3aW5vY2Vhbg",
+      "name": "瘾海INOCEAN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5bqf54mp6LaF5biC",
+      "name": "废物超市",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5p2o6J-S54m5",
+      "name": "杨蟒特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5paH5qOu54m5",
+      "name": "文森特",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ca2lsbHRoaXNzb255",
+      "name": "killthissony",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccGluYWs",
+      "name": "Pinak",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYWxleHh4",
+      "name": "Alexxx",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "camVycnk",
+      "name": "Jerry",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c6ICZ6IKJ5bCP5a2Q",
+      "name": "耙肉小子",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caHVpbGFu",
+      "name": "HUILAN",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceXhuZ2tlbmF5",
+      "name": "yxngkenay",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZXp6aWU",
+      "name": "ezzie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXlvY2FyaWU",
+      "name": "ayocarie",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c5LuY5oCd6YGl",
+      "name": "付思遥",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ2VhbQ",
+      "name": "Geam",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJhY29ib2lpaQ",
+      "name": "dracoboiii",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cc2hhbmdv",
+      "name": "shango",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdCRoeG1v",
+      "name": "T$HXMO",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccnVu",
+      "name": "run",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "c546L5pS_5YW4",
+      "name": "王政典",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ2hvc3QgZGFubnk",
+      "name": "Ghost Danny",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cYXJpemE",
+      "name": "Ariza",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "caG9vZHdpdGhhbm90aGEx",
+      "name": "HoodwithAnotha1",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ceW91bmcgZW1waGFzaXM",
+      "name": "young emphasis",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZ2hvc3RkYW5ueQ",
+      "name": "GhostDanny",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cOTlsYQ",
+      "name": "99LA",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cemF5c2F2dg",
+      "name": "Zaysavv",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cbGlsIGNhbA",
+      "name": "Lil Cal",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cdzRkZGxlcw",
+      "name": "W4ddles",
+      "kind": "credit",
+      "source": null
+    }
+  ],
+  "albums": [
+    {
+      "id": "n404612336",
+      "title": "堕落骑士",
+      "date": "2026-10-18",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "Vulrex44"
+      ],
+      "label": null,
+      "artwork": "./assets/album-404612336.jpg",
+      "artworkSource": "https://p2.music.126.net/OupEk9PmAOMSbxU-GYCj_g==/109951174129648962.jpg",
+      "source": "https://music.163.com/album?id=404612336",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3450355583"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n400117250",
+      "title": "APHD",
+      "date": "2026-09-26",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 14,
+      "artistNames": [
+        "APMOZART"
+      ],
+      "label": null,
+      "artwork": "./assets/album-400117250.jpg",
+      "artworkSource": "https://p2.music.126.net/Roaq3pHTZz1hdQIEw8e54Q==/109951173987475873.jpg",
+      "source": "https://music.163.com/album?id=400117250",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3440216736"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n395935568",
+      "title": "Trench Kid",
+      "date": "2026-09-05",
+      "type": "专辑",
+      "edition": "Remix",
+      "totalTracks": 11,
+      "artistNames": [
+        "Alyway"
+      ],
+      "label": "INDEcompany",
+      "artwork": "./assets/album-395935568.jpg",
+      "artworkSource": "https://p1.music.126.net/2ZE97oF0DaIqCJpVCbZlIg==/109951173869788169.jpg",
+      "source": "https://music.163.com/album?id=395935568",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3429770312",
+        "n3429770310",
+        "n3429770307",
+        "n3429770306",
+        "n3429770305",
+        "n3429769784",
+        "n3429769782",
+        "n3429769781",
+        "n3429769780",
+        "n3429769778",
+        "n3429769777"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n394268157",
+      "title": "S.L.U.T",
+      "date": "2026-08-23",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "CCFlights"
+      ],
+      "label": null,
+      "artwork": "./assets/album-394268157.jpg",
+      "artworkSource": "https://p2.music.126.net/PWQ7jIZ-vVKtUW8GvEUVpA==/109951173813940075.jpg",
+      "source": "https://music.163.com/album?id=394268157",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3425122377"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n386326147",
+      "title": "ZeroMiedo",
+      "date": "2026-07-10",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 15,
+      "artistNames": [
+        "ATy"
+      ],
+      "label": "网易音乐人",
+      "artwork": "./assets/album-386326147.jpg",
+      "artworkSource": "https://p2.music.126.net/whd5YSvRcm6sNOhqq1TniQ==/109951173536748559.jpg",
+      "source": "https://music.163.com/album?id=386326147",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3404792186"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n372704382",
+      "title": "RACER",
+      "date": "2026-04-27",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "CashTrippy"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-372704382.jpg",
+      "artworkSource": "https://p2.music.126.net/Vw_iEU-Ps90-xpxNgkuqWA==/109951174189300090.jpg",
+      "source": "https://music.163.com/album?id=372704382",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3374012920"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n371542113",
+      "title": "Tvff Baby",
+      "date": "2026-04-18",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 6,
+      "artistNames": [
+        "Vgooo",
+        "Kokoheavenocean"
+      ],
+      "label": null,
+      "artwork": "./assets/album-371542113.jpg",
+      "artworkSource": "https://p1.music.126.net/QF5SsF6FW1W6X6XqUX3HFg==/109951173072978760.jpg",
+      "source": "https://music.163.com/album?id=371542113",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3371284576"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n356208290",
+      "title": "冬日序曲",
+      "date": "2025-12-26",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 6,
+      "artistNames": [
+        "尹伟泽"
+      ],
+      "label": "澳声工坊",
+      "artwork": "./assets/album-356208290.jpg",
+      "artworkSource": "https://p1.music.126.net/Siua3aroEggzKihzLBPKnA==/109951172492045087.jpg",
+      "source": "https://music.163.com/album?id=356208290",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3332861834"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n352567751",
+      "title": "EXPENSIVE SCARSSS",
+      "date": "2025-12-06",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "SashaLopez"
+      ],
+      "label": null,
+      "artwork": "./assets/album-352567751.jpg",
+      "artworkSource": "https://p1.music.126.net/aqqNetiuuNAYS3Io7qSJHw==/109951172366729269.jpg",
+      "source": "https://music.163.com/album?id=352567751",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3323467514"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n352017935",
+      "title": "季节2025",
+      "date": "2025-11-29",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 12,
+      "artistNames": [
+        "黄格雷"
+      ],
+      "label": "秀动发行",
+      "artwork": "./assets/album-352017935.jpg",
+      "artworkSource": "https://p2.music.126.net/g1dNtU_xWd5nvXBjNpLgKQ==/109951172346576628.jpg",
+      "source": "https://music.163.com/album?id=352017935",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3322064340"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n349462407",
+      "title": "Blues",
+      "date": "2025-11-07",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 17,
+      "artistNames": [
+        "Lan"
+      ],
+      "label": null,
+      "artwork": "./assets/album-349462407.jpg",
+      "artworkSource": "https://p1.music.126.net/m7uB1RB8zCLH65fyMt9pZQ==/109951172242449792.jpg",
+      "source": "https://music.163.com/album?id=349462407",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3315244423"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n348612212",
+      "title": "Vesigner",
+      "date": "2025-11-01",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 7,
+      "artistNames": [
+        "Monovisa"
+      ],
+      "label": "种梦音乐",
+      "artwork": "./assets/album-348612212.jpg",
+      "artworkSource": "https://p2.music.126.net/zqzsorB8fq8W9E6uhKaoUw==/109951172214188752.jpg",
+      "source": "https://music.163.com/album?id=348612212",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n3312589620"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n348605325",
+      "title": "VEmo",
+      "date": "2025-10-31",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 18,
+      "artistNames": [
+        "Alyway"
+      ],
+      "label": null,
+      "artwork": "./assets/album-348605325.jpg",
+      "artworkSource": "https://p2.music.126.net/ef928ozg-E8Tsuf6O0j7pw==/109951172214067729.jpg",
+      "source": "https://music.163.com/album?id=348605325",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3312879989",
+        "n3312879942",
+        "n3312879866",
+        "n3312879801",
+        "n3312879661",
+        "n3312879567",
+        "n3312879532",
+        "n3312879114",
+        "n3312878765",
+        "n3312878446",
+        "n3312878370",
+        "n3312878315",
+        "n3312878274",
+        "n3312878010",
+        "n3312875521",
+        "n3312875112",
+        "n3312874724",
+        "n3312874658"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n285506659",
+      "title": "GAMEBOI",
+      "date": "2025-09-21",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 25,
+      "artistNames": [
+        "africakid",
+        "ATM Hanson"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-285506659.jpg",
+      "artworkSource": "https://p1.music.126.net/razwufN2bH4Ng0Hrrx3Hfg==/109951172030981268.jpg",
+      "source": "https://music.163.com/album?id=285506659",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2747401484",
+        "n2747401478",
+        "n2747400531",
+        "n2747400528"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n284767566",
+      "title": "ART MUSIC(艺术音乐）",
+      "date": "2025-09-15",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 10,
+      "artistNames": [
+        "Akemen",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-284767566.jpg",
+      "artworkSource": "https://p1.music.126.net/KYVU01cq9P4UYXMJ7JnTOg==/109951173753564544.jpg",
+      "source": "https://music.163.com/album?id=284767566",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2745443287"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n282872213",
+      "title": "遍地黄金",
+      "date": "2025-08-29",
+      "type": "Single",
+      "edition": "录音室版",
+      "totalTracks": 1,
+      "artistNames": [
+        "ChairC"
+      ],
+      "label": null,
+      "artwork": "./assets/album-282872213.jpg",
+      "artworkSource": "https://p2.music.126.net/5EKqElOB13d8nv1GzHs4-w==/109951171931393983.jpg",
+      "source": "https://music.163.com/album?id=282872213",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2740006223"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n274245818",
+      "title": "WANTAL",
+      "date": "2025-06-07",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 13,
+      "artistNames": [
+        "Udigg",
+        "Taisheng Music"
+      ],
+      "label": "太声文化",
+      "artwork": "./assets/album-274245818.jpg",
+      "artworkSource": "https://p2.music.126.net/nWxg3G3viGAnI45wvM6X0Q==/109951173753562636.jpg",
+      "source": "https://music.163.com/album?id=274245818",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2712265332"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n270801595",
+      "title": "事闹大了",
+      "date": "2025-05-04",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 18,
+      "artistNames": [
+        "迪诺哥"
+      ],
+      "label": "网易·云上×MicBee",
+      "artwork": "./assets/album-270801595.jpg",
+      "artworkSource": "https://p1.music.126.net/mPz94aplVAwjNqqSn13rXA==/109951170938602322.jpg",
+      "source": "https://music.163.com/album?id=270801595",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2701003897"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n269667770",
+      "title": "No Style Vol.1",
+      "date": "2025-04-22",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "ONLY1ONE"
+      ],
+      "label": null,
+      "artwork": "./assets/album-269667770.jpg",
+      "artworkSource": "https://p2.music.126.net/76-WmrX3y9LM2xc8v6eFDg==/109951170756747362.jpg",
+      "source": "https://music.163.com/album?id=269667770",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2697269737"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n266984528",
+      "title": "FLXR",
+      "date": "2025-03-28",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 8,
+      "artistNames": [
+        "贾真Jahgen",
+        "Alyway"
+      ],
+      "label": "华纳音乐",
+      "artwork": "./assets/album-266984528.jpg",
+      "artworkSource": "https://p1.music.126.net/XOX3Yip3UVV-rgc0pWVqpg==/109951170647958983.jpg",
+      "source": "https://music.163.com/album?id=266984528",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": true,
+      "chapter": "联合项目",
+      "trackIds": [
+        "n2688217337",
+        "n2688217336",
+        "n2688217335",
+        "n2688217334",
+        "n2688215085",
+        "n2688215084",
+        "n2688215081"
+      ],
+      "listedOnArtist": true
+    },
+    {
+      "id": "n261878670",
+      "title": "你的感觉不重要",
+      "date": "2025-02-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "季承泽"
+      ],
+      "label": null,
+      "artwork": "./assets/album-261878670.jpg",
+      "artworkSource": "https://p1.music.126.net/4fKs4P662Z-14RxdGeHd4w==/109951170454823756.jpg",
+      "source": "https://music.163.com/album?id=261878670",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2672244269"
+      ],
+      "listedOnArtist": false
+    },
+    {
+      "id": "n188105819",
+      "title": "上机人生",
+      "date": "2024-03-08",
+      "type": "EP",
+      "edition": "录音室版",
+      "totalTracks": 6,
+      "artistNames": [
+        "贾真Jahgen"
+      ],
+      "label": null,
+      "artwork": "./assets/album-188105819.jpg",
+      "artworkSource": "https://p2.music.126.net/Dy6qJE6nltF2NKClhq-Xmg==/109951169392973777.jpg",
+      "source": "https://music.163.com/album?id=188105819",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "core": false,
+      "chapter": "合作与其他发行",
+      "trackIds": [
+        "n2133331157"
+      ],
+      "listedOnArtist": false
+    }
+  ],
+  "tracks": [
+    {
+      "id": "n3450355583",
+      "platformId": 3450355583,
+      "title": "枯萎的花",
+      "aliases": [],
+      "albumId": "n404612336",
+      "date": "2026-10-18",
+      "trackNumber": 2,
+      "duration": 189120,
+      "artistIds": [
+        "n98224237",
+        "n48043223",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n98224237",
+          "role": "作词",
+          "raw": "作词 : Vulrex44/Z1cky999/Alyway",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "n48043223",
+          "role": "作词",
+          "raw": "作词 : Vulrex44/Z1cky999/Alyway",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Vulrex44/Z1cky999/Alyway",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "n98224237",
+          "role": "作曲",
+          "raw": "作曲 : Vulrex44/Z1cky999/Alyway",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "n48043223",
+          "role": "作曲",
+          "raw": "作曲 : Vulrex44/Z1cky999/Alyway",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Vulrex44/Z1cky999/Alyway",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "cYWtpdGhlcHJvZHVjZXI",
+          "role": "编曲",
+          "raw": "编曲 : AkiTheProducer",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "cdG91ZnU",
+          "role": "混音",
+          "raw": "混音： Toufu",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "cdG91ZnU",
+          "role": "母带",
+          "raw": "母带： Toufu",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        },
+        {
+          "personId": "cdG91ZnU",
+          "role": "监制",
+          "raw": "监制： Toufu",
+          "source": "https://music.163.com/song?id=3450355583",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Vulrex44/Z1cky999/Alyway",
+        "作曲 : Vulrex44/Z1cky999/Alyway",
+        "编曲 : AkiTheProducer",
+        "混音： Toufu",
+        "母带： Toufu",
+        "监制： Toufu"
+      ],
+      "source": "https://music.163.com/song?id=3450355583",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3440216736",
+      "platformId": 3440216736,
+      "title": "TopTop",
+      "aliases": [],
+      "albumId": "n400117250",
+      "date": "2026-09-26",
+      "trackNumber": 2,
+      "duration": 142896,
+      "artistIds": [
+        "n48045511",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n48045511",
+          "role": "作词",
+          "raw": "作词 : APMOZART/Alyway",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : APMOZART/Alyway",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        },
+        {
+          "personId": "n48045511",
+          "role": "作曲",
+          "raw": "作曲 : APMOZART/Alyway",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : APMOZART/Alyway",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        },
+        {
+          "personId": "cYnZsbG9vbg",
+          "role": "制作人",
+          "raw": "制作 : Bvlloon",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3440216736",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : APMOZART/Alyway",
+        "作曲 : APMOZART/Alyway",
+        "制作 : Bvlloon",
+        "混音 : 谭玉堂",
+        "母带 : 谭玉堂"
+      ],
+      "source": "https://music.163.com/song?id=3440216736",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429770305",
+      "platformId": 3429770305,
+      "title": "Cold",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 1,
+      "duration": 173986,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429770305",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770305",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770305",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429770305",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429770305",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429770306",
+      "platformId": 3429770306,
+      "title": "Dead Inside",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 2,
+      "duration": 104853,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429770306",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770306",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770306",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429770306",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429770306",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429769777",
+      "platformId": 3429769777,
+      "title": "川久保玲",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 3,
+      "duration": 105346,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429769777",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769777",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769777",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429769777",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429769777",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429770307",
+      "platformId": 3429770307,
+      "title": "天津之眼",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 4,
+      "duration": 161720,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429770307",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770307",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770307",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429770307",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429770307",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429769778",
+      "platformId": 3429769778,
+      "title": "I Shot Cupid",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 5,
+      "duration": 117946,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429769778",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769778",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769778",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429769778",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429769778",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429769780",
+      "platformId": 3429769780,
+      "title": "北海道",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 6,
+      "duration": 93280,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429769780",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769780",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769780",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429769780",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429769780",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429770310",
+      "platformId": 3429770310,
+      "title": "Rosie",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 7,
+      "duration": 130693,
+      "artistIds": [
+        "n52891211",
+        "n35139045"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/SHURA",
+          "source": "https://music.163.com/song?id=3429770310",
+          "level": "track"
+        },
+        {
+          "personId": "n35139045",
+          "role": "作词",
+          "raw": "作词 : Alyway/SHURA",
+          "source": "https://music.163.com/song?id=3429770310",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/SHURA",
+          "source": "https://music.163.com/song?id=3429770310",
+          "level": "track"
+        },
+        {
+          "personId": "n35139045",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/SHURA",
+          "source": "https://music.163.com/song?id=3429770310",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770310",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429770310",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/SHURA",
+        "作曲 : Alyway/SHURA",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429770310",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429769781",
+      "platformId": 3429769781,
+      "title": "Suicidal",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 8,
+      "duration": 124800,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429769781",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769781",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769781",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429769781",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429769781",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429769782",
+      "platformId": 3429769782,
+      "title": "仙鹿",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 9,
+      "duration": 176586,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429769782",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769782",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769782",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429769782",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429769782",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429769784",
+      "platformId": 3429769784,
+      "title": "时间",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 10,
+      "duration": 177653,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429769784",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769784",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429769784",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429769784",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429769784",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3429770312",
+      "platformId": 3429770312,
+      "title": "有的时候 我希望你不爱我",
+      "aliases": [],
+      "albumId": "n395935568",
+      "date": "2026-09-05",
+      "trackNumber": 11,
+      "duration": 50880,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3429770312",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770312",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "编曲",
+          "raw": "编曲 : Alyway",
+          "source": "https://music.163.com/song?id=3429770312",
+          "level": "track"
+        },
+        {
+          "personId": "cMDAyMzMwMDA3NTAwMA",
+          "role": "混音",
+          "raw": "混音 : 0023300075000",
+          "source": "https://music.163.com/song?id=3429770312",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Alyway",
+        "混音 : 0023300075000"
+      ],
+      "source": "https://music.163.com/song?id=3429770312",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3425122377",
+      "platformId": 3425122377,
+      "title": "胡萝卜",
+      "aliases": [],
+      "albumId": "n394268157",
+      "date": "2026-08-23",
+      "trackNumber": 8,
+      "duration": 149345,
+      "artistIds": [
+        "n57037132",
+        "n52891211",
+        "n51003308"
+      ],
+      "credits": [
+        {
+          "personId": "n57037132",
+          "role": "作词",
+          "raw": "作词 : CCFlights/Alyway/Qiqi",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : CCFlights/Alyway/Qiqi",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "n51003308",
+          "role": "作词",
+          "raw": "作词 : CCFlights/Alyway/Qiqi",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "n57037132",
+          "role": "作曲",
+          "raw": "作曲 : CCFlights/Alyway/Qiqi",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : CCFlights/Alyway/Qiqi",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "n51003308",
+          "role": "作曲",
+          "raw": "作曲 : CCFlights/Alyway/Qiqi",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "cc29ycnlmb3J5b3VybG9zcw",
+          "role": "编曲",
+          "raw": "编曲 : sorryforyourLoss",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        },
+        {
+          "personId": "cZWVi",
+          "role": "监制",
+          "raw": "监制 : EEB",
+          "source": "https://music.163.com/song?id=3425122377",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : CCFlights/Alyway/Qiqi",
+        "作曲 : CCFlights/Alyway/Qiqi",
+        "编曲 : sorryforyourLoss",
+        "混音 : Vgooo",
+        "监制 : EEB"
+      ],
+      "source": "https://music.163.com/song?id=3425122377",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3404792186",
+      "platformId": 3404792186,
+      "title": "LAST NIGHT IN 成都",
+      "aliases": [],
+      "albumId": "n386326147",
+      "date": "2026-07-10",
+      "trackNumber": 15,
+      "duration": 193913,
+      "artistIds": [
+        "n46816790",
+        "n30134694",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n46816790",
+          "role": "作词",
+          "raw": "作词 : ATy/elvis cashley/Alyway",
+          "source": "https://music.163.com/song?id=3404792186",
+          "level": "track"
+        },
+        {
+          "personId": "n30134694",
+          "role": "作词",
+          "raw": "作词 : ATy/elvis cashley/Alyway",
+          "source": "https://music.163.com/song?id=3404792186",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : ATy/elvis cashley/Alyway",
+          "source": "https://music.163.com/song?id=3404792186",
+          "level": "track"
+        },
+        {
+          "personId": "n46816790",
+          "role": "作曲",
+          "raw": "作曲 : ATy/elvis cashley/Alyway",
+          "source": "https://music.163.com/song?id=3404792186",
+          "level": "track"
+        },
+        {
+          "personId": "n30134694",
+          "role": "作曲",
+          "raw": "作曲 : ATy/elvis cashley/Alyway",
+          "source": "https://music.163.com/song?id=3404792186",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : ATy/elvis cashley/Alyway",
+          "source": "https://music.163.com/song?id=3404792186",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : ATy/elvis cashley/Alyway",
+        "作曲 : ATy/elvis cashley/Alyway"
+      ],
+      "source": "https://music.163.com/song?id=3404792186",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3374012920",
+      "platformId": 3374012920,
+      "title": "速度恶魔",
+      "aliases": [],
+      "albumId": "n372704382",
+      "date": "2026-04-27",
+      "trackNumber": 2,
+      "duration": 134798,
+      "artistIds": [
+        "n33937972",
+        "n12914544",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n33937972",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/马伯骞Victor Ma/Alyway",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "n12914544",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/马伯骞Victor Ma/Alyway",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : CashTrippy/马伯骞Victor Ma/Alyway",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "n33937972",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/马伯骞Victor Ma/Alyway",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "n12914544",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/马伯骞Victor Ma/Alyway",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : CashTrippy/马伯骞Victor Ma/Alyway",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJpcHBpbnNoYXd0eQ",
+          "role": "混音",
+          "raw": "混音 : drippinshawty",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3374012920",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : CashTrippy/马伯骞Victor Ma/Alyway",
+        "作曲 : CashTrippy/马伯骞Victor Ma/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : drippinshawty",
+        "母带 : 谭玉堂"
+      ],
+      "source": "https://music.163.com/song?id=3374012920",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3371284576",
+      "platformId": 3371284576,
+      "title": "Ko&go",
+      "aliases": [],
+      "albumId": "n371542113",
+      "date": "2026-04-18",
+      "trackNumber": 2,
+      "duration": 171455,
+      "artistIds": [
+        "n34542282",
+        "n34786360",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n34542282",
+          "role": "作词",
+          "raw": "作词 : Vgooo/Kokoheavenocean/Alyway",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n34786360",
+          "role": "作词",
+          "raw": "作词 : Vgooo/Kokoheavenocean/Alyway",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Vgooo/Kokoheavenocean/Alyway",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "作曲",
+          "raw": "作曲 : Vgooo/Kokoheavenocean/Alyway",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n34786360",
+          "role": "作曲",
+          "raw": "作曲 : Vgooo/Kokoheavenocean/Alyway",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Vgooo/Kokoheavenocean/Alyway",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "编曲",
+          "raw": "编曲 : Vgooo/Kokoheavenocean",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        },
+        {
+          "personId": "n34786360",
+          "role": "编曲",
+          "raw": "编曲 : Vgooo/Kokoheavenocean",
+          "source": "https://music.163.com/song?id=3371284576",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Vgooo/Kokoheavenocean/Alyway",
+        "作曲 : Vgooo/Kokoheavenocean/Alyway",
+        "编曲 : Vgooo/Kokoheavenocean"
+      ],
+      "source": "https://music.163.com/song?id=3371284576",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3332861834",
+      "platformId": 3332861834,
+      "title": "结冰",
+      "aliases": [],
+      "albumId": "n356208290",
+      "date": "2025-12-26",
+      "trackNumber": 2,
+      "duration": 206367,
+      "artistIds": [
+        "n96599784",
+        "n52891211"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=3332861834",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3323467514",
+      "platformId": 3323467514,
+      "title": "Expensive Scarsss",
+      "aliases": [],
+      "albumId": "n352567751",
+      "date": "2025-12-06",
+      "trackNumber": 1,
+      "duration": 268146,
+      "artistIds": [
+        "n121798125",
+        "n52891211",
+        "u6LS-55yfamFoZ2Vu"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/SashaLopez",
+          "source": "https://music.163.com/song?id=3323467514",
+          "level": "track"
+        },
+        {
+          "personId": "n121798125",
+          "role": "作词",
+          "raw": "作词 : Alyway/SashaLopez",
+          "source": "https://music.163.com/song?id=3323467514",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/SashaLopez",
+          "source": "https://music.163.com/song?id=3323467514",
+          "level": "track"
+        },
+        {
+          "personId": "n121798125",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/SashaLopez",
+          "source": "https://music.163.com/song?id=3323467514",
+          "level": "track"
+        },
+        {
+          "personId": "n121798125",
+          "role": "编曲",
+          "raw": "编曲 : SashaLopez",
+          "source": "https://music.163.com/song?id=3323467514",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/SashaLopez",
+        "作曲 : Alyway/SashaLopez",
+        "编曲 : SashaLopez"
+      ],
+      "source": "https://music.163.com/song?id=3323467514",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3322064340",
+      "platformId": 3322064340,
+      "title": "Love Me Now",
+      "aliases": [],
+      "albumId": "n352017935",
+      "date": "2025-11-29",
+      "trackNumber": 7,
+      "duration": 218015,
+      "artistIds": [
+        "n14116746",
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n14116746",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n14116746",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : 黄格雷/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "camFja3dhdnk",
+          "role": "编曲",
+          "raw": "编曲 : JACKWAVY",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c55i-5rW3aW5vY2Vhbg",
+          "role": "录音",
+          "raw": "录音 : 瘾海INOCEAN",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c5bqf54mp6LaF5biC",
+          "role": "混音",
+          "raw": "混音 : 废物超市",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c5p2o6J-S54m5",
+          "role": "监制",
+          "raw": "监制 : 杨蟒特/文森特",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        },
+        {
+          "personId": "c5paH5qOu54m5",
+          "role": "监制",
+          "raw": "监制 : 杨蟒特/文森特",
+          "source": "https://music.163.com/song?id=3322064340",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 黄格雷/贾真Jahgen/Alyway",
+        "作曲 : 黄格雷/贾真Jahgen/Alyway",
+        "编曲 : JACKWAVY",
+        "录音 : 瘾海INOCEAN",
+        "混音 : 废物超市",
+        "母带 : 谭玉堂",
+        "监制 : 杨蟒特/文森特"
+      ],
+      "source": "https://music.163.com/song?id=3322064340",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3315244423",
+      "platformId": 3315244423,
+      "title": "闪回频率",
+      "aliases": [],
+      "albumId": "n349462407",
+      "date": "2025-11-07",
+      "trackNumber": 4,
+      "duration": 123973,
+      "artistIds": [
+        "n35022427",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n35022427",
+          "role": "作词",
+          "raw": "作词 : Lan/Alyway",
+          "source": "https://music.163.com/song?id=3315244423",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Lan/Alyway",
+          "source": "https://music.163.com/song?id=3315244423",
+          "level": "track"
+        },
+        {
+          "personId": "n35022427",
+          "role": "作曲",
+          "raw": "作曲 : Lan/Alyway",
+          "source": "https://music.163.com/song?id=3315244423",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Lan/Alyway",
+          "source": "https://music.163.com/song?id=3315244423",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Lan/Alyway",
+        "作曲 : Lan/Alyway"
+      ],
+      "source": "https://music.163.com/song?id=3315244423",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312589620",
+      "platformId": 3312589620,
+      "title": "Typhoon",
+      "aliases": [],
+      "albumId": "n348612212",
+      "date": "2025-11-01",
+      "trackNumber": 3,
+      "duration": 132885,
+      "artistIds": [
+        "n32436403",
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n32436403",
+          "role": "作词",
+          "raw": "作词 : Monovisa/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Monovisa/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Monovisa/贾真Jahgen/Alyway",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n32436403",
+          "role": "作曲",
+          "raw": "作曲 : Monovisa",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "ca2lsbHRoaXNzb255",
+          "role": "编曲",
+          "raw": "编曲 : killthissony/Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "ccGluYWs",
+          "role": "编曲",
+          "raw": "编曲 : killthissony/Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxleHh4",
+          "role": "编曲",
+          "raw": "编曲 : killthissony/Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "n32436403",
+          "role": "制作人",
+          "raw": "制作人 : Monovisa",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "camVycnk",
+          "role": "混音",
+          "raw": "混音 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "c6ICZ6IKJ5bCP5a2Q",
+          "role": "混音",
+          "raw": "混音 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "camVycnk",
+          "role": "母带",
+          "raw": "母带 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        },
+        {
+          "personId": "c6ICZ6IKJ5bCP5a2Q",
+          "role": "母带",
+          "raw": "母带 : Jerry/耙肉小子",
+          "source": "https://music.163.com/song?id=3312589620",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Monovisa/贾真Jahgen/Alyway",
+        "作曲 : Monovisa",
+        "编曲 : killthissony/Pinak/Alexxx",
+        "制作人 : Monovisa",
+        "混音 : Jerry/耙肉小子",
+        "母带 : Jerry/耙肉小子"
+      ],
+      "source": "https://music.163.com/song?id=3312589620",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312875112",
+      "platformId": 3312875112,
+      "title": "From Da Soul",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 1,
+      "duration": 162546,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312875112",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312875112",
+          "level": "track"
+        },
+        {
+          "personId": "cdCRoeG1v",
+          "role": "编曲",
+          "raw": "编曲 : T$HXMO",
+          "source": "https://music.163.com/song?id=3312875112",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : T$HXMO"
+      ],
+      "source": "https://music.163.com/song?id=3312875112",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312874658",
+      "platformId": 3312874658,
+      "title": "宇航员韵律",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 2,
+      "duration": 116032,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312874658",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312874658",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3312874658",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=3312874658",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312874724",
+      "platformId": 3312874724,
+      "title": "笑着去银行",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 3,
+      "duration": 113794,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312874724",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312874724",
+          "level": "track"
+        },
+        {
+          "personId": "ccnVu",
+          "role": "编曲",
+          "raw": "编曲 : run",
+          "source": "https://music.163.com/song?id=3312874724",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : run"
+      ],
+      "source": "https://music.163.com/song?id=3312874724",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312875521",
+      "platformId": 3312875521,
+      "title": "我知道所有女孩都一样",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 4,
+      "duration": 153782,
+      "artistIds": [
+        "n52891211",
+        "n12110173"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/THOME",
+          "source": "https://music.163.com/song?id=3312875521",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作词",
+          "raw": "作词 : Alyway/THOME",
+          "source": "https://music.163.com/song?id=3312875521",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/THOME",
+          "source": "https://music.163.com/song?id=3312875521",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/THOME",
+          "source": "https://music.163.com/song?id=3312875521",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3312875521",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/THOME",
+        "作曲 : Alyway/THOME",
+        "编曲 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=3312875521",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878010",
+      "platformId": 3312878010,
+      "title": "VEmo Popstar",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 5,
+      "duration": 110457,
+      "artistIds": [
+        "n52891211",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        },
+        {
+          "personId": "cc2hhbmdv",
+          "role": "编曲",
+          "raw": "编曲 : shango",
+          "source": "https://music.163.com/song?id=3312878010",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/africakid",
+        "作曲 : Alyway/africakid",
+        "编曲 : shango"
+      ],
+      "source": "https://music.163.com/song?id=3312878010",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878274",
+      "platformId": 3312878274,
+      "title": "Izaya Flow",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 6,
+      "duration": 133783,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312878274",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312878274",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJhY29ib2lpaQ",
+          "role": "编曲",
+          "raw": "编曲 : dracoboiii",
+          "source": "https://music.163.com/song?id=3312878274",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : dracoboiii"
+      ],
+      "source": "https://music.163.com/song?id=3312878274",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878315",
+      "platformId": 3312878315,
+      "title": "我装作不知道",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 7,
+      "duration": 114956,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312878315",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312878315",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2VhbQ",
+          "role": "编曲",
+          "raw": "编曲 : Geam",
+          "source": "https://music.163.com/song?id=3312878315",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Geam"
+      ],
+      "source": "https://music.163.com/song?id=3312878315",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878370",
+      "platformId": 3312878370,
+      "title": "台北娜娜",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 8,
+      "duration": 125138,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312878370",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312878370",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway"
+      ],
+      "source": "https://music.163.com/song?id=3312878370",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879114",
+      "platformId": 3312879114,
+      "title": "霍城",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 9,
+      "duration": 105095,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312879114",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312879114",
+          "level": "track"
+        },
+        {
+          "personId": "cZXp6aWU",
+          "role": "编曲",
+          "raw": "编曲 : ezzie",
+          "source": "https://music.163.com/song?id=3312879114",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : ezzie"
+      ],
+      "source": "https://music.163.com/song?id=3312879114",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878446",
+      "platformId": 3312878446,
+      "title": "成龙历险记",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 10,
+      "duration": 159466,
+      "artistIds": [
+        "n52891211",
+        "n29303235"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/PSY.P",
+          "source": "https://music.163.com/song?id=3312878446",
+          "level": "track"
+        },
+        {
+          "personId": "n29303235",
+          "role": "作词",
+          "raw": "作词 : Alyway/PSY.P",
+          "source": "https://music.163.com/song?id=3312878446",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/PSY.P",
+          "source": "https://music.163.com/song?id=3312878446",
+          "level": "track"
+        },
+        {
+          "personId": "n29303235",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/PSY.P",
+          "source": "https://music.163.com/song?id=3312878446",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥",
+          "source": "https://music.163.com/song?id=3312878446",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/PSY.P",
+        "作曲 : Alyway/PSY.P",
+        "编曲 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=3312878446",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312878765",
+      "platformId": 3312878765,
+      "title": "SRT",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 11,
+      "duration": 85000,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312878765",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312878765",
+          "level": "track"
+        },
+        {
+          "personId": "cYXlvY2FyaWU",
+          "role": "编曲",
+          "raw": "编曲 : ayocarie",
+          "source": "https://music.163.com/song?id=3312878765",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : ayocarie"
+      ],
+      "source": "https://music.163.com/song?id=3312878765",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879532",
+      "platformId": 3312879532,
+      "title": "Zyan 2",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 12,
+      "duration": 130968,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312879532",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312879532",
+          "level": "track"
+        },
+        {
+          "personId": "ceXhuZ2tlbmF5",
+          "role": "编曲",
+          "raw": "编曲 : yxngkenay",
+          "source": "https://music.163.com/song?id=3312879532",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : yxngkenay"
+      ],
+      "source": "https://music.163.com/song?id=3312879532",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879801",
+      "platformId": 3312879801,
+      "title": "Black Porsche Interlude",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 13,
+      "duration": 75545,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312879801",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312879801",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3312879801",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=3312879801",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879567",
+      "platformId": 3312879567,
+      "title": "我不会说温柔的话",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 14,
+      "duration": 129552,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312879567",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312879567",
+          "level": "track"
+        },
+        {
+          "personId": "n35022427",
+          "role": "编曲",
+          "raw": "编曲 : Lan",
+          "source": "https://music.163.com/song?id=3312879567",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Lan"
+      ],
+      "source": "https://music.163.com/song?id=3312879567",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879866",
+      "platformId": 3312879866,
+      "title": "Perky N Xan",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 15,
+      "duration": 133219,
+      "artistIds": [
+        "n52891211",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "ccGluYWs",
+          "role": "编曲",
+          "raw": "编曲 : Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        },
+        {
+          "personId": "cYWxleHh4",
+          "role": "编曲",
+          "raw": "编曲 : Pinak/Alexxx",
+          "source": "https://music.163.com/song?id=3312879866",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/africakid",
+        "作曲 : Alyway/africakid",
+        "编曲 : Pinak/Alexxx"
+      ],
+      "source": "https://music.163.com/song?id=3312879866",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879661",
+      "platformId": 3312879661,
+      "title": "我在外面不能看到你",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 16,
+      "duration": 130130,
+      "artistIds": [
+        "n52891211",
+        "n37409740"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/africakid",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        },
+        {
+          "personId": "caHVpbGFu",
+          "role": "编曲",
+          "raw": "编曲 : HUILAN",
+          "source": "https://music.163.com/song?id=3312879661",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway/africakid",
+        "作曲 : Alyway/africakid",
+        "编曲 : HUILAN"
+      ],
+      "source": "https://music.163.com/song?id=3312879661",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879942",
+      "platformId": 3312879942,
+      "title": "Zaza",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 17,
+      "duration": 94684,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312879942",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312879942",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=3312879942",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=3312879942",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3312879989",
+      "platformId": 3312879989,
+      "title": "V For VEndetta",
+      "aliases": [],
+      "albumId": "n348605325",
+      "date": "2025-10-31",
+      "trackNumber": 18,
+      "duration": 115949,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=3312879989",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=3312879989",
+          "level": "track"
+        },
+        {
+          "personId": "n35022427",
+          "role": "编曲",
+          "raw": "编曲 : Lan",
+          "source": "https://music.163.com/song?id=3312879989",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "编曲 : Lan"
+      ],
+      "source": "https://music.163.com/song?id=3312879989",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400528",
+      "platformId": 2747400528,
+      "title": "Gucci My Bag",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 13,
+      "duration": 144260,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n52891211",
+        "n57037132"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n57037132",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n57037132",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400528",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/Alyway/CCFlights",
+        "作曲 : africakid/ATM Hanson/Alyway/CCFlights",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400528",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401478",
+      "platformId": 2747401478,
+      "title": "唐僧肉",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 14,
+      "duration": 161016,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n55315624",
+        "n32870400",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n32870400",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401478",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/贾真Jahgen/heechoo/Alyway",
+        "作曲 : africakid/ATM Hanson/贾真Jahgen/heechoo/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401478",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747401484",
+      "platformId": 2747401484,
+      "title": "Game Over",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 22,
+      "duration": 140104,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747401484",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/Alyway",
+        "作曲 : africakid/ATM Hanson/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747401484",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2747400531",
+      "platformId": 2747400531,
+      "title": "复活币",
+      "aliases": [],
+      "albumId": "n285506659",
+      "date": "2025-09-21",
+      "trackNumber": 23,
+      "duration": 124455,
+      "artistIds": [
+        "n37409740",
+        "n13911452",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : africakid/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : africakid/ATM Hanson/Alyway",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "混音",
+          "raw": "混音 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "母带",
+          "raw": "母带 : ATM Hanson",
+          "source": "https://music.163.com/song?id=2747400531",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : africakid/Alyway",
+        "作曲 : africakid/ATM Hanson/Alyway",
+        "编曲 : ATM Hanson",
+        "混音 : ATM Hanson",
+        "母带 : ATM Hanson"
+      ],
+      "source": "https://music.163.com/song?id=2747400531",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2745443287",
+      "platformId": 2745443287,
+      "title": "OK",
+      "aliases": [],
+      "albumId": "n284767566",
+      "date": "2025-09-15",
+      "trackNumber": 3,
+      "duration": 119801,
+      "artistIds": [
+        "n46549449",
+        "n52891211",
+        "n48436890"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2745443287",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2740006223",
+      "platformId": 2740006223,
+      "title": "瞳孔",
+      "aliases": [],
+      "albumId": "n282872213",
+      "date": "2025-08-29",
+      "trackNumber": 1,
+      "duration": 151529,
+      "artistIds": [
+        "n94156457",
+        "n53760034",
+        "n52891211"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2740006223",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2712265332",
+      "platformId": 2712265332,
+      "title": "疯狂的钻石体验",
+      "aliases": [],
+      "albumId": "n274245818",
+      "date": "2025-06-07",
+      "trackNumber": 10,
+      "duration": 115000,
+      "artistIds": [
+        "n12328955",
+        "n52891211",
+        "n55315624",
+        "n37409740",
+        "n48436890"
+      ],
+      "credits": [
+        {
+          "personId": "n12328955",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作词",
+          "raw": "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n12328955",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        },
+        {
+          "personId": "n37409740",
+          "role": "作曲",
+          "raw": "作曲 : Udigg/Alyway/贾真Jahgen/africakid",
+          "source": "https://music.163.com/song?id=2712265332",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : Udigg/Alyway/贾真Jahgen/africakid",
+        "作曲 : Udigg/Alyway/贾真Jahgen/africakid"
+      ],
+      "source": "https://music.163.com/song?id=2712265332",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2701003897",
+      "platformId": 2701003897,
+      "title": "song4makeluv",
+      "aliases": [],
+      "albumId": "n270801595",
+      "date": "2025-05-04",
+      "trackNumber": 14,
+      "duration": 175016,
+      "artistIds": [
+        "n53597603",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "n53597603",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/Alyway",
+          "source": "https://music.163.com/song?id=2701003897",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : 迪诺哥/Alyway",
+          "source": "https://music.163.com/song?id=2701003897",
+          "level": "track"
+        },
+        {
+          "personId": "n53597603",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/Alyway",
+          "source": "https://music.163.com/song?id=2701003897",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : 迪诺哥/Alyway",
+          "source": "https://music.163.com/song?id=2701003897",
+          "level": "track"
+        },
+        {
+          "personId": "c546L5pS_5YW4",
+          "role": "监制",
+          "raw": "监制：王政典",
+          "source": "https://music.163.com/song?id=2701003897",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 迪诺哥/Alyway",
+        "作曲 : 迪诺哥/Alyway",
+        "监制：王政典"
+      ],
+      "source": "https://music.163.com/song?id=2701003897",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2697269737",
+      "platformId": 2697269737,
+      "title": "PUL",
+      "aliases": [],
+      "albumId": "n269667770",
+      "date": "2025-04-22",
+      "trackNumber": 8,
+      "duration": 140945,
+      "artistIds": [
+        "n46360084",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cZ2hvc3QgZGFubnk",
+          "role": "混音",
+          "raw": "混音 : Ghost Danny",
+          "source": "https://music.163.com/song?id=2697269737",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "混音 : Ghost Danny"
+      ],
+      "source": "https://music.163.com/song?id=2697269737",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215081",
+      "platformId": 2688215081,
+      "title": "买",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 1,
+      "duration": 101034,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cdzRkZGxlcw",
+          "role": "编曲",
+          "raw": "编曲 : W4ddles",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "混音",
+          "raw": "混音 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "母带",
+          "raw": "母带 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215081",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : W4ddles",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : GhostDanny",
+        "母带 : GhostDanny",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215081",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215084",
+      "platformId": 2688215084,
+      "title": "Money Tall Yao Ming",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 2,
+      "duration": 177493,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/ATM Hanson",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n13911452",
+          "role": "编曲",
+          "raw": "编曲 : 付思遥/ATM Hanson",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "混音",
+          "raw": "混音 : 谭玉堂",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "c6LCt546J5aCC",
+          "role": "母带",
+          "raw": "母带 : 谭玉堂",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215084",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 付思遥/ATM Hanson",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : 谭玉堂",
+        "母带 : 谭玉堂",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215084",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217334",
+      "platformId": 2688217334,
+      "title": "Banger",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 3,
+      "duration": 136719,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cOTlsYQ",
+          "role": "编曲",
+          "raw": "编曲 : 99LA/Zaysavv",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "cemF5c2F2dg",
+          "role": "编曲",
+          "raw": "编曲 : 99LA/Zaysavv",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217334",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : 99LA/Zaysavv",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217334",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217336",
+      "platformId": 2688217336,
+      "title": "Nothing",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 4,
+      "duration": 210261,
+      "artistIds": [
+        "n55315624",
+        "n52891211",
+        "n32931336"
+      ],
+      "credits": [
+        {
+          "personId": "caG9vZHdpdGhhbm90aGEx",
+          "role": "编曲",
+          "raw": "编曲 : HoodwithAnotha1",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n32931336",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n32931336",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen/Kito",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217336",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : HoodwithAnotha1",
+        "作词 : Alyway/贾真Jahgen/Kito",
+        "作曲 : Alyway/贾真Jahgen/Kito",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217336",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217335",
+      "platformId": 2688217335,
+      "title": "Emoney",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 5,
+      "duration": 139263,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "ceW91bmcgZW1waGFzaXM",
+          "role": "编曲",
+          "raw": "编曲 : young emphasis",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "混音",
+          "raw": "混音 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "cZ2hvc3RkYW5ueQ",
+          "role": "母带",
+          "raw": "母带 : GhostDanny",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217335",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : young emphasis",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : GhostDanny",
+        "母带 : GhostDanny",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217335",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688215085",
+      "platformId": 2688215085,
+      "title": "500",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 6,
+      "duration": 101034,
+      "artistIds": [
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cbGlsIGNhbA",
+          "role": "编曲",
+          "raw": "编曲 : Lil Cal",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作词",
+          "raw": "作词 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n55315624",
+          "role": "作曲",
+          "raw": "作曲 : Alyway/贾真Jahgen",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688215085",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : Lil Cal",
+        "作词 : Alyway/贾真Jahgen",
+        "作曲 : Alyway/贾真Jahgen",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688215085",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2688217337",
+      "platformId": 2688217337,
+      "title": "Global",
+      "aliases": [],
+      "albumId": "n266984528",
+      "date": "2025-03-28",
+      "trackNumber": 8,
+      "duration": 122880,
+      "artistIds": [
+        "n52891211"
+      ],
+      "credits": [
+        {
+          "personId": "cYXJpemE",
+          "role": "编曲",
+          "raw": "编曲 : Ariza",
+          "source": "https://music.163.com/song?id=2688217337",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作词",
+          "raw": "作词 : Alyway",
+          "source": "https://music.163.com/song?id=2688217337",
+          "level": "track"
+        },
+        {
+          "personId": "n52891211",
+          "role": "作曲",
+          "raw": "作曲 : Alyway",
+          "source": "https://music.163.com/song?id=2688217337",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "混音",
+          "raw": "混音 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217337",
+          "level": "track"
+        },
+        {
+          "personId": "n34542282",
+          "role": "母带",
+          "raw": "母带 : Vgooo",
+          "source": "https://music.163.com/song?id=2688217337",
+          "level": "track"
+        },
+        {
+          "personId": "c5LuY5oCd6YGl",
+          "role": "监制",
+          "raw": "监制 : 付思遥",
+          "source": "https://music.163.com/song?id=2688217337",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "编曲 : Ariza",
+        "作词 : Alyway",
+        "作曲 : Alyway",
+        "混音 : Vgooo",
+        "母带 : Vgooo",
+        "监制 : 付思遥"
+      ],
+      "source": "https://music.163.com/song?id=2688217337",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2672244269",
+      "platformId": 2672244269,
+      "title": "缅甸币",
+      "aliases": [],
+      "albumId": "n261878670",
+      "date": "2025-02-06",
+      "trackNumber": 11,
+      "duration": 174273,
+      "artistIds": [
+        "n52253891",
+        "n55315624",
+        "n52891211"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2672244269",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n2133331157",
+      "platformId": 2133331157,
+      "title": "Throw it back!",
+      "aliases": [],
+      "albumId": "n188105819",
+      "date": "2024-03-08",
+      "trackNumber": 6,
+      "duration": 140288,
+      "artistIds": [
+        "n55315624",
+        "n52891211",
+        "n35139045"
+      ],
+      "credits": [],
+      "creditLines": [],
+      "source": "https://music.163.com/song?id=2133331157",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-02",
+      "kind": "recording",
+      "status": "platform"
+    }
+  ],
+  "externalReleases": [
+    {
+      "id": "a1803593370",
+      "title": "FLXR",
+      "date": "2025-03-28",
+      "trackCount": 8,
+      "artist": "贾真 & 艾利威",
+      "source": "https://music.apple.com/cn/album/flxr/1803593370?uo=4",
+      "sourceLabel": "Apple Music（中国区）",
+      "checkedAt": "2026-11-02",
+      "relatedAlbumId": null,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/94/15/3a941507-59c5-d378-7149-3a1348a7ddd9/5021732753816.jpg/100x100bb.jpg"
+    }
+  ],
+  "gaps": [
+    {
+      "title": "早期、下架与未上线作品",
+      "year": "历年",
+      "status": "历史全量未证明",
+      "detail": "当前公开分页已完整取得 58 首歌曲记录。部分早期单曲及未上架版本因各平台版权变动，未包含在当前主账号公开分页中，保留待补证，不凭空伪造。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=52891211"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1804285199"
+        }
+      ]
+    },
+    {
+      "title": "同名账号隔离与多平台核验",
+      "year": "历年",
+      "status": "身份独立",
+      "detail": "Apple Music 存在其他同名 Alyway 候选账号（如 Apple ID 1649268673 等），其发行风格为国语流行，未经逐曲核查前保持隔离，不因拼写相同合并。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=52891211"
+        },
+        {
+          "title": "Apple 音乐人页",
+          "url": "https://music.apple.com/cn/artist/1804285199"
+        }
+      ]
+    },
+    {
+      "title": "联合项目与合作客串逐曲参与",
+      "year": "历年合辑与合作",
+      "status": "按逐曲参与收录",
+      "detail": "与 贾真Jahgen、africakid、ATM Hanson、APMOZART 等艺人的合辑及合作项目均按 Alyway 实际逐曲客串/演唱参与收录，不把整张合辑算作个人独唱。",
+      "sources": [
+        {
+          "title": "官方网易云主页",
+          "url": "https://music.163.com/artist?id=52891211"
+        }
+      ]
+    }
+  ],
+  "discrepancies": [
+    {
+      "title": "Alyway 艺名与别名",
+      "detail": "网易云主账号为“Alyway”；Apple 官方主页显示为“Alyway（艾利威）”(ID 1804285199)。",
+      "sources": [
+        "https://music.163.com/artist?id=52891211",
+        "https://music.apple.com/cn/artist/1804285199"
+      ]
+    },
+    {
+      "title": "个人核心项目与联合项目",
+      "detail": "收录《Trench Kid》(11首)、《VEmo》(18首) 2 个核心个人项目，以及与 贾真Jahgen 联合发行的《FLXR》(收录7/8首)。其他合作项目按逐曲参与收录。",
+      "sources": [
+        "https://music.163.com/artist?id=52891211"
+      ]
+    },
+    {
+      "title": "平台总量与歌曲性质",
+      "detail": "收录的 58 条平台记录包含录音室版、合作曲目及客串版本，不等于独立个人原创全量；平台发布日期按来源保留，不作为艺人出道或首次发行证明。",
+      "sources": [
+        "https://music.163.com/artist?id=52891211"
+      ]
+    }
+  ]
+}

@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "checkedAt": "2026-11-02",
   "people": {
+    "n32719707": {
+      "name": "极品贵公子",
+      "image": "./assets/jipinguigongzi-portrait.jpg",
+      "source": "https://music.163.com/artist?id=32719707",
+      "imageSource": "https://p1.music.126.net/0ulhlQhO44wQB4Vg8Zcg1Q==/109951172481109650.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n94382457": {
+      "name": "BabyBAKO",
+      "image": "./assets/babybako-portrait.jpg",
+      "source": "https://music.163.com/artist?id=94382457",
+      "imageSource": "https://p1.music.126.net/Ncgvws3rLbxniqFIubAQhg==/109951174131501222.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n12287129": {
+      "name": "小精灵",
+      "image": "./assets/xiaojingling-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12287129",
+      "imageSource": "https://p1.music.126.net/B3m-yvuVF_fXd9pS7VgUhQ==/109951164018724146.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n55315624": {
+      "name": "贾真Jahgen",
+      "image": "./assets/jahgen-portrait.jpg",
+      "source": "https://music.163.com/artist?id=55315624",
+      "imageSource": "https://p2.music.126.net/g4X90Ts7RYg0olhYQfC1gw==/109951174214951721.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
     "n12198387": {
       "name": "艾志恒 Asen",
       "image": "./assets/asen-portrait.jpg",
@@ -461,23 +497,21 @@
     },
     "n28642672": {
       "name": "kkluv",
-      "catalogName": "kkluv",
-      "aliases": [],
-      "image": "./assets/people/n28642672.jpg",
+      "image": "./assets/kkluv-portrait.jpg",
       "source": "https://music.163.com/artist?id=28642672",
       "imageSource": "https://p1.music.126.net/krPkb_D4b63eIP5kbj6lqQ==/109951172293193743.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n12570417": {
       "name": "那奇沃夫",
-      "catalogName": "那奇沃夫",
-      "aliases": [],
-      "image": "./assets/people/n12570417.jpg",
+      "image": "./assets/naqiwofu-portrait.jpg",
       "source": "https://music.163.com/artist?id=12570417",
-      "imageSource": "https://p2.music.126.net/LN0eotZ7ipuD6SR48oAVEw==/109951173887092682.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "imageSource": "https://p1.music.126.net/LN0eotZ7ipuD6SR48oAVEw==/109951173887092682.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n13145283": {
       "name": "ICE杨长青",
@@ -493,13 +527,17 @@
       "name": "APMOZART",
       "catalogName": "APMOZART",
       "aliases": [
-        "Mr.Finest"
+        "apmozart",
+        "Apmozart",
+        "Mr.Finest",
+        "陈麒竹"
       ],
-      "image": "./assets/people/n48045511.jpg",
+      "image": "./assets/apmozart-portrait.jpg",
       "source": "https://music.163.com/artist?id=48045511",
-      "imageSource": "https://p1.music.126.net/_CHuFsMoIs71yRFI9OAiWw==/109951174066537676.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "imageSource": "https://p2.music.126.net/_CHuFsMoIs71yRFI9OAiWw==/109951174066537676.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n12119618": {
       "name": "派克特（PACT）",
@@ -774,13 +812,12 @@
     },
     "n12965215": {
       "name": "邓典果DDG",
-      "catalogName": "邓典果DDG",
-      "aliases": [],
-      "image": "./assets/people/n12965215.jpg",
+      "image": "./assets/dengdianguo-portrait.jpg",
       "source": "https://music.163.com/artist?id=12965215",
       "imageSource": "https://p1.music.126.net/GLgV_NbKYJ8fLOUr39Cicg==/109951168477255172.jpg",
-      "checkedAt": "2026-10-29",
-      "kind": "person"
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n12370200": {
       "name": "王洋EVIS",
@@ -3898,24 +3935,12 @@
     },
     "n33165901": {
       "name": "RICHNOMADIC",
-      "image": "./assets/people/n33165901.jpg",
+      "image": "./assets/richnomadic-portrait.jpg",
       "source": "https://music.163.com/artist?id=33165901",
-      "imageSource": "https://p1.music.126.net/ZSO6K-AV3AndfuaOt0rXMA==/109951174129635366.jpg?param=300y300",
-      "platform": "netease",
-      "checkedAt": "2026-10-30",
-      "evidence": {
-        "method": "exact-platform-id",
-        "artistId": 33165901,
-        "works": [
-          {
-            "id": 1899161130,
-            "title": "彝藏汉（Prod.yz)"
-          }
-        ],
-        "creditSources": [
-          "https://music.163.com/song?id=1899161130"
-        ]
-      }
+      "imageSource": "https://p1.music.126.net/ZSO6K-AV3AndfuaOt0rXMA==/109951174129635366.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n32436403": {
       "name": "Monovisa",
@@ -4306,19 +4331,12 @@
     },
     "n46549449": {
       "name": "Akemen",
-      "image": "./assets/people/n46549449.jpg",
+      "image": "./assets/akemen-portrait.jpg",
       "source": "https://music.163.com/artist?id=46549449",
-      "imageSource": "https://p2.music.126.net/qR_NN4qSC3oU47nuGHm2mw==/109951173684109398.jpg?param=300y300",
-      "platform": "netease",
-      "checkedAt": "2026-10-30",
-      "evidence": {
-        "method": "exact-platform-id",
-        "artistId": 46549449,
-        "works": [],
-        "creditSources": [
-          "https://music.163.com/song?id=2141298734"
-        ]
-      }
+      "imageSource": "https://p2.music.126.net/qR_NN4qSC3oU47nuGHm2mw==/109951173684109398.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n48045772": {
       "name": "ANGPANG",
@@ -6157,11 +6175,12 @@
     },
     "n28869014": {
       "name": "DiorGoFlex",
+      "image": "./assets/diorgoflex-portrait.jpg",
       "source": "https://music.163.com/artist?id=28869014",
-      "imageSource": "https://p2.music.126.net/ZpzlvD9ffMjH1s5m6T5T-w==/109951168975273804.jpg?param=300y300",
-      "image": "./assets/people/n28869014.jpg",
-      "platform": "netease",
-      "checkedAt": "2026-11-02"
+      "imageSource": "https://p1.music.126.net/ti037oWDEMtbR9hpw_wxcw==/109951165488991480.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n29590977": {
       "name": "贾廷玺JATANCY",
@@ -6749,11 +6768,12 @@
     },
     "n52410166": {
       "name": "泰格西",
+      "image": "./assets/taigexi-portrait.jpg",
       "source": "https://music.163.com/artist?id=52410166",
-      "imageSource": "https://p2.music.126.net/xRGFy4uFy3c0ivSZWcJo7A==/109951173375707378.jpg?param=300y300",
-      "image": "./assets/people/n52410166.jpg",
-      "platform": "netease",
-      "checkedAt": "2026-11-02"
+      "imageSource": "https://p2.music.126.net/xRGFy4uFy3c0ivSZWcJo7A==/109951173375707378.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     },
     "n52562123": {
       "name": "栾卓忻",
@@ -9201,6 +9221,89 @@
       "checkedAt": "2026-11-02",
       "kind": "person",
       "reused": true
+    },
+    "n52891211": {
+      "name": "Alyway",
+      "image": "./assets/alyway-portrait.jpg",
+      "source": "https://music.163.com/artist?id=52891211",
+      "imageSource": "https://p1.music.126.net/pBkBrm_uAfFWPajuss2wWw==/109951174090934546.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n46356020": {
+      "name": "周乘羽",
+      "catalogName": "周乘羽",
+      "aliases": [
+        "杰西马吉拉",
+        "Jesse MargieLa",
+        "jesse margiela",
+        "Jesse Margiela"
+      ],
+      "image": "./assets/zhouchengyu-portrait.jpg",
+      "source": "https://music.163.com/artist?id=46356020",
+      "imageSource": "https://p2.music.126.net/7HYUGjbQHQ__tzjh352bCg==/109951170063220002.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n12205952": {
+      "name": "卡力老虎",
+      "image": "./assets/kalilaohu-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12205952",
+      "imageSource": "https://p1.music.126.net/UJxoGQOBaj7NTghEQvIeZA==/109951163398383358.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n13699781": {
+      "name": "马赫mood",
+      "image": "./assets/mahemood-portrait.jpg",
+      "source": "https://music.163.com/artist?id=13699781",
+      "imageSource": "https://p2.music.126.net/MCbhLo3_BbuPyJV157tELg==/109951170501527607.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n94382459": {
+      "name": "ZhaCai榨菜",
+      "image": "./assets/zhacai-portrait.jpg",
+      "source": "https://music.163.com/artist?id=94382459",
+      "imageSource": "https://p1.music.126.net/XQhz5C_31bzxvOFcTwCwMw==/109951174129629946.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n12200580": {
+      "name": "谟西Mercy",
+      "image": "./assets/moximercy-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12200580",
+      "imageSource": "https://p2.music.126.net/ccYHzSzddwHInJNYxyNLxg==/109951167851433396.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n34326822": {
+      "name": "Tlatre特雷西",
+      "image": "./assets/tlatre-portrait.jpg",
+      "source": "https://music.163.com/artist?id=34326822",
+      "imageSource": "https://p1.music.126.net/8CS4NFyBP_qvWK7cEh7JSQ==/109951173308393777.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
+    },
+    "n12256230": {
+      "name": "MISTERK",
+      "image": "./assets/misterk-portrait.jpg",
+      "source": "https://music.163.com/artist?id=12256230",
+      "imageSource": "https://p1.music.126.net/1So3uOyhSUezu7C3MNJ0Tw==/109951171488321902.jpg",
+      "checkedAt": "2026-11-02",
+      "kind": "person",
+      "reused": true
     }
+  },
+  "n32893629": {
+    "src": "./assets/chenyihao-portrait.jpg",
+    "reused": true
   }
 }

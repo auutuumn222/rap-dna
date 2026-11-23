@@ -5,7 +5,9 @@ import {createNeteasePlayer,neteaseSongId} from './player.js';
 import {mountMainNavigation,creatorReturn} from './navigation.js';
 const $=(s,root=document)=>root.querySelector(s),esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const app=$('#app'),dialog=$('#detail-dialog');
-let index,portraits={},artists,creators,tracks,stats,stories,player,timer;
+let index,portraits={},artists,creators,tracks,stats,player,timer;
+const discoveryHistoryKey='rap-dna:discovery-stories';
+let previousStoryIds=[];
 let portraitImages=createPortraits();
 let directory={query:'',role:'all',limit:12,open:false},works={artist:'all',role:'all',query:'',year:'all',limit:12},compare={query:'',role:'all',limit:8};
 const href=(values={})=>'./'+(Object.keys(values).length?'?'+new URLSearchParams(values):'');
@@ -32,7 +34,7 @@ function playButton(t){return neteaseSongId(t)?`<button class="dna-play" data-li
 function workCard(t,id,{label='',compact=false}={}){return `<article class="dna-work ${compact?'compact':''}"><div class="dna-work-top"><img src="${esc(t.artwork)}" alt="${esc(t.album)} 封面" loading="lazy" width="64" height="64"><div>${label?`<span class="dna-work-label">${esc(label)}</span>`:''}<h3>${esc(t.title)}</h3><p>${esc(t.artistNames.join(' / '))}</p><small>${esc(t.date||'日期待核')} · ${esc(t.album)}</small></div></div><div class="dna-work-roles">${pills(rolesFor(t,id))}</div><div class="dna-work-actions">${playButton(t)}<button data-evidence="${esc(t.id)}" data-credit-person="${esc(id)}">查看署名 ↗</button></div></article>`;}
 function storyCard(s,i){const [a,b]=s.artistKeys.map(k=>artists.get(k));return `<article class="dna-story"><div class="dna-story-top"><span class="dna-kicker">CONNECTION ${String(i+1).padStart(2,'0')}</span><span class="dna-story-dot"></span></div><h3>${esc(a.name)} <span>×</span> ${esc(b.name)}</h3><p>熟悉的两首歌，背后都有</p>${link(creatorLink(s.person.id),portrait(s.person)+`<span><b>${esc(s.person.name)}</b><small>看看 TA 还参与了什么 ↗</small></span>`,'dna-person-link')}<div class="dna-story-works">${s.pair.map((t,j)=>workCard(t,s.person.id,{label:[a,b][j].name,compact:true})).join('')}</div>${link(href({view:'common',a:a.key,b:b.key}),'探索他们的共同幕后 <span>→</span>','dna-card-link')}</article>`;}
 function hero(s){
- const visual=s?(()=>{const [a,b]=s.artistKeys.map(k=>artists.get(k));return `<div class="dna-hero-visual"><div class="dna-orbit one"></div><div class="dna-orbit two"></div><div class="dna-visual-work left"><img src="${esc(s.pair[0].artwork)}" alt="${esc(s.pair[0].album)} 封面"><span>${esc(a.name)} · ${esc(s.pair[0].title)}</span></div><div class="dna-visual-work right"><img src="${esc(s.pair[1].artwork)}" alt="${esc(s.pair[1].album)} 封面"><span>${esc(b.name)} · ${esc(s.pair[1].title)}</span></div>${link(creatorLink(s.person.id),portrait(s.person,'hero-avatar')+`<b>${esc(s.person.name)}</b><small>两首不同的歌，同一位编曲者</small>`,'dna-visual-person')}<span class="dna-visual-caption">这就是一次幕后发现。向下看看他们的署名 ↓</span></div>`;})():'';
+ const visual=s?(()=>{const [a,b]=s.artistKeys.map(k=>artists.get(k));return `<div class="dna-hero-visual"><div class="dna-orbit one"></div><div class="dna-orbit two"></div><div class="dna-visual-work left"><img src="${esc(s.pair[0].artwork)}" alt="${esc(s.pair[0].album)} 封面"><span>${esc(a.name)} · ${esc(s.pair[0].title)}</span></div><div class="dna-visual-work right"><img src="${esc(s.pair[1].artwork)}" alt="${esc(s.pair[1].album)} 封面"><span>${esc(b.name)} · ${esc(s.pair[1].title)}</span></div>${link(creatorLink(s.person.id),portrait(s.person,'hero-avatar')+`<b>${esc(s.person.name)}</b><small>两首不同的歌，共同的幕后创作者</small>`,'dna-visual-person')}<span class="dna-visual-caption">这就是一次幕后发现。向下看看他们的署名 ↓</span></div>`;})():'';
  return `<section class="dna-hero" id="top"><div class="dna-hero-copy"><span class="dna-kicker">RAP DNA / 发现声音背后的人</span><h1>从喜欢的 Rapper，<br>找到声音背后的<em>人。</em></h1><p>是谁编出了熟悉的旋律？TA 还参与过谁的作品？<br>沿着制作、编曲与混音署名，发现下一首好歌。</p><div class="dna-hero-actions">${link(href({view:'rappers'}),'从喜欢的 Rapper 开始 <span>↗</span>','dna-button')}${link(href({view:'common'}),'看看两位 Rapper 的共同幕后 →','dna-text-link')}</div><ol class="dna-start-steps" aria-label="探索路线"><li><span>01</span>选择 Rapper</li><li><span>02</span>认识幕后</li><li><span>03</span>听见新作品</li></ol></div>${visual}</section>`;
 }
 function creatorCard(p){const s=stats.get(p.id);return link(creatorLink(p.id),`${portrait(p)}<div><h3>${esc(p.name)}</h3><div class="dna-role-text">${esc(s.roles.join(' · '))}${p.identity==='credit-name'?'<small class="dna-name-status">姓名署名 · 身份待核</small>':''}</div><p>${s.artists.length} 位已收录 Rapper <span>·</span> ${s.works.length} 条作品记录</p></div><span class="dna-card-arrow">↗</span>`,'dna-creator-card');}
@@ -50,6 +52,10 @@ function bindDirectory(){
  $('#creator-search').oninput=e=>{directory.query=e.target.value;directory.limit=12;renderDirectory();};$('#creator-role').onchange=e=>{directory.role=e.target.value;directory.limit=12;renderDirectory();};$('#more-creators').onclick=()=>{directory.limit+=12;renderDirectory();};renderDirectory();
 }
 function home(){
+ try{previousStoryIds=sessionStorage.getItem(discoveryHistoryKey)?.split(',')??previousStoryIds;}catch{}
+ const stories=discoveryStories(index,{stats,previous:previousStoryIds});
+ previousStoryIds=stories.map(s=>s.person.id);
+ try{sessionStorage.setItem(discoveryHistoryKey,previousStoryIds.join(','));}catch{}
  document.title='RAP DNA · 发现声音背后的人';
  app.innerHTML=hero(stories[0])+`<section class="dna-section" id="discover">${heading('先看一个真实的例子','原来也是 TA。','听听两首歌，看看共同署名，再走进这位创作者的其他作品。')}<div class="dna-stories">${stories.map(storyCard).join('')}</div></section><details class="dna-directory-fold" id="creators"><summary><span><b>已经有想找的幕后创作者？</b><small>展开后，按名字、合作的 Rapper 或具体角色搜索。</small></span><span class="dna-fold-label" aria-hidden="true">展开搜索 ＋</span></summary><section class="dna-section" id="creator-directory-content">${directoryControls()}</section></details>`+scope();
  const fold=$('#creators');fold.open=directory.open||location.hash==='#creators';
@@ -132,11 +138,12 @@ document.addEventListener('click',e=>{
  e.preventDefault();compare={query:'',role:'all',limit:8};navigate(url);
 });
 addEventListener('popstate',()=>{render();});
+addEventListener('pageshow',e=>{if(e.persisted&&document.body.dataset.discoveryPage==='discover')home();});
 $('.dialog-close').onclick=()=>dialog.close();dialog.onclick=e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}};
 async function boot(){try{
  const response=await fetch('./creator-index.json');if(!response.ok)throw Error('Creator index HTTP '+response.status);index=await response.json();
  const portraitResponse=await fetch('./people-portraits.json').catch(()=>null);if(portraitResponse?.ok)portraits=(await portraitResponse.json()).people||{};portraitImages=createPortraits(portraits);
- artists=new Map(index.artists.map(a=>[a.key,a]));creators=new Map(index.creators.map(p=>[p.id,p]));tracks=new Map(index.tracks.map(t=>[t.id,t]));stats=new Map(index.creators.map(p=>[p.id,creatorStats(index,p.id)]));stories=discoveryStories(index);
+ artists=new Map(index.artists.map(a=>[a.key,a]));creators=new Map(index.creators.map(p=>[p.id,p]));tracks=new Map(index.tracks.map(t=>[t.id,t]));stats=new Map(index.creators.map(p=>[p.id,creatorStats(index,p.id)]));
  const albums=new Map(index.tracks.map(t=>[t.albumId,{title:t.album,artwork:t.artwork}]));player=createNeteasePlayer({tracks,albums,names:t=>t.artistNames.join(' / '),beforeOpen:()=>dialog.close()});
  document.body.classList.add('discovery-page');document.title='RAP DNA · 发现声音背后的人';
  $('.skip-link').href='#app';$('.skip-link').textContent='跳至主要内容';

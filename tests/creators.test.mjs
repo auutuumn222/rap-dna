@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {buildCreatorIndex,buildFromDirectory} from '../scripts/build-creators.mjs';
-import {creatorWorks,sharedCreators,discoveryStories} from '../dist/creator-model.js';
+import {creatorWorks,creatorStats,sharedCreators,discoveryStories} from '../dist/creator-model.js';
 
 const credit=(personId,role='编曲')=>({personId,role,level:'track',raw:role+' : Alice',source:'https://music.163.com/song?id=1'});
 function fixture(key,rows){return {key,catalog:{artist:{id:key,short:key},checkedAt:'2026-10-30',people:[{id:'p',name:'Alice'},{id:'q',name:'Alice'}],albums:[{id:'album',title:'Album',artwork:'./assets/album.jpg'}],tracks:rows.map(t=>({id:'1',title:'Song',date:'2025-01-01',kind:'recording',albumId:'album',artistIds:[key],credits:[credit('p')],source:'https://music.163.com/song?id=1',...t}))}};}
@@ -31,9 +31,31 @@ const actual=JSON.parse(await readFile(new URL('../dist/creator-index.json',impo
 test('published creator index is reproducible from current archives',async()=>{
  assert.deepEqual(actual,await buildFromDirectory(fileURLToPath(new URL('../dist/',import.meta.url))));
 });
-test('editorial stories carry two different records with source evidence; ATM example is supported',()=>{
- const stories=discoveryStories(actual);assert.equal(stories.length,3);
- for(const s of stories){assert.equal(s.person.identity,'platform');assert.notEqual(s.pair[0].id,s.pair[1].id);for(const t of s.pair)assert.ok(t.credits.some(c=>c.personId===s.person.id&&c.raw&&c.source));}
- assert.equal(stories[0].person.id,'n13911452');assert.deepEqual(stories[0].pair.map(t=>t.title),['英雄','Pop Music']);
- for(const t of stories[0].pair)assert.ok(t.credits.some(c=>c.personId==='n13911452'&&c.role==='编曲'));
+test('discovery samples verified stories and avoids creators shown on the previous visit',()=>{
+ const stats=new Map(actual.creators.filter(p=>p.identity==='platform').map(p=>[p.id,creatorStats(actual,p.id)]));
+ const first=discoveryStories(actual,{stats,random:()=>0});
+ const previous=first.map(s=>s.person.id);
+ const next=discoveryStories(actual,{stats,previous,random:()=>0});
+ const shuffled=discoveryStories(actual,{stats,random:()=>0.99});
+ assert.notDeepEqual(shuffled.map(s=>s.person.id),previous);
+ assert.ok(next.every(s=>!previous.includes(s.person.id)));
+ for(const stories of [first,next,shuffled]){
+  assert.equal(stories.length,3);
+  assert.equal(new Set(stories.map(s=>s.person.id)).size,3);
+  for(const s of stories){
+   assert.equal(s.person.identity,'platform');
+   assert.notEqual(s.pair[0].id,s.pair[1].id);
+   for(const [i,t] of s.pair.entries()){
+    assert.ok(t.artistKeys.includes(s.artistKeys[i]));
+    assert.ok(!t.artistKeys.includes(s.artistKeys[1-i]));
+    assert.ok(t.credits.some(c=>c.personId===s.person.id&&c.raw&&c.source));
+   }
+  }
+ }
+});
+test('a small discovery pool can reuse recent creators and still show the curated ATM example',()=>{
+ const creator=actual.creators.find(p=>p.id==='n13911452');
+ const [story]=discoveryStories({...actual,creators:[creator]},{previous:[creator.id]});
+ assert.equal(story.person.id,creator.id);
+ assert.deepEqual(story.pair.map(t=>t.title),['英雄','Pop Music']);
 });

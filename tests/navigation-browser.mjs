@@ -73,11 +73,17 @@ try{
  assert.equal(await page.evaluate(()=>scrollY),0);
  assert.ok(await creatorSearch.evaluate(input=>input.getBoundingClientRect().bottom<innerHeight));
  await fits();await page.screenshot({path:'qa/navigation/creator-directory-desktop.png'});
- const initialCards=await page.locator('.dna-creator-card').count();
- await page.locator('#more-creators').click();
- assert.ok(await page.locator('.dna-creator-card').count()>initialCards);
+ const creatorCards=page.locator('.dna-creator-card');
+ const moreCreators=page.getByRole('button',{name:'加载更多创作者'});
+ assert.equal(await creatorCards.count(),30);
+ await moreCreators.click();
+ assert.equal(await creatorCards.count(),60);
+ await moreCreators.click();
+ assert.equal(await creatorCards.count(),90);
  await page.locator('#creator-role').selectOption('编曲');
+ assert.equal(await creatorCards.count(),30);
  await creatorSearch.fill('ATM Hanson');
+ assert.equal(await moreCreators.isVisible(),false);
  await page.locator('.dna-creator-card').filter({hasText:'ATM Hanson'}).first().click();
  await page.locator('.dna-profile h1').waitFor();
  assert.equal(new URL(page.url()).searchParams.get('from'),'creators');
@@ -86,6 +92,7 @@ try{
  assert.equal(await creatorSearch.inputValue(),'ATM Hanson');
  assert.equal(await page.locator('#creator-role').inputValue(),'编曲');
  await visit('#creators');await creatorSearch.waitFor();assert.equal(await page.locator('#creators').evaluate(e=>e.open),true);
+ assert.equal(await creatorCards.count(),12);
  await visit('?view=creators');await page.locator('.dna-creator-directory h1').waitFor();
  await visit('#rapper-archives');await page.locator('#rapper-search').waitFor();await page.locator('#rapper-search').fill('no-such-rapper');assert.match(await page.locator('#rapper-archives').innerText(),/还没有进入档案/);
  for(const width of [390,320,768]){

@@ -9,7 +9,8 @@ let index,portraits={},artists,creators,tracks,stats,player,timer;
 const discoveryHistoryKey='rap-dna:discovery-stories';
 let previousStoryIds=[];
 let portraitImages=createPortraits();
-let directory={query:'',role:'all',limit:12,open:false},works={artist:'all',role:'all',query:'',year:'all',limit:12},compare={query:'',role:'all',limit:8};
+const directoryPageSizes={discover:12,creators:30};
+let directory={query:'',role:'all',limits:{...directoryPageSizes},open:false},works={artist:'all',role:'all',query:'',year:'all',limit:12},compare={query:'',role:'all',limit:8};
 const href=(values={})=>'./'+(Object.keys(values).length?'?'+new URLSearchParams(values):'');
 function creatorLink(id){
  const current=new URLSearchParams(location.search),values={creator:id};
@@ -44,7 +45,7 @@ function hero(s){
  return `<section class="dna-hero" id="top"><div class="dna-hero-copy"><span class="dna-kicker">RAP DNA / 发现声音背后的人</span><h1>从喜欢的 Rapper，<br>找到声音背后的<em>人。</em></h1><p>是谁编出了熟悉的旋律？TA 还参与过谁的作品？<br>沿着制作、编曲与混音署名，发现下一首好歌。</p><div class="dna-hero-actions">${link('#discover','翻开合作卡片','dna-button')}${link(href({view:'rappers'}),'从喜欢的 Rapper 开始','dna-text-link')}${link(href({view:'common'}),'看看两位 Rapper 的共同幕后','dna-text-link')}</div></div>${visual}</section>`;
 }
 function creatorCard(p){const s=stats.get(p.id);return link(creatorLink(p.id),`${portrait(p)}<div><h3>${esc(p.name)}</h3><div class="dna-role-text">${esc(s.roles.join(' · '))}${p.identity==='credit-name'?'<small class="dna-name-status">姓名署名 · 身份待核</small>':''}</div><p>${s.artists.length} 位已收录 Rapper <span>·</span> ${s.works.length} 条作品记录</p></div><span class="dna-card-arrow">↗</span>`,'dna-creator-card');}
-function renderDirectory(){
+function renderDirectory(limit){
  const q=directory.query.trim().toLocaleLowerCase();
  const results=[];
  for(const person of index.creators){
@@ -57,14 +58,19 @@ function renderDirectory(){
  }
  const list=results.sort((a,b)=>a.rank-b.rank||b.stat.artists.length-a.stat.artists.length||b.stat.works.length-a.stat.works.length||a.person.name.localeCompare(b.person.name)).map(result=>result.person);
  $('#creator-count').textContent=`${list.length} 位 / 组创作者 · ${q?'创作者姓名匹配优先':'按已收录合作范围排列'}`;
- $('#creator-grid').innerHTML=list.slice(0,directory.limit).map(creatorCard).join('')||'<div class="dna-empty"><h3>还没有找到这个署名。</h3><p>试试其他名字或角色。当前只包含已取得单曲署名的创作者。</p></div>';
- $('#more-creators').hidden=list.length<=directory.limit;
+ $('#creator-grid').innerHTML=list.slice(0,limit).map(creatorCard).join('')||'<div class="dna-empty"><h3>还没有找到这个署名。</h3><p>试试其他名字或角色。当前只包含已取得单曲署名的创作者。</p></div>';
+ $('#more-creators').hidden=list.length<=limit;
  bindImages();
 }
 function directoryControls(){return `<div class="dna-toolbar"><label class="dna-search"><span>⌕</span><input id="creator-search" type="search" placeholder="搜索创作者或合作的 Rapper" aria-label="搜索创作者或合作的 Rapper"></label><label class="dna-select"><span>参与角色</span><select id="creator-role"><option value="all">全部幕后角色</option>${backstageRoles.map(r=>`<option>${r}</option>`).join('')}</select></label></div><p class="dna-result-note" id="creator-count" aria-live="polite"></p><div class="dna-creator-grid" id="creator-grid"></div><button class="dna-more" id="more-creators">加载更多创作者</button>`;}
-function bindDirectory(){
+function bindDirectory(view){
+ const refresh=()=>renderDirectory(directory.limits[view]);
+ const reset=()=>{directory.limits={...directoryPageSizes};refresh();};
  $('#creator-search').value=directory.query;$('#creator-role').value=directory.role;
- $('#creator-search').oninput=e=>{directory.query=e.target.value;directory.limit=12;renderDirectory();};$('#creator-role').onchange=e=>{directory.role=e.target.value;directory.limit=12;renderDirectory();};$('#more-creators').onclick=()=>{directory.limit+=12;renderDirectory();};renderDirectory();
+ $('#creator-search').oninput=e=>{directory.query=e.target.value;reset();};
+ $('#creator-role').onchange=e=>{directory.role=e.target.value;reset();};
+ $('#more-creators').onclick=()=>{directory.limits[view]+=directoryPageSizes[view];refresh();};
+ refresh();
 }
 function dealDiscoveryStories(seen){
  const stories=discoveryStories(index,{stats,previous:previousStoryIds,seen});
@@ -98,12 +104,12 @@ function home(){
  }
  const fold=$('#creators');fold.open=directory.open||location.hash==='#creators';
  fold.ontoggle=()=>{directory.open=fold.open;$('.dna-fold-label',fold).textContent=fold.open?'收起搜索 －':'展开搜索 ＋';};
- bindDirectory();
+ bindDirectory('discover');
 }
 function creatorDirectory(){
  document.title='制作人档案 | RAP DNA';
  app.innerHTML=`<section class="dna-creator-directory" id="top"><nav class="dna-breadcrumb" aria-label="当前位置">${link('./','发现')}<span aria-hidden="true">/</span><span aria-current="page">制作人档案</span></nav><h1>制作人档案</h1><p class="dna-page-purpose">浏览参与制作、编曲、混音和母带的创作者，查看 TA 合作过的 Rapper 和参与的作品。</p>${directoryControls()}</section>`+scope();
- bindDirectory();
+ bindDirectory('creators');
 }
 function rapperDirectory(){
  document.title='Rapper 档案 · 从熟悉的声音开始 | RAP DNA';

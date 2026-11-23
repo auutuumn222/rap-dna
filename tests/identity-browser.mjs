@@ -11,7 +11,15 @@ try{
  await visit('?view=creators');await page.locator('#creator-search').waitFor();
  const creatorId=async card=>new URL(await card.getAttribute('href'),base).searchParams.get('creator');
  for(const name of ['ATM Hanson','ATMHanson','ATM Hanson，']){await page.locator('#creator-search').fill(name);const cards=page.locator('#creator-grid .dna-creator-card');assert.equal(await cards.count(),1);assert.equal(await creatorId(cards),'n13911452');}
- for(const name of ['LusciousBB','LusciouBB','Luciousbb']){await page.locator('#creator-search').fill(name);const cards=page.locator('#creator-grid .dna-creator-card');assert.equal(await cards.count(),1);assert.equal(await creatorId(cards),'n31093989');}
+ for(const name of ['LusciousBB','LusciouBB','Luciousbb','LusiousBB']){await page.locator('#creator-search').fill(name);const cards=page.locator('#creator-grid .dna-creator-card');assert.equal(await cards.count(),1);assert.equal(await creatorId(cards),'n31093989');}
+ await page.locator('#creator-search').fill('Doughboy');
+ const doughBoy=page.locator('#creator-grid .dna-creator-card').filter({has:page.getByRole('heading',{name:'Dough-Boy',exact:true})});
+ assert.equal(await doughBoy.count(),1);assert.equal(await creatorId(doughBoy),'n1203015');
+ for(const [oldId,id] of [['cbHVzaW91c2Ji','n31093989'],['cZG91Z2hib3k','n1203015']]){
+  await visit('?creator='+oldId);await page.locator('.dna-profile h1').waitFor();
+  assert.equal(new URL(page.url()).searchParams.get('creator'),id);
+ }
+ await visit('?view=creators');await page.locator('#creator-search').waitFor();
  for(const [name,id,old] of [['JIMI天赐','n13132045','camltaeWkqei1kA'],['Melo','n29304235','n39040']]){
   await page.locator('#creator-search').fill(name);
   const exactCards=page.locator('#creator-grid .dna-creator-card').filter({has:page.getByRole('heading',{name,exact:true})});

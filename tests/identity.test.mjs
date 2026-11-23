@@ -17,7 +17,8 @@ test('reviewed aliases share the same avatar even when only an old alias has a r
  assert.equal(portraits.imageFor('n13911452'),'./assets/people/atm.jpg');assert.equal(portraits.imageFor('cYXRtIGhhbnNvbg'),'./assets/people/atm.jpg');assert.equal(portraits.imageFor('unknown'),null);
 });
 test('expanded review fixes spelling, affiliations and name-only formatting without merging unrelated people',()=>{
- for(const name of ['LusciouBB','Luciousbb']){const e=identityRegistry.entities.find(e=>e.id==='n31093989');assert.equal(resolvePersonId(e.aliases.find(a=>a.name===name).id),e.id);}
+ for(const name of ['LusciouBB','Luciousbb','LusiousBB']){const e=identityRegistry.entities.find(e=>e.id==='n31093989');assert.equal(resolvePersonId(e.aliases.find(a=>a.name===name).id),e.id);}
+ assert.equal(resolvePersonId('cZG91Z2hib3k'),'n1203015');
  const mai=identityRegistry.entities.find(e=>e.name==='Mai');assert.ok(mai);assert.ok(mai.aliases.some(a=>a.name.includes('No Label Crew')));
  assert.equal(resolvePersonId('n29304235'),'n29304235');assert.equal(resolvePersonId('n39040'),'n39040');
  assert.notEqual(resolvePersonId('cZG91YmxlIHo'),resolvePersonId('cZG91YmxlX2c'));

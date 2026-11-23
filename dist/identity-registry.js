@@ -66,7 +66,7 @@ export const identityRegistry={
       "name": "Dough-Boy",
       "kind": "person",
       "source": "https://music.163.com/artist?id=1203015",
-      "reviewedAt": "2026-10-31",
+      "reviewedAt": "2026-11-23",
       "aliases": [
         {
           "id": "cZG91Z2gtYm95",
@@ -109,6 +109,21 @@ export const identityRegistry={
                   "raw": "编曲 : Dough-Boy"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "id": "cZG91Z2hib3k",
+          "name": "Doughboy",
+          "method": "reviewed-spelling",
+          "evidence": [
+            {
+              "trackId": "n1303273413",
+              "role": "编曲",
+              "raw": "编曲 : Doughboy",
+              "source": "https://music.163.com/song?id=1303273413",
+              "note": "项目确认将此姓名写法归到同一创作者。此作品保留原始署名。",
+              "authority": "https://music.163.com/artist?id=1203015"
             }
           ]
         }
@@ -670,7 +685,7 @@ export const identityRegistry={
       "name": "LusciousBB",
       "kind": "person",
       "source": "https://music.163.com/artist?id=31093989",
-      "reviewedAt": "2026-10-31",
+      "reviewedAt": "2026-11-23",
       "aliases": [
         {
           "id": "cbHVzY2lvdXNiYg",
@@ -731,6 +746,21 @@ export const identityRegistry={
                 "role": "编曲",
                 "raw": "编曲 : LusciousBB"
               },
+              "authority": "https://music.163.com/artist?id=31093989"
+            }
+          ]
+        },
+        {
+          "id": "cbHVzaW91c2Ji",
+          "name": "LusiousBB",
+          "method": "reviewed-spelling",
+          "evidence": [
+            {
+              "trackId": "n3404955281",
+              "role": "编曲",
+              "raw": "编曲 : LusiousBB",
+              "source": "https://music.163.com/song?id=3404955281",
+              "note": "项目确认将此姓名写法归到同一创作者。此作品保留原始署名。",
               "authority": "https://music.163.com/artist?id=31093989"
             }
           ]

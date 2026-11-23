@@ -4,11 +4,11 @@
     "backstageIdentities": 2366,
     "exactGroups": 124,
     "nearPairs": 38,
-    "reviewedPairs": 247,
-    "mergedPairs": 220,
-    "pendingPairs": 26,
+    "reviewedPairs": 248,
+    "mergedPairs": 222,
+    "pendingPairs": 25,
     "entities": 179,
-    "aliases": 219,
+    "aliases": 221,
     "correctedCreditPairs": 1
   },
   "decisions": [
@@ -397,8 +397,10 @@
         "name": "Dough-Boy",
         "count": 42
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认是同一创作者的不同写法",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -4614,6 +4616,22 @@
       "status": "merged",
       "reason": "项目确认归并同名署名，已有平台账号作为主档案",
       "reviewGroup": "H78",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "near",
+      "a": {
+        "id": "n31093989",
+        "name": "LusciousBB",
+        "count": 173
+      },
+      "b": {
+        "id": "cbHVzaW91c2Ji",
+        "name": "LusiousBB",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认是同一创作者的不同写法",
       "reviewedAt": "2026-11-23"
     }
   ],

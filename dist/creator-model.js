@@ -1,5 +1,8 @@
 import {resolvePersonId} from './identity.js';
 export const backstageRoles=['制作人','编曲','混音','母带'];
+const featuredCreatorId='n13911452';
+const featuredArtistKeys=['asen','masiwei'];
+const featuredTrackIds=['n2754174746','n2683306407'];
 
 export function creatorWorks(index,id,{artist='all',role='all',query='',year='all'}={}){
  id=resolvePersonId(id);
@@ -26,26 +29,60 @@ export function sharedCreators(index,left,right,role='all'){
  return result.sort((a,b)=>Number(b.independent)-Number(a.independent)||Number(b.person.identity==='platform')-Number(a.person.identity==='platform')||Math.min(b.left.length,b.right.length)-Math.min(a.left.length,a.right.length)||a.person.name.localeCompare(b.person.name));
 }
 
-export function discoveryStories(index,{stats,previous=[],random=Math.random}={}){
- const candidates=index.creators.filter(p=>p.identity==='platform').map(p=>({p,artists:(stats?.get(p.id)??creatorStats(index,p.id)).artists})).filter(x=>x.artists.length>=2);
- for(let i=candidates.length-1;i>0;i--){
-  const j=Math.floor(random()*(i+1));
-  [candidates[i],candidates[j]]=[candidates[j],candidates[i]];
- }
+export function featuredDiscoveryStory(index){
+ const person=index.creators.find(creator=>creator.id===featuredCreatorId);
+ if(!person||!featuredArtistKeys.every(key=>index.artists.some(artist=>artist.key===key)))return;
+ const pair=featuredTrackIds.map(id=>index.tracks.find(track=>track.id===id));
+ const verified=pair.every((track,i)=>track?.artistKeys.includes(featuredArtistKeys[i])
+  &&!track.artistKeys.includes(featuredArtistKeys[1-i])
+  &&track.credits.some(credit=>credit.personId===person.id&&credit.role==='编曲'));
+ if(verified)return {person,artistKeys:featuredArtistKeys,pair};
+}
+
+export function discoveryStories(index,{stats,previous=[],seen=new Set(),random=Math.random}={}){
+ const rankedRappers=index.artists.filter(artist=>artist.fans>0).sort((a,b)=>b.fans-a.fans);
+ const maxFans=rankedRappers[0]?.fans||1;
+ const rapperReach=new Map(rankedRappers.map(artist=>[artist.key,Math.sqrt(artist.fans/maxFans)]));
+ const creatorReach=new Map(rankedRappers.map(artist=>[artist.id,rapperReach.get(artist.key)]));
+ const familiarRappers=rankedRappers.slice(0,Math.ceil(rankedRappers.length/5));
+ const familiarKeys=new Set(familiarRappers.map(artist=>artist.key));
+ const familiarIds=new Set(familiarRappers.map(artist=>artist.id));
  const recent=new Set(previous);
- // Keep the shuffled order within each group and reuse recent creators only if needed.
- candidates.sort((a,b)=>Number(recent.has(a.p.id))-Number(recent.has(b.p.id)));
+ const priority=id=>recent.has(id)?2:Number(seen.has(id));
+ const candidates=[];
+ for(const person of index.creators){
+  if(person.identity!=='platform')continue;
+  const {artists}=stats?.get(person.id)??creatorStats(index,person.id);
+  if(artists.length<2)continue;
+  const collaborators=[...artists].sort((a,b)=>(rapperReach.get(b)||0)-(rapperReach.get(a)||0));
+  const [first,second]=collaborators;
+  // Cap the collaboration boost and dampen large differences in follower counts.
+  const breadth=1+Math.min(collaborators.length,25)/3;
+  const reach=1+3*(rapperReach.get(first)||0)+2*(rapperReach.get(second)||0)+(creatorReach.get(person.id)||0);
+  const draw=-Math.log1p(-random())/(breadth*reach);
+  candidates.push({p:person,artists:collaborators,draw});
+ }
+ // Smaller weighted draws come first, within each group of unseen or recent creators.
+ candidates.sort((a,b)=>priority(a.p.id)-priority(b.p.id)||a.draw-b.draw);
+ const lead=candidates.findIndex(({p,artists})=>priority(p.id)===priority(candidates[0].p.id)
+  &&(familiarIds.has(p.id)||artists.some(key=>familiarKeys.has(key))));
+ if(lead>0)candidates.unshift(...candidates.splice(lead,1));
+ const pairKey=([a,b])=>a<b?`${a}/${b}`:`${b}/${a}`;
+ const displayedPairs=new Set();
  const stories=[];
  for(const {p,artists} of candidates){
   let result;
-  const pairs=p.id==='n13911452'?[['asen','masiwei'],...artists.flatMap((a,i)=>artists.slice(i+1).map(b=>[a,b]))]:artists.flatMap((a,i)=>artists.slice(i+1).map(b=>[a,b]));
+  const pairs=artists.flatMap((a,i)=>artists.slice(i+1).map(b=>[a,b]));
+  if(p.id===featuredCreatorId)pairs.unshift(featuredArtistKeys);
+  pairs.sort((a,b)=>Number(displayedPairs.has(pairKey(a)))-Number(displayedPairs.has(pairKey(b))));
   for(const [a,b] of pairs){result=sharedCreators({...index,creators:[p]},a,b).find(x=>x.independent&&x.pair[0].id!==x.pair[1].id&&!x.pair[0].artistKeys.includes(b)&&!x.pair[1].artistKeys.includes(a));if(result){result={...result,artistKeys:[a,b]};break;}}
   if(result){
-   if(p.id==='n13911452'&&result.artistKeys[0]==='asen'&&result.artistKeys[1]==='masiwei'){
-    const a=index.tracks.find(t=>t.id==='n2754174746'),b=index.tracks.find(t=>t.id==='n2683306407');
-    if(a?.artistKeys.includes('asen')&&!a.artistKeys.includes('masiwei')&&b?.artistKeys.includes('masiwei')&&!b.artistKeys.includes('asen')&&a.credits.some(c=>c.personId===p.id&&c.role==='编曲')&&b.credits.some(c=>c.personId===p.id&&c.role==='编曲'))result.pair=[a,b];
+   if(p.id===featuredCreatorId&&featuredArtistKeys.every((key,i)=>key===result.artistKeys[i])){
+    const featured=featuredDiscoveryStory(index);
+    if(featured)result.pair=featured.pair;
    }
    stories.push(result);
+   displayedPairs.add(pairKey(result.artistKeys));
   }
   if(stories.length===3)break;
  }

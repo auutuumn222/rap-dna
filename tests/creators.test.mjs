@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {buildCreatorIndex,buildFromDirectory} from '../scripts/build-creators.mjs';
-import {creatorWorks,creatorStats,sharedCreators,discoveryStories} from '../dist/creator-model.js';
+import {creatorWorks,creatorStats,sharedCreators,discoveryStories,featuredDiscoveryStory} from '../dist/creator-model.js';
 
 const credit=(personId,role='编曲')=>({personId,role,level:'track',raw:role+' : Alice',source:'https://music.163.com/song?id=1'});
 function fixture(key,rows){return {key,catalog:{artist:{id:key,short:key},checkedAt:'2026-10-30',people:[{id:'p',name:'Alice'},{id:'q',name:'Alice'}],albums:[{id:'album',title:'Album',artwork:'./assets/album.jpg'}],tracks:rows.map(t=>({id:'1',title:'Song',date:'2025-01-01',kind:'recording',albumId:'album',artistIds:[key],credits:[credit('p')],source:'https://music.163.com/song?id=1',...t}))}};}
@@ -28,6 +28,14 @@ test('role filtering requires the role on both sides and preserves different ver
  assert.equal(creatorWorks(index,'p',{year:'2024'}).length,0);
 });
 const actual=JSON.parse(await readFile(new URL('../dist/creator-index.json',import.meta.url),'utf8'));
+test('the featured story uses the verified Asen and Masiwei songs arranged by ATM Hanson',()=>{
+ const story=featuredDiscoveryStory(actual);
+ assert.equal(story.person.name,'ATM Hanson');
+ assert.deepEqual(story.artistKeys,['asen','masiwei']);
+ assert.deepEqual(story.pair.map(track=>track.title),['英雄','Pop Music']);
+ const tracks=actual.tracks.filter(track=>track.id!=='n2754174746');
+ assert.equal(featuredDiscoveryStory({...actual,tracks}),undefined);
+});
 test('published creator index is reproducible from current archives',async()=>{
  assert.deepEqual(actual,await buildFromDirectory(fileURLToPath(new URL('../dist/',import.meta.url))));
 });
@@ -36,10 +44,13 @@ test('discovery samples verified stories and avoids creators shown on the previo
  const first=discoveryStories(actual,{stats,random:()=>0});
  const previous=first.map(s=>s.person.id);
  const next=discoveryStories(actual,{stats,previous,random:()=>0});
+ const seen=new Set([...previous,...next.map(s=>s.person.id)]);
+ const later=discoveryStories(actual,{stats,previous:next.map(s=>s.person.id),seen,random:()=>0});
  const shuffled=discoveryStories(actual,{stats,random:()=>0.99});
  assert.notDeepEqual(shuffled.map(s=>s.person.id),previous);
  assert.ok(next.every(s=>!previous.includes(s.person.id)));
- for(const stories of [first,next,shuffled]){
+ assert.ok(later.every(s=>!seen.has(s.person.id)));
+ for(const stories of [first,next,later,shuffled]){
   assert.equal(stories.length,3);
   assert.equal(new Set(stories.map(s=>s.person.id)).size,3);
   for(const s of stories){
@@ -58,4 +69,23 @@ test('a small discovery pool can reuse recent creators and still show the curate
  const [story]=discoveryStories({...actual,creators:[creator]},{previous:[creator.id]});
  assert.equal(story.person.id,creator.id);
  assert.deepEqual(story.pair.map(t=>t.title),['英雄','Pop Music']);
+});
+test('discovery favors familiar rappers and well-connected creators while varying rapper pairs',()=>{
+ const artists=[
+  {key:'small-a',fans:1000},{key:'small-b',fans:5000},
+  {key:'popular-a',fans:1000000},{key:'popular-b',fans:700000},
+ ];
+ const creditsByCreator=[
+  ['new',['small-a','small-b']],
+  ['focused',['small-a','popular-b','popular-a']],
+  ['broad',['small-a','small-b','popular-b','popular-a']],
+ ];
+ const creators=creditsByCreator.map(([id])=>({id,name:id,identity:'platform'}));
+ const tracks=creditsByCreator.flatMap(([id,keys])=>keys.map(key=>({
+  id:`${id}-${key}`,date:'2025-01-01',artistKeys:[key],credits:[credit(id)],
+ })));
+ const stories=discoveryStories({artists,creators,tracks},{random:()=>0.5});
+ assert.deepEqual(stories.map(story=>story.person.id),['broad','focused','new']);
+ assert.deepEqual(stories[0].artistKeys,['popular-a','popular-b']);
+ assert.deepEqual(stories[1].artistKeys,['popular-a','small-a']);
 });

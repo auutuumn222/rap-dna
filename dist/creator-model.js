@@ -26,19 +26,24 @@ export function sharedCreators(index,left,right,role='all'){
  return result.sort((a,b)=>Number(b.independent)-Number(a.independent)||Number(b.person.identity==='platform')-Number(a.person.identity==='platform')||Math.min(b.left.length,b.right.length)-Math.min(a.left.length,a.right.length)||a.person.name.localeCompare(b.person.name));
 }
 
-export function discoveryStories(index){
- const preferred=['n13911452','n12110173'];
- const candidates=index.creators.filter(p=>p.identity==='platform').map(p=>({p,...creatorStats(index,p.id)})).filter(x=>x.artists.length>=2).sort((a,b)=>b.artists.length-a.artists.length);
- candidates.sort((a,b)=>{const rank=id=>preferred.includes(id)?preferred.indexOf(id):99;return rank(a.p.id)-rank(b.p.id);});
+export function discoveryStories(index,{stats,previous=[],random=Math.random}={}){
+ const candidates=index.creators.filter(p=>p.identity==='platform').map(p=>({p,artists:(stats?.get(p.id)??creatorStats(index,p.id)).artists})).filter(x=>x.artists.length>=2);
+ for(let i=candidates.length-1;i>0;i--){
+  const j=Math.floor(random()*(i+1));
+  [candidates[i],candidates[j]]=[candidates[j],candidates[i]];
+ }
+ const recent=new Set(previous);
+ // Keep the shuffled order within each group and reuse recent creators only if needed.
+ candidates.sort((a,b)=>Number(recent.has(a.p.id))-Number(recent.has(b.p.id)));
  const stories=[];
  for(const {p,artists} of candidates){
   let result;
   const pairs=p.id==='n13911452'?[['asen','masiwei'],...artists.flatMap((a,i)=>artists.slice(i+1).map(b=>[a,b]))]:artists.flatMap((a,i)=>artists.slice(i+1).map(b=>[a,b]));
   for(const [a,b] of pairs){result=sharedCreators({...index,creators:[p]},a,b).find(x=>x.independent&&x.pair[0].id!==x.pair[1].id&&!x.pair[0].artistKeys.includes(b)&&!x.pair[1].artistKeys.includes(a));if(result){result={...result,artistKeys:[a,b]};break;}}
   if(result){
-   if(p.id==='n13911452'){
+   if(p.id==='n13911452'&&result.artistKeys[0]==='asen'&&result.artistKeys[1]==='masiwei'){
     const a=index.tracks.find(t=>t.id==='n2754174746'),b=index.tracks.find(t=>t.id==='n2683306407');
-    if(a?.credits.some(c=>c.personId===p.id&&c.role==='编曲')&&b?.credits.some(c=>c.personId===p.id&&c.role==='编曲'))result.pair=[a,b];
+    if(a?.artistKeys.includes('asen')&&!a.artistKeys.includes('masiwei')&&b?.artistKeys.includes('masiwei')&&!b.artistKeys.includes('asen')&&a.credits.some(c=>c.personId===p.id&&c.role==='编曲')&&b.credits.some(c=>c.personId===p.id&&c.role==='编曲'))result.pair=[a,b];
    }
    stories.push(result);
   }

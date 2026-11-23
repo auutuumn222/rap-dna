@@ -13,6 +13,23 @@ try{
  const fits=async()=>assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'no horizontal overflow');
  const nav=async()=>{assert.deepEqual(await page.locator('.site-header nav a').allTextContents(),['发现','找共同幕后','Rapper 档案','制作人档案']);assert.equal(await page.locator('.site-header nav a[aria-current="page"]').count(),1);for(const a of await page.locator('.site-header nav a').all())assert.ok(await a.isVisible());assert.equal(await page.locator('.artist-switch').isVisible(),false);};
  await visit('');await page.locator('.dna-story').first().waitFor();await nav();assert.equal(await page.locator('#creators').evaluate(e=>e.open),false);assert.equal(await page.locator('.dna-rapper-card').count(),0);assert.equal(await page.locator('.dna-compare-invite').count(),0);await fits();await page.screenshot({path:'qa/navigation/home-desktop.png'});
+ const discoveryLinks=async()=>{
+  const links=page.locator('.dna-story .dna-person-link');
+  await links.first().waitFor();
+  const destinations=await links.evaluateAll(nodes=>nodes.map(a=>a.getAttribute('href')));
+  assert.equal(destinations.length,3);
+  assert.equal(new Set(destinations).size,3);
+  return destinations;
+ };
+ const firstStories=await discoveryLinks();
+ await page.reload({waitUntil:'networkidle'});
+ const refreshedStories=await discoveryLinks();
+ assert.ok(refreshedStories.every(url=>!firstStories.includes(url)));
+ const mainNav=page.getByRole('navigation',{name:'主导航'});
+ await mainNav.getByRole('link',{name:'制作人档案'}).click();
+ await page.locator('.dna-creator-directory h1').waitFor();
+ await mainNav.getByRole('link',{name:'发现',exact:true}).click();
+ assert.ok((await discoveryLinks()).every(url=>!refreshedStories.includes(url)));
  await page.locator('.dna-hero-actions .dna-button').click();await page.locator('#rapper-search').waitFor();await nav();assert.ok(await page.locator('.dna-rapper-card').count()>=17);await page.locator('#rapper-search').fill('艾志恒');assert.equal(await page.locator('.dna-rapper-card').count(),1);await page.locator('.dna-rapper-card').click();await page.locator('.archive-guide').waitFor();await nav();assert.match(await page.locator('.archive-guide').innerText(),/Asen · 作品档案/);assert.equal(await page.locator('.archive-section-nav a').count(),4);assert.equal(await page.locator('.site-header nav [aria-current="page"]').innerText(),'Rapper 档案');await fits();await page.screenshot({path:'qa/navigation/archive-desktop.png'});
  await page.locator('#archive-backstage-start').click();assert.equal(await page.locator('[data-mode="credits"]').getAttribute('aria-pressed'),'true');await page.locator('#connection-search').fill('ATM Hanson');await page.locator('#open-selected-person').click();await page.locator('.dna-profile h1').waitFor();assert.equal(new URL(page.url()).searchParams.get('fromArtist'),'asen');assert.match(await page.locator('.dna-context-back').innerText(),/回到 Asen 的合作网络/);assert.match(await page.locator('.dna-profile-heading').innerText(),/幕后参与/);await nav();await page.screenshot({path:'qa/navigation/creator-desktop.png'});
  await page.locator('.dna-context-back').click();await page.locator('.archive-guide').waitFor();assert.equal(await page.locator('[data-mode="credits"]').getAttribute('aria-pressed'),'true');await page.locator('.archive-section-nav a[href="#archive"]').click();await nav();

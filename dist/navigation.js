@@ -1,8 +1,17 @@
 const escape=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const sections={network:'合作网络',archive:'歌曲目录',journey:'作品年表',top:'作品概览'};
 
-export function mountMainNavigation(active='discover'){
- const items=[['discover','./','发现'],['common','./?view=common','找共同幕后'],['rappers','./?view=rappers','Rapper 档案']];
+export function mountMainNavigation(active){
+ const items=[
+  ['discover','./','发现'],
+  ['common','./?view=common','找共同幕后'],
+  ['rappers','./?view=rappers','Rapper 档案'],
+  ['creators','./?view=creators','制作人档案'],
+ ];
+ if(!active){
+  const params=new URLSearchParams(location.search),view=params.get('view');
+  active=!params.has('creator')&&items.some(([key])=>key===view)?view:'discover';
+ }
  const nav=document.querySelector('.site-header nav');
  nav.innerHTML=items.map(([key,url,label])=>`<a href="${url}" ${key===active?'class="active" aria-current="page"':''}>${label}</a>`).join('');
  document.querySelectorAll('.brand').forEach(a=>a.href='./');

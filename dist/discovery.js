@@ -112,7 +112,7 @@ function render(){
  if(dialog.open)dialog.close();const params=new URLSearchParams(location.search);
  const page=params.has('creator')?'creator':params.get('view')==='common'?'common':params.get('view')==='rappers'?'rappers':'discover';document.body.dataset.discoveryPage=page;
  if(page==='creator')creatorPage(params.get('creator'));else if(page==='common')comparisonPage();else if(page==='rappers')rapperDirectory();else home();
- bindImages();mountMainNavigation(page==='common'?'common':page==='rappers'?'rappers':'discover');
+ bindImages();mountMainNavigation();
 }
 function navigate(url,scroll=true){history.pushState(null,'',url);render();if(scroll){const target=location.search==='?view=creators'?$('#creators'):null;if(target)target.scrollIntoView({behavior:'instant'});else scrollTo(0,0);}}
 document.addEventListener('click',e=>{

@@ -40,6 +40,30 @@ test('resolution keeps raw catalogs immutable, preserves original names and supp
  assert.equal(createIdentityResolver({entities:[]}).catalog(input).tracks[0].credits[0].personId,'cYXRtaGFuc29u');
 });
 const index=JSON.parse(await readFile(new URL('../dist/creator-index.json',import.meta.url),'utf8'));
+test('confirmed homonyms have one creator profile, including the corrected Melo credits',async()=>{
+ const report=JSON.parse(await readFile(new URL('../research/identity-review.json',import.meta.url),'utf8'));
+ const batch=report.decisions.filter(d=>d.status==='merged'&&d.reviewGroup);
+ const creators=new Set(index.creators.map(person=>person.id));
+ assert.equal(new Set(batch.map(d=>d.reviewGroup)).size,79);
+ assert.equal(batch.length,80);
+ for(const {a,b} of batch){
+  const platform=/^n\d+$/.test(a.id)?a:b,alias=platform===a?b:a;
+  assert.equal(resolvePersonId(alias.id),platform.id);
+  assert.ok(creators.has(platform.id));
+  assert.ok(!creators.has(alias.id));
+ }
+ assert.equal(creatorWorks(index,'n13132045').length,18);
+ assert.ok(creators.has('n29304235'));
+ assert.ok(!creators.has('n39040'));
+ assert.equal(resolvePersonId('n39040'),'n39040');
+ const psyp=JSON.parse(await readFile(new URL('../dist/catalog-psyp.json',import.meta.url),'utf8'));
+ assert.deepEqual(psyp.tracks.filter(t=>t.credits.some(c=>c.originalPersonId==='n39040'&&c.role==='制作人')).map(t=>t.id).sort(),['n3352825378','n3352826361','n3352826362','n3352826363']);
+ for(const track of psyp.tracks)for(const credit of track.credits.filter(c=>c.originalPersonId==='n39040')){
+  assert.equal(credit.personId,'n29304235');
+  assert.ok(track.artistIds.includes(credit.personId)&&track.creditLines.includes(credit.raw));
+ }
+ assert.ok(psyp.tracks.some(t=>t.artistIds.includes('n39040')));
+});
 test('merged creators count the union of track IDs and aliases work for old lookups',()=>{
  const ids=['n13911452','cYXRtIGhhbnNvbg','cYXRtaGFuc29u','cYXRtIGhhbnNvbiw'];
  assert.equal(index.creators.filter(p=>ids.includes(p.id)).length,1);

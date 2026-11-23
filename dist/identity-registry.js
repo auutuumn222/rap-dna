@@ -119,7 +119,7 @@ export const identityRegistry={
       "name": "Peach K",
       "kind": "person",
       "source": "https://music.163.com/artist?id=12027183",
-      "reviewedAt": "2026-10-31",
+      "reviewedAt": "2026-11-23",
       "aliases": [
         {
           "id": "ccGVhY2gtaw",
@@ -140,6 +140,21 @@ export const identityRegistry={
                   "raw": "编曲 : Peach K"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "id": "ccGVhY2ggaw",
+          "name": "Peach K",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3370116562",
+              "role": "编曲",
+              "raw": "编曲 : 赵俊吉/Peach K",
+              "source": "https://music.163.com/song?id=3370116562",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12027183"
             }
           ]
         }
@@ -1323,35 +1338,6 @@ export const identityRegistry={
       ]
     },
     {
-      "id": "cZC5zLumZhuaUvg",
-      "name": "D.S.陆放",
-      "kind": "credit",
-      "source": "https://music.163.com/song?id=1980813705",
-      "reviewedAt": "2026-10-31",
-      "aliases": [
-        {
-          "id": "cZC5zLumZhuaUviw",
-          "name": "D.S.陆放，",
-          "method": "reviewed-format",
-          "evidence": [
-            {
-              "trackId": "n1825886593",
-              "role": "混音",
-              "raw": "混音&母带：D.S.陆放，",
-              "source": "https://music.163.com/song?id=1825886593",
-              "note": "仅排版、空格、全半角或标点不同；未据此新增平台账号关联",
-              "comparison": {
-                "trackId": "n1980813705",
-                "source": "https://music.163.com/song?id=1980813705",
-                "role": "混音",
-                "raw": "混音 : D.S.陆放"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "n12493703",
       "name": "K11",
       "kind": "person",
@@ -1696,35 +1682,6 @@ export const identityRegistry={
       ]
     },
     {
-      "id": "c57uGZ2FsYXh5bWFu",
-      "name": "细GalaxyMan",
-      "kind": "credit",
-      "source": "https://music.163.com/song?id=3362972100",
-      "reviewedAt": "2026-10-31",
-      "aliases": [
-        {
-          "id": "c57uGIGdhbGF4eW1hbg",
-          "name": "细 GalaxyMan",
-          "method": "same-track-context",
-          "evidence": [
-            {
-              "trackId": "n1975802875",
-              "role": "制作人",
-              "raw": "制作人： TizzyT/细 GalaxyMan/顺德@亿万虎力/ Tim姜皓天",
-              "source": "https://music.163.com/song?id=1975802875",
-              "note": "逐曲交叉核对",
-              "comparison": {
-                "trackId": "n1975802875",
-                "source": "https://music.163.com/song?id=1975802875",
-                "role": "编曲",
-                "raw": "编曲 : 细GalaxyMan/顺德/Tim姜皓天/SinVstyle"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "n12085631",
       "name": "HEAT J",
       "kind": "person",
@@ -1749,35 +1706,6 @@ export const identityRegistry={
                 "raw": "制作人 : HEAT J"
               },
               "authority": "https://music.163.com/artist?id=12085631"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cY2hpZWYgbWFsb25leQ",
-      "name": "Chief Maloney",
-      "kind": "credit",
-      "source": "https://music.163.com/song?id=2741144144",
-      "reviewedAt": "2026-10-31",
-      "aliases": [
-        {
-          "id": "cY2hpZWZtYWxvbmV5",
-          "name": "ChiefMaloney",
-          "method": "same-track-role",
-          "evidence": [
-            {
-              "trackId": "n1491237340",
-              "role": "编曲",
-              "raw": "编曲：ChiefMaloney",
-              "source": "https://music.163.com/song?id=1491237340",
-              "note": "逐曲交叉核对",
-              "comparison": {
-                "trackId": "n1491237340",
-                "source": "https://music.163.com/song?id=1491237340",
-                "role": "编曲",
-                "raw": "编曲 : Chief Maloney"
-              }
             }
           ]
         }
@@ -2439,7 +2367,7 @@ export const identityRegistry={
       "name": "KnowKnow",
       "kind": "person",
       "source": "https://music.163.com/artist?id=27868624",
-      "reviewedAt": "2026-10-31",
+      "reviewedAt": "2026-11-23",
       "aliases": [
         {
           "id": "ca25vd2tub3c",
@@ -2458,6 +2386,29 @@ export const identityRegistry={
                 "role": "制作人",
                 "raw": "制作人 : 马思唯/KnowKnow/PSY.P/Melo"
               }
+            }
+          ]
+        },
+        {
+          "id": "ua25vd2tub3c",
+          "name": "KnowKnow",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3352826361",
+              "role": "制作人",
+              "source": "https://music.163.com/song?id=3352826361",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "melo",
+                  "raw": "制作人 : 马思唯/KnowKnow/PSY.P/Melo"
+                },
+                {
+                  "catalog": "masiwei",
+                  "raw": "制作人 : 马思唯/KnowKnow/PSY.P/Melo"
+                }
+              ]
             }
           ]
         }
@@ -3764,6 +3715,2113 @@ export const identityRegistry={
                 "role": "混音",
                 "raw": "混音：ROLLMEAJOINTYELLA"
               }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12120573",
+      "name": "Newyounggo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12120573",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbmV3eW91bmdnbw",
+          "name": "Newyounggo",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3339130832",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=3339130832",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "wangyitai",
+                  "raw": "编曲：Newyounggo"
+                },
+                {
+                  "catalog": "chenyihao",
+                  "raw": "编曲：Newyounggo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n14925064",
+      "name": "MULA SAKEE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=14925064",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbXVsYSBzYWtlZQ",
+          "name": "MULA SAKEE",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1907868691",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=1907868691",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "toyoki",
+                  "raw": "编曲 : DIGI GHETTO/THOME/KIV/TOYOKI/艾志恒Asen/MULA SAKEE/mac ova seas/付思遥"
+                },
+                {
+                  "catalog": "asen",
+                  "raw": "编曲 : DIGI GHETTO/THOME/KIV/TOYOKI/艾志恒Asen/MULA SAKEE/mac ova seas/付思遥"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12789348",
+      "name": "G23",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12789348",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZzIz",
+          "name": "G23",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2052405901",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2052405901",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "pharaoh",
+                  "raw": "编曲 : G23"
+                },
+                {
+                  "catalog": "dengdianguo",
+                  "raw": "编曲 : G23"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n53092750",
+      "name": "REDBOI",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53092750",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "ccmVkYm9p",
+          "name": "REDBOI",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2606590597",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2606590597",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "gai",
+                  "raw": "编曲 : REDBOI"
+                },
+                {
+                  "catalog": "jiamu",
+                  "raw": "编曲 : REDBOI"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12109033",
+      "name": "Toufu",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12109033",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cdG91ZnU",
+          "name": "Toufu",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2637675448",
+              "role": "制作人",
+              "source": "https://music.163.com/song?id=2637675448",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "gali",
+                  "raw": "制作人 : Toufu"
+                },
+                {
+                  "catalog": "tlatre",
+                  "raw": "制作人 : Toufu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n34542282",
+      "name": "Vgooo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34542282",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cdmdvb28",
+          "name": "Vgooo",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2688217334",
+              "role": "混音",
+              "source": "https://music.163.com/song?id=2688217334",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "jahgen",
+                  "raw": "混音 : Vgooo"
+                },
+                {
+                  "catalog": "alyway",
+                  "raw": "混音 : Vgooo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1078072",
+      "name": "顺德",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1078072",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6aG65b63",
+          "name": "顺德",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1376121337",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=1376121337",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "capper",
+                  "raw": "编曲 : 顺德"
+                },
+                {
+                  "catalog": "shengyu",
+                  "raw": "编曲 : 顺德"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12554857",
+      "name": "Duhu",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12554857",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZHVodQ",
+          "name": "Duhu",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3312623966",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=3312623966",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "apmozart",
+                  "raw": "编曲 : Duhu"
+                },
+                {
+                  "catalog": "masiwei",
+                  "raw": "编曲 : Duhu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n46638107",
+      "name": "Nazdo",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46638107",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbmF6ZG8",
+          "name": "Nazdo",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2099096513",
+              "role": "混音",
+              "source": "https://music.163.com/song?id=2099096513",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "melo",
+                  "raw": "混音工程师：Nazdo@MoonScape"
+                },
+                {
+                  "catalog": "topbarry",
+                  "raw": "混音工程师：Nazdo@MoonScape"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n50445808",
+      "name": "neverkilltheape",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50445808",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbmV2ZXJraWxsdGhlYXBl",
+          "name": "neverkilltheape",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2657562417",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2657562417",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "sasioverlxrd",
+                  "raw": "编曲 : neverkilltheape"
+                },
+                {
+                  "catalog": "daojiao",
+                  "raw": "编曲 : neverkilltheape"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1212038",
+      "name": "oz",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1212038",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cb3o",
+          "name": "oz",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2009226782",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2009226782",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "thome",
+                  "raw": "编曲 : oz"
+                },
+                {
+                  "catalog": "kkluv",
+                  "raw": "编曲 : oz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n2514",
+      "name": "蛋堡",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=2514",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6JuL5aCh",
+          "name": "蛋堡",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1980392063",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=1980392063",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "tizzyt",
+                  "raw": "编曲 : 蛋堡/杨云翔@Abucks"
+                },
+                {
+                  "catalog": "mchotdog",
+                  "raw": "编曲 : 蛋堡/杨云翔@Abucks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n54247662",
+      "name": "刀脚",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=54247662",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5YiA6ISa",
+          "name": "刀脚",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2005294530",
+              "role": "混音",
+              "source": "https://music.163.com/song?id=2005294530",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "kenrobb",
+                  "raw": "混音 : 荨麻疹/刀脚"
+                },
+                {
+                  "catalog": "bobbynopeace",
+                  "raw": "混音 : 荨麻疹/刀脚"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n33583407",
+      "name": "谭添Ess",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33583407",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6LCt5re7ZXNz",
+          "name": "谭添Ess",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1805106527",
+              "role": "混音",
+              "source": "https://music.163.com/song?id=1805106527",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "dengdianguo",
+                  "raw": "mix：谭添Ess"
+                },
+                {
+                  "catalog": "huayunlong",
+                  "raw": "mix：谭添Ess"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n34535231",
+      "name": "夏辰熙",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34535231",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5aSP6L6w54aZ",
+          "name": "夏辰熙",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3402862091",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=3402862091",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "chenyihao",
+                  "raw": "编曲 : Newyounggo/夏辰熙"
+                },
+                {
+                  "catalog": "mahemood",
+                  "raw": "编曲 : Newyounggo/夏辰熙"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12194053",
+      "name": "邢翰维",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12194053",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6YKi57-w57u0",
+          "name": "邢翰维",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3440172855",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=3440172855",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "zhangfangzhao",
+                  "raw": "编曲 : Teche/李家鑫/邢翰维"
+                },
+                {
+                  "catalog": "kalilaohu",
+                  "raw": "编曲 : Teche/李家鑫/邢翰维"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1159101",
+      "name": "c0de731",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1159101",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYzBkZTczMQ",
+          "name": "c0de731",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2058162325",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2058162325",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "pact",
+                  "raw": "编曲 : c0de731"
+                },
+                {
+                  "catalog": "shengyu",
+                  "raw": "编曲 : c0de731"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n32438941",
+      "name": "cLoner23",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32438941",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cY2xvbmVyMjM",
+          "name": "cLoner23",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2738932007",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2738932007",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "huayunlong",
+                  "raw": "编曲 : cLoner23"
+                },
+                {
+                  "catalog": "taigexi",
+                  "raw": "编曲 : cLoner23"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n48356404",
+      "name": "Fexx",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48356404",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZmV4eA",
+          "name": "Fexx",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3349945534",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=3349945534",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "gai",
+                  "raw": "编曲 : 梁笑生AIRBUS130/FIJIDAYTONA500/Fexx/“ ”"
+                },
+                {
+                  "catalog": "kungfupen",
+                  "raw": "编曲 : 梁笑生AIRBUS130/FIJIDAYTONA500/Fexx/“ ”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12293217",
+      "name": "LEGGO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12293217",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbGVnZ28",
+          "name": "LEGGO",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2040599560",
+              "role": "混音",
+              "source": "https://music.163.com/song?id=2040599560",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "melo",
+                  "raw": "混音/母带 : LEGGO/刘城函"
+                },
+                {
+                  "catalog": "capper",
+                  "raw": "混音/母带 : LEGGO/刘城函"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n49306224",
+      "name": "Ricky",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49306224",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "ccmlja3k",
+          "name": "Ricky",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2713976734",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2713976734",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "shengyu",
+                  "raw": "编曲 : 梁笑生AIRBUS130/“”/Ricky"
+                },
+                {
+                  "catalog": "gai",
+                  "raw": "编曲 : 梁笑生AIRBUS130/“”/Ricky"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n50434860",
+      "name": "RICOTSOHOT",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50434860",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "ccmljb3Rzb2hvdA",
+          "name": "RICOTSOHOT",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3389453450",
+              "role": "混音",
+              "source": "https://music.163.com/song?id=3389453450",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "melo",
+                  "raw": "混音 : RICOTSOHOT"
+                },
+                {
+                  "catalog": "tlatre",
+                  "raw": "混音 : RICOTSOHOT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13112263",
+      "name": "TingleM",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13112263",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cdGluZ2xlbQ",
+          "name": "TingleM",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2033108555",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2033108555",
+              "note": "项目确认归并。两条记录在同一首歌、同一角色下使用相同署名。",
+              "records": [
+                {
+                  "catalog": "knowknow",
+                  "raw": "编曲 : Prodby玉/TingleM"
+                },
+                {
+                  "catalog": "naqiwofu",
+                  "raw": "编曲 : Prodby玉/TingleM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n56564450",
+      "name": "王豆",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=56564450",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c546L6LGG",
+          "name": "王豆",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2154160020",
+              "role": "编曲",
+              "raw": "编曲 : 王豆",
+              "source": "https://music.163.com/song?id=2154160020",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=56564450"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12001195",
+      "name": "DiESi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12001195",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZGllc2k",
+          "name": "DiESi",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3455146033",
+              "role": "编曲",
+              "raw": "编曲 : DiESi/陈伟伦/魔鬼花园（李安健）",
+              "source": "https://music.163.com/song?id=3455146033",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12001195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12121264",
+      "name": "Ice Paper",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12121264",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "caWNlIHBhcGVy",
+          "name": "Ice Paper",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1483315011",
+              "role": "混音",
+              "raw": "混音：Ice Paper",
+              "source": "https://music.163.com/song?id=1483315011",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12121264"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13132045",
+      "name": "JIMI天赐",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13132045",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "camltaeWkqei1kA",
+          "name": "JIMI天赐",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3386453717",
+              "role": "制作人",
+              "raw": "PROD : JIMI天赐",
+              "source": "https://music.163.com/song?id=3386453717",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=13132045"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n32436403",
+      "name": "Monovisa",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32436403",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbW9ub3Zpc2E",
+          "name": "Monovisa",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2635174120",
+              "role": "混音",
+              "raw": "混音/母带 : Monovisa",
+              "source": "https://music.163.com/song?id=2635174120",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=32436403"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12268101",
+      "name": "XTONE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12268101",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "ceHRvbmU",
+          "name": "XTONE",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2002813505",
+              "role": "编曲",
+              "raw": "编曲 : XTONE",
+              "source": "https://music.163.com/song?id=2002813505",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12268101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n2153",
+      "name": "常石磊",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=2153",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5bi455-z56OK",
+          "name": "常石磊",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2050324995",
+              "role": "编曲",
+              "raw": "编曲 : 常石磊/T-Ma/莫文蔚",
+              "source": "https://music.163.com/song?id=2050324995",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=2153"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n48685148",
+      "name": "陈瑜Lona",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=48685148",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6ZmI55GcbG9uYQ",
+          "name": "陈瑜Lona",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1857099215",
+              "role": "制作人",
+              "raw": "制作人 : HARIKIRI/陈瑜Lona",
+              "source": "https://music.163.com/song?id=1857099215",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=48685148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12193153",
+      "name": "大眼炮",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12193153",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5aSn55y854Ku",
+          "name": "大眼炮",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1955681472",
+              "role": "混音",
+              "raw": "混音/母带：大眼炮",
+              "source": "https://music.163.com/song?id=1955681472",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12193153"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13524040",
+      "name": "杜逸风 Firewind SoKu",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13524040",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5p2c6YC46aOOIGZpcmV3aW5kIHNva3U",
+          "name": "杜逸风 Firewind SoKu",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3439760063",
+              "role": "混音",
+              "raw": "混音 : LusciousBB/杜逸风 Firewind SoKu",
+              "source": "https://music.163.com/song?id=3439760063",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=13524040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12172289",
+      "name": "飞行少年",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12172289",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6aOe6KGM5bCR5bm0",
+          "name": "飞行少年",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1977946820",
+              "role": "制作人",
+              "raw": "制作人 : 飞行少年",
+              "source": "https://music.163.com/song?id=1977946820",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12172289"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n29590977",
+      "name": "贾廷玺JATANCY",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29590977",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c6LS-5bu35466amF0YW5jeQ",
+          "name": "贾廷玺JATANCY",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1373800879",
+              "role": "编曲",
+              "raw": "编曲 : HARIKIRI/K-Notes/常石磊/贾廷玺JATANCY",
+              "source": "https://music.163.com/song?id=1373800879",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=29590977"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n50615728",
+      "name": "李法德",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50615728",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5p2O5rOV5b63",
+          "name": "李法德",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2161942275",
+              "role": "编曲",
+              "raw": "编曲 : 李法德",
+              "source": "https://music.163.com/song?id=2161942275",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=50615728"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n53806368",
+      "name": "李家鑫",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53806368",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5p2O5a626ZGr",
+          "name": "李家鑫",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2644283374",
+              "role": "编曲",
+              "raw": "编曲 : LusciousBB/李家鑫",
+              "source": "https://music.163.com/song?id=2644283374",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=53806368"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1039154",
+      "name": "李嘉笛FeiJi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1039154",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5p2O5ZiJ56ybZmVpamk",
+          "name": "李嘉笛FeiJi",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1980392101",
+              "role": "编曲",
+              "raw": "编曲 : 梁笑生AIRBUS130/c0de731/李嘉笛FeiJi",
+              "source": "https://music.163.com/song?id=1980392101",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=1039154"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n49745789",
+      "name": "李外LilWine",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49745789",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5p2O5aSWbGlsd2luZQ",
+          "name": "李外LilWine",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2645801517",
+              "role": "混音",
+              "raw": "混音 : 李外LilWine",
+              "source": "https://music.163.com/song?id=2645801517",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=49745789"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n46666690",
+      "name": "刘洲",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=46666690",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5YiY5rSy",
+          "name": "刘洲",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1318288332",
+              "role": "编曲",
+              "raw": "编曲 : 刘洲/陈令韬/顺德",
+              "source": "https://music.163.com/song?id=1318288332",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=46666690"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n52562123",
+      "name": "栾卓忻",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52562123",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5qC-5Y2T5b-7",
+          "name": "栾卓忻",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1497544984",
+              "role": "编曲",
+              "raw": "编曲 : 栾卓忻/董健剑",
+              "source": "https://music.163.com/song?id=1497544984",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=52562123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n52020377",
+      "name": "土雨",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=52020377",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5Zyf6Zuo",
+          "name": "土雨",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2740498678",
+              "role": "编曲",
+              "raw": "编曲 : John Liu/王豆/LusciousBB/李家鑫/土雨/808Brian/张方钊",
+              "source": "https://music.163.com/song?id=2740498678",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=52020377"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n5538",
+      "name": "汪苏泷",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=5538",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5rGq6IuP5rO3",
+          "name": "汪苏泷",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3439389416",
+              "role": "制作人",
+              "raw": "制作人 : 汪苏泷",
+              "source": "https://music.163.com/song?id=3439389416",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=5538"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12288446",
+      "name": "王晓夫",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12288446",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c546L5pmT5aSr",
+          "name": "王晓夫",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2063768250",
+              "role": "编曲",
+              "raw": "编曲 : 王晓夫/KAII @VVS MUSIC",
+              "source": "https://music.163.com/song?id=2063768250",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12288446"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12194886",
+      "name": "细GalaxyMan",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12194886",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c57uGZ2FsYXh5bWFu",
+          "name": "细GalaxyMan",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3362972100",
+              "role": "母带",
+              "raw": "母带 : 细GalaxyMan",
+              "source": "https://music.163.com/song?id=3362972100",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12194886"
+            }
+          ]
+        },
+        {
+          "id": "c57uGIGdhbGF4eW1hbg",
+          "name": "细 GalaxyMan",
+          "method": "same-track-context",
+          "evidence": [
+            {
+              "trackId": "n1975802875",
+              "role": "制作人",
+              "raw": "制作人： TizzyT/细 GalaxyMan/顺德@亿万虎力/ Tim姜皓天",
+              "source": "https://music.163.com/song?id=1975802875",
+              "note": "逐曲交叉核对",
+              "comparison": {
+                "trackId": "n1975802875",
+                "source": "https://music.163.com/song?id=1975802875",
+                "role": "编曲",
+                "raw": "编曲 : 细GalaxyMan/顺德/Tim姜皓天/SinVstyle"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n30395569",
+      "name": "杨秋儒",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30395569",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5p2o56eL5YSS",
+          "name": "杨秋儒",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1825020916",
+              "role": "混音",
+              "raw": "混音：杨秋儒",
+              "source": "https://music.163.com/song?id=1825020916",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=30395569"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12118563",
+      "name": "也是福",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12118563",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5Lmf5piv56aP",
+          "name": "也是福",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1501420863",
+              "role": "编曲",
+              "raw": "编曲 : 也是福",
+              "source": "https://music.163.com/song?id=1501420863",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12118563"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1079074",
+      "name": "余佳运",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1079074",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c5L2Z5L2z6L-Q",
+          "name": "余佳运",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1844152736",
+              "role": "编曲",
+              "raw": "编曲 : 余佳运/TizzyT",
+              "source": "https://music.163.com/song?id=1844152736",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=1079074"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n49457259",
+      "name": "玉-003",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=49457259",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "c546JLTAwMw",
+          "name": "玉-003",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2744691278",
+              "role": "编曲",
+              "raw": "编曲 : 玉-003",
+              "source": "https://music.163.com/song?id=2744691278",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=49457259"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n29589197",
+      "name": "Alexxx",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=29589197",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYWxleHh4",
+          "name": "Alexxx",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3322064338",
+              "role": "编曲",
+              "raw": "编曲 : Pinak/Alexxx",
+              "source": "https://music.163.com/song?id=3322064338",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=29589197"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n37553762",
+      "name": "AudiBoi",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37553762",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYXVkaWJvaQ",
+          "name": "AudiBoi",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3412410346",
+              "role": "制作人",
+              "raw": "制作人 : 孙次郎/AudiBoi/evl66/MEGUMI",
+              "source": "https://music.163.com/song?id=3412410346",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=37553762"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13029082",
+      "name": "azazel",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13029082",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYXphemVs",
+          "name": "azazel",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3427741322",
+              "role": "编曲",
+              "raw": "编曲 : 云/azazel",
+              "source": "https://music.163.com/song?id=3427741322",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=13029082"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12924568",
+      "name": "BINGO",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12924568",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYmluZ28",
+          "name": "BINGO",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2018409831",
+              "role": "编曲",
+              "raw": "编曲 : BINGO",
+              "source": "https://music.163.com/song?id=2018409831",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12924568"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n35068059",
+      "name": "BllAcK-K",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35068059",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYmxsYWNrLWs",
+          "name": "BllAcK-K",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3353487118",
+              "role": "编曲",
+              "raw": "编曲 : 山水神工坊/ProdByJackie/BllAcK-K",
+              "source": "https://music.163.com/song?id=3353487118",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=35068059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13907045",
+      "name": "brokeboiishawty",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13907045",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYnJva2Vib2lpc2hhd3R5",
+          "name": "brokeboiishawty",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1846520962",
+              "role": "编曲",
+              "raw": "编曲：brokeboiishawty",
+              "source": "https://music.163.com/song?id=1846520962",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=13907045"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n34230967",
+      "name": "Bvlloon",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34230967",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cYnZsbG9vbg",
+          "name": "Bvlloon",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2013290411",
+              "role": "编曲",
+              "raw": "编曲 : Bvlloon",
+              "source": "https://music.163.com/song?id=2013290411",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=34230967"
+            }
+          ]
+        },
+        {
+          "id": "uYnZsbG9vbg",
+          "name": "Bvlloon",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2686252287",
+              "role": "编曲",
+              "raw": "编曲 : Bvlloon",
+              "source": "https://music.163.com/song?id=2686252287",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=34230967"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n34516758",
+      "name": "CashMoon",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34516758",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cY2FzaG1vb24",
+          "name": "CashMoon",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1977332611",
+              "role": "编曲",
+              "raw": "编曲 : Udigg/SASIOVERLXRD/CashMoon/刘小枫",
+              "source": "https://music.163.com/song?id=1977332611",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=34516758"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12472094",
+      "name": "Chief Maloney",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12472094",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cY2hpZWYgbWFsb25leQ",
+          "name": "Chief Maloney",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2741144144",
+              "role": "编曲",
+              "raw": "编曲 : Tim姜皓天/Chief Maloney",
+              "source": "https://music.163.com/song?id=2741144144",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12472094"
+            }
+          ]
+        },
+        {
+          "id": "cY2hpZWZtYWxvbmV5",
+          "name": "ChiefMaloney",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n1491237340",
+              "role": "编曲",
+              "raw": "编曲：ChiefMaloney",
+              "source": "https://music.163.com/song?id=1491237340",
+              "note": "逐曲交叉核对",
+              "comparison": {
+                "trackId": "n1491237340",
+                "source": "https://music.163.com/song?id=1491237340",
+                "role": "编曲",
+                "raw": "编曲 : Chief Maloney"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n56027749",
+      "name": "D.S.陆放",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=56027749",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZC5zLumZhuaUvg",
+          "name": "D.S.陆放",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2055024607",
+              "role": "混音",
+              "raw": "混音 : D.S.陆放",
+              "source": "https://music.163.com/song?id=2055024607",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=56027749"
+            }
+          ]
+        },
+        {
+          "id": "cZC5zLumZhuaUviw",
+          "name": "D.S.陆放，",
+          "method": "reviewed-format",
+          "evidence": [
+            {
+              "trackId": "n1825886593",
+              "role": "混音",
+              "raw": "混音&母带：D.S.陆放，",
+              "source": "https://music.163.com/song?id=1825886593",
+              "note": "仅排版、空格、全半角或标点不同；未据此新增平台账号关联",
+              "comparison": {
+                "trackId": "n1980813705",
+                "source": "https://music.163.com/song?id=1980813705",
+                "role": "混音",
+                "raw": "混音 : D.S.陆放"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n53849454",
+      "name": "evl66",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=53849454",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZXZsNjY",
+          "name": "evl66",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3412410346",
+              "role": "制作人",
+              "raw": "制作人 : 孙次郎/AudiBoi/evl66/MEGUMI",
+              "source": "https://music.163.com/song?id=3412410346",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=53849454"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12259963",
+      "name": "FADER ONE",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12259963",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZmFkZXIgb25l",
+          "name": "FADER ONE",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2089827042",
+              "role": "混音",
+              "raw": "混音 : FADER ONE/PAV",
+              "source": "https://music.163.com/song?id=2089827042",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12259963"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12174183",
+      "name": "GG Lobster",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12174183",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZ2cgbG9ic3Rlcg",
+          "name": "GG Lobster",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3323826648",
+              "role": "编曲",
+              "raw": "编曲 : FiRe范艾迩/KATHARSIS/索兰SORON/GG Lobster",
+              "source": "https://music.163.com/song?id=3323826648",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12174183"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n31850534",
+      "name": "Gunz4Hire",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=31850534",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cZ3VuejRoaXJl",
+          "name": "Gunz4Hire",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1994450258",
+              "role": "编曲",
+              "raw": "编曲 : Gunz4Hire/Azoom",
+              "source": "https://music.163.com/song?id=1994450258",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=31850534"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n32078926",
+      "name": "Heavyy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=32078926",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "caGVhdnl5",
+          "name": "Heavyy",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3451530457",
+              "role": "混音",
+              "raw": "混音工程师 : Heavyy",
+              "source": "https://music.163.com/song?id=3451530457",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=32078926"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n27727342",
+      "name": "IAN-T",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=27727342",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "caWFuLXQ",
+          "name": "IAN-T",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1996315455",
+              "role": "制作人",
+              "raw": "制作人:IAN-T@Trendy Music",
+              "source": "https://music.163.com/song?id=1996315455",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=27727342"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1050520",
+      "name": "KAII",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1050520",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "ca2FpaQ",
+          "name": "KAII",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2063768250",
+              "role": "编曲",
+              "raw": "编曲 : 王晓夫/KAII @VVS MUSIC",
+              "source": "https://music.163.com/song?id=2063768250",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=1050520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n4551",
+      "name": "Mr.Trouble麻烦先生",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=4551",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbXIudHJvdWJsZem6u-eDpuWFiOeUnw",
+          "name": "Mr.Trouble麻烦先生",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2013742015",
+              "role": "制作人",
+              "raw": "制作人：临渡/Ocd/Mr.Trouble麻烦先生@土拨鼠音乐",
+              "source": "https://music.163.com/song?id=2013742015",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=4551"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n121863934",
+      "name": "natspII",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=121863934",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cbmF0c3BpaQ",
+          "name": "natspII",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3384061503",
+              "role": "编曲",
+              "raw": "编曲 : 云/natspII",
+              "source": "https://music.163.com/song?id=3384061503",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=121863934"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13793119",
+      "name": "PINEvsTheWorld",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13793119",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "ccGluZXZzdGhld29ybGQ",
+          "name": "PINEvsTheWorld",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2131442634",
+              "role": "编曲",
+              "raw": "编曲 : PINEvsTheWorld/谢琴刚",
+              "source": "https://music.163.com/song?id=2131442634",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=13793119"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12904459",
+      "name": "SAXON",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12904459",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cc2F4b24",
+          "name": "SAXON",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2753713693",
+              "role": "编曲",
+              "raw": "编曲 : LilWild小野/HPN/SAXON/Fobie",
+              "source": "https://music.163.com/song?id=2753713693",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12904459"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n34582289",
+      "name": "SHOBEATZ",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34582289",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cc2hvYmVhdHo",
+          "name": "SHOBEATZ",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2650122526",
+              "role": "编曲",
+              "raw": "编曲 : Zy/kujo/SHOBEATZ",
+              "source": "https://music.163.com/song?id=2650122526",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=34582289"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12127910",
+      "name": "SuperDeep",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12127910",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cc3VwZXJkZWVw",
+          "name": "SuperDeep",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1381764098",
+              "role": "编曲",
+              "raw": "编曲 : L-BRODY/赫连长泓/SuperDeep/黄越洋/BEAT SHARE/恩德Andy18/Provoke",
+              "source": "https://music.163.com/song?id=1381764098",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12127910"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13009805",
+      "name": "TemptGod",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13009805",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cdGVtcHRnb2Q",
+          "name": "TemptGod",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1844152730",
+              "role": "编曲",
+              "raw": "编曲 : 陈令韬/Aichen/黄越洋/TemptGod",
+              "source": "https://music.163.com/song?id=1844152730",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=13009805"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n30226091",
+      "name": "tired",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=30226091",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cdGlyZWQ",
+          "name": "tired",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2706328721",
+              "role": "编曲",
+              "raw": "编曲 : BDnoLuv/tired",
+              "source": "https://music.163.com/song?id=2706328721",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=30226091"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12156047",
+      "name": "Trigga Elijah",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12156047",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cdHJpZ2dhIGVsaWphaA",
+          "name": "Trigga Elijah",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n1965646815",
+              "role": "编曲",
+              "raw": "编曲 : Trigga Elijah/AYO!",
+              "source": "https://music.163.com/song?id=1965646815",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12156047"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12623935",
+      "name": "wh1tedragon",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12623935",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cd2gxdGVkcmFnb24",
+          "name": "wh1tedragon",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n3394474540",
+              "role": "编曲",
+              "raw": "编曲 : Akemen/wh1tedragon",
+              "source": "https://music.163.com/song?id=3394474540",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=12623935"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n37123911",
+      "name": "Zy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=37123911",
+      "reviewedAt": "2026-11-23",
+      "aliases": [
+        {
+          "id": "cenk",
+          "name": "Zy",
+          "method": "user-reviewed-homonym",
+          "evidence": [
+            {
+              "trackId": "n2158987669",
+              "role": "编曲",
+              "raw": "编曲 : Zy",
+              "source": "https://music.163.com/song?id=2158987669",
+              "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
+              "authority": "https://music.163.com/artist?id=37123911"
             }
           ]
         }

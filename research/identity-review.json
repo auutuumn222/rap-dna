@@ -1,14 +1,15 @@
 {
-  "reviewedAt": "2026-10-31",
+  "reviewedAt": "2026-11-23",
   "stats": {
     "backstageIdentities": 2366,
     "exactGroups": 124,
     "nearPairs": 38,
-    "reviewedPairs": 197,
-    "mergedPairs": 140,
-    "pendingPairs": 57,
-    "entities": 105,
-    "aliases": 139
+    "reviewedPairs": 247,
+    "mergedPairs": 220,
+    "pendingPairs": 26,
+    "entities": 179,
+    "aliases": 219,
+    "correctedCreditPairs": 1
   },
   "decisions": [
     {
@@ -73,8 +74,11 @@
         "name": "Duhu",
         "count": 9
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H09",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -408,8 +412,11 @@
         "name": "Peach K",
         "count": 14
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H70",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -537,8 +544,11 @@
         "name": "也是福",
         "count": 13
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H48",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -617,8 +627,11 @@
         "name": "余佳运",
         "count": 5
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H49",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1157,8 +1170,11 @@
         "name": "BINGO",
         "count": 6
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H54",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1292,8 +1308,11 @@
         "name": "王晓夫",
         "count": 25
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H45",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1307,8 +1326,11 @@
         "name": "Newyounggo",
         "count": 4
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H01",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1427,8 +1449,11 @@
         "name": "XTONE",
         "count": 33
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H30",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1457,8 +1482,11 @@
         "name": "DiESi",
         "count": 1
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H26",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1507,8 +1535,11 @@
         "name": "G23",
         "count": 13
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H04",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1602,8 +1633,11 @@
         "name": "KAII",
         "count": 4
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H67",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1617,8 +1651,11 @@
         "name": "贾廷玺JATANCY",
         "count": 1
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H36",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1632,8 +1669,11 @@
         "name": "刘洲",
         "count": 4
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H41",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1647,8 +1687,11 @@
         "name": "JIMI天赐",
         "count": 14
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H28",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1727,8 +1770,11 @@
         "name": "飞行少年",
         "count": 6
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H35",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1852,8 +1898,11 @@
         "name": "栾卓忻",
         "count": 2
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H42",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -1943,8 +1992,11 @@
         },
         "method": "same-track-role"
       },
-      "status": "pending",
-      "reason": "存在两个不同的平台账号，不能按同名合并"
+      "status": "corrected-credits",
+      "reason": "PSY.P 档案将同名账号挂到 4 首 Higher Brothers 作品的制作人署名。按逐曲艺人栏把这些署名归回 n29304235，两个平台账号保持独立。",
+      "priorReason": "存在两个不同的平台账号，不能按同名合并",
+      "reviewGroup": "H80",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2098,8 +2150,11 @@
         "name": "Zy",
         "count": 4
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H79",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2128,8 +2183,11 @@
         "name": "Nazdo",
         "count": 40
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H10",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2158,8 +2216,11 @@
         "name": "陈瑜Lona",
         "count": 3
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H32",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2208,8 +2269,11 @@
         "name": "REDBOI",
         "count": 5
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H05",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2433,8 +2497,11 @@
         "name": "王豆",
         "count": 1
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H25",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2493,8 +2560,11 @@
         "name": "neverkilltheape",
         "count": 5
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H11",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2508,8 +2578,11 @@
         "name": "Monovisa",
         "count": 23
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H29",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2523,8 +2596,11 @@
         "name": "CashMoon",
         "count": 4
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H58",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2638,8 +2714,11 @@
         "name": "Ice Paper",
         "count": 7
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H27",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2688,8 +2767,11 @@
         "name": "RICOTSOHOT",
         "count": 2
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H23",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2798,8 +2880,11 @@
         "name": "汪苏泷",
         "count": 1
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H44",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2906,8 +2991,11 @@
         "name": "tired",
         "count": 5
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H76",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2936,8 +3024,11 @@
         "name": "PINEvsTheWorld",
         "count": 2
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H71",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -2951,8 +3042,11 @@
         "name": "李外LilWine",
         "count": 1
       },
-      "status": "pending",
-      "reason": "相似或同名不足以确认，保留独立身份"
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "priorReason": "相似或同名不足以确认，保留独立身份",
+      "reviewGroup": "H40",
+      "reviewedAt": "2026-11-23"
     },
     {
       "kind": "exact",
@@ -3671,6 +3765,867 @@
       },
       "status": "merged",
       "reason": "已归入经过审定的署名组"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n27868624",
+        "name": "KnowKnow",
+        "count": 23
+      },
+      "b": {
+        "id": "ua25vd2tub3c",
+        "name": "KnowKnow",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H02",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n14925064",
+        "name": "MULA SAKEE",
+        "count": 48
+      },
+      "b": {
+        "id": "cbXVsYSBzYWtlZQ",
+        "name": "MULA SAKEE",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H03",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12109033",
+        "name": "Toufu",
+        "count": 16
+      },
+      "b": {
+        "id": "cdG91ZnU",
+        "name": "Toufu",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H06",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n34542282",
+        "name": "Vgooo",
+        "count": 6
+      },
+      "b": {
+        "id": "cdmdvb28",
+        "name": "Vgooo",
+        "count": 10
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H07",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1078072",
+        "name": "顺德",
+        "count": 8
+      },
+      "b": {
+        "id": "c6aG65b63",
+        "name": "顺德",
+        "count": 50
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H08",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1212038",
+        "name": "oz",
+        "count": 35
+      },
+      "b": {
+        "id": "cb3o",
+        "name": "oz",
+        "count": 19
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H12",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n2514",
+        "name": "蛋堡",
+        "count": 6
+      },
+      "b": {
+        "id": "c6JuL5aCh",
+        "name": "蛋堡",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H13",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n54247662",
+        "name": "刀脚",
+        "count": 25
+      },
+      "b": {
+        "id": "c5YiA6ISa",
+        "name": "刀脚",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H14",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n33583407",
+        "name": "谭添Ess",
+        "count": 1
+      },
+      "b": {
+        "id": "c6LCt5re7ZXNz",
+        "name": "谭添Ess",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H15",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n34535231",
+        "name": "夏辰熙",
+        "count": 15
+      },
+      "b": {
+        "id": "c5aSP6L6w54aZ",
+        "name": "夏辰熙",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H16",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12194053",
+        "name": "邢翰维",
+        "count": 10
+      },
+      "b": {
+        "id": "c6YKi57-w57u0",
+        "name": "邢翰维",
+        "count": 11
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H17",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1159101",
+        "name": "c0de731",
+        "count": 37
+      },
+      "b": {
+        "id": "cYzBkZTczMQ",
+        "name": "c0de731",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H18",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n32438941",
+        "name": "cLoner23",
+        "count": 26
+      },
+      "b": {
+        "id": "cY2xvbmVyMjM",
+        "name": "cLoner23",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H19",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n48356404",
+        "name": "Fexx",
+        "count": 2
+      },
+      "b": {
+        "id": "cZmV4eA",
+        "name": "Fexx",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H20",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12293217",
+        "name": "LEGGO",
+        "count": 19
+      },
+      "b": {
+        "id": "cbGVnZ28",
+        "name": "LEGGO",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H21",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n49306224",
+        "name": "Ricky",
+        "count": 1
+      },
+      "b": {
+        "id": "ccmlja3k",
+        "name": "Ricky",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H22",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13112263",
+        "name": "TingleM",
+        "count": 15
+      },
+      "b": {
+        "id": "cdGluZ2xlbQ",
+        "name": "TingleM",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H24",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n2153",
+        "name": "常石磊",
+        "count": 1
+      },
+      "b": {
+        "id": "c5bi455-z56OK",
+        "name": "常石磊",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H31",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12193153",
+        "name": "大眼炮",
+        "count": 1
+      },
+      "b": {
+        "id": "c5aSn55y854Ku",
+        "name": "大眼炮",
+        "count": 10
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H33",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13524040",
+        "name": "杜逸风 Firewind SoKu",
+        "count": 32
+      },
+      "b": {
+        "id": "c5p2c6YC46aOOIGZpcmV3aW5kIHNva3U",
+        "name": "杜逸风 Firewind SoKu",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H34",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n50615728",
+        "name": "李法德",
+        "count": 1
+      },
+      "b": {
+        "id": "c5p2O5rOV5b63",
+        "name": "李法德",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H37",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n53806368",
+        "name": "李家鑫",
+        "count": 1
+      },
+      "b": {
+        "id": "c5p2O5a626ZGr",
+        "name": "李家鑫",
+        "count": 61
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H38",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n1039154",
+        "name": "李嘉笛FeiJi",
+        "count": 1
+      },
+      "b": {
+        "id": "c5p2O5ZiJ56ybZmVpamk",
+        "name": "李嘉笛FeiJi",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H39",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n52020377",
+        "name": "土雨",
+        "count": 1
+      },
+      "b": {
+        "id": "c5Zyf6Zuo",
+        "name": "土雨",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H43",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12194886",
+        "name": "细GalaxyMan",
+        "count": 1
+      },
+      "b": {
+        "id": "c57uGZ2FsYXh5bWFu",
+        "name": "细GalaxyMan",
+        "count": 28
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H46",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n30395569",
+        "name": "杨秋儒",
+        "count": 59
+      },
+      "b": {
+        "id": "c5p2o56eL5YSS",
+        "name": "杨秋儒",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H47",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n49457259",
+        "name": "玉-003",
+        "count": 2
+      },
+      "b": {
+        "id": "c546JLTAwMw",
+        "name": "玉-003",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H50",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n29589197",
+        "name": "Alexxx",
+        "count": 4
+      },
+      "b": {
+        "id": "cYWxleHh4",
+        "name": "Alexxx",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H51",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n37553762",
+        "name": "AudiBoi",
+        "count": 2
+      },
+      "b": {
+        "id": "cYXVkaWJvaQ",
+        "name": "AudiBoi",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H52",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13029082",
+        "name": "azazel",
+        "count": 5
+      },
+      "b": {
+        "id": "cYXphemVs",
+        "name": "azazel",
+        "count": 5
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H53",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n35068059",
+        "name": "BllAcK-K",
+        "count": 1
+      },
+      "b": {
+        "id": "cYmxsYWNrLWs",
+        "name": "BllAcK-K",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H55",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13907045",
+        "name": "brokeboiishawty",
+        "count": 6
+      },
+      "b": {
+        "id": "cYnJva2Vib2lpc2hhd3R5",
+        "name": "brokeboiishawty",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H56",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n34230967",
+        "name": "Bvlloon",
+        "count": 1
+      },
+      "b": {
+        "id": "cYnZsbG9vbg",
+        "name": "Bvlloon",
+        "count": 16
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H57",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n34230967",
+        "name": "Bvlloon",
+        "count": 1
+      },
+      "b": {
+        "id": "uYnZsbG9vbg",
+        "name": "Bvlloon",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H57",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12472094",
+        "name": "Chief Maloney",
+        "count": 7
+      },
+      "b": {
+        "id": "cY2hpZWYgbWFsb25leQ",
+        "name": "Chief Maloney",
+        "count": 16
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H59",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n56027749",
+        "name": "D.S.陆放",
+        "count": 1
+      },
+      "b": {
+        "id": "cZC5zLumZhuaUvg",
+        "name": "D.S.陆放",
+        "count": 167
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H60",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n53849454",
+        "name": "evl66",
+        "count": 2
+      },
+      "b": {
+        "id": "cZXZsNjY",
+        "name": "evl66",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H61",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12259963",
+        "name": "FADER ONE",
+        "count": 1
+      },
+      "b": {
+        "id": "cZmFkZXIgb25l",
+        "name": "FADER ONE",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H62",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12174183",
+        "name": "GG Lobster",
+        "count": 5
+      },
+      "b": {
+        "id": "cZ2cgbG9ic3Rlcg",
+        "name": "GG Lobster",
+        "count": 9
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H63",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n31850534",
+        "name": "Gunz4Hire",
+        "count": 1
+      },
+      "b": {
+        "id": "cZ3VuejRoaXJl",
+        "name": "Gunz4Hire",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H64",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n32078926",
+        "name": "Heavyy",
+        "count": 2
+      },
+      "b": {
+        "id": "caGVhdnl5",
+        "name": "Heavyy",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H65",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n27727342",
+        "name": "IAN-T",
+        "count": 1
+      },
+      "b": {
+        "id": "caWFuLXQ",
+        "name": "IAN-T",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H66",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n4551",
+        "name": "Mr.Trouble麻烦先生",
+        "count": 3
+      },
+      "b": {
+        "id": "cbXIudHJvdWJsZem6u-eDpuWFiOeUnw",
+        "name": "Mr.Trouble麻烦先生",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H68",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n121863934",
+        "name": "natspII",
+        "count": 3
+      },
+      "b": {
+        "id": "cbmF0c3BpaQ",
+        "name": "natspII",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H69",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12904459",
+        "name": "SAXON",
+        "count": 15
+      },
+      "b": {
+        "id": "cc2F4b24",
+        "name": "SAXON",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H72",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n34582289",
+        "name": "SHOBEATZ",
+        "count": 1
+      },
+      "b": {
+        "id": "cc2hvYmVhdHo",
+        "name": "SHOBEATZ",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H73",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12127910",
+        "name": "SuperDeep",
+        "count": 1
+      },
+      "b": {
+        "id": "cc3VwZXJkZWVw",
+        "name": "SuperDeep",
+        "count": 1
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H74",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n13009805",
+        "name": "TemptGod",
+        "count": 6
+      },
+      "b": {
+        "id": "cdGVtcHRnb2Q",
+        "name": "TemptGod",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H75",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12156047",
+        "name": "Trigga Elijah",
+        "count": 1
+      },
+      "b": {
+        "id": "cdHJpZ2dhIGVsaWphaA",
+        "name": "Trigga Elijah",
+        "count": 4
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H77",
+      "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "exact",
+      "a": {
+        "id": "n12623935",
+        "name": "wh1tedragon",
+        "count": 1
+      },
+      "b": {
+        "id": "cd2gxdGVkcmFnb24",
+        "name": "wh1tedragon",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "项目确认归并同名署名，已有平台账号作为主档案",
+      "reviewGroup": "H78",
+      "reviewedAt": "2026-11-23"
+    }
+  ],
+  "batches": [
+    {
+      "review": "80-HOMONYM-REVIEW.md",
+      "reviewedAt": "2026-11-23",
+      "artistsScanned": 71,
+      "requestedGroups": 80,
+      "mergedGroups": 79,
+      "newAliases": 80,
+      "correctedCreditGroups": 1
     }
   ]
 }

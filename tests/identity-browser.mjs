@@ -9,10 +9,22 @@ try{
  page.on('pageerror',e=>errors.push(e.message));
  page.setDefaultTimeout(45000);const visit=s=>page.goto(base+s,{waitUntil:'domcontentloaded',timeout:45000});
  await visit('?view=creators');await page.locator('#creator-search').waitFor();
- for(const name of ['ATM Hanson','ATMHanson','ATM Hanson，']){await page.locator('#creator-search').fill(name);assert.equal(await page.locator('#creator-grid .dna-creator-card').count(),1);assert.equal(await page.locator('#creator-grid .dna-creator-card').getAttribute('href'),'./?creator=n13911452');}
- for(const name of ['LusciousBB','LusciouBB','Luciousbb']){await page.locator('#creator-search').fill(name);assert.equal(await page.locator('#creator-grid .dna-creator-card').count(),1);assert.equal(await page.locator('#creator-grid .dna-creator-card').getAttribute('href'),'./?creator=n31093989');}
+ const creatorId=async card=>new URL(await card.getAttribute('href'),base).searchParams.get('creator');
+ for(const name of ['ATM Hanson','ATMHanson','ATM Hanson，']){await page.locator('#creator-search').fill(name);const cards=page.locator('#creator-grid .dna-creator-card');assert.equal(await cards.count(),1);assert.equal(await creatorId(cards),'n13911452');}
+ for(const name of ['LusciousBB','LusciouBB','Luciousbb']){await page.locator('#creator-search').fill(name);const cards=page.locator('#creator-grid .dna-creator-card');assert.equal(await cards.count(),1);assert.equal(await creatorId(cards),'n31093989');}
+ for(const [name,id,old] of [['JIMI天赐','n13132045','camltaeWkqei1kA'],['Melo','n29304235','n39040']]){
+  await page.locator('#creator-search').fill(name);
+  const exactCards=page.locator('#creator-grid .dna-creator-card').filter({has:page.getByRole('heading',{name,exact:true})});
+  assert.equal(await exactCards.count(),1);
+  assert.equal(await creatorId(exactCards),id);
+  await visit('?creator='+old+'&fromArtist=psyp&fromSection=network');
+  await page.locator('.dna-profile h1').waitFor();
+  assert.equal(new URL(page.url()).searchParams.get('creator'),id);
+  assert.equal(await page.locator('.dna-profile h1').innerText(),name);
+  await visit('?view=creators');await page.locator('#creator-search').waitFor();
+ }
  await page.locator('#creator-search').fill('Mai \"No Label Crew\"');assert.equal(await page.locator('#creator-grid .dna-creator-card').count(),1);
- await page.locator('#creator-search').fill('atm');assert.equal(await page.locator('#creator-grid a[href="./?creator=n13911452"]').count(),1);assert.match(await page.locator('#creator-grid').innerText(),/The Heatmakerz/);
+ await page.locator('#creator-search').fill('atm');assert.equal(await page.locator('#creator-grid a[href^="./?creator=n13911452"]').count(),1);assert.match(await page.locator('#creator-grid').innerText(),/The Heatmakerz/);
  for(const old of ['cYXRtIGhhbnNvbg','cYXRtaGFuc29u','cYXRtIGhhbnNvbiw']){await visit('?creator='+old+'&fromArtist=asen&fromSection=network');await page.locator('.dna-profile h1').waitFor();assert.equal(new URL(page.url()).searchParams.get('creator'),'n13911452');assert.equal(await page.locator('.dna-profile h1').innerText(),'ATM Hanson');assert.match(await page.locator('.dna-context-back').innerText(),/Asen/);}
  await page.locator('.dna-identity-details summary').click();assert.match(await page.locator('.dna-identity-details').innerText(),/ATMHanson/);assert.match(await page.locator('.dna-identity-details').innerText(),/ATM Hanson，/);
  await page.locator('#work-search').fill('PIPE DOWN');assert.equal(await page.locator('#creator-works .dna-work').count(),1);await page.locator('#creator-works [data-evidence]').click();assert.match(await page.locator('#dialog-content').innerText(),/编曲：ATMHanson/);assert.match(await page.locator('#dialog-content').innerText(),/原始署名：ATMHanson/);await page.locator('.dialog-close').click();

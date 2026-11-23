@@ -38,8 +38,17 @@ function hero(s){
 function creatorCard(p){const s=stats.get(p.id);return link(creatorLink(p.id),`${portrait(p)}<div><h3>${esc(p.name)}</h3><div class="dna-role-text">${esc(s.roles.join(' · '))}${p.identity==='credit-name'?'<small class="dna-name-status">姓名署名 · 身份待核</small>':''}</div><p>${s.artists.length} 位已收录 Rapper <span>·</span> ${s.works.length} 条作品记录</p></div><span class="dna-card-arrow">↗</span>`,'dna-creator-card');}
 function renderDirectory(){
  const q=directory.query.trim().toLocaleLowerCase();
- const list=index.creators.filter(p=>{const s=stats.get(p.id);return (!q||[p.name,...(p.aliases||[]),...s.artists.map(k=>artists.get(k)?.name)].join(' ').toLocaleLowerCase().includes(q))&&(directory.role==='all'||s.roles.includes(directory.role));}).sort((a,b)=>stats.get(b.id).artists.length-stats.get(a.id).artists.length||stats.get(b.id).works.length-stats.get(a.id).works.length||a.name.localeCompare(b.name));
- $('#creator-count').textContent=`${list.length} 位 / 组创作者 · 按已收录合作范围排列`;
+ const results=[];
+ for(const person of index.creators){
+  const stat=stats.get(person.id);
+  if(directory.role!=='all'&&!stat.roles.includes(directory.role))continue;
+  const names=[person.name,...(person.aliases||[])].map(name=>name.toLocaleLowerCase());
+  if(!q||names.includes(q))results.push({person,stat,rank:0});
+  else if(names.some(name=>name.includes(q)))results.push({person,stat,rank:1});
+  else if(stat.artists.some(key=>artists.get(key)?.name.toLocaleLowerCase().includes(q)))results.push({person,stat,rank:2});
+ }
+ const list=results.sort((a,b)=>a.rank-b.rank||b.stat.artists.length-a.stat.artists.length||b.stat.works.length-a.stat.works.length||a.person.name.localeCompare(b.person.name)).map(result=>result.person);
+ $('#creator-count').textContent=`${list.length} 位 / 组创作者 · ${q?'创作者姓名匹配优先':'按已收录合作范围排列'}`;
  $('#creator-grid').innerHTML=list.slice(0,directory.limit).map(creatorCard).join('')||'<div class="dna-empty"><h3>还没有找到这个署名。</h3><p>试试其他名字或角色。当前只包含已取得单曲署名的创作者。</p></div>';
  $('#more-creators').hidden=list.length<=directory.limit;
  bindImages();
@@ -75,13 +84,16 @@ function rapperDirectory(){
  };
  $('#rapper-search').oninput=refresh;refresh();
 }
-function identityMethodLabel(method){return ({'same-track-role':'同一作品、同一角色交叉核对','same-track-context':'同一作品不同署名字段核对','same-track-artist':'同曲平台艺人栏与角色署名核对','platform-discography':'平台艺人作品列表核对','reviewed-format':'空格、标点、全半角及排版写法核对','reviewed-profile-context':'平台标准名与作品合作上下文核对','reviewed-spelling':'拼写与合作署名人工核对','reviewed-affiliation':'团队后缀与同曲署名核对','reviewed-bilingual':'中英文完整姓名核对','trailing-punctuation':'姓名末尾标点差异核对'})[method]||'署名证据核对';}
+function identityMethodLabel(method){return ({'same-track-role':'同一作品、同一角色交叉核对','same-track-context':'同一作品不同署名字段核对','same-track-artist':'同曲平台艺人栏与角色署名核对','platform-discography':'平台艺人作品列表核对','reviewed-format':'空格、标点、全半角及排版写法核对','reviewed-profile-context':'平台标准名与作品合作上下文核对','reviewed-spelling':'拼写与合作署名人工核对','reviewed-affiliation':'团队后缀与同曲署名核对','reviewed-bilingual':'中英文完整姓名核对','trailing-punctuation':'姓名末尾标点差异核对','user-reviewed-homonym':'按项目确认归并同名署名'})[method]||'署名证据核对';}
 function identityDetails(p){
  if(!p.identityEvidence?.length)return '';
  return `<details class="dna-identity-details"><summary>署名写法与核对依据 · ${p.identityEvidence.length} 项</summary><p>以下署名已归入此主页。作品数按歌曲记录去重，歌曲里的原始署名保持原样。</p>${p.identityEvidence.map(a=>`<div><b>${esc(a.name)}</b><small>${identityMethodLabel(a.method)}</small>${a.evidence.map(e=>`<p>${esc(e.note||e.role)} · ${external(e.source,'查看原始署名')}${e.comparison?' · '+external(e.comparison.source,'对照作品署名'):''}${e.authority?' · '+external(e.authority,'参考身份来源'):''}</p>`).join('')}</div>`).join('')}</details>`;
 }
 function creatorPage(id){
- const canonical=resolvePersonId(id);if(canonical!==id){const url=new URL(location.href);url.searchParams.set('creator',canonical);history.replaceState(null,'',url);id=canonical;}
+ let canonical=resolvePersonId(id);
+ // The old creator link showed misassigned production credits. The artist accounts stay separate.
+ if(canonical==='n39040'&&!creators.has(canonical)&&creators.has('n29304235'))canonical='n29304235';
+ if(canonical!==id){const url=new URL(location.href);url.searchParams.set('creator',canonical);history.replaceState(null,'',url);id=canonical;}
  const p=creators.get(id);if(!p){app.innerHTML=`<div class="dna-empty dna-missing"><h1>这个创作者还没有进入档案。</h1>${link('./?view=creators','查看制作人档案','dna-text-link')}</div>`;document.title='RAP DNA · 暂未收录';return;}
  const s=stats.get(id),dates=s.works.map(t=>t.date).filter(Boolean).sort();
  const partners=s.artists.map(k=>({key:k,count:s.works.filter(t=>t.artistKeys.includes(k)).length})).sort((a,b)=>b.count-a.count);

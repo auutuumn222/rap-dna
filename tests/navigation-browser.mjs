@@ -23,16 +23,29 @@ try{
  await creatorSearch.waitFor();await nav();
  assert.equal(new URL(page.url()).searchParams.get('view'),'creators');
  assert.equal(await page.locator('.site-header nav [aria-current="page"]').innerText(),'制作人档案');
- assert.equal(await page.locator('#creators').evaluate(e=>e.open),true);
- assert.ok(await creatorSearch.evaluate(input=>input.getBoundingClientRect().top<innerHeight));
+ assert.equal(await page.locator('#app h1').innerText(),'制作人档案');
+ assert.equal(await page.locator('.dna-hero, #creators').count(),0);
+ assert.equal(await page.evaluate(()=>scrollY),0);
+ assert.ok(await creatorSearch.evaluate(input=>input.getBoundingClientRect().bottom<innerHeight));
+ await fits();await page.screenshot({path:'qa/navigation/creator-directory-desktop.png'});
+ const initialCards=await page.locator('.dna-creator-card').count();
+ await page.locator('#more-creators').click();
+ assert.ok(await page.locator('.dna-creator-card').count()>initialCards);
+ await page.locator('#creator-role').selectOption('编曲');
  await creatorSearch.fill('ATM Hanson');
  await page.locator('.dna-creator-card').filter({hasText:'ATM Hanson'}).first().click();
  await page.locator('.dna-profile h1').waitFor();
- await visit('?view=creators');await creatorSearch.waitFor();
+ assert.equal(new URL(page.url()).searchParams.get('from'),'creators');
+ assert.equal(await page.locator('.site-header nav [aria-current="page"]').innerText(),'制作人档案');
+ await page.getByRole('link',{name:'返回制作人档案'}).click();
+ assert.equal(await creatorSearch.inputValue(),'ATM Hanson');
+ assert.equal(await page.locator('#creator-role').inputValue(),'编曲');
+ await visit('#creators');await creatorSearch.waitFor();assert.equal(await page.locator('#creators').evaluate(e=>e.open),true);
+ await visit('?view=creators');await page.locator('.dna-creator-directory h1').waitFor();
  await visit('#rapper-archives');await page.locator('#rapper-search').waitFor();await page.locator('#rapper-search').fill('no-such-rapper');assert.match(await page.locator('#rapper-archives').innerText(),/还没有进入档案/);
  for(const width of [390,320,768]){
   await page.setViewportSize({width,height:844});
-  for(const [suffix,selector,name] of [['','.dna-hero','home'],['?view=rappers','#rapper-search','rappers'],['?artist=asen','.archive-guide','archive'],['?creator=n13911452&fromArtist=asen&fromSection=network','.dna-profile h1','creator'],['?view=common&a=asen&b=masiwei','.dna-bridge','common']]){
+  for(const [suffix,selector,name] of [['','.dna-hero','home'],['?view=rappers','#rapper-search','rappers'],['?view=creators','.dna-creator-directory .dna-creator-card','creator-directory'],['?artist=asen','.archive-guide','archive'],['?creator=n13911452&fromArtist=asen&fromSection=network','.dna-profile h1','creator'],['?view=common&a=asen&b=masiwei','.dna-bridge','common']]){
    await visit(suffix);await page.locator(selector).first().waitFor();await nav();await fits();
    if(name==='home'){for(const action of await page.locator('.dna-hero-actions a').all()){const box=await action.boundingBox();assert.ok(box&&box.y+box.height<844,'both first-time actions fit first screen');}}
    if(width===390)await page.screenshot({path:`qa/navigation/${name}-mobile.png`});

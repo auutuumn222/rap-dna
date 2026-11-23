@@ -14,3 +14,8 @@ test('comparison return preserves both people and rejects arbitrary destinations
  assert.equal(creatorReturn(new URLSearchParams({fromArtist:'asen',fromSection:'not-a-section'}),artists).url,'./?artist=asen&mode=credits#network');
  assert.equal(creatorReturn(new URLSearchParams({from:'common',a:'unknown',b:'masiwei'}),artists).url,'./#creators');
 });
+test('creators opened from the directory return to the standalone archive',()=>{
+ assert.deepEqual(creatorReturn(new URLSearchParams({from:'creators'}),artists),{
+  url:'./?view=creators',label:'返回制作人档案',
+ });
+});

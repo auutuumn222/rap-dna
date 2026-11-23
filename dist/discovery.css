@@ -209,16 +209,19 @@ body[data-discovery-page="discover"] .dna-hero-actions>.dna-text-link{font-size:
 .dna-fold-label{font-size:11px;color:#a18bb5;white-space:nowrap}
 .dna-directory-fold[open]>summary{border-bottom:1px solid #ece4f3}
 .dna-directory-fold>.dna-section{padding:26px 28px 30px}
-.dna-directory-fold .dna-section-head{display:none}
 .dna-directory-fold .dna-creator-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
-.dna-rapper-directory{padding:65px 0 10px}
-.dna-rapper-directory h1{font-size:43px;letter-spacing:-1.6px;margin:15px 0 18px;line-height:1.4}
+:is(.dna-rapper-directory,.dna-creator-directory){padding:65px 0 10px}
+:is(.dna-rapper-directory,.dna-creator-directory) h1{font-size:43px;letter-spacing:-1.6px;margin:15px 0 18px;line-height:1.4}
 .dna-page-purpose{color:#8c7b99;font-size:13px;line-height:2;max-width:730px;margin:0 0 24px}
 .dna-rapper-search{max-width:600px;margin-top:30px}
-.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:15px;margin-top:22px}
-.dna-rapper-directory .dna-rapper-card{padding:30px 12px;gap:14px;background:#fff}
-.dna-rapper-directory .dna-rapper-card .dna-avatar{width:70px;height:70px}
+.dna-rapper-directory .dna-rapper-grid,.dna-creator-directory .dna-creator-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:15px;margin-top:22px}
+.dna-rapper-directory .dna-rapper-card,.dna-creator-directory .dna-creator-card{padding:30px 12px;gap:14px;background:#fff}
+.dna-rapper-directory .dna-rapper-card .dna-avatar,.dna-creator-directory .dna-creator-card .dna-avatar{width:70px;height:70px}
 .dna-rapper-directory .dna-rapper-card b{font-size:13px}
+.dna-creator-directory .dna-toolbar{max-width:780px;margin-top:30px}
+.dna-creator-directory .dna-creator-card{flex-direction:column;text-align:center;overflow-wrap:anywhere}
+.dna-creator-directory .dna-creator-card p{text-wrap:balance}
+.dna-creator-directory .dna-creator-card .dna-card-arrow{display:none}
 .dna-directory-next{font-size:12px;color:#9a87aa;line-height:1.9;margin-top:28px;display:flex;gap:15px;flex-wrap:wrap}
 .dna-profile .dna-breadcrumb{margin-bottom:16px}
 .dna-profile .dna-back{margin-bottom:30px;line-height:1.8}
@@ -236,14 +239,14 @@ body[data-discovery-page="discover"] .dna-hero-actions>.dna-text-link{font-size:
 .archive-section-nav{display:flex;justify-content:center;align-items:center;gap:36px;padding:15px 20px;position:sticky;top:72px;z-index:25;max-width:1220px;margin:0 auto;background:#f5f5f7eb;backdrop-filter:blur(15px);border-top:1px solid #e8e2ef;border-bottom:1px solid #e8e2ef;font-size:11px;color:#a291b2}
 .archive-section-nav a.active{color:#765a94}
 body:not(.discovery-page) .hero{padding-top:45px}
-@media(max-width:1000px){.dna-start-steps{gap:12px}.dna-start-steps li+li:before{margin-right:0}.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
-@media(max-width:800px){.site-header nav[aria-label="主导航"]{gap:25px}.dna-start-steps{justify-content:center}.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.archive-purpose{align-items:flex-start;gap:20px}.archive-purpose>.dna-button{margin-top:10px}.dna-directory-fold .dna-creator-grid{grid-template-columns:1fr}}
+@media(max-width:1000px){.dna-start-steps{gap:12px}.dna-start-steps li+li:before{margin-right:0}.dna-rapper-directory .dna-rapper-grid,.dna-creator-directory .dna-creator-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:800px){.site-header nav[aria-label="主导航"]{gap:25px}.dna-start-steps{justify-content:center}.dna-rapper-directory .dna-rapper-grid,.dna-creator-directory .dna-creator-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.archive-purpose{align-items:flex-start;gap:20px}.archive-purpose>.dna-button{margin-top:10px}.dna-directory-fold .dna-creator-grid{grid-template-columns:1fr}}
 @media(max-width:600px){
  .site-header .nav-wrap{gap:12px;padding:0 16px}.site-header nav[aria-label="主导航"]{gap:17px}.site-header nav[aria-label="主导航"] a{font-size:10px}
  body[data-discovery-page="discover"] .dna-hero h1{font-size:34px;letter-spacing:-1.5px}.dna-start-steps{font-size:9px;gap:11px;margin-top:26px}.dna-start-steps li{gap:5px}.dna-start-steps li+li:before{margin-right:0}.dna-start-steps li>span{font-size:8px}
  body[data-discovery-page="discover"] .dna-hero-actions{flex-direction:column;gap:18px}.dna-hero-visual{margin-top:28px}.dna-visual-caption{font-size:8px;letter-spacing:0}
  .dna-directory-fold{margin-top:35px;border-radius:17px;scroll-margin-top:80px}.dna-directory-fold>summary{padding:21px 17px;gap:12px;align-items:flex-start}.dna-directory-fold summary b{font-size:14px}.dna-directory-fold summary small{font-size:10px;max-width:230px}.dna-fold-label{font-size:9px;margin-top:4px}.dna-directory-fold>.dna-section{padding:20px 15px 25px}.dna-directory-fold .dna-creator-card{padding:15px 12px}
- .dna-breadcrumb{font-size:10px;gap:8px;margin-bottom:24px}.dna-rapper-directory{padding-top:42px}.dna-rapper-directory h1{font-size:29px;letter-spacing:-.8px}.dna-page-purpose{font-size:11px;line-height:2}.dna-rapper-search{margin-top:23px}.dna-rapper-directory .dna-rapper-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.dna-rapper-directory .dna-rapper-card{padding:25px 10px;gap:12px}.dna-rapper-directory .dna-rapper-card .dna-avatar{width:62px;height:62px}.dna-rapper-directory .dna-rapper-card b{font-size:12px}.dna-directory-next{font-size:10px;gap:8px}
+ .dna-breadcrumb{font-size:10px;gap:8px;margin-bottom:24px}:is(.dna-rapper-directory,.dna-creator-directory){padding-top:42px}:is(.dna-rapper-directory,.dna-creator-directory) h1{font-size:29px;letter-spacing:-.8px}.dna-page-purpose{font-size:11px;line-height:2}.dna-rapper-search,.dna-creator-directory .dna-toolbar{margin-top:23px}.dna-rapper-directory .dna-rapper-grid,.dna-creator-directory .dna-creator-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:11px}.dna-rapper-directory .dna-rapper-card,.dna-creator-directory .dna-creator-card{padding:25px 10px;gap:12px}.dna-rapper-directory .dna-rapper-card .dna-avatar,.dna-creator-directory .dna-creator-card .dna-avatar{width:62px;height:62px}.dna-rapper-directory .dna-rapper-card b{font-size:12px}.dna-directory-next{font-size:10px;gap:8px}
  .dna-profile .dna-back{font-size:10px;margin-bottom:25px}.dna-person-views{font-size:10px;margin-top:22px}.dna-person-views>a,.dna-person-views>span{padding:9px 14px}.dna-common-hero .dna-breadcrumb{margin-bottom:30px}.dna-common-hero>.dna-page-purpose{font-size:10px}.dna-common-hero>.dna-page-purpose br{display:none}
  .archive-guide{padding:25px 20px 20px}.archive-purpose{display:block}.archive-purpose p{font-size:10px;line-height:1.9}.archive-purpose>.dna-button{font-size:10px;margin-top:17px;padding:11px 17px}.archive-guide .dna-breadcrumb{font-size:9px}.archive-section-nav{top:62px;gap:25px;padding:13px 12px;font-size:10px}body:not(.discovery-page) .hero{padding-top:30px}
 }

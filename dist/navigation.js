@@ -10,7 +10,8 @@ export function mountMainNavigation(active){
  ];
  if(!active){
   const params=new URLSearchParams(location.search),view=params.get('view');
-  active=!params.has('creator')&&items.some(([key])=>key===view)?view:'discover';
+  const section=params.has('creator')?params.get('from')==='creators'?'creators':'discover':view;
+  active=items.some(([key])=>key===section)?section:'discover';
  }
  const nav=document.querySelector('.site-header nav');
  nav.innerHTML=items.map(([key,url,label])=>`<a href="${url}" ${key===active?'class="active" aria-current="page"':''}>${label}</a>`).join('');
@@ -32,6 +33,7 @@ export function creatorReturn(params,artists){
   const a=artists.get(params.get('a')),b=artists.get(params.get('b'));
   if(a&&b)return {url:'./?'+new URLSearchParams({view:'common',a:a.key,b:b.key}),label:`回到 ${a.name} × ${b.name} 的共同幕后`};
  }
+ if(params.get('from')==='creators')return {url:'./?view=creators',label:'返回制作人档案'};
  return {url:'./#creators',label:'返回幕后发现'};
 }
 

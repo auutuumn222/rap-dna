@@ -10,9 +10,9 @@ const base=`http://127.0.0.1:${server.address().port}/`;
 let browser;
 try{
  browser=await chromium.launch({headless:true,...(process.env.RAP_DNA_BROWSER?{executablePath:process.env.RAP_DNA_BROWSER}:{})});
- const title=page=>page.$eval('#hero-album-title',e=>e.textContent);
  const active=page=>page.$$eval('#hero-dots button',bs=>bs.findIndex(b=>b.classList.contains('active')));
  const total=page=>page.$$eval('#hero-dots button',bs=>bs.length);
+ const coverAt=(page,offset)=>page.locator(`.floating-album[data-offset="${offset}"]`).getAttribute('data-album');
 
  // Desktop: mouse drag
  const page=await browser.newPage({viewport:{width:1280,height:900}});
@@ -21,6 +21,21 @@ try{
  const box=await page.$eval('#hero-scene',e=>{const r=e.getBoundingClientRect();return {x:r.left+r.width/2,y:r.top+r.height/2};});
  const count=await total(page);
  assert.equal(await active(page),0);
+ const newest=await coverAt(page,0);
+
+ // Each button must select the cover already shown on its side, including at the loop boundary.
+ for(const [offset,selector] of [[-1,'#hero-prev'],[1,'#hero-next']]){
+  const visited=new Set();
+  for(let i=0;i<count;i++){
+   const neighbor=await coverAt(page,offset);
+   await page.click(selector);
+   assert.equal(await coverAt(page,0),neighbor);
+   visited.add(neighbor);
+  }
+  assert.equal(visited.size,count);
+  assert.equal(await coverAt(page,0),newest);
+ }
+ await page.waitForTimeout(900);
 
  const drag=async(dx)=>{
   await page.mouse.move(box.x,box.y);

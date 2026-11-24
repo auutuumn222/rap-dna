@@ -14,9 +14,9 @@ try{
  const url=`http://127.0.0.1:${server.address().port}/?artist=xiedi`;
  await page.goto(url,{waitUntil:'networkidle'});await page.locator('.hero h1').waitFor();
  assert.match(await page.title(),/谢帝/);assert.equal(await page.locator('#artist-select').inputValue(),'xiedi');
- assert.equal(await page.locator('.album-card').count(),14);assert.equal(await page.locator('#hero-dots button').count(),15);assert.match(await page.locator('#track-count').innerText(),/365/);
+ assert.equal(await page.locator('.album-card').count(),15);assert.equal(await page.locator('#hero-dots button').count(),15);assert.match(await page.locator('#track-count').innerText(),/365/);
  await page.screenshot({path:'qa/xiedi/desktop.png'});
- await page.locator('.floating-album.center').click();assert.match(await page.locator('#dialog-heading').innerText(),/蔡镇鸿/);assert.equal(await page.locator('.detail-track-row').count(),16);await page.locator('.dialog-close').click();
+ await page.locator('.floating-album.center').click();assert.match(await page.locator('#dialog-heading').innerText(),/蔡镇鸿/);assert.equal(await page.locator('.detail-track-row').count(),16);assert.match(await page.locator('.detail-track-row').last().innerText(),/来日方长/);await page.locator('.dialog-close').click();
  await page.locator('[data-scope="group"]').click();assert.equal(await page.locator('.album-card').count(),4);await page.locator('[data-scope="all"]').click();assert.equal(await page.locator('.album-card').count(),137);
  await page.locator('#track-search').fill('不存在的曲目abcdefgh');assert.match(await page.locator('#track-rows').innerText(),/还没有找到/);
  await page.locator('#track-search').fill('BO$$ X');assert.match(await page.locator('#track-count').innerText(),/365/);await page.locator('#track-rows .song-button').first().click();assert.ok(await page.locator('dialog [data-listen]').count()>0);assert.equal(new URL(page.url()).searchParams.get('artist'),'xiedi');const hash=new URL(page.url()).hash;await page.reload({waitUntil:'networkidle'});await page.locator('dialog[open]').waitFor();assert.equal(new URL(page.url()).hash,hash);await page.locator('.dialog-close').click();

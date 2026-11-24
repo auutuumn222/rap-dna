@@ -41,6 +41,22 @@ test('resolution keeps raw catalogs immutable, preserves original names and supp
  assert.equal(createIdentityResolver({entities:[]}).catalog(input).tracks[0].credits[0].personId,'cYXRtaGFuc29u');
 });
 const index=JSON.parse(await readFile(new URL('../dist/creator-index.json',import.meta.url),'utf8'));
+test('newly linked platform accounts retain historical credits and include an auditable source',async()=>{
+ const report=JSON.parse(await readFile(new URL('../research/identity-review.json',import.meta.url),'utf8'));
+ const links=report.decisions.filter(decision=>decision.kind==='platform-link');
+ assert.ok(links.some(({a,b})=>a.id==='c5byg5q2l6Iul'&&b.id==='n54548976'));
+ for(const {a,b} of links){
+  const creator=index.creators.find(person=>person.id===b.id);
+  const credits=creatorWorks(index,b.id);
+  assert.equal(creator?.identity,'platform');
+  assert.equal(creator.source,`https://music.163.com/artist?id=${b.id.slice(1)}`);
+  assert.ok(creator.identityEvidence.some(entry=>entry.id===a.id));
+  assert.ok(credits.some(track=>track.credits.some(credit=>credit.originalPersonId===a.id)));
+  assert.deepEqual(creatorWorks(index,a.id),credits);
+  assert.ok(!index.creators.some(person=>person.id===a.id));
+ }
+ assert.ok(creatorWorks(index,'n54548976').some(track=>track.id==='n1960619633'&&track.credits.some(credit=>credit.raw==='混音 : 张步若')));
+});
 test('confirmed homonyms have one creator profile, including the corrected Melo credits',async()=>{
  const report=JSON.parse(await readFile(new URL('../research/identity-review.json',import.meta.url),'utf8'));
  const batch=report.decisions.filter(d=>d.status==='merged'&&d.reviewGroup);

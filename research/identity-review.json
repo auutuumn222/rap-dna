@@ -1,14 +1,14 @@
 {
-  "reviewedAt": "2026-11-23",
+  "reviewedAt": "2026-11-24",
   "stats": {
     "backstageIdentities": 2366,
     "exactGroups": 124,
     "nearPairs": 38,
-    "reviewedPairs": 248,
-    "mergedPairs": 222,
+    "reviewedPairs": 265,
+    "mergedPairs": 239,
     "pendingPairs": 25,
-    "entities": 179,
-    "aliases": 221,
+    "entities": 192,
+    "aliases": 238,
     "correctedCreditPairs": 1
   },
   "decisions": [
@@ -4633,6 +4633,278 @@
       "status": "merged",
       "reason": "项目确认是同一创作者的不同写法",
       "reviewedAt": "2026-11-23"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "ccHJvZGJ5546J",
+        "name": "Prodby玉",
+        "count": 8
+      },
+      "b": {
+        "id": "n12085424",
+        "name": "Prodby玉",
+        "count": 46
+      },
+      "status": "merged",
+      "reason": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c6ICB6YGT",
+        "name": "老道",
+        "count": 120
+      },
+      "b": {
+        "id": "n54701858",
+        "name": "老道",
+        "count": 23
+      },
+      "status": "merged",
+      "reason": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "ceWVsbG93cml2ZXI",
+        "name": "yellowriver",
+        "count": 1
+      },
+      "b": {
+        "id": "n33016055",
+        "name": "yellowriver",
+        "count": 3
+      },
+      "status": "merged",
+      "reason": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "ua2V5LmzliJjogao",
+        "name": "KEY.L刘聪 ",
+        "count": 1
+      },
+      "b": {
+        "id": "n12788674",
+        "name": "KEY.L刘聪",
+        "count": 17
+      },
+      "status": "merged",
+      "reason": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "cbG9maW1ha2Vy",
+        "name": "LOFIMAKER",
+        "count": 2
+      },
+      "b": {
+        "id": "n1043405",
+        "name": "LOFIMAKER",
+        "count": 39
+      },
+      "status": "merged",
+      "reason": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5b6Q5p2l",
+        "name": "徐来",
+        "count": 1
+      },
+      "b": {
+        "id": "n13114452",
+        "name": "X U",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "百会电台将 X U 与徐来并列介绍，《ACTA》艺人栏使用 X U 的平台账号，混音署名为徐来。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c6ZmI6L225Lym",
+        "name": "陈轶伦",
+        "count": 1
+      },
+      "b": {
+        "id": "n34288614",
+        "name": "yilun!",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "秀动艺人档案将 yilun! 与 Cool-Aid陈轶伦并列，《你呢》艺人栏为 yilun!，制作人署名为陈轶伦。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "cc3dhZ2tlbGx5",
+        "name": "Swagkelly",
+        "count": 3
+      },
+      "b": {
+        "id": "n12002047",
+        "name": "曾轩",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "《52hz(Remix)》艺人栏为曾轩，混音与母带署名为 SwagKelly。JOOX 收录的 SwagKelly《Birthday 6》也署名曾轩为词曲作者和监制。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "cMTUyMA",
+        "name": "1520",
+        "count": 1
+      },
+      "b": {
+        "id": "n27866110",
+        "name": "Louis 1520",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "《Ride4you》艺人栏及编曲署名为 Louis 1520，混音署名为 1520。头像核查登记也记录了该账号的同一歌曲 ID。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "ca3dvcmxk",
+        "name": "KWORLD",
+        "count": 8
+      },
+      "b": {
+        "id": "n13909010",
+        "name": "KUAN",
+        "count": 2
+      },
+      "status": "merged",
+      "reason": "《Obey》艺人栏为 KUAN，词曲制作相关署名使用 KWORLD。发行方介绍称 KWORLD 本名孟宽，并记载《Obey》为其早期发行作品。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5byg5q2l6Iul",
+        "name": "张步若",
+        "count": 319
+      },
+      "b": {
+        "id": "n54548976",
+        "name": "张步若",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "网易云头像核查所存艺人资料写明张步若为 Ready Steady Sound! 创始人及混音师。Apple Music 工程师专题给出相同的工作室身份，并明确列出马思唯《Coco Elva Tia》的混音。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5YiY6Z-n",
+        "name": "刘韧",
+        "count": 49
+      },
+      "b": {
+        "id": "n12198514",
+        "name": "刘韧",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "网易云头像核查所存艺人资料写明刘韧为混音师及博士。北京现代音乐研修学院的嘉宾介绍确认相同专业身份，并列出杨和苏《一千公里》。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5pe25L-K5bOw",
+        "name": "时俊峰",
+        "count": 255
+      },
+      "b": {
+        "id": "n51823306",
+        "name": "时俊峰",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "网易云头像核查所存艺人资料记载时俊峰为福达录音棚创办人和混音师；JOOX《人来疯》的逐曲资料与本站网易云原始署名均列其为母带工程师。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5ZGo5aSp5r6I",
+        "name": "周天澈",
+        "count": 94
+      },
+      "b": {
+        "id": "n50784250",
+        "name": "周天澈",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "Studio21A 官方作品页列出周天澈的混音及母带工作。《潇洒》逐曲原始署名指向同一姓名与工作室。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5p6X5qKm5rSL",
+        "name": "林梦洋",
+        "count": 56
+      },
+      "b": {
+        "id": "n54536021",
+        "name": "林梦洋",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "网易云头像核查所存艺人资料记载林梦洋的录音工程专业背景；Apple Music 的 MC HotDog《失眠是一种病 (Live)》列出相同的混音署名。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5oGp5b63YW5keTE4",
+        "name": "恩德Andy18",
+        "count": 67
+      },
+      "b": {
+        "id": "n12361385",
+        "name": "恩德Andy18",
+        "count": 0
+      },
+      "status": "merged",
+      "reason": "网易云头像核查所存艺人资料写明恩德Andy18为 A-Bucks Music 主理人。JOOX 和网易云《男子汉》逐曲资料都把该姓名及团队写在混音署名中。",
+      "reviewedAt": "2026-11-24"
+    },
+    {
+      "kind": "platform-link",
+      "a": {
+        "id": "c5Y2h5pav",
+        "name": "卡斯",
+        "count": 44
+      },
+      "b": {
+        "id": "n222404",
+        "name": "卡斯Kas$",
+        "count": 44
+      },
+      "status": "merged",
+      "reason": "王以太《打个总结 (Live)》的同一单曲并存「卡斯」和已绑定平台账号的「卡斯Kas$」编曲署名。另在两条《目不转睛 (Live)》记录重复出现同一组写法。",
+      "reviewedAt": "2026-11-24"
     }
   ],
   "batches": [

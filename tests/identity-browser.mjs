@@ -15,6 +15,17 @@ try{
  await page.locator('#creator-search').fill('Doughboy');
  const doughBoy=page.locator('#creator-grid .dna-creator-card').filter({has:page.getByRole('heading',{name:'Dough-Boy',exact:true})});
  assert.equal(await doughBoy.count(),1);assert.equal(await creatorId(doughBoy),'n1203015');
+ await page.locator('#creator-search').fill('张步若');
+ const engineer=page.locator('#creator-grid .dna-creator-card').filter({has:page.getByRole('heading',{name:'张步若',exact:true})});
+ assert.equal(await engineer.count(),1);
+ assert.equal(await creatorId(engineer),'n54548976');
+ assert.equal(await engineer.locator('.dna-name-status').count(),0);
+ await visit('?creator=c5byg5q2l6Iul');await page.locator('.dna-profile h1').waitFor();
+ assert.equal(new URL(page.url()).searchParams.get('creator'),'n54548976');
+ assert.equal(await page.locator('.dna-profile h1').innerText(),'张步若');
+ assert.equal(await page.getByRole('link',{name:/创作者平台页/}).getAttribute('href'),'https://music.163.com/artist?id=54548976');
+ await page.locator('.dna-identity-details summary').click();
+ assert.match(await page.locator('.dna-identity-details').innerText(),/Coco Elva Tia/);
  for(const [oldId,id] of [['cbHVzaW91c2Ji','n31093989'],['cZG91Z2hib3k','n1203015']]){
   await visit('?creator='+oldId);await page.locator('.dna-profile h1').waitFor();
   assert.equal(new URL(page.url()).searchParams.get('creator'),id);

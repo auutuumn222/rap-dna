@@ -993,7 +993,7 @@ export const identityRegistry={
       "name": "卡斯Kas$",
       "kind": "person",
       "source": "https://music.163.com/artist?id=222404",
-      "reviewedAt": "2026-10-31",
+      "reviewedAt": "2026-11-24",
       "aliases": [
         {
           "id": "c5Y2h5pava2FzJA",
@@ -1032,6 +1032,26 @@ export const identityRegistry={
                 "role": "编曲",
                 "raw": "编曲 : 卡斯Kas$/Yoken_Official/YYKBZ"
               }
+            }
+          ]
+        },
+        {
+          "id": "c5Y2h5pav",
+          "name": "卡斯",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n1294899232",
+              "role": "编曲",
+              "raw": "编曲：卡斯",
+              "source": "https://music.163.com/song?id=1294899232",
+              "comparison": {
+                "trackId": "n1294899232",
+                "role": "编曲",
+                "raw": "编曲 : 卡斯Kas$",
+                "source": "https://music.163.com/song?id=1294899232"
+              },
+              "note": "王以太《打个总结 (Live)》的同一单曲并存「卡斯」和已绑定平台账号的「卡斯Kas$」编曲署名。另在两条《目不转睛 (Live)》记录重复出现同一组写法。"
             }
           ]
         }
@@ -1216,35 +1236,6 @@ export const identityRegistry={
                 "source": "https://music.163.com/song?id=1444101384",
                 "role": "编曲",
                 "raw": "编曲：非叔Uncle-Fei"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ccHJvZGJ5546J",
-      "name": "Prodby玉",
-      "kind": "credit",
-      "source": "https://music.163.com/song?id=2033108555",
-      "reviewedAt": "2026-10-31",
-      "aliases": [
-        {
-          "id": "ccHJvZCBieSDnjok",
-          "name": "Prod By 玉",
-          "method": "reviewed-format",
-          "evidence": [
-            {
-              "trackId": "n1970610322",
-              "role": "编曲",
-              "raw": "编曲:Prod By 玉",
-              "source": "https://music.163.com/song?id=1970610322",
-              "note": "仅排版、空格、全半角或标点不同；未据此新增平台账号关联",
-              "comparison": {
-                "trackId": "n2033108555",
-                "source": "https://music.163.com/song?id=2033108555",
-                "role": "编曲",
-                "raw": "编曲 : Prodby玉/TingleM"
               }
             }
           ]
@@ -1813,35 +1804,6 @@ export const identityRegistry={
                 "source": "https://music.163.com/song?id=1844149001",
                 "role": "编曲",
                 "raw": "编曲：Tune Lee/GoldChild/Hop侯舒扬/孙宇辰"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ca3dvcmxk",
-      "name": "KWORLD",
-      "kind": "credit",
-      "source": "https://music.163.com/song?id=1844149003",
-      "reviewedAt": "2026-10-31",
-      "aliases": [
-        {
-          "id": "ca3dvcmxkJiMxMzs",
-          "name": "KWORLD&#13;",
-          "method": "reviewed-format",
-          "evidence": [
-            {
-              "trackId": "n1351449201",
-              "role": "混音",
-              "raw": "混音：KWORLD&#13;",
-              "source": "https://music.163.com/song?id=1351449201",
-              "note": "仅排版、空格、全半角或标点不同；未据此新增平台账号关联",
-              "comparison": {
-                "trackId": "n1844149003",
-                "source": "https://music.163.com/song?id=1844149003",
-                "role": "混音",
-                "raw": "混音 : KWORLD"
               }
             }
           ]
@@ -2974,7 +2936,7 @@ export const identityRegistry={
       "name": "Louis 1520",
       "kind": "person",
       "source": "https://music.163.com/artist?id=27866110",
-      "reviewedAt": "2026-10-31",
+      "reviewedAt": "2026-11-24",
       "aliases": [
         {
           "id": "cbG91aXMxNTIw",
@@ -2993,6 +2955,21 @@ export const identityRegistry={
                 "role": "编曲",
                 "raw": "编曲 : Louis 1520/张方钊/大D(DLyn)"
               },
+              "authority": "https://music.163.com/artist?id=27866110"
+            }
+          ]
+        },
+        {
+          "id": "cMTUyMA",
+          "name": "1520",
+          "method": "same-track-artist",
+          "evidence": [
+            {
+              "trackId": "n1910738837",
+              "role": "混音",
+              "raw": "混音：1520/封面：淋巴",
+              "source": "https://music.163.com/song?id=1910738837",
+              "note": "《Ride4you》艺人栏及编曲署名为 Louis 1520，混音署名为 1520。头像核查登记也记录了该账号的同一歌曲 ID。",
               "authority": "https://music.163.com/artist?id=27866110"
             }
           ]
@@ -5852,6 +5829,446 @@ export const identityRegistry={
               "source": "https://music.163.com/song?id=2158987669",
               "note": "项目确认归并同名署名。此作品链接用于查看原始署名。",
               "authority": "https://music.163.com/artist?id=37123911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12085424",
+      "name": "Prodby玉",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12085424",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "ccHJvZGJ5546J",
+          "name": "Prodby玉",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n1970538714",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=1970538714",
+              "records": [
+                {
+                  "catalog": "masiwei",
+                  "raw": "编曲 : Prodby玉"
+                },
+                {
+                  "catalog": "kkluv",
+                  "raw": "编曲 : Prodby玉"
+                }
+              ],
+              "note": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。"
+            }
+          ]
+        },
+        {
+          "id": "ccHJvZCBieSDnjok",
+          "name": "Prod By 玉",
+          "method": "reviewed-format",
+          "evidence": [
+            {
+              "trackId": "n1970610322",
+              "role": "编曲",
+              "raw": "编曲:Prod By 玉",
+              "source": "https://music.163.com/song?id=1970610322",
+              "note": "仅排版、空格、全半角或标点不同；未据此新增平台账号关联",
+              "comparison": {
+                "trackId": "n2033108555",
+                "source": "https://music.163.com/song?id=2033108555",
+                "role": "编曲",
+                "raw": "编曲 : Prodby玉/TingleM"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n54701858",
+      "name": "老道",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=54701858",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c6ICB6YGT",
+          "name": "老道",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n1980392087",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=1980392087",
+              "records": [
+                {
+                  "catalog": "gai",
+                  "raw": "编曲 : 老道"
+                },
+                {
+                  "catalog": "kungfupen",
+                  "raw": "编曲 : 老道"
+                }
+              ],
+              "note": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n33016055",
+      "name": "yellowriver",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=33016055",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "ceWVsbG93cml2ZXI",
+          "name": "yellowriver",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n2612759107",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2612759107",
+              "records": [
+                {
+                  "catalog": "toyoki",
+                  "raw": "编曲 : yellowriver"
+                },
+                {
+                  "catalog": "asen",
+                  "raw": "编曲 : yellowriver"
+                }
+              ],
+              "note": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12788674",
+      "name": "KEY.L刘聪",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12788674",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "ua2V5LmzliJjogao",
+          "name": "KEY.L刘聪 ",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n1906281609",
+              "role": "制作人",
+              "source": "https://music.163.com/song?id=1906281609",
+              "records": [
+                {
+                  "catalog": "mchotdog",
+                  "raw": "制作人 : KEY.L刘聪/c0de731"
+                },
+                {
+                  "catalog": "keyl",
+                  "raw": "制作人 : KEY.L刘聪/c0de731"
+                }
+              ],
+              "note": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1043405",
+      "name": "LOFIMAKER",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=1043405",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "cbG9maW1ha2Vy",
+          "name": "LOFIMAKER",
+          "method": "same-track-role",
+          "evidence": [
+            {
+              "trackId": "n2065926899",
+              "role": "编曲",
+              "source": "https://music.163.com/song?id=2065926899",
+              "records": [
+                {
+                  "catalog": "shengyu",
+                  "raw": "编曲 : 陈令韬/派克特（PACT）/LOFIMAKER"
+                },
+                {
+                  "catalog": "pact",
+                  "raw": "编曲 : 陈令韬/派克特（PACT）/LOFIMAKER"
+                }
+              ],
+              "note": "同一网易云单曲和相同角色在两个歌手档案中分别保留姓名署名与平台艺人 ID。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13114452",
+      "name": "X U",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13114452",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5b6Q5p2l",
+          "name": "徐来",
+          "method": "same-track-artist",
+          "evidence": [
+            {
+              "trackId": "n1336892099",
+              "role": "混音",
+              "raw": "混音：徐来",
+              "source": "https://music.163.com/song?id=1336892099",
+              "note": "百会电台将 X U 与徐来并列介绍，《ACTA》艺人栏使用 X U 的平台账号，混音署名为徐来。",
+              "authority": "https://baihui.live/shows/the-roof-radio-w-x-u-24-09-23/en/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n34288614",
+      "name": "yilun!",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=34288614",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c6ZmI6L225Lym",
+          "name": "陈轶伦",
+          "method": "same-track-artist",
+          "evidence": [
+            {
+              "trackId": "n2632675075",
+              "role": "制作人",
+              "raw": "制作人 : 陈轶伦",
+              "source": "https://music.163.com/song?id=2632675075",
+              "note": "秀动艺人档案将 yilun! 与 Cool-Aid陈轶伦并列，《你呢》艺人栏为 yilun!，制作人署名为陈轶伦。",
+              "authority": "https://www.showstart.com/artist/20961056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12002047",
+      "name": "曾轩",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12002047",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "cc3dhZ2tlbGx5",
+          "name": "Swagkelly",
+          "method": "same-track-artist",
+          "evidence": [
+            {
+              "trackId": "n1319670500",
+              "role": "混音",
+              "raw": "混音/母带：SwagKelly",
+              "source": "https://music.163.com/song?id=1319670500",
+              "note": "《52hz(Remix)》艺人栏为曾轩，混音与母带署名为 SwagKelly。JOOX 收录的 SwagKelly《Birthday 6》也署名曾轩为词曲作者和监制。",
+              "authority": "https://www.joox.com/my-en/single/nY1dYrJ6dHAhyO6i0a8GFQ%3D%3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n13909010",
+      "name": "KUAN",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=13909010",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "ca3dvcmxk",
+          "name": "KWORLD",
+          "method": "same-track-artist",
+          "evidence": [
+            {
+              "trackId": "n1825882180",
+              "role": "编曲",
+              "raw": "编曲 : KWORLD",
+              "source": "https://music.163.com/song?id=1825882180",
+              "note": "《Obey》艺人栏为 KUAN，词曲制作相关署名使用 KWORLD。发行方介绍称 KWORLD 本名孟宽，并记载《Obey》为其早期发行作品。",
+              "authority": "https://www.xwx.cn/album/eNXwBw9V"
+            }
+          ]
+        },
+        {
+          "id": "ca3dvcmxkJiMxMzs",
+          "name": "KWORLD&#13;",
+          "method": "reviewed-format",
+          "evidence": [
+            {
+              "trackId": "n1351449201",
+              "role": "混音",
+              "raw": "混音：KWORLD&#13;",
+              "source": "https://music.163.com/song?id=1351449201",
+              "note": "仅排版、空格、全半角或标点不同；未据此新增平台账号关联",
+              "comparison": {
+                "trackId": "n1844149003",
+                "source": "https://music.163.com/song?id=1844149003",
+                "role": "混音",
+                "raw": "混音 : KWORLD"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n54548976",
+      "name": "张步若",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=54548976",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5byg5q2l6Iul",
+          "name": "张步若",
+          "method": "reviewed-profile-context",
+          "evidence": [
+            {
+              "trackId": "n1960619633",
+              "role": "混音",
+              "raw": "混音 : 张步若",
+              "source": "https://music.163.com/song?id=1960619633",
+              "note": "网易云头像核查所存艺人资料写明张步若为 Ready Steady Sound! 创始人及混音师。Apple Music 工程师专题给出相同的工作室身份，并明确列出马思唯《Coco Elva Tia》的混音。",
+              "authority": "https://music.apple.com/cn/playlist/%E9%9F%B3%E9%A2%91%E5%B7%A5%E7%A8%8B%E5%B8%88-%E5%BC%A0%E6%AD%A5%E8%8B%A5/pl.3dc509711aed466481b3e8ce5f2d32a0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12198514",
+      "name": "刘韧",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12198514",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5YiY6Z-n",
+          "name": "刘韧",
+          "method": "reviewed-profile-context",
+          "evidence": [
+            {
+              "trackId": "n2006948925",
+              "role": "混音",
+              "raw": "混音 : 刘韧",
+              "source": "https://music.163.com/song?id=2006948925",
+              "note": "网易云头像核查所存艺人资料写明刘韧为混音师及博士。北京现代音乐研修学院的嘉宾介绍确认相同专业身份，并列出杨和苏《一千公里》。",
+              "authority": "https://news.bjcma.com/Item/18512.aspx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n51823306",
+      "name": "时俊峰",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=51823306",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5pe25L-K5bOw",
+          "name": "时俊峰",
+          "method": "reviewed-profile-context",
+          "evidence": [
+            {
+              "trackId": "n1987823308",
+              "role": "母带",
+              "raw": "母带工程师 : 时俊峰",
+              "source": "https://music.163.com/song?id=1987823308",
+              "note": "网易云头像核查所存艺人资料记载时俊峰为福达录音棚创办人和混音师；JOOX《人来疯》的逐曲资料与本站网易云原始署名均列其为母带工程师。",
+              "authority": "https://www.joox.com/id/single/l4%2Bx6HWOtdSZkfjijZY6ag%3D%3D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n50784250",
+      "name": "周天澈",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=50784250",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5ZGo5aSp5r6I",
+          "name": "周天澈",
+          "method": "reviewed-profile-context",
+          "evidence": [
+            {
+              "trackId": "n3324846858",
+              "role": "混音",
+              "raw": "混音 : 周天澈@Studio21A",
+              "source": "https://music.163.com/song?id=3324846858",
+              "note": "Studio21A 官方作品页列出周天澈的混音及母带工作。《潇洒》逐曲原始署名指向同一姓名与工作室。",
+              "authority": "https://www.studio21a.com/projects"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n54536021",
+      "name": "林梦洋",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=54536021",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5p6X5qKm5rSL",
+          "name": "林梦洋",
+          "method": "reviewed-profile-context",
+          "evidence": [
+            {
+              "trackId": "n1363550969",
+              "role": "混音",
+              "raw": "混音 : 林梦洋",
+              "source": "https://music.163.com/song?id=1363550969",
+              "note": "网易云头像核查所存艺人资料记载林梦洋的录音工程专业背景；Apple Music 的 MC HotDog《失眠是一种病 (Live)》列出相同的混音署名。",
+              "authority": "https://music.apple.com/us/song/1850931809"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n12361385",
+      "name": "恩德Andy18",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12361385",
+      "reviewedAt": "2026-11-24",
+      "aliases": [
+        {
+          "id": "c5oGp5b63YW5keTE4",
+          "name": "恩德Andy18",
+          "method": "reviewed-profile-context",
+          "evidence": [
+            {
+              "trackId": "n1995496607",
+              "role": "混音",
+              "raw": "混音工程师 : 恩德Andy18@A-BUCKS/张步若",
+              "source": "https://music.163.com/song?id=1995496607",
+              "note": "网易云头像核查所存艺人资料写明恩德Andy18为 A-Bucks Music 主理人。JOOX 和网易云《男子汉》逐曲资料都把该姓名及团队写在混音署名中。",
+              "authority": "https://www.joox.com/hk/single/V4EOQZeYNUgweJZblEMIZA%3D%3D"
             }
           ]
         }

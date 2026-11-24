@@ -32,7 +32,8 @@ function toast(message){$('#toast').textContent=message;$('#toast').classList.ad
 function heading(kicker,title,note='',action=''){return `<div class="dna-section-head"><div><div class="dna-kicker">${kicker}</div><h2>${title}</h2>${note?`<p>${note}</p>`:''}</div>${action}</div>`;}
 function scope(){return `<aside class="dna-scope" id="discovery-sources"><span class="dna-kicker">FOLLOW THE CREDITS</span><h3>每条联系，都从具体署名出发。</h3><p>${esc(index.scope)}当前覆盖 ${index.artists.length} 位 Rapper。共同署名与制作、编曲、混音、母带分别记录；同一制作人也可以带来完全不同的声音。</p><p>仅有姓名的署名按原字段保留，未确认与平台艺人账号相同的身份不会自动合并。作品中的「查看署名」可打开原始字段与来源。</p></aside>`;}
 function playButton(t){return neteaseSongId(t)?`<button class="dna-play" data-listen="${esc(t.id)}" aria-label="播放 ${esc(t.title)}" aria-pressed="false">▶ <span>听听看</span></button>`:external(t.source,'去平台听');}
-function workCard(t,id,{label='',compact=false}={}){return `<article class="dna-work ${compact?'compact':''}"><div class="dna-work-top"><img src="${esc(t.artwork)}" alt="${esc(t.album)} 封面" loading="lazy" width="64" height="64"><div>${label?`<span class="dna-work-label">${esc(label)}</span>`:''}<h3>${esc(t.title)}</h3><p>${esc(t.artistNames.join(' / '))}</p><small>${esc(t.date||'日期待核')} · ${esc(t.album)}</small></div></div><div class="dna-work-roles">${pills(rolesFor(t,id))}</div><div class="dna-work-actions">${playButton(t)}<button data-evidence="${esc(t.id)}" data-credit-person="${esc(id)}">查看署名 ↗</button></div></article>`;}
+function workActions(t,id){return `${playButton(t)}<button data-evidence="${esc(t.id)}" data-credit-person="${esc(id)}">查看署名 ↗</button>`;}
+function workCard(t,id,{label='',compact=false}={}){return `<article class="dna-work ${compact?'compact':''}"><div class="dna-work-top"><img src="${esc(t.artwork)}" alt="${esc(t.album)} 封面" loading="lazy" width="64" height="64"><div>${label?`<span class="dna-work-label">${esc(label)}</span>`:''}<h3>${esc(t.title)}</h3><p>${esc(t.artistNames.join(' / '))}</p><small>${esc(t.date||'日期待核')} · ${esc(t.album)}</small></div></div><div class="dna-work-roles">${pills(rolesFor(t,id))}</div><div class="dna-work-actions">${workActions(t,id)}</div></article>`;}
 function storyCard(story){
  const {person,pair,artistKeys}=story,[a,b]=artistKeys.map(key=>artists.get(key));
  const otherRoles=rolesFor(pair[1],person.id);
@@ -147,18 +148,64 @@ function creatorPage(id){
  $('#creator-artists').onclick=e=>{const b=e.target.closest('[data-work-artist]');if(b){works.artist=b.dataset.workArtist;works.limit=12;refresh();}};
  $('#work-search').oninput=e=>{works.query=e.target.value;works.limit=12;refresh();};$('#work-role').onchange=e=>{works.role=e.target.value;works.limit=12;refresh();};$('#work-year').onchange=e=>{works.year=e.target.value;works.limit=12;refresh();};$('#more-works').onclick=()=>{works.limit+=12;refresh();};$('#copy-creator').onclick=share;refresh();
 }
+function mountComparisonPlaylist(card,{person,left,right,sharedIds},a,b,state){
+ const shared=new Set(sharedIds);
+ const rightOnly=right.filter(t=>!shared.has(t.id));
+ const all=[...left,...rightOnly].sort((a,b)=>b.date.localeCompare(a.date)||a.id.localeCompare(b.id));
+ const groups={
+  all:{label:'全部',tracks:all},
+  left:{label:`仅 ${a.name}`,tracks:left.filter(t=>!shared.has(t.id))},
+  right:{label:`仅 ${b.name}`,tracks:rightOnly},
+  shared:{label:'两人同曲',tracks:left.filter(t=>shared.has(t.id))},
+ };
+ const details=document.createElement('details');
+ details.className='dna-bridge-playlist';
+ details.open=state.open;
+ details.innerHTML=`<summary><span>查看全部 ${all.length} 首作品</span><span>收起作品列表</span></summary>
+  <div class="dna-playlist-filters" role="group" aria-label="按 Rapper 筛选作品">${Object.entries(groups).map(([key,{label,tracks}])=>`<button type="button" data-playlist-group="${key}" aria-pressed="${state.group===key}">${esc(label)} <span>${tracks.length}</span></button>`).join('')}</div>
+  <div class="dna-playlist-content"></div>`;
+ const content=$('.dna-playlist-content',details);
+ const filters=$('.dna-playlist-filters',details);
+ const renderRows=()=>{
+  const {tracks}=groups[state.group];
+  content.innerHTML=tracks.length?`<ul class="dna-playlist-rows">${tracks.map(t=>`<li><div><strong>${esc(t.title)}</strong><small>${esc(t.artistNames.join(' / '))}</small></div><div class="dna-playlist-roles">${pills(rolesFor(t,person.id))}</div><div class="dna-playlist-actions">${workActions(t,person.id)}</div></li>`).join('')}</ul>`:'<p class="dna-playlist-empty" role="status">这个分组暂无符合条件的作品。</p>';
+  player.syncButtons();
+ };
+ filters.onclick=e=>{
+  const button=e.target.closest('[data-playlist-group]');
+  if(!button||button.dataset.playlistGroup===state.group)return;
+  $('[aria-pressed="true"]',filters).setAttribute('aria-pressed','false');
+  state.group=button.dataset.playlistGroup;
+  button.setAttribute('aria-pressed','true');
+  renderRows();
+ };
+ details.ontoggle=()=>{
+  if(!details.isConnected)return;
+  state.open=details.open;
+  if(details.open&&!content.hasChildNodes())renderRows();
+ };
+ card.append(details);
+ if(details.open)renderRows();
+}
 function comparisonPage(){
  document.title='共同幕后 · 两位 Rapper 的音乐交集 | RAP DNA';
  const params=new URLSearchParams(location.search),a=artists.get(params.get('a'))||artists.get('asen')||index.artists[0],b=artists.get(params.get('b'))||artists.get('masiwei')||index.artists[1];
- app.innerHTML=`<section class="dna-common-hero" id="top"><nav class="dna-breadcrumb" aria-label="当前位置">${link('./','发现')}<span aria-hidden="true">/</span><span aria-current="page">找共同幕后</span></nav><span class="dna-kicker">DIFFERENT VOICES. SHARED CREATORS.</span><h1>他们的共同幕后。</h1><p class="dna-page-purpose">选择两位 Rapper，对比作品中共同的制作、编曲、混音与母带署名。<br>找到一个名字后，点进 TA 的幕后参与，继续听其他作品。</p><div class="dna-picker"><label>${portrait(a,'picker-avatar')}<span>第一位 Rapper</span><select id="common-a" aria-label="第一位 Rapper">${index.artists.map(x=>`<option value="${x.key}" ${a.key===x.key?'selected':''}>${esc(x.name)}</option>`).join('')}</select></label><button id="swap-rappers" aria-label="交换两位 Rapper">⇄</button><label>${portrait(b,'picker-avatar')}<span>第二位 Rapper</span><select id="common-b" aria-label="第二位 Rapper">${index.artists.map(x=>`<option value="${x.key}" ${b.key===x.key?'selected':''}>${esc(x.name)}</option>`).join('')}</select></label></div><div class="dna-presets"><span>试试这两组</span>${link(href({view:'common',a:'asen',b:'masiwei'}),'Asen × 马思唯')}${link(href({view:'common',a:'pharaoh',b:'keyng'}),'法老 × 杨和苏')}</div></section><section class="dna-section dna-common-results"><div class="dna-toolbar"><label class="dna-search"><span>⌕</span><input type="search" id="common-query" placeholder="搜索这两人的共同创作者" aria-label="筛选共同创作者"></label><label class="dna-select"><span>参与角色</span><select id="common-role"><option value="all">全部幕后角色</option>${backstageRoles.map(r=>`<option>${r}</option>`).join('')}</select></label></div><div id="common-summary" class="dna-common-summary" aria-live="polite"></div><div id="common-results"></div><button class="dna-more" id="more-common">发现更多共同幕后 ↓</button><div id="same-song-results"></div></section>`+scope();
+ app.innerHTML=`<section class="dna-common-hero" id="top"><nav class="dna-breadcrumb" aria-label="当前位置">${link('./','发现')}<span aria-hidden="true">/</span><span aria-current="page">找共同幕后</span></nav><span class="dna-kicker">DIFFERENT VOICES. SHARED CREATORS.</span><h1>他们的共同幕后。</h1><p class="dna-page-purpose">选择两位 Rapper，对比作品中共同的制作、编曲、混音与母带署名。<br>展开共同幕后卡片，就能浏览 TA 参与的两位 Rapper 的作品。</p><div class="dna-picker"><label>${portrait(a,'picker-avatar')}<span>第一位 Rapper</span><select id="common-a" aria-label="第一位 Rapper">${index.artists.map(x=>`<option value="${x.key}" ${a.key===x.key?'selected':''}>${esc(x.name)}</option>`).join('')}</select></label><button id="swap-rappers" aria-label="交换两位 Rapper">⇄</button><label>${portrait(b,'picker-avatar')}<span>第二位 Rapper</span><select id="common-b" aria-label="第二位 Rapper">${index.artists.map(x=>`<option value="${x.key}" ${b.key===x.key?'selected':''}>${esc(x.name)}</option>`).join('')}</select></label></div><div class="dna-presets"><span>试试这两组</span>${link(href({view:'common',a:'asen',b:'masiwei'}),'Asen × 马思唯')}${link(href({view:'common',a:'pharaoh',b:'keyng'}),'法老 × 杨和苏')}</div></section><section class="dna-section dna-common-results"><div class="dna-toolbar"><label class="dna-search"><span>⌕</span><input type="search" id="common-query" placeholder="搜索这两人的共同创作者" aria-label="筛选共同创作者"></label><label class="dna-select"><span>参与角色</span><select id="common-role"><option value="all">全部幕后角色</option>${backstageRoles.map(r=>`<option>${r}</option>`).join('')}</select></label></div><div id="common-summary" class="dna-common-summary" aria-live="polite"></div><div id="common-results"></div><button class="dna-more" id="more-common">发现更多共同幕后 ↓</button><div id="same-song-results"></div></section>`+scope();
+ const playlists=new Map();
  const change=()=>{compare={...compare,query:'',limit:8};navigate(href({view:'common',a:$('#common-a').value,b:$('#common-b').value}),false);};$('#common-a').onchange=change;$('#common-b').onchange=change;$('#swap-rappers').onclick=()=>navigate(href({view:'common',a:b.key,b:a.key}),false);
  $('#common-query').value=compare.query;$('#common-role').value=compare.role;
  const refresh=()=>{
   const list=sharedCreators(index,a.key,b.key,compare.role).filter(x=>[x.person.name,...(x.person.aliases||[])].join(' ').toLocaleLowerCase().includes(compare.query.trim().toLocaleLowerCase())),bridges=list.filter(x=>x.independent),same=list.filter(x=>!x.independent);
-  $('#common-summary').innerHTML=a.key===b.key?'<h2>换一个人，发现新的交集。</h2><p>请选择两位不同的 Rapper。</p>':`<h2>${bridges.length} 个幕后署名，连接不同作品。</h2><p>已关联艺人账号的署名优先展示；仅姓名的署名保留身份待核标记。每张卡片展示两首不同歌曲。另有 ${same.length} 个仅在同一首歌曲中出现的幕后署名，单独列在下方。角色筛选要求两边作品都具备该角色。</p>`;
-  $('#common-results').innerHTML=bridges.slice(0,compare.limit).map(x=>`<article class="dna-bridge"><div class="dna-bridge-head">${link(creatorLink(x.person.id),portrait(x.person)+`<div><h3>${esc(x.person.name)}</h3>${x.person.identity==='credit-name'?'<small class="dna-name-status">姓名署名 · 身份待核</small>':''}<p>与 ${esc(a.name)} 有 ${x.left.length} 条记录 · 与 ${esc(b.name)} 有 ${x.right.length} 条记录</p></div>`,'dna-person-link')}${link(creatorLink(x.person.id),'打开创作者主页 ↗','dna-text-link')}</div><div class="dna-bridge-works">${x.pair.map((t,i)=>workCard(t,x.person.id,{label:[a,b][i].name})).join('')}<span class="dna-bridge-connector" aria-hidden="true">↔</span></div></article>`).join('')||`<div class="dna-empty"><h3>${a.key===b.key?'从两种声音开始。':'当前没有符合条件的不同作品交集。'}</h3><p>${compare.query||compare.role!=='all'?'试试清除关键词或切换到全部角色。':'这表示现有单曲署名暂时没有找到证据，不代表他们从未共享幕后创作者。'}</p></div>`;
+  $('#common-summary').innerHTML=a.key===b.key?'<h2>换一个人，发现新的交集。</h2><p>请选择两位不同的 Rapper。</p>':`<h2>${bridges.length} 个幕后署名，连接不同作品。</h2><p>每张卡片先展示两首歌，可展开完整歌单。按角色筛选时，两位 Rapper 都须有该角色的署名记录。${same.length?`另有 ${same.length} 个仅在同一首歌曲中出现的幕后署名，见下方。`:''}</p>`;
+  const results=$('#common-results'),visible=bridges.slice(0,compare.limit);
+  results.innerHTML=visible.map(x=>`<article class="dna-bridge"><div class="dna-bridge-head">${link(creatorLink(x.person.id),portrait(x.person)+`<div><h3>${esc(x.person.name)}</h3>${x.person.identity==='credit-name'?'<small class="dna-name-status">姓名署名 · 身份待核</small>':''}</div>`,'dna-person-link')}${link(creatorLink(x.person.id),'打开创作者主页 ↗','dna-text-link')}</div><div class="dna-bridge-works">${x.pair.map((t,i)=>workCard(t,x.person.id,{label:[a,b][i].name})).join('')}<span class="dna-bridge-connector" aria-hidden="true">↔</span></div></article>`).join('')||`<div class="dna-empty"><h3>${a.key===b.key?'从两种声音开始。':'当前没有符合条件的不同作品交集。'}</h3><p>${compare.query||compare.role!=='all'?'试试清除关键词或切换到全部角色。':'这表示现有单曲署名暂时没有找到证据，不代表他们从未共享幕后创作者。'}</p></div>`;
+  visible.forEach((bridge,i)=>{
+   const id=bridge.person.id;
+   if(!playlists.has(id))playlists.set(id,{open:false,group:'all'});
+   mountComparisonPlaylist(results.children[i],bridge,a,b,playlists.get(id));
+  });
   $('#more-common').hidden=bridges.length<=compare.limit;
-  $('#same-song-results').innerHTML=same.length?`<details class="dna-same-song"><summary>仅在同一首歌曲中相遇 · ${same.length} 位 / 组</summary><p>这些是同一首歌里的幕后署名，暂时没有找到两首不同作品来建立另一条联系。</p>${same.map(x=>`<div class="dna-same-item">${link(creatorLink(x.person.id),esc(x.person.name)+(x.person.identity==='credit-name'?' · 姓名署名，身份待核':'')+' ↗','dna-text-link')}${workCard(x.pair[0],x.person.id,{compact:true})}</div>`).join('')}</details>`:'';bindImages();
+  $('#same-song-results').innerHTML=same.length?`<details class="dna-same-song"><summary>仅在同一首歌曲中相遇 · ${same.length} 位 / 组</summary><p>这些是同一首歌里的幕后署名，暂时没有找到两首不同作品来建立另一条联系。</p>${same.map(x=>`<div class="dna-same-item">${link(creatorLink(x.person.id),esc(x.person.name)+(x.person.identity==='credit-name'?' · 姓名署名，身份待核':'')+' ↗','dna-text-link')}${workCard(x.pair[0],x.person.id,{compact:true})}</div>`).join('')}</details>`:'';bindImages();player.syncButtons();
  };
  $('#common-query').oninput=e=>{compare.query=e.target.value;compare.limit=8;refresh();};$('#common-role').onchange=e=>{compare.role=e.target.value;compare.limit=8;refresh();};$('#more-common').onclick=()=>{compare.limit+=8;refresh();};refresh();
 }

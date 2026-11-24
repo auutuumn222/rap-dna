@@ -1,0 +1,433 @@
+{
+  "checkedAt": "2026-11-24",
+  "albumSource": "https://music.163.com/api/artist/albums/847107?id=847107&offset=0&limit=20",
+  "songSource": "https://music.163.com/api/v1/artist/songs?id=847107&offset=0&limit=100&order=time",
+  "artistSource": "https://music.163.com/api/artist/847107",
+  "announcement": "https://m.weibo.cn/2/detail/5362044108280383",
+  "reportedTracks": 320,
+  "album": {
+    "id": 407630434,
+    "name": "蔡镇鸿",
+    "publishTime": 1793894400000,
+    "type": "专辑",
+    "subType": "录音室版",
+    "size": 16,
+    "artists": [
+      {
+        "id": 847107,
+        "name": "谢帝"
+      }
+    ],
+    "company": "",
+    "picUrl": "https://p1.music.126.net/mp2dipDN2BIQ9_MQ-HUfXg==/109951174220484984.jpg"
+  },
+  "songs": [
+    {
+      "id": 3457056890,
+      "name": "蔡镇鸿",
+      "no": 1,
+      "duration": 179501,
+      "alias": [
+        "Intro"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457056959,
+      "name": "隐藏",
+      "no": 2,
+      "duration": 147310,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457056998,
+      "name": "暗物质",
+      "no": 3,
+      "duration": 264000,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457056400,
+      "name": "回家",
+      "no": 4,
+      "duration": 199000,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457056592,
+      "name": "后来我变了",
+      "no": 5,
+      "duration": 214583,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457057343,
+      "name": "落水狗",
+      "no": 6,
+      "duration": 173043,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457056725,
+      "name": "天下无敌？",
+      "no": 7,
+      "duration": 170142,
+      "alias": [
+        "Feat.THOME"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        },
+        {
+          "id": 12110173,
+          "name": "THOME"
+        }
+      ]
+    },
+    {
+      "id": 3457059803,
+      "name": "见自己",
+      "no": 8,
+      "duration": 200571,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457059824,
+      "name": "假招",
+      "no": 9,
+      "duration": 168800,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457058219,
+      "name": "IF YOU KNOW YOU KNOW",
+      "no": 10,
+      "duration": 180983,
+      "alias": [
+        "Feat.弹壳Danko"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        },
+        {
+          "id": 35784564,
+          "name": "弹壳Danko"
+        }
+      ]
+    },
+    {
+      "id": 3457059994,
+      "name": "Enjoy the trip",
+      "no": 11,
+      "duration": 192750,
+      "alias": [
+        "Feat.艾志恒Asen"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        },
+        {
+          "id": 12198387,
+          "name": "艾志恒Asen"
+        }
+      ]
+    },
+    {
+      "id": 3457058433,
+      "name": "我还差啥子",
+      "no": 12,
+      "duration": 174375,
+      "alias": [],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    },
+    {
+      "id": 3457058510,
+      "name": "理解万岁",
+      "no": 13,
+      "duration": 252000,
+      "alias": [
+        "Feat.王以太"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        },
+        {
+          "id": 12236125,
+          "name": "王以太"
+        }
+      ]
+    },
+    {
+      "id": 3457058552,
+      "name": "我能找到你",
+      "no": 14,
+      "duration": 185368,
+      "alias": [
+        "Feat.万妮达Vinida Weng"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        },
+        {
+          "id": 12001060,
+          "name": "万妮达Vinida Weng"
+        }
+      ]
+    },
+    {
+      "id": 3457058576,
+      "name": "感谢",
+      "no": 15,
+      "duration": 208615,
+      "alias": [
+        "Feat.Vansdaddy"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        },
+        {
+          "id": 35009085,
+          "name": "Vansdaddy"
+        }
+      ]
+    },
+    {
+      "id": 3457060245,
+      "name": "来日方长",
+      "no": 16,
+      "duration": 334285,
+      "alias": [
+        "Outro"
+      ],
+      "artists": [
+        {
+          "id": 847107,
+          "name": "谢帝"
+        }
+      ]
+    }
+  ],
+  "credits": {
+    "3457056400": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056400",
+      "checkedAt": "2026-11-24"
+    },
+    "3457056592": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056592",
+      "checkedAt": "2026-11-24"
+    },
+    "3457056725": {
+      "lines": [
+        "作词 : 谢帝/THOME",
+        "作曲 : 谢帝/THOME",
+        "编曲 : Driplawd/Chief Maloney",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056725",
+      "checkedAt": "2026-11-24"
+    },
+    "3457056890": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Chief Maloney/Phantom",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056890",
+      "checkedAt": "2026-11-24"
+    },
+    "3457056959": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Simon Marcus",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056959",
+      "checkedAt": "2026-11-24"
+    },
+    "3457056998": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Phantom",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056998",
+      "checkedAt": "2026-11-24"
+    },
+    "3457057343": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : LusciousBB",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457057343",
+      "checkedAt": "2026-11-24"
+    },
+    "3457058219": {
+      "lines": [
+        "作词 : 谢帝/弹壳Danko",
+        "作曲 : 谢帝/弹壳Danko",
+        "编曲 : Phantom",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058219",
+      "checkedAt": "2026-11-24"
+    },
+    "3457058433": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Mai/张浩然kenor",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058433",
+      "checkedAt": "2026-11-24"
+    },
+    "3457058510": {
+      "lines": [
+        "作词 : 谢帝/王以太",
+        "作曲 : 谢帝/王以太",
+        "编曲 : Simon Marcus",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058510",
+      "checkedAt": "2026-11-24"
+    },
+    "3457058552": {
+      "lines": [
+        "作词 : 谢帝/万妮达Vinida Weng",
+        "作曲 : 谢帝/万妮达Vinida Weng",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058552",
+      "checkedAt": "2026-11-24"
+    },
+    "3457058576": {
+      "lines": [
+        "作词 : 谢帝/Vansdaddy",
+        "作曲 : 谢帝/Vansdaddy",
+        "编曲 : NOBADINO",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058576",
+      "checkedAt": "2026-11-24"
+    },
+    "3457059803": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Anti-General",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457059803",
+      "checkedAt": "2026-11-24"
+    },
+    "3457059824": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Cells108/NORTHSIDE BLICK/ProdbyMov",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457059824",
+      "checkedAt": "2026-11-24"
+    },
+    "3457059994": {
+      "lines": [
+        "作词 : 谢帝/艾志恒Asen",
+        "作曲 : 谢帝/艾志恒Asen",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457059994",
+      "checkedAt": "2026-11-24"
+    },
+    "3457060245": {
+      "lines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : 卡斯Kas$",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457060245",
+      "checkedAt": "2026-11-24"
+    }
+  },
+  "failures": []
+}

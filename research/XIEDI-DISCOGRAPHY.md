@@ -1,10 +1,10 @@
 # 谢帝 作品档案核查
 
-核查日期：2026-10-30（北京时间）。
+核查日期：2026-11-24（北京时间）。
 
-网易云完整四页 304 条，Apple逐曲补 45 条，共 349 条平台记录。MY FRIEND WANNA TRAP跨平台补入同一专辑卡片；版本日期和缺曲分别保留。当前有日期范围 2011-12-02 至 2026-09-13，历史全量尚未证明。
+网易云原有四页 304 条，加上 2026 年《蔡镇鸿》 16 首；Apple逐曲补 45 条，共 365 条平台记录。MY FRIEND WANNA TRAP跨平台补入同一专辑卡片；版本日期和缺曲分别保留。当前有日期范围 2011-12-02 至 2026-11-06，历史全量尚未证明。
 
-网易云艺人 ID 847107；Apple Music 艺人 ID 1062071776。45 个艺人页发行条目，130 个关联网易云发行容器；共 349 条平台歌曲记录，包含版本，不等于独立原创总数。
+网易云艺人 ID 847107；Apple Music 艺人 ID 1062071776。46 个艺人页发行条目，131 个关联网易云发行容器；共 365 条平台歌曲记录，包含版本，不等于独立原创总数。
 
 ## 核心与早期项目
 
@@ -24,16 +24,18 @@
 |2024-08-15|社区生活2|个人项目|25|25|[来源](https://music.163.com/album?id=241493561)|
 |2024-11-06|闪耀 Stellar Moments|个人项目|12|12|[来源](https://music.163.com/album?id=251138654)|
 |2025-04-20|Bow|个人项目|4|4|[来源](https://music.163.com/album?id=269456023)|
+|2026-11-06|蔡镇鸿|个人项目|16|16|[来源](https://music.163.com/album?id=407630434)|
 
 ## 差异与统计边界
 
-- **平台数量与补充**：网易云304条，Apple补MY FRIEND WANNA TRAP 22条、这张专辑太Diao了14条、突如袭来3条、四首单曲及信徒/蔡镇鸿各1条，共补45条。包含重复发行和版本，不等于独立原创总数。 [来源](https://music.163.com/artist?id=847107) [来源](https://music.apple.com/cn/artist/1062071776)
+- **2026 年专辑《蔡镇鸿》**：11 月 6 日发行，共 16 首。按网易云曲序和逐曲艺人栏收录，逐首保留原始署名。2018 年同名合辑保留独立发行。 [来源](https://m.weibo.cn/2/detail/5362044108280383) [来源](https://music.163.com/api/artist/albums/847107?id=847107&offset=0&limit=20) [来源](https://music.163.com/api/v1/artist/songs?id=847107&offset=0&limit=100&order=time)
+- **平台数量与补充**：网易云基线304条，补入2026年《蔡镇鸿》16首。Apple补MY FRIEND WANNA TRAP 22条、这张专辑太Diao了14条、突如袭来3条、四首单曲及信徒/蔡镇鸿各1条，共补45条。包含重复发行和版本，不等于独立原创总数。 [来源](https://music.163.com/artist?id=847107) [来源](https://music.apple.com/cn/artist/1062071776)
 - **身份与逐曲证据**：网易云谢帝别名BO$$X；Apple相同艺人ID的美国区显示BO$$ X。仅据逐曲artistName收录合作，不把理想国等他人整张专辑的客串署名下放。Couple Hunnid系列作为团体项目，单列本人署名。 [来源](https://music.163.com/artist?id=847107) [来源](https://music.apple.com/cn/artist/1062071776)
 - **日期与发行统计**：同一发行的Apple补充合并入原专辑，不因平台发行日期不同重复统计；各平台日期与曲单在详情保留。制作角色只来自单曲明确字段，Apple未取得幕后字段留空。平台日期不代表首次创作或出道。 [来源](https://music.163.com/artist?id=847107) [来源](https://music.apple.com/cn/artist/1062071776)
 
 ## 待补资料
 
-- **平台缺曲与版本**：网易云MY FRIEND WANNA TRAP列有22首但艺人分页未返回任何曲目，Apple美国区补入22条。信徒网易云15/16，Apple补Yily Freestyle Skit；蔡镇鸿网易云7条，Apple总数8条，补堵起。曲单与各平台日期分别保留，不重复生成专辑卡片。 [官方艺人页](https://music.163.com/artist?id=847107) [官方艺人页](https://music.apple.com/cn/artist/1062071776)
+- **平台缺曲与版本**：网易云MY FRIEND WANNA TRAP列有22首但艺人分页未返回任何曲目，Apple美国区补入22条。信徒网易云15/16，Apple补Yily Freestyle Skit；2018年同名合辑《蔡镇鸿》网易云7条，Apple总数8条，补堵起。曲单与各平台日期分别保留，不重复生成专辑卡片。 [官方艺人页](https://music.163.com/artist?id=847107) [官方艺人页](https://music.apple.com/cn/artist/1062071776)
 - **身份、访问限制与历史全量**：网易云同名账号94423405及Apple同名账号6804591993不合并；后者返回可爱的马等其他歌手发行。部分网易云详情返回-462，保留日志，不绕过限制。QQ公开姓名搜索未返回可确认的歌手账号，不猜测关联。公开在架目录并不保证历史下架与视频作品全量。 [原平台](https://music.163.com/artist?id=847107) [原平台](https://music.apple.com/cn/artist/1062071776)
 
 ## 身份待核记录（不计入作品与关系）
@@ -393,7 +395,23 @@
 |2026-07-25|Shine Like Me (ft.谢帝)|YB.GOAT|BurBerryBaby / 谢帝|[网易云音乐](https://music.163.com/song?id=3409575447)|
 |2026-08-17|绝无仅有 Only one|驭城 Run the city|YOUNGLEGO / 谢帝|[网易云音乐](https://music.163.com/song?id=3420344375)|
 |2026-09-13|感谢 (Live)|说唱巅峰对决2026 第十二期|谢帝|[网易云音乐](https://music.163.com/song?id=3435675981)|
+|2026-11-06|来日方长|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457060245)|
+|2026-11-06|感谢|蔡镇鸿|谢帝 / Vansdaddy|[网易云音乐](https://music.163.com/song?id=3457058576)|
+|2026-11-06|我能找到你|蔡镇鸿|谢帝 / 万妮达Vinida Weng|[网易云音乐](https://music.163.com/song?id=3457058552)|
+|2026-11-06|理解万岁|蔡镇鸿|谢帝 / 王以太|[网易云音乐](https://music.163.com/song?id=3457058510)|
+|2026-11-06|我还差啥子|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457058433)|
+|2026-11-06|Enjoy the trip|蔡镇鸿|谢帝 / 艾志恒Asen|[网易云音乐](https://music.163.com/song?id=3457059994)|
+|2026-11-06|IF YOU KNOW YOU KNOW|蔡镇鸿|谢帝 / 弹壳Danko|[网易云音乐](https://music.163.com/song?id=3457058219)|
+|2026-11-06|假招|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457059824)|
+|2026-11-06|见自己|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457059803)|
+|2026-11-06|天下无敌？|蔡镇鸿|谢帝 / THOME|[网易云音乐](https://music.163.com/song?id=3457056725)|
+|2026-11-06|落水狗|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457057343)|
+|2026-11-06|后来我变了|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457056592)|
+|2026-11-06|回家|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457056400)|
+|2026-11-06|暗物质|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457056998)|
+|2026-11-06|隐藏|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457056959)|
+|2026-11-06|蔡镇鸿|蔡镇鸿|谢帝|[网易云音乐](https://music.163.com/song?id=3457056890)|
 
 ## 采集与署名
 
-268 条收录记录取得明确署名字段。仅保留元数据与单曲署名，不保存歌词或音频。采集有 87 个请求失败，详见 research/xiedi/collection-log.json；未绕过平台限制。封面与肖像缓存于 dist/assets，权利归相应权利人。
+284 条收录记录取得明确署名字段。仅保留元数据与单曲署名，不保存歌词或音频。采集有 87 个历史请求失败，详见 research/xiedi/collection-log.json；未绕过平台限制。封面与肖像缓存于 dist/assets，权利归相应权利人。

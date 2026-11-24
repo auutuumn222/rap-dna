@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "checkedAt": "2026-10-30",
+  "checkedAt": "2026-11-24",
   "artist": {
     "id": "n847107",
     "name": "谢帝",
@@ -25,20 +25,20 @@
     ]
   },
   "coverage": {
-    "neteaseReported": 304,
-    "neteaseCollected": 304,
-    "neteaseIncluded": 304,
+    "neteaseReported": 320,
+    "neteaseCollected": 320,
+    "neteaseIncluded": 320,
     "neteaseExcluded": 0,
     "neteaseHasMore": false,
-    "listedReleases": 45,
-    "associatedNeteaseReleases": 130,
+    "listedReleases": 46,
+    "associatedNeteaseReleases": 131,
     "appleComparedReleases": 73,
     "appleExtraTracks": 45,
-    "coreAlbums": 14,
+    "coreAlbums": 15,
     "from": "2011-12-02",
-    "through": "2026-09-13",
+    "through": "2026-11-06",
     "historicallyComplete": false,
-    "description": "网易云完整四页 304 条，Apple逐曲补 45 条，共 349 条平台记录。MY FRIEND WANNA TRAP跨平台补入同一专辑卡片；版本日期和缺曲分别保留。当前有日期范围 2011-12-02 至 2026-09-13，历史全量尚未证明。"
+    "description": "网易云原有四页 304 条，加上 2026 年《蔡镇鸿》 16 首；Apple逐曲补 45 条，共 365 条平台记录。MY FRIEND WANNA TRAP跨平台补入同一专辑卡片；版本日期和缺曲分别保留。当前有日期范围 2011-12-02 至 2026-11-06，历史全量尚未证明。"
   },
   "people": [
     {
@@ -1992,6 +1992,42 @@
       "source": null
     },
     {
+      "id": "n12110173",
+      "name": "THOME",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12110173"
+    },
+    {
+      "id": "n12001060",
+      "name": "万妮达Vinida Weng",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=12001060"
+    },
+    {
+      "id": "n35009085",
+      "name": "Vansdaddy",
+      "kind": "person",
+      "source": "https://music.163.com/artist?id=35009085"
+    },
+    {
+      "id": "cY2hpZWYgbWFsb25leQ",
+      "name": "Chief Maloney",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "cZHJpcGxhd2Q",
+      "name": "Driplawd",
+      "kind": "credit",
+      "source": null
+    },
+    {
+      "id": "ccHJvZGJ5bW92",
+      "name": "ProdbyMov",
+      "kind": "credit",
+      "source": null
+    },
+    {
       "id": "cbGlsIGR1ZGU",
       "name": "Lil Dude",
       "kind": "person",
@@ -2011,6 +2047,44 @@
     }
   ],
   "albums": [
+    {
+      "id": "n407630434",
+      "title": "蔡镇鸿",
+      "date": "2026-11-06",
+      "type": "专辑",
+      "edition": "录音室版",
+      "totalTracks": 16,
+      "artistNames": [
+        "谢帝"
+      ],
+      "label": null,
+      "artwork": "./assets/album-407630434.jpg",
+      "artworkSource": "https://p1.music.126.net/mp2dipDN2BIQ9_MQ-HUfXg==/109951174220484984.jpg",
+      "source": "https://music.163.com/album?id=407630434",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "core": true,
+      "chapter": "个人项目",
+      "trackIds": [
+        "n3457056890",
+        "n3457056959",
+        "n3457056998",
+        "n3457056400",
+        "n3457056592",
+        "n3457057343",
+        "n3457056725",
+        "n3457059803",
+        "n3457059824",
+        "n3457058219",
+        "n3457059994",
+        "n3457058433",
+        "n3457058510",
+        "n3457058552",
+        "n3457058576",
+        "n3457060245"
+      ],
+      "listedOnArtist": true
+    },
     {
       "id": "n397977816",
       "title": "说唱巅峰对决2026 第十二期",
@@ -5541,6 +5615,979 @@
     }
   ],
   "tracks": [
+    {
+      "id": "n3457056890",
+      "platformId": 3457056890,
+      "title": "蔡镇鸿",
+      "aliases": [
+        "Intro"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 1,
+      "duration": 179501,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056890",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056890",
+          "level": "track"
+        },
+        {
+          "personId": "cY2hpZWYgbWFsb25leQ",
+          "role": "编曲",
+          "raw": "编曲 : Chief Maloney/Phantom",
+          "source": "https://music.163.com/song?id=3457056890",
+          "level": "track"
+        },
+        {
+          "personId": "ccGhhbnRvbQ",
+          "role": "编曲",
+          "raw": "编曲 : Chief Maloney/Phantom",
+          "source": "https://music.163.com/song?id=3457056890",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457056890",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Chief Maloney/Phantom",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056890",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457056959",
+      "platformId": 3457056959,
+      "title": "隐藏",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 2,
+      "duration": 147310,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056959",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056959",
+          "level": "track"
+        },
+        {
+          "personId": "cc2ltb24gbWFyY3Vz",
+          "role": "编曲",
+          "raw": "编曲 : Simon Marcus",
+          "source": "https://music.163.com/song?id=3457056959",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457056959",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Simon Marcus",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056959",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457056998",
+      "platformId": 3457056998,
+      "title": "暗物质",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 3,
+      "duration": 264000,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056998",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056998",
+          "level": "track"
+        },
+        {
+          "personId": "ccGhhbnRvbQ",
+          "role": "编曲",
+          "raw": "编曲 : Phantom",
+          "source": "https://music.163.com/song?id=3457056998",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457056998",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Phantom",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056998",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457056400",
+      "platformId": 3457056400,
+      "title": "回家",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 4,
+      "duration": 199000,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056400",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056400",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457056400",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056400",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457056592",
+      "platformId": 3457056592,
+      "title": "后来我变了",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 5,
+      "duration": 214583,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056592",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457056592",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457056592",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056592",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457057343",
+      "platformId": 3457057343,
+      "title": "落水狗",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 6,
+      "duration": 173043,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457057343",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457057343",
+          "level": "track"
+        },
+        {
+          "personId": "cbHVzY2lvdXNiYg",
+          "role": "编曲",
+          "raw": "编曲 : LusciousBB",
+          "source": "https://music.163.com/song?id=3457057343",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457057343",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : LusciousBB",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457057343",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457056725",
+      "platformId": 3457056725,
+      "title": "天下无敌？",
+      "aliases": [
+        "Feat.THOME"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 7,
+      "duration": 170142,
+      "artistIds": [
+        "n847107",
+        "n12110173"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/THOME",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作词",
+          "raw": "作词 : 谢帝/THOME",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/THOME",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        },
+        {
+          "personId": "n12110173",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/THOME",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        },
+        {
+          "personId": "cZHJpcGxhd2Q",
+          "role": "编曲",
+          "raw": "编曲 : Driplawd/Chief Maloney",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        },
+        {
+          "personId": "cY2hpZWYgbWFsb25leQ",
+          "role": "编曲",
+          "raw": "编曲 : Driplawd/Chief Maloney",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457056725",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/THOME",
+        "作曲 : 谢帝/THOME",
+        "编曲 : Driplawd/Chief Maloney",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457056725",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457059803",
+      "platformId": 3457059803,
+      "title": "见自己",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 8,
+      "duration": 200571,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457059803",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457059803",
+          "level": "track"
+        },
+        {
+          "personId": "n1007061",
+          "role": "编曲",
+          "raw": "编曲 : Anti-General",
+          "source": "https://music.163.com/song?id=3457059803",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457059803",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Anti-General",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457059803",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457059824",
+      "platformId": 3457059824,
+      "title": "假招",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 9,
+      "duration": 168800,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457059824",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457059824",
+          "level": "track"
+        },
+        {
+          "personId": "cY2VsbHMxMDg",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/NORTHSIDE BLICK/ProdbyMov",
+          "source": "https://music.163.com/song?id=3457059824",
+          "level": "track"
+        },
+        {
+          "personId": "cbm9ydGhzaWRlIGJsaWNr",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/NORTHSIDE BLICK/ProdbyMov",
+          "source": "https://music.163.com/song?id=3457059824",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvZGJ5bW92",
+          "role": "编曲",
+          "raw": "编曲 : Cells108/NORTHSIDE BLICK/ProdbyMov",
+          "source": "https://music.163.com/song?id=3457059824",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457059824",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Cells108/NORTHSIDE BLICK/ProdbyMov",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457059824",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457058219",
+      "platformId": 3457058219,
+      "title": "IF YOU KNOW YOU KNOW",
+      "aliases": [
+        "Feat.弹壳Danko"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 10,
+      "duration": 180983,
+      "artistIds": [
+        "n847107",
+        "n35784564"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/弹壳Danko",
+          "source": "https://music.163.com/song?id=3457058219",
+          "level": "track"
+        },
+        {
+          "personId": "n35784564",
+          "role": "作词",
+          "raw": "作词 : 谢帝/弹壳Danko",
+          "source": "https://music.163.com/song?id=3457058219",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/弹壳Danko",
+          "source": "https://music.163.com/song?id=3457058219",
+          "level": "track"
+        },
+        {
+          "personId": "n35784564",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/弹壳Danko",
+          "source": "https://music.163.com/song?id=3457058219",
+          "level": "track"
+        },
+        {
+          "personId": "ccGhhbnRvbQ",
+          "role": "编曲",
+          "raw": "编曲 : Phantom",
+          "source": "https://music.163.com/song?id=3457058219",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457058219",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/弹壳Danko",
+        "作曲 : 谢帝/弹壳Danko",
+        "编曲 : Phantom",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058219",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457059994",
+      "platformId": 3457059994,
+      "title": "Enjoy the trip",
+      "aliases": [
+        "Feat.艾志恒Asen"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 11,
+      "duration": 192750,
+      "artistIds": [
+        "n847107",
+        "n12198387"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/艾志恒Asen",
+          "source": "https://music.163.com/song?id=3457059994",
+          "level": "track"
+        },
+        {
+          "personId": "n12198387",
+          "role": "作词",
+          "raw": "作词 : 谢帝/艾志恒Asen",
+          "source": "https://music.163.com/song?id=3457059994",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/艾志恒Asen",
+          "source": "https://music.163.com/song?id=3457059994",
+          "level": "track"
+        },
+        {
+          "personId": "n12198387",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/艾志恒Asen",
+          "source": "https://music.163.com/song?id=3457059994",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457059994",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/艾志恒Asen",
+        "作曲 : 谢帝/艾志恒Asen",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457059994",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457058433",
+      "platformId": 3457058433,
+      "title": "我还差啥子",
+      "aliases": [],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 12,
+      "duration": 174375,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457058433",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457058433",
+          "level": "track"
+        },
+        {
+          "personId": "cbWFp",
+          "role": "编曲",
+          "raw": "编曲 : Mai/张浩然kenor",
+          "source": "https://music.163.com/song?id=3457058433",
+          "level": "track"
+        },
+        {
+          "personId": "c5byg5rWp54S2a2Vub3I",
+          "role": "编曲",
+          "raw": "编曲 : Mai/张浩然kenor",
+          "source": "https://music.163.com/song?id=3457058433",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457058433",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : Mai/张浩然kenor",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058433",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457058510",
+      "platformId": 3457058510,
+      "title": "理解万岁",
+      "aliases": [
+        "Feat.王以太"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 13,
+      "duration": 252000,
+      "artistIds": [
+        "n847107",
+        "n12236125"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/王以太",
+          "source": "https://music.163.com/song?id=3457058510",
+          "level": "track"
+        },
+        {
+          "personId": "n12236125",
+          "role": "作词",
+          "raw": "作词 : 谢帝/王以太",
+          "source": "https://music.163.com/song?id=3457058510",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/王以太",
+          "source": "https://music.163.com/song?id=3457058510",
+          "level": "track"
+        },
+        {
+          "personId": "n12236125",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/王以太",
+          "source": "https://music.163.com/song?id=3457058510",
+          "level": "track"
+        },
+        {
+          "personId": "cc2ltb24gbWFyY3Vz",
+          "role": "编曲",
+          "raw": "编曲 : Simon Marcus",
+          "source": "https://music.163.com/song?id=3457058510",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457058510",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/王以太",
+        "作曲 : 谢帝/王以太",
+        "编曲 : Simon Marcus",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058510",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457058552",
+      "platformId": 3457058552,
+      "title": "我能找到你",
+      "aliases": [
+        "Feat.万妮达Vinida Weng"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 14,
+      "duration": 185368,
+      "artistIds": [
+        "n847107",
+        "n12001060"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/万妮达Vinida Weng",
+          "source": "https://music.163.com/song?id=3457058552",
+          "level": "track"
+        },
+        {
+          "personId": "n12001060",
+          "role": "作词",
+          "raw": "作词 : 谢帝/万妮达Vinida Weng",
+          "source": "https://music.163.com/song?id=3457058552",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/万妮达Vinida Weng",
+          "source": "https://music.163.com/song?id=3457058552",
+          "level": "track"
+        },
+        {
+          "personId": "n12001060",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/万妮达Vinida Weng",
+          "source": "https://music.163.com/song?id=3457058552",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457058552",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/万妮达Vinida Weng",
+        "作曲 : 谢帝/万妮达Vinida Weng",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058552",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457058576",
+      "platformId": 3457058576,
+      "title": "感谢",
+      "aliases": [
+        "Feat.Vansdaddy"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 15,
+      "duration": 208615,
+      "artistIds": [
+        "n847107",
+        "n35009085"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝/Vansdaddy",
+          "source": "https://music.163.com/song?id=3457058576",
+          "level": "track"
+        },
+        {
+          "personId": "n35009085",
+          "role": "作词",
+          "raw": "作词 : 谢帝/Vansdaddy",
+          "source": "https://music.163.com/song?id=3457058576",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/Vansdaddy",
+          "source": "https://music.163.com/song?id=3457058576",
+          "level": "track"
+        },
+        {
+          "personId": "n35009085",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝/Vansdaddy",
+          "source": "https://music.163.com/song?id=3457058576",
+          "level": "track"
+        },
+        {
+          "personId": "cbm9iYWRpbm8",
+          "role": "编曲",
+          "raw": "编曲 : NOBADINO",
+          "source": "https://music.163.com/song?id=3457058576",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457058576",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝/Vansdaddy",
+        "作曲 : 谢帝/Vansdaddy",
+        "编曲 : NOBADINO",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457058576",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
+    {
+      "id": "n3457060245",
+      "platformId": 3457060245,
+      "title": "来日方长",
+      "aliases": [
+        "Outro"
+      ],
+      "albumId": "n407630434",
+      "date": "2026-11-06",
+      "trackNumber": 16,
+      "duration": 334285,
+      "artistIds": [
+        "n847107"
+      ],
+      "credits": [
+        {
+          "personId": "n847107",
+          "role": "作词",
+          "raw": "作词 : 谢帝",
+          "source": "https://music.163.com/song?id=3457060245",
+          "level": "track"
+        },
+        {
+          "personId": "n847107",
+          "role": "作曲",
+          "raw": "作曲 : 谢帝",
+          "source": "https://music.163.com/song?id=3457060245",
+          "level": "track"
+        },
+        {
+          "personId": "c5Y2h5pava2FzJA",
+          "role": "编曲",
+          "raw": "编曲 : 卡斯Kas$",
+          "source": "https://music.163.com/song?id=3457060245",
+          "level": "track"
+        },
+        {
+          "personId": "ccHJvdm9rZQ",
+          "role": "混音",
+          "raw": "混音 : Provoke",
+          "source": "https://music.163.com/song?id=3457060245",
+          "level": "track"
+        }
+      ],
+      "creditLines": [
+        "作词 : 谢帝",
+        "作曲 : 谢帝",
+        "编曲 : 卡斯Kas$",
+        "混音 : Provoke"
+      ],
+      "source": "https://music.163.com/song?id=3457060245",
+      "sourceLabel": "网易云音乐",
+      "checkedAt": "2026-11-24",
+      "kind": "recording",
+      "status": "platform"
+    },
     {
       "id": "n3435675981",
       "platformId": 3435675981,
@@ -24777,7 +25824,7 @@
       "title": "平台缺曲与版本",
       "year": "历年",
       "status": "分别保留来源",
-      "detail": "网易云MY FRIEND WANNA TRAP列有22首但艺人分页未返回任何曲目，Apple美国区补入22条。信徒网易云15/16，Apple补Yily Freestyle Skit；蔡镇鸿网易云7条，Apple总数8条，补堵起。曲单与各平台日期分别保留，不重复生成专辑卡片。",
+      "detail": "网易云MY FRIEND WANNA TRAP列有22首但艺人分页未返回任何曲目，Apple美国区补入22条。信徒网易云15/16，Apple补Yily Freestyle Skit；2018年同名合辑《蔡镇鸿》网易云7条，Apple总数8条，补堵起。曲单与各平台日期分别保留，不重复生成专辑卡片。",
       "sources": [
         {
           "title": "官方艺人页",
@@ -24808,8 +25855,17 @@
   ],
   "discrepancies": [
     {
+      "title": "2026 年专辑《蔡镇鸿》",
+      "detail": "11 月 6 日发行，共 16 首。按网易云曲序和逐曲艺人栏收录，逐首保留原始署名。2018 年同名合辑保留独立发行。",
+      "sources": [
+        "https://m.weibo.cn/2/detail/5362044108280383",
+        "https://music.163.com/api/artist/albums/847107?id=847107&offset=0&limit=20",
+        "https://music.163.com/api/v1/artist/songs?id=847107&offset=0&limit=100&order=time"
+      ]
+    },
+    {
       "title": "平台数量与补充",
-      "detail": "网易云304条，Apple补MY FRIEND WANNA TRAP 22条、这张专辑太Diao了14条、突如袭来3条、四首单曲及信徒/蔡镇鸿各1条，共补45条。包含重复发行和版本，不等于独立原创总数。",
+      "detail": "网易云基线304条，补入2026年《蔡镇鸿》16首。Apple补MY FRIEND WANNA TRAP 22条、这张专辑太Diao了14条、突如袭来3条、四首单曲及信徒/蔡镇鸿各1条，共补45条。包含重复发行和版本，不等于独立原创总数。",
       "sources": [
         "https://music.163.com/artist?id=847107",
         "https://music.apple.com/cn/artist/1062071776"
